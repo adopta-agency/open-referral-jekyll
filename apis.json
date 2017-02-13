@@ -38,7 +38,8 @@ layout: none
           "FN": "{{ contact.FN }}",
           "email": "{{ contact.email }}",
           "twitter": "{{ contact.twitter }}"
-        }
+        }{% if forloop.last %}{% else %},{% endif %}
+        {% endfor %}
       ]
     }{% if forloop.last %}{% else %},{% endif %}
     {% endfor %}
