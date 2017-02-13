@@ -1,10 +1,31 @@
 {
-	"name": "GSA Index",
-	"created": "2017-02-10",
-	"modified": "2017-02-10",
-	"url": "http://gsa.index.apievangelist.com/apis.json",
-	"specificationVersion": "0.14",
-	"apis": [],
-	"tags": ["Federal Government, GSA"],
-	"include": []
+  "name": "Open Referral (Jekyll)",
+  "created": "2017-02-12",
+  "modified": "2017-02-12",
+  "url": "http://jekyll.open.referral.adopta.agency/apis.json",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "Open Referral API",
+      "description": "This is a prototype API leveraging JSON files stored in the Jekyll _data folder as data source for APis.",
+      "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open_referral_logo.png",
+      "humanURL": "http://jekyll.open.referral.adopta.agency/",
+      "baseURL": "http://jekyll.open.referral.adopta.agency/api/",
+      "tags": [
+        "Open Referral",
+        "Human Services"
+      ],
+      "properties": [
+        {
+          "type": "x-openapi-spec",
+          "url": "https://raw.githubusercontent.com/adopta-agency/open-referral-jekyll/master/_data/openapi-spec.json"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "Open Referral",
+    "Human Services"
+  ],
+  "include": []
 }
