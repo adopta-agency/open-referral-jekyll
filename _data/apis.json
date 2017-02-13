@@ -1,0 +1,10 @@
+{
+	"name": "GSA Index",
+	"created": "2017-02-10",
+	"modified": "2017-02-10",
+	"url": "http://gsa.index.apievangelist.com/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [],
+	"tags": ["Federal Government, GSA"],
+	"include": []
+}

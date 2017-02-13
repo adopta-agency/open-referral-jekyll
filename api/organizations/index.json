@@ -1,0 +1,22 @@
+---
+layout: none
+---
+[{% for product in site.data.products %}
+  {
+    "id": 1,
+    "accreditations": [],
+    "alternate_name": "An Alternate name",
+    "date_incorporated": null,
+    "description": "This is a description of the organization, providing details about what it does.",
+    "email": "info@example.com",
+    "funding_sources": [],
+    "licenses": [],
+    "name": "First Organization",
+    "website": "https://example.com",
+    "slug": "first-organization",
+    "url": "https://example.org",
+    "locations_url": "https://example.com",
+    "contacts": [],
+    "phones": []
+  }{% if forloop.last == false %},{% endif %}
+{% endfor %}]

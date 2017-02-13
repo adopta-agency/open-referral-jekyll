@@ -1,0 +1,17 @@
+---
+layout: page
+---
+
+<h1>Organizations</h1>
+<p>This is a listing of organizations in the JSON file stored in the _data/organizations folder for this Github repository.</p>
+<table width="100%">
+{% for organization in site.data.organizations %}
+  <tr>
+    <td>{{ organization.name }}</td>
+    <td>{{ organization.description }}</td>
+    <td>{{ organization.email }}</td>
+    <td>{{ organization.url }}</td>
+  </tr>
+{% endfor
+</table>
+<p>This listing uses Liquid to pull the JSOn data stored in the _data folder for the Github repository, leverage Jekyll to behave like the front-end and back-end of the website at the same time.</p>

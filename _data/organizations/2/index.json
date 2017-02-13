@@ -1,0 +1,17 @@
+{
+  "id": 2,
+  "accreditations": [],
+  "alternate_name": "An Alternate name",
+  "date_incorporated": null,
+  "description": "This is a description of the organization, providing details about what it does.",
+  "email": "info@example.com",
+  "funding_sources": [],
+  "licenses": [],
+  "name": "Second Organization",
+  "website": "https://example.com",
+  "slug": "second-organization",
+  "url": "https://example.org",
+  "locations_url": "https://example.com",
+  "contacts": [],
+  "phones": []
+}
