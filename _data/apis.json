@@ -27,5 +27,12 @@
     "Open Referral",
     "Human Services"
   ],
-  "include": []
+  "include": [],
+  "maintainers": [
+    {
+      "FN": "API Evangelist",
+      "email": "info@apievangelist.com",
+      "twitter": "apievangelist"
+    }
+  ]
 }

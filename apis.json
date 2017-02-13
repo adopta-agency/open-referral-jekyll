@@ -6,11 +6,7 @@ layout: none
   "name": "{{ apis.name }}",
   "description": "{{ apis.description }}",
   "image": "{{ apis.image }}",
-  "tags": [
-    {% for tags in apis.tags limit:10 %}
-    {{ tags }}{% if forloop.last %}{% else %},{% endif %}
-    {% endfor %}
-  ],
+  "tags": [{% for tags in apis.tags limit:10 %}{{ tags }}{% if forloop.last %}{% else %},{% endif %}{% endfor %}],
   "created": "{{ page.date | date: "%Y-%m-%d" }}",
   "modified": "{{ page.date | date: "%Y-%m-%d" }}",
   "url": "{{ apis.url }}",
@@ -18,14 +14,10 @@ layout: none
   "apis": [
     {% for api in apis.apis limit:100 %}
     {
-      "name": "{{ api.title }}",
+      "name": "{{ api.name }}",
       "humanURL": "{{ api.humanURL }}",
       "baseURL": "{{ api.baseURL }}",
-      "tags": [
-        {% for tags in api.tags limit:10 %}
-        {{ tags }}{% if forloop.last %}{% else %},{% endif %}
-        {% endfor %}
-      ],
+      "tags": [{% for tags in api.tags limit:10 %}{{ tags }}{% if forloop.last %}{% else %},{% endif %}{% endfor %}],
       "properties": [{% for property in api.properties limit:10 %}
         {
           "type": "{{ property.type }}",
@@ -38,8 +30,7 @@ layout: none
           "FN": "{{ contact.FN }}",
           "email": "{{ contact.email }}",
           "twitter": "{{ contact.twitter }}"
-        }{% if forloop.last %}{% else %},{% endif %}
-        {% endfor %}
+        }{% if forloop.last %}{% else %},{% endif %}{% endfor %}
       ]
     }{% if forloop.last %}{% else %},{% endif %}
     {% endfor %}
@@ -50,7 +41,6 @@ layout: none
       "FN": "{{ maintainer.FN }}",
       "email": "{{ maintainer.email }}",
       "twitter": "{{ maintainer.twitter }}"
-    }{% if forloop.last %}{% else %},{% endif %}
-    {% endfor %}
+    }{% if forloop.last %}{% else %},{% endif %}{% endfor %}
   ]
 }
