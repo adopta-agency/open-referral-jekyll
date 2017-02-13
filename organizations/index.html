@@ -5,7 +5,7 @@ layout: page
 <h1>Organizations</h1>
 <p>This is a listing of organizations in the JSON file stored in the _data/organizations folder for this Github repository.</p>
 <table width="100%">
-{% for organization in site.data.organizations %}
+{% for organization in site.data.organizations.index %}
   <tr>
     <td>{{ organization.name }}</td>
     <td>{{ organization.description }}</td>
