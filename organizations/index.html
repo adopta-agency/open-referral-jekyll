@@ -4,7 +4,7 @@ layout: page
 
 <h1>Organizations</h1>
 <p>This is a listing of organizations in <a href="https://github.com/adopta-agency/open-referral-jekyll/tree/master/_data">the JSON file stored in the _data/organizations folder for this Github repository</a>.</p>
-<table width="100%" style="margin-bottom:5px;">
+<table width="100%" style="margin-bottom:5px;" border="1" cellpadding="3" cellspacing="2">
 {% for organization in site.data.organizations.index %}
   <tr>
     <td>{{ organization.name }}</td>
@@ -14,4 +14,4 @@ layout: page
   </tr>
 {% endfor %}
 </table>
-<p>This listing uses Liquid to pull the JSOn data stored in the _data folder for the Github repository, leverage Jekyll to behave like the front-end and back-end of the website at the same time.</p>
+<p>This listing uses <a href="https://github.com/Shopify/liquid/wiki/Liquid-for-Designers">Liquid to pull the JSON data</a> stored in the _data folder for the Github repository, <a href="https://jekyllrb.com/">leveraging Jekyll</a> to behave like the front-end and back-end of the website at the same time.</p>

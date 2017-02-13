@@ -1,7 +1,7 @@
 ---
 layout: none
 ---
-[{% for location in site.data.locations %}
+[{% for location in site.data.locations.index %}
   {
     "id": {{ location.id }},
     "active": {{ location.active }},

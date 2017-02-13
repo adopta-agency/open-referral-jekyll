@@ -1,21 +1,21 @@
 ---
 layout: none
 ---
-[{% for product in site.data.products %}
+[{% for organization in site.data.organizations.index %}
   {
-    "id": 1,
-    "accreditations": [],
-    "alternate_name": "An Alternate name",
-    "date_incorporated": null,
-    "description": "This is a description of the organization, providing details about what it does.",
-    "email": "info@example.com",
+    "id": "{{ organization.id }}",
+    "accreditations": "{{ organization.id }}",
+    "alternate_name": "{{ organization.id }}",
+    "date_incorporated": "{{ organization.id }}",
+    "description": "{{ organization.id }}",
+    "email": "{{ organization.id }}",
     "funding_sources": [],
     "licenses": [],
-    "name": "First Organization",
-    "website": "https://example.com",
-    "slug": "first-organization",
-    "url": "https://example.org",
-    "locations_url": "https://example.com",
+    "name": "{{ organization.id }}",
+    "website": "{{ organization.id }}",
+    "slug": "{{ organization.id }}",
+    "url": "{{ organization.id }}",
+    "locations_url": "{{ organization.id }}",
     "contacts": [],
     "phones": []
   }{% if forloop.last == false %},{% endif %}
