@@ -1,8 +1,7 @@
 ---
 layout: none
 ---
-[{% for organization in site.data.organizations.index %}
-  {
+[{% for organization in site.data.organizations.index %}{
     "id": "{{ organization.id }}",
     "accreditations": "{{ organization.id }}",
     "alternate_name": "{{ organization.id }}",
@@ -17,6 +16,4 @@ layout: none
     "url": "{{ organization.id }}",
     "locations_url": "{{ organization.id }}",
     "contacts": [],
-    "phones": []
-  }{% if forloop.last == false %},{% endif %}
-{% endfor %}]
+    "phones": []}{% if forloop.last == false %},{% endif %}{% endfor %}]

@@ -1,8 +1,7 @@
 ---
 layout: none
 ---
-[{% for location in site.data.locations.index %}
-  {
+[{% for location in site.data.locations.index %}{
     "id": {{ location.id }},
     "active": {{ location.active }},
     "admin_emails": [
@@ -35,6 +34,4 @@ layout: none
       "url": "https://example.org",
       "locations_url": "https://example.com"
     },
-    "phones": []
-  }{% if forloop.last == false %},{% endif %}
-{% endfor %}]
+    "phones": []}{% if forloop.last == false %},{% endif %}{% endfor %}]
