@@ -7,8 +7,8 @@ layout: page
 <p>These organizations and locations are pulled from <a href="https://github.com/adopta-agency/open-referral-jekyll/tree/master/_data" target="_blank">the JSON files stored in the _data folder for this Github Pages driven, Jekyll website</a>.
 <div class="row">
   <div class="col-md-6">
-    <h2>Organizations</h2>
-    <table width="100%" style="margin-bottom:5px;" border="0" cellpadding="3" cellspacing="2">
+    <h3>Organizations</h3>
+    <table width="100%" style="margin-bottom:10px;" border="0" cellpadding="3" cellspacing="2">
     {% for organization in site.data.organizations.index %}
       <tr>
         <td>{{ organization.name }}</td>
@@ -18,8 +18,8 @@ layout: page
     </table>
   </div>
   <div class="col-md-6">
-    <h2>Locations</h2>
-    <table width="100%" style="margin-bottom:5px;" border="0" cellpadding="3" cellspacing="2">
+    <h3>Locations</h3>
+    <table width="100%" style="margin-bottom:10px;" border="0" cellpadding="3" cellspacing="2">
     {% for location in site.data.locations.index %}
       <tr>
         <td>{{ location.name }}</td>
