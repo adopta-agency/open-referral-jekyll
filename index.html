@@ -8,11 +8,10 @@ layout: page
 <div class="row">
   <div class="col-md-6">
     <h2>Organizations</h2>
-    <table width="100%" style="margin-bottom:5px;" border="1" cellpadding="3" cellspacing="2">
+    <table width="100%" style="margin-bottom:5px;" border="0" cellpadding="3" cellspacing="2">
     {% for organization in site.data.organizations.index %}
       <tr>
         <td>{{ organization.name }}</td>
-        <td>{{ organization.description }}</td>
         <td>{{ organization.url }}</td>
       </tr>
     {% endfor %}
@@ -20,11 +19,10 @@ layout: page
   </div>
   <div class="col-md-6">
     <h2>Locations</h2>
-    <table width="100%" style="margin-bottom:5px;" border="1" cellpadding="3" cellspacing="2">
+    <table width="100%" style="margin-bottom:5px;" border="0" cellpadding="3" cellspacing="2">
     {% for location in site.data.locations.index %}
       <tr>
         <td>{{ location.name }}</td>
-        <td>{{ location.description }}</td>
         <td>{{ location.url }}</td>
       </tr>
     {% endfor %}
