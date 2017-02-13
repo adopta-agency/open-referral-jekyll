@@ -4,6 +4,7 @@ layout: none
 {% assign apis = site.data.apis %}
 {
   "name": "{{ apis.name }}",
+  "description": "{{ apis.description }}",
   "image": "{{ apis.image }}",
   "tags": [{% for tags in apis.tags limit:10 %}{{ tags }}{% if forloop.last %}{% else %},{% endif %}{% endfor %}],
   "created": "{{ page.date | date: "%Y-%m-%d" }}",
