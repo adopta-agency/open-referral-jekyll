@@ -1,0 +1,55 @@
+---
+layout: none
+---
+
+{
+  "name": "{{ site.data.apis.name }}",
+  "description": "{{ site.data.apis.description }}",
+  "image": "{{ site.data.apis.image }}",
+  "tags": [
+    {% for tags in site.data.apis.tags limit:10 %}
+    {{ tags }}{% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+  ],
+  "created": "{{ page.date | date: "%Y-%m-%d" }}",
+  "modified": "{{ page.date | date: "%Y-%m-%d" }}",
+  "url": "{{ site.data.apis.url }}",
+  "SpecificationVersion": "0.14",
+  "apis": [
+    {% for api in site.data.apis.apis limit:100 %}
+    {
+      "name": "{{ api.title }}",
+      "humanURL": "{{ api.humanURL }}",
+      "baseURL": "{{ api.baseURL }}",
+      "tags": [
+        {% for tags in api.tags limit:10 %}
+        {{ tags }}{% if forloop.last %}{% else %},{% endif %}
+        {% endfor %}
+      ],
+      "properties": [{% for property in api.properties limit:10 %}
+        {
+          "type": "{{ property.type }}",
+          "url": "{{ property.url }}"
+        }{% if forloop.last %}{% else %},{% endif %}
+        {% endfor %}
+      ],
+      "contact": [{% for contact in api.contact limit:10 %}
+        {
+          "FN": "{{ contact.FN }}",
+          "email": "{{ contact.email }}",
+          "twitter": "{{ contact.twitter }}"
+        }
+      ]
+    }{% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+  ],
+  "include": [],
+  "maintainers": [{% for maintainer in site.data.apis.maintainers limit:10 %}
+    {
+      "FN": "{{ maintainer.FN }}",
+      "email": "{{ maintainer.email }}",
+      "twitter": "{{ maintainer.twitter }}"
+    }{% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+  ]
+}
