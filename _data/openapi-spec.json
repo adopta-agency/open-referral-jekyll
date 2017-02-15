@@ -9,13 +9,13 @@
   "host": "jekyll.open.referral.adopta.agency",
   "basePath": "/api",
   "schemes": [
-    "http"
+    "https"
   ],
   "produces": [
     "application/json"
   ],
   "paths": {
-    "/locations/": {
+    "/locations": {
       "get": {
         "summary": "Locations",
         "description": "Retrieve all of the locations available in this database.",
@@ -37,12 +37,890 @@
         ]
       }
     },
-    "/organizations/": {
+    "/categories": {
+      "get": {
+        "summary": "Categories",
+        "description": "This endpoint retrieves all categories.",
+        "operationId": "getCategories",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/location"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "/categories/{category_taxonomy_id}/children": {
+      "get": {
+        "summary": "Get Categories Children",
+        "description": "This endpoint retrieves all children categories of a specific category.",
+        "operationId": "getCategoriesChildren",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "category_taxonomy_id",
+            "description": "The id for the taxonmy.",
+            "type": "string",
+            "default": 1
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/taxonomy"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "/services/{service_id}/categories": {
+      "put": {
+        "summary": "Update Service Categories",
+        "description": "This endpoint updates a service with the specified categories.",
+        "operationId": "updateServiceCategories",
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "The taxonmy ids.",
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/taxonmies"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/location"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "/locations/{location_id}": {
+      "get": {
+        "summary": "Locations",
+        "description": "Retrieve all of the locations available in this database.",
+        "operationId": "retrieveLOrganizations",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "location_id",
+            "description": "The id for the location.",
+            "type": "string",
+            "default": 1
+          },
+          {
+            "in": "query",
+            "name": "page",
+            "description": "The particular page of results.",
+            "type": "string",
+            "default": 1
+          },
+          {
+            "in": "query",
+            "name": "per_page",
+            "description": "Amount of locations to return per page, up to 100.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/location"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      },
+      "delete": {
+        "summary": "Delete Locations",
+        "description": "Delete an location from the system.",
+        "operationId": "deleteOrganizations",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "location_id",
+            "description": "The id of the location to delete.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/location"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      },
+      "patch": {
+        "summary": "Update an Existing Location",
+        "description": "This endpoint updates an existing location.",
+        "operationId": "updateLocation",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "location_id",
+            "description": "The id of the location to delete.",
+            "type": "string"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "description": "A JSON location in the body.",
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/organization"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/location"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "/locations/{location_id}/address": {
+      "post": {
+        "summary": "Create New Address",
+        "description": "This endpoint creates a new address for the specified location.",
+        "operationId": "createAddress",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "location_id",
+            "description": "The id of the location to delete.",
+            "type": "string"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "description": "A JSON location in the body.",
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/physical_address"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/physical_address"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "/locations/{location_id}/nearby": {
+      "get": {
+        "summary": "Find Nearby Locations",
+        "description": "This endpoint retrieves all locations that are near the specified location.",
+        "operationId": "findNearbyLocations",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "location_id",
+            "description": "The id of the location to delete.",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "radius",
+            "description": "Default in miles is 0.5, minimum is 0.1, and maximum is 50.",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "page",
+            "description": "The particular page of results. Default is 1.",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "per_page",
+            "description": "Amount of locations to return per page, up to 100. Default is 30.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/locations"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "/locations/{location_id}/address/{physical_address_id}": {
+      "delete": {
+        "summary": "Delete Address",
+        "description": "This endpoint deletes an existing address for a location.",
+        "operationId": "deleteAddress",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "location_id",
+            "description": "The id of the location which the address belongs.",
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "physical_address_id",
+            "description": "The id of the phsysical address to delete.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/physical_address"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      },
+      "patch": {
+        "summary": "Update an Existing Address",
+        "description": "This endpoint updates an existing address for the specified location.",
+        "operationId": "updateAddress",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "location_id",
+            "description": "The id of the location which the address belongs.",
+            "type": "string"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "description": "A JSON address in the body.",
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/physical_address"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/physical_address"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "/locations/{id}/postal_address": {
+      "post": {
+        "summary": "Create New Mail Address",
+        "description": "This endpoint creates a new postal address for the specified location.",
+        "operationId": "createMailAddress",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "location_id",
+            "description": "The id of the location which the postal address belongs.",
+            "type": "string"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "description": "A JSON mail address in the body.",
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/postal_address"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/postal_address"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "/locations/{location_id}/mail_address/{mail_address_id}": {
+      "delete": {
+        "summary": "Delete Address",
+        "description": "This endpoint deletes an existing address.",
+        "operationId": "deleteAddress",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "location_id",
+            "description": "The id of the location which the mail address to delete belongs.",
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "mail_address_id",
+            "description": "The id of the location mail address to delete.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/mail_address"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      },
+      "patch": {
+        "summary": "Update an Existing Postal Address",
+        "description": "This endpoint updates an existing postal address for the specified location.",
+        "operationId": "updatePostalAddress",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "location_id",
+            "description": "The id of the location which the mail address to update.",
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "mail_address_id",
+            "description": "The id of the location mail address to update.",
+            "type": "string"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "description": "A JSON postal address in the body.",
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/postal_address"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/postal_address"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "/locations/{location_id}/contacts": {
+      "get": {
+        "summary": "Contacts",
+        "description": "Retrieve all contacts for this location",
+        "operationId": "retrieveLContacts",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "page",
+            "description": "The particular page of results.",
+            "type": "string",
+            "default": 1
+          },
+          {
+            "in": "query",
+            "name": "per_page",
+            "description": "Amount of locations to return per page, up to 100.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/location"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Organizations"
+        ]
+      },
+      "post": {
+        "summary": "Create New Contact",
+        "description": "This endpoint creates a new contact for the specified location.",
+        "operationId": "createContact",
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "A JSON contact in the body.",
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/contact"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/contact"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "/locations/{location_id}/contacts/{contact_id}": {
+      "delete": {
+        "summary": "Delete Contact",
+        "description": "This endpoint deletes an existing contact.",
+        "operationId": "deleteContact",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "description": "The location_id of the location which the contact to delete belongs.",
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "contact_id",
+            "description": "The id of the location contact to delete.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/contact"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      },
+      "patch": {
+        "summary": "Update an Existing Contact",
+        "description": "This endpoint updates an existing contact for the specified location.",
+        "operationId": "updateContact",
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "A JSON contact in the body.",
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/contact"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/contact"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "/locations/{id}/phones": {
+      "post": {
+        "summary": "Create New Address",
+        "description": "This endpoint creates a new phone for the specified location.",
+        "operationId": "createAddress",
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "A JSON phone in the body.",
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/phone"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/phone"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "/locations/{location_id}/phones/{phone_id}": {
+      "delete": {
+        "summary": "Delete Phone",
+        "description": "This endpoint deletes an existing phone.",
+        "operationId": "deleteAddress",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "location_id",
+            "description": "The id of the location which the phone to delete belongs.",
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "location_id",
+            "description": "The id of the location phone to delete.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/phone"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      },
+      "patch": {
+        "summary": "Update an Existing Phone",
+        "description": "This endpoint updates an existing phone for the specified location.",
+        "operationId": "updateAddress",
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "A JSON phone in the body.",
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/phone"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/phone"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "/locations/{location_id}/services": {
+      "get": {
+        "summary": "Services",
+        "description": "Retrieve all services for this location",
+        "operationId": "retrieveLocationServices",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "location_id",
+            "description": "The id of the location to retrieve services for.",
+            "type": "string",
+            "default": 1
+          },
+          {
+            "in": "query",
+            "name": "page",
+            "description": "The particular page of results.",
+            "type": "string",
+            "default": 1
+          },
+          {
+            "in": "query",
+            "name": "per_page",
+            "description": "Amount of services to return per page, up to 100.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/service"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      },
+      "post": {
+        "summary": "Create New Service",
+        "description": "This endpoint creates a new service for the specified location.",
+        "operationId": "createContact",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "location_id",
+            "description": "The id of the location to retrieve services for.",
+            "type": "string",
+            "default": 1
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "description": "A JSON location in the body.",
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/service"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/service"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "/locations/{location_id}/services/{service_id}": {
+      "delete": {
+        "summary": "Delete Service",
+        "description": "This endpoint deletes an existing service for a location.",
+        "operationId": "deleteLocationService",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "location_id",
+            "description": "The id of the location which the service to delete belongs.",
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "service_id",
+            "description": "The id of the location service to delete.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/service"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      },
+      "patch": {
+        "summary": "Update an Existing Service",
+        "description": "This endpoint updates an existing service for the specified location.",
+        "operationId": "updateLocationService",
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "A JSON service in the body.",
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/service"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/service"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Locations"
+        ]
+      }
+    },
+    "/organizations": {
       "get": {
         "summary": "Organizations",
         "description": "Retrieve all of the organizations available in this database.",
         "operationId": "retrieveLOrganizations",
-        "parameters": [],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "page",
+            "description": "The particular page of results.",
+            "type": "string",
+            "default": 1
+          },
+          {
+            "in": "query",
+            "name": "per_page",
+            "description": "Amount of organizations to return per page, up to 100.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/organization"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Organizations"
+        ]
+      },
+      "post": {
+        "summary": "Create New Organization",
+        "description": "This endpoint creates a new organization.",
+        "operationId": "createOrganization",
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "A JSON organization in the body.",
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/organization"
+            }
+          }
+        ],
         "responses": {
           "200": {
             "description": "Successful response",
@@ -58,10 +936,431 @@
           "Organizations"
         ]
       }
+    },
+    "/organizations/{id}": {
+      "get": {
+        "summary": "Organizations",
+        "description": "Retrieve all of the organizations available in this database.",
+        "operationId": "retrieveLOrganizations",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "page",
+            "description": "The particular page of results.",
+            "type": "string",
+            "default": 1
+          },
+          {
+            "in": "query",
+            "name": "per_page",
+            "description": "Amount of organizations to return per page, up to 100.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/organization"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Organizations"
+        ]
+      },
+      "delete": {
+        "summary": "Delete Organization",
+        "description": "Delete an organization from the system.",
+        "operationId": "deleteOrganizations",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "description": "The id of the organization to delete.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/organization"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Organizations"
+        ]
+      },
+      "patch": {
+        "summary": "Update an Existing Organization",
+        "description": "This endpoint updates an existing organization.",
+        "operationId": "updateOrganization",
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "A JSON organization in the body.",
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/organization"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/organization"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Organizations"
+        ]
+      }
+    },
+    "/organizations/{id}/locations": {
+      "get": {
+        "summary": "Organization Locations",
+        "description": "This endpoint retrieves all locations that belong to a particular organization.",
+        "operationId": "retrieveLOrganizationLocations",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "page",
+            "description": "The particular page of results.",
+            "type": "string",
+            "default": 1
+          },
+          {
+            "in": "query",
+            "name": "per_page",
+            "description": "Amount of locations to return per page, up to 100",
+            "type": "string",
+            "default": 30
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/locations"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Organizations"
+        ]
+      }
+    },
+    "/search": {
+      "get": {
+        "summary": "Search",
+        "description": "This endpoint retrieves all locations that match the criteria based on the parameters below. Multiple parameters can be used at the same time, separated by an ampersand (&).",
+        "operationId": "searchLocations",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "category",
+            "description": "The name of the Service category. By default, Ohana API uses the Open Eligibility taxonomy for Human Services. The parameter must be spelled exactly as in the Open Eligibility taxonomy, including capitalizations and spaces. Some deployments might choose to use their own taxonomy. In that case, refer to their documentation. You can either pass in one category as a String or multiple categories as an Array. For example: https://ohana-api-demo.herokuapp.com/api/search?category[]=Transit&category[]=Care. This will return Locations with Services that are associated with either the Transit or Care categories.",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "email",
+            "description": "This is only useful if you’re building an external admin interface. It allows you to determine which locations the user that just signed in has access to. When you pass in an email to the API, it first checks to see if the domain name portion of the email matches one of the generic domains defined in settings.yml. If it does, then it finds locations whose admin_emails matches the user’s email or whose email matches the email. Otherwise, if it doesn’t match a generic domain, then it will find locations whose admin_emails matches the email, or whose website matches the domain name, or whose email matches the domain name. Read the source code for more details.",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "keyword",
+            "description": "You can pass in one or more words, and the API will look for the occurrence of those words in the following fields: the organization’s name, the location’s name, the location’s description, the service’s name, the service’s description, the service’s keywords, and the service’s categories. If more than one word is passed, the API will return matches where all of the words are present (but not necessarily as a phrase). Matches within the location’s description, the service’s description, and the service’s category names are ranked higher than matches in the other fields. This full text search is performed via a Postgres tsvector column and the pg_search gem.",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "language",
+            "description": "Returns locations whose languages field matches the parameter. You can either pass in one language as a String or multiple languages as an Array. For example: https://ohana-api-demo.herokuapp.com/api/search?language[]=Spanish&language[]=French. This will return locations whose languages field contains either Spanish or French.",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "lat_lng",
+            "description": "Find locations near a specific latitude and longitude. This parameter must be a comma-delimited lat,long pair of floats. For example: https://ohana-api-demo.herokuapp.com/api/search?lat_lng=37.477227,-122.213221. By default, this will find locations within a 5-mile radius of those coordinates. To use a different radius, pass in the radius parameter (see description below).",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "location",
+            "description": "Find locations near a specific address or ZIP code. For example: https://ohana-api-demo.herokuapp.com/api/search?location=94403. By default, this will find locations within a 5-mile radius of those coordinates. To use a different radius, pass in the radius parameter (see description below).",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "org_name",
+            "description": "Find locations that belong to an Organization whose name matches the parameter. If more than one word is passed, the API will return matches where all of the words are present (but not necessarily as a phrase).",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "radius",
+            "description": "Use this parameter in conjunction with the location or lat_lng parameter to define the search area in miles. The default value is 5, the minimum value is 0.1, and the maximum value is 50.",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "service_area",
+            "description": "Find locations whose services are available in a particular service area. For example: https://ohana-api-demo.herokuapp.com/api/search?service_area=belmont. The list of valid service areas will usually be defined in a deployment’s settings.yml.",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "status",
+            "description": "If set to active, it finds Locations that have at least one active Service. If set to inactive, it finds Locations that don’t have any active Services.",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "page",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "per_page",
+            "description": "Amount of locations to return per page, up to 100. Default is 30.",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/locations"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Search"
+        ]
+      }
     }
   },
   "definitions": {
     "locations": {
+      "properties": {
+        "id": {
+          "description": "Each location must have a unique identifier",
+          "type": "string",
+          "required": true
+        },
+        "organization_id": {
+          "description": "Each location must belong to a single organization. The identifier of the organization should be given here.",
+          "type": "string",
+          "required": false
+        },
+        "name": {
+          "description": "The name of the location",
+          "type": "string",
+          "required": false
+        },
+        "alternate_name": {
+          "description": "An alternative name for the location",
+          "type": "string",
+          "required": false
+        },
+        "description": {
+          "description": "A description of this location.",
+          "type": "string",
+          "required": false
+        },
+        "transportation": {
+          "description": "A description of the access to public or private transportation to and from the location.",
+          "type": "string",
+          "required": false
+        },
+        "latitude": {
+          "description": "Y coordinate of location expressed in decimal degrees in WGS84 datum.",
+          "type": "string",
+          "required": false
+        },
+        "longitude": {
+          "description": "X coordinate of location expressed in decimal degrees in WGS84 datum.",
+          "type": "string",
+          "required": false
+        }
+      }
+    },
+    "taxonomy": {
+      "properties": {
+        "id": {
+          "description": "The id for the taxonomy.",
+          "type": "integer"
+        },
+        "depth": {
+          "description": "The depth of the taxonomy.",
+          "type": "integer"
+        },
+        "taxonomy_id": {
+          "description": "The id of the taxonomy.",
+          "type": "string",
+          "required": false
+        },
+        "name": {
+          "description": "The name of the taxonomy.",
+          "type": "string",
+          "required": false
+        },
+        "parent_id": {
+          "description": "The parent id of the taxonomy.",
+          "type": "integer"
+        }
+      }
+    },
+    "taxonomies": {
+      "properties": {
+        "taxonomy_ids": {
+          "description": "The taxonomy ids.",
+          "type": "array"
+        }
+      }
+    },
+    "physical_address": {
+      "properties": {
+        "id": {
+          "description": "Each physical address must have a unique identifier",
+          "type": "string",
+          "required": true
+        },
+        "location_id": {
+          "description": "The identifier of the location for which this is the address",
+          "type": "string",
+          "required": false
+        },
+        "attention": {
+          "description": "The person or entity whose attention should be sought at the location",
+          "type": "string",
+          "required": false
+        },
+        "address_1": {
+          "description": "The first line of the address",
+          "type": "string",
+          "required": true
+        },
+        "address_2": {
+          "description": "The second line of the address",
+          "type": "string",
+          "required": false
+        },
+        "address_3": {
+          "description": "The third line of the address",
+          "type": "string",
+          "required": false
+        },
+        "address_4": {
+          "description": "The fourth line of the address",
+          "type": "string",
+          "required": false
+        },
+        "city": {
+          "description": "The city in which the address is located",
+          "type": "string",
+          "required": true
+        },
+        "state_province": {
+          "description": "The state or province in which the address is located",
+          "type": "string",
+          "required": true
+        },
+        "postal_code": {
+          "description": "The postal code for the address",
+          "type": "string",
+          "required": true
+        },
+        "country": {
+          "description": "The country in which the address is located. This should be given as an ISO 3361-1 country code (two letter abbreviation)",
+          "type": "string",
+          "required": true
+        }
+      }
+    },
+    "postal_address": {
+      "properties": {
+        "id": {
+          "description": "Each postal address must have a unique identifier",
+          "type": "string",
+          "required": true
+        },
+        "location_id": {
+          "description": "The identifier of the location for which this is the address",
+          "type": "string",
+          "required": false
+        },
+        "attention": {
+          "description": "The person or entity whose attention should be sought at the location",
+          "type": "string",
+          "required": false
+        },
+        "address_1": {
+          "description": "The first line of the address",
+          "type": "string",
+          "required": true
+        },
+        "address_2": {
+          "description": "The second line of the address",
+          "type": "string",
+          "required": false
+        },
+        "address_3": {
+          "description": "The third line of the address",
+          "type": "string",
+          "required": false
+        },
+        "address_4": {
+          "description": "The fourth line of the address",
+          "type": "string",
+          "required": false
+        },
+        "city": {
+          "description": "The city in which the address is located",
+          "type": "string",
+          "required": true
+        },
+        "state_province": {
+          "description": "The state or province in which the address is located",
+          "type": "string",
+          "required": true
+        },
+        "postal_code": {
+          "description": "The postal code for the address",
+          "type": "string",
+          "required": true
+        },
+        "country": {
+          "description": "The country in which the address is located. This should be given as an ISO 3361-1 country code (two letter abbreviation)",
+          "type": "string",
+          "required": true
+        }
+      }
+    },
+    "contact": {
       "properties": {
         "id": {
           "description": "the id for the job",
@@ -105,47 +1404,175 @@
         }
       }
     },
-    "organizations": {
+    "phone": {
       "properties": {
         "id": {
-          "description": "the id for the job",
-          "type": "string"
+          "description": "Each entry must have a unique identifier",
+          "type": "string",
+          "required": true
         },
-        "position_title": {
-          "description": "the title for the position",
-          "type": "string"
+        "location_id": {
+          "description": "The identifier of the location where this phone number is located",
+          "type": "string",
+          "required": false
         },
-        "organization_name": {
-          "description": "the organization name",
-          "type": "string"
+        "service_id": {
+          "description": "The identifier of the service for which this is the phone number",
+          "type": "string",
+          "required": false
         },
-        "rate_interval_code": {
-          "description": "the rate interval code",
-          "type": "string"
+        "organization_id": {
+          "description": "The identifier of the organisation for which this is the phone number",
+          "type": "string",
+          "required": false
         },
-        "minimum": {
-          "description": "minimum id",
-          "type": "string"
+        "contact_id": {
+          "description": "The identifier of the contact for which this is the phone number",
+          "type": "string",
+          "required": false
         },
-        "maximum": {
-          "description": "the maximum id",
-          "type": "string"
+        "number": {
+          "description": "The phone number",
+          "type": "string",
+          "required": true
         },
-        "start_date": {
-          "description": "the start date",
-          "type": "string"
+        "extension": {
+          "description": "The extension of the phone number",
+          "type": "string",
+          "required": false
         },
-        "end_date": {
-          "description": "the end date",
-          "type": "string"
+        "type": {
+          "description": "Whether the phone number relates to a fixed or cellular phone",
+          "type": "string",
+          "required": false
         },
-        "locations": {
-          "description": "the job locations",
-          "type": "string"
+        "department": {
+          "description": "The department for which this is the phone number",
+          "type": "string",
+          "required": false
+        }
+      }
+    },
+    "service": {
+      "properties": {
+        "id": {
+          "description": "Each service must have a unique identifier.",
+          "type": "string",
+          "required": true
+        },
+        "organization_id": {
+          "description": "The identifier of the organization that provides this service.",
+          "type": "string",
+          "required": true
+        },
+        "location_id": {
+          "description": "The identifier of the location where this service is delivered.",
+          "type": "string",
+          "required": false
+        },
+        "program_id": {
+          "description": "The identifier of the program this service is delivered under.",
+          "type": "string",
+          "required": false
+        },
+        "name": {
+          "description": "The official or public name of the service.",
+          "type": "string",
+          "required": true
+        },
+        "alternate_name": {
+          "description": "Alternative or commonly used name for a service.",
+          "type": "string",
+          "required": false
+        },
+        "description": {
+          "description": "A description of the service.",
+          "type": "string",
+          "required": false
         },
         "url": {
-          "description": "the url for the job",
-          "type": "string"
+          "description": "URL of the service",
+          "type": "string",
+          "required": false
+        },
+        "email": {
+          "description": "Email address for the service",
+          "type": "string",
+          "required": false
+        },
+        "status": {
+          "description": "The current status of the service.",
+          "type": "string",
+          "required": false
+        },
+        "application_process": {
+          "description": "The steps needed to access the service.",
+          "type": "string",
+          "required": false
+        },
+        "wait_time": {
+          "description": "Time a client may expect to wait before receiving a service.",
+          "type": "string",
+          "required": false
+        },
+        "taxonomy_ids": {
+          "description": "A comma separated list of identifiers from the taxonomy table. Advanced users may also include composite categories, using * to combine two taxonomy terms. For example: ‘Food Pantry*Immigrants,Food Pantry*Homeless’ (where ‘Food Pantry’,’Immigrants’ and ‘Homeless’ are identifiers in the taxonomy table), would indicate a food pantry service for the homeless or immigrants, but not available to other client groups.",
+          "type": "string",
+          "required": false
+        }
+      }
+    },
+    "organization": {
+      "properties": {
+        "id": {
+          "description": "Each organization must have a unique identifier.",
+          "type": "string",
+          "required": true
+        },
+        "name": {
+          "description": "The official or public name of the organization.",
+          "type": "string",
+          "required": true
+        },
+        "alternate_name": {
+          "description": "Alternative or commonly used name for the organization.",
+          "type": "string",
+          "required": false
+        },
+        "description": {
+          "description": "A brief summary about the organization. It can contain markup such as HTML or Markdown.",
+          "type": "string",
+          "required": false
+        },
+        "email": {
+          "description": "The contact e-mail address for the organization.",
+          "type": "string",
+          "required": false
+        },
+        "url": {
+          "description": "The URL (website address) of the organization.",
+          "type": "string",
+          "required": false
+        },
+        "tax_status": {
+          "description": "Government assigned tax designation for for tax-exempt organizations.",
+          "type": "string",
+          "required": false
+        },
+        "tax_id": {
+          "description": "A government issued identifier used for the purpose of tax administration.",
+          "type": "string",
+          "required": false
+        },
+        "year_incorporated": {
+          "description": "The year in which the organization was legally formed.",
+          "type": "string",
+          "required": false
+        },
+        "legal_status": {
+          "description": "The legal status defines the conditions that an organization is operating under; e.g. non-profit, private corporation or a government organization.",
+          "type": "string",
+          "required": false
         }
       }
     }
