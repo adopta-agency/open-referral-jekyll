@@ -1,0 +1,38 @@
+{
+	"id": 6296,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides affordable housing for working families.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "EVERGLADES HOUSING GROUP",
+	"website": null,
+	"slug": "everglades-housing-group",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/everglades-housing-group",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/everglades-housing-group\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "stevekirk@ruralneighborhoods.org",
+		"id": 6296,
+		"name": "Steven Kirk",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 6296,
+			"department": null,
+			"extension": null,
+			"number": "305-242-2142",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6296,
+		"department": null,
+		"extension": null,
+		"number": "305-242-2142",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 3532,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.0134128,
+	24.7341433],
+	"description": "See listed services",
+	"latitude": 24.7341433,
+	"longitude": -81.0134128,
+	"name": "Marathon, FL",
+	"short_desc": null,
+	"slug": "marathon-fl-67-coco-plum-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/marathon-fl-67-coco-plum-drive",
+	"address": {
+		"id": 1730,
+		"address_1": "67 Coco Plum Drive",
+		"address_2": null,
+		"city": "Marathon",
+		"state_province": "FL",
+		"postal_code": "33050"
+	},
+	"organization": {
+		"id": 3532,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides assisted living for up to 16 adults who suffer from chronic mental illness. Offers an alternative between hospitals and independent living. Provides long term support and stability including daily supervision with activities such as hygiene, meal preparation, medication management and liaison with other human service agencies.\\n\\n##MON##",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HERON",
+		"website": "http:\/\/www.heron-peacock.org\/services.htm",
+		"slug": "heron",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/heron",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/heron\/locations"
+	},
+	"phones": [{
+		"id": 3532,
+		"department": null,
+		"extension": null,
+		"number": "305-743-4129",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

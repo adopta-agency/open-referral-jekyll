@@ -1,0 +1,38 @@
+{
+	"id": 2129,
+	"accreditations": [],
+	"alternate_name": "Edison Tri-Plex Community",
+	"date_incorporated": null,
+	"description": "Provides income restricted apartment housing in Liberty City for low income individuals or families.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "TACOLCY PROPERTY MANAGEMENT CORPORATION",
+	"website": null,
+	"slug": "tacolcy-property-management-corporation",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/tacolcy-property-management-corporation",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/tacolcy-property-management-corporation\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 2129,
+		"name": "Josephine Mnkand",
+		"title": "Regional Property Manager",
+		"phones": [{
+			"id": 2129,
+			"department": null,
+			"extension": null,
+			"number": "305-759-2752",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2129,
+		"department": null,
+		"extension": null,
+		"number": "305-759-2752",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 774,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.369192,
+	25.598601],
+	"description": "See listed services",
+	"latitude": 25.598601,
+	"longitude": -80.369192,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-18300-sw-109th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-18300-sw-109th-avenue",
+	"address": {
+		"id": 395,
+		"address_1": "18300 SW 109th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 774,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Food and discounted items such as household, clothing, pampers, soap, deodorant, etc. are available.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE TRUE DELIVERANCE CHURCH OF CHRIST, INC.",
+		"website": null,
+		"slug": "the-true-deliverance-church-of-christ-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-true-deliverance-church-of-christ-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-true-deliverance-church-of-christ-inc\/locations"
+	},
+	"phones": [{
+		"id": 774,
+		"department": null,
+		"extension": null,
+		"number": "305-254-2163",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

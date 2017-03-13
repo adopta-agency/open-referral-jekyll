@@ -1,0 +1,77 @@
+{
+	"id": 2497,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "NHSSF is a life-changing organization that transcends the definition of a non-profit or community-based program; it helps people who wouldnG\u00c7\u00d6t have otherwise been able to purchase a home or get a mortgage; providing families with a foundation and sense of security in their lives. We have 6 lines of business: Homebuyer Preparation, Foreclosure Prevention, Lending, Real Estate Sales, Housing Development and Community Building.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NEIGHBORHOOD HOUSING SERVICES OF SOUTH FLORIDA, INC.",
+	"website": "http:\/\/www.nhssf.org",
+	"slug": "neighborhood-housing-services-of-south-florida-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/neighborhood-housing-services-of-south-florida-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/neighborhood-housing-services-of-south-florida-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ardens@nhssf.org",
+		"id": 2497,
+		"name": "Arden Shank",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 2497,
+			"department": null,
+			"extension": "1123.0",
+			"number": "305-751-5511",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@nhssf.org",
+		"id": 2498,
+		"name": "Carmen Acosta",
+		"title": "Intake Counselor",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "info@nhssf.org",
+		"id": 7613,
+		"name": "Carmen Acosta",
+		"title": "Intake Counselor",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "joaquinG@nhssf.org",
+		"id": 7614,
+		"name": "Joaquin Garuz",
+		"title": "Mortgage Loan Officer",
+		"phones": [{
+			"id": 7614,
+			"department": null,
+			"extension": null,
+			"number": "786-527-3280",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2497,
+		"department": null,
+		"extension": "1123.0",
+		"number": "305-751-5511",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7614,
+		"department": null,
+		"extension": null,
+		"number": "786-527-3280",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

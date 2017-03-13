@@ -1,0 +1,84 @@
+{
+	"id": 2126,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides year round training and competition in 17 Olympic style sports for intellectually disabled people. Training takes place at local schools, parks and other public access areas. Competition is held seasonally on local and state levels. Participants in the games are required to have eight weeks of training in order to compete.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SPECIAL OLYMPICS FLORIDA - MIAMI-DADE COUNTY",
+	"website": "http:\/\/specialolympicsflorida.org\/miami-dade\/",
+	"slug": "special-olympics-florida-miami-dade-county",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/special-olympics-florida-miami-dade-county",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/special-olympics-florida-miami-dade-county\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "linseysmith@sofl.org",
+		"id": 2126,
+		"name": "Linsey Smith",
+		"title": "Regional Director",
+		"phones": [{
+			"id": 2126,
+			"department": null,
+			"extension": null,
+			"number": "305-406-9467",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "evelys14@gmail.com",
+		"id": 2128,
+		"name": "Evelys Cruz",
+		"title": "Camp Director",
+		"phones": [{
+			"id": 2128,
+			"department": null,
+			"extension": null,
+			"number": "786-253-9289",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mthompson@specialolympicsmiamidade.org",
+		"id": 7425,
+		"name": "Mark Thompson",
+		"title": "Athlete Recruitment Manager",
+		"phones": [{
+			"id": 7425,
+			"department": null,
+			"extension": null,
+			"number": "305-406-9467",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2126,
+		"department": null,
+		"extension": null,
+		"number": "305-406-9467",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2128,
+		"department": null,
+		"extension": null,
+		"number": "786-253-9289",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7425,
+		"department": null,
+		"extension": null,
+		"number": "305-406-9467",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 7794,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3141959,
+	25.861555],
+	"description": "See listed services",
+	"latitude": 25.861555,
+	"longitude": -80.3141959,
+	"name": "Hialeah, FL",
+	"short_desc": null,
+	"slug": "hialeah-fl-4355-west-16th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/hialeah-fl-4355-west-16th-avenue",
+	"address": {
+		"id": 3728,
+		"address_1": "4355 West 16th Avenue",
+		"address_2": "Suite 211",
+		"city": "Hialeah",
+		"state_province": "FL",
+		"postal_code": "33012"
+	},
+	"organization": {
+		"id": 6277,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "VIDA Training Center provides flexible, innovative daily training programs for individuals, businesses and communities on-site, in a classroom, and blended trainings. \\n\\nFeatured Trainings:\\n* CPR\/AED and First Aid \\n* State Required In-Services \\n* Occupational Safety - HIV, OSHA & More \\n* APDG\u00c7\u00d6s Medication Administration 65G-7 \\n* HHA\/CNA PCT\\n* Registered Behavior Technicians \\n* Finger Printing \\n* Level 2 Background Checks required by branches of Board of Health - ACA, DCF, Medicaid",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "VIDA TRAINING CENTER, LLC.",
+		"website": "http:\/\/www.vidatrainingcenter.com",
+		"slug": "vida-training-center-llc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/vida-training-center-llc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/vida-training-center-llc\/locations"
+	},
+	"phones": [{
+		"id": 7794,
+		"department": null,
+		"extension": null,
+		"number": "786-316-7106",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

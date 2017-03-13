@@ -1,0 +1,48 @@
+{
+	"id": 7248,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1855056,
+	25.8989332],
+	"description": "See listed services",
+	"latitude": 25.8989332,
+	"longitude": -80.1855056,
+	"name": "North Miami, FL",
+	"short_desc": null,
+	"slug": "north-miami-fl-650-ne-135th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/north-miami-fl-650-ne-135th-street",
+	"address": {
+		"id": 3265,
+		"address_1": "650 NE 135th Street",
+		"address_2": null,
+		"city": "North Miami",
+		"state_province": "FL",
+		"postal_code": "33161"
+	},
+	"organization": {
+		"id": 2717,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Trinity Church's Peacemakers Family Service Center is a non-profit faith-based organization.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "TRINITY CHURCH, INC.",
+		"website": "http:\/\/www.peacemakers.com",
+		"slug": "trinity-church-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/trinity-church-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/trinity-church-inc\/locations"
+	},
+	"phones": [{
+		"id": 7248,
+		"department": null,
+		"extension": null,
+		"number": "786-888-5433",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

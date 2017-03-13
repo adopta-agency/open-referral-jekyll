@@ -1,0 +1,48 @@
+{
+	"id": 4494,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2129159,
+	25.7661348],
+	"description": "See listed services",
+	"latitude": 25.7661348,
+	"longitude": -80.2129159,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1111-sw-8th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-1111-sw-8th-street",
+	"address": {
+		"id": 2038,
+		"address_1": "1111 SW 8th Street",
+		"address_2": "Suite 207",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33130"
+	},
+	"organization": {
+		"id": 4494,
+		"accreditations": [],
+		"alternate_name": "Little Havana Community Partnership",
+		"date_incorporated": null,
+		"description": "ConnectFamilias is built on the premise that children do better when their families are strong, and families do better when they live in places that help them succeed as parents and productive citizens. ConnectFamilias is building a comprehensive, neighborhood based and family focused system of care.\\r\\n \\r\\nConnectFamilias promotes family and community safety by increasing community awareness, in the area of Little Havana, Allapatah, Flagami, and surrounding neighborhoods. \\r\\n\\r\\nConnectFamilias' wraparound model is designed to improve the well-being of the children and families by reducing violence and delivering non-duplicative, culturally appropriate and seamless wrap-around services.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CONNECTFAMILIAS, INC.",
+		"website": "http:\/\/www.connectfamilias.org",
+		"slug": "connectfamilias-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/connectfamilias-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/connectfamilias-inc\/locations"
+	},
+	"phones": [{
+		"id": 4494,
+		"department": null,
+		"extension": null,
+		"number": "305-854-2973",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

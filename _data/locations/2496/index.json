@@ -1,0 +1,48 @@
+{
+	"id": 2496,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-5b3625d3-2790-4f7e-b75f-35bc0e3b2cdd",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-5b3625d3-2790-4f7e-b75f-35bc0e3b2cdd",
+	"address": {
+		"id": 1224,
+		"address_1": "111 NW First Street",
+		"address_2": "27th Floor Suite 310",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33128-1930"
+	},
+	"organization": {
+		"id": 2495,
+		"accreditations": [],
+		"alternate_name": "M-DC HOMELESS TRUST",
+		"date_incorporated": null,
+		"description": "The Miami-Dade County Homeless Trust was created in 1993 by the Board of County Commissioners to administer proceeds of the one-percent food and beverage tax; to implement the local continuum of care plan, a three-phased plan, called the Miami-Dade County Community Homeless Plan (the \"Plan\"); and to serve in an advisory capacity to the Board of County Commissioners on issues involving homelessness.\\r\\n-\u00e1\\r\\nThe Trust is not a direct service provider.-\u00e1Instead, it is responsible for the implementation of policy initiatives developed by the 27-member Miami-Dade County Homeless Trust Board, and the monitoring of contract compliance by agencies contracted with the County, through the Trust, for the provision of housing and services for homeless persons.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI-DADE COUNTY HOMELESS TRUST",
+		"website": "http:\/\/miamidade.gov\/homeless",
+		"slug": "miami-dade-county-homeless-trust",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-homeless-trust",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-homeless-trust\/locations"
+	},
+	"phones": [{
+		"id": 2496,
+		"department": null,
+		"extension": null,
+		"number": "877-994-4357",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

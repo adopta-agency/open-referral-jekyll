@@ -1,0 +1,38 @@
+{
+	"id": 2135,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "An educational foundation dedicated to making the world safe for at-risk children and teens by providing information and training on social and environmental issues to youngsters. Material provided by this foundation will educate elementary, middle and high school students about safety issues, including guns, drugs, strangers, parenting skills and anger and conflict resolution.\\n\\n###MON###\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ARISE FOUNDATION, INC.",
+	"website": "http:\/\/www.ariselife-skills.org",
+	"slug": "arise-foundation-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/arise-foundation-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/arise-foundation-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "yisaacs@arisefoundation.org",
+		"id": 2135,
+		"name": "Yasmin Isaacs",
+		"title": "Administrator",
+		"phones": [{
+			"id": 2135,
+			"department": null,
+			"extension": null,
+			"number": "888-680-6100",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2135,
+		"department": null,
+		"extension": null,
+		"number": "888-680-6100",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

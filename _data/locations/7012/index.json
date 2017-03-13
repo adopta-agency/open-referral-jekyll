@@ -1,0 +1,48 @@
+{
+	"id": 7012,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -80,
+	"name": "Florida City, FL",
+	"short_desc": null,
+	"slug": "florida-city-fl-824-west-palm-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/florida-city-fl-824-west-palm-drive",
+	"address": {
+		"id": 3109,
+		"address_1": "824 West Palm Drive",
+		"address_2": null,
+		"city": "Florida City",
+		"state_province": "FL",
+		"postal_code": "33034"
+	},
+	"organization": {
+		"id": 4077,
+		"accreditations": [],
+		"alternate_name": "FIRST ASSEMBLY OF GOD",
+		"date_incorporated": null,
+		"description": "Provides groceries for individuals who are in need. Services are provided two times a year, or in extreme distress.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COMMUNITY OUTREACH RESOURCE CENTER, INC.",
+		"website": null,
+		"slug": "community-outreach-resource-center-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/community-outreach-resource-center-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/community-outreach-resource-center-inc\/locations"
+	},
+	"phones": [{
+		"id": 7012,
+		"department": null,
+		"extension": null,
+		"number": "305-246-0460",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

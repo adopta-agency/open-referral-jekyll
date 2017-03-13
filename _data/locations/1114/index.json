@@ -1,0 +1,48 @@
+{
+	"id": 1114,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-84,
+	30],
+	"description": "See listed services",
+	"latitude": 30,
+	"longitude": -84,
+	"name": "Tallahassee, FL",
+	"short_desc": null,
+	"slug": "tallahassee-fl-e39c1014-a98e-4de8-8a58-9fe9bec64b7d",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/tallahassee-fl-e39c1014-a98e-4de8-8a58-9fe9bec64b7d",
+	"address": {
+		"id": 586,
+		"address_1": "2540 Shumard Oak Boulevard",
+		"address_2": null,
+		"city": "Tallahassee",
+		"state_province": "FL",
+		"postal_code": "32399-0850"
+	},
+	"organization": {
+		"id": 1113,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Regulates private, investor-owned electric, natural gas and telephone companies and some water and water waste companies (except in Miami-Dade County). The PSC sets the rates and service standards for regulated utilities. Consumer Affairs investigates complaints and responds to inquiries from the public. Customers seeking assistance may file complaints by letter, by calling the toll-free complaint lines, by sending a fax on the toll-free fax line or sending an e-mail message to contact at psc.state.fl.us. \\r\\n\\r\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA PUBLIC SERVICE COMMISSION",
+		"website": "http:\/\/www.floridapsc.com",
+		"slug": "florida-public-service-commission",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-public-service-commission",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-public-service-commission\/locations"
+	},
+	"phones": [{
+		"id": 1114,
+		"department": null,
+		"extension": null,
+		"number": "800-342-3552",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

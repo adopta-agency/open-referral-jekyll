@@ -1,0 +1,48 @@
+{
+	"id": 2524,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -81,
+	"name": "Tavernier, FL",
+	"short_desc": null,
+	"slug": "tavernier-fl-73-high-point-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/tavernier-fl-73-high-point-road",
+	"address": {
+		"id": 1240,
+		"address_1": "73 High Point Road",
+		"address_2": null,
+		"city": "Tavernier",
+		"state_province": "FL",
+		"postal_code": "33070"
+	},
+	"organization": {
+		"id": 2523,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Through DJJ funding, this agency provides temporary respite and non-residential counseling through a centralized intake system. With funds from DCF, they offer emergency shelter as well as foster care. Through HHS, they provide a runaway homeless shelter, counseling and reunification.\\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA KEYS CHILDREN'S SHELTER, INC.",
+		"website": "http:\/\/www.fkcs.org",
+		"slug": "florida-keys-children-s-shelter-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-keys-children-s-shelter-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-keys-children-s-shelter-inc\/locations"
+	},
+	"phones": [{
+		"id": 2524,
+		"department": null,
+		"extension": null,
+		"number": "305-852-4246",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

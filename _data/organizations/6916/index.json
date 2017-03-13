@@ -1,0 +1,38 @@
+{
+	"id": 6916,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The mission of Kids Come First is to provide school and personal supplies to every child experiencing financial adversity in Monroe County.\\n\\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "KIDS COME FIRST IN THE FLORIDA KEYS, INC.",
+	"website": null,
+	"slug": "kids-come-first-in-the-florida-keys-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/kids-come-first-in-the-florida-keys-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/kids-come-first-in-the-florida-keys-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Kidscomefirst305@yahoo.com",
+		"id": 6916,
+		"name": "Roxane Posada",
+		"title": "KCF Coordinator",
+		"phones": [{
+			"id": 6916,
+			"department": null,
+			"extension": null,
+			"number": "305-360-1689",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6916,
+		"department": null,
+		"extension": null,
+		"number": "305-360-1689",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

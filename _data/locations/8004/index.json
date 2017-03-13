@@ -1,0 +1,41 @@
+{
+	"id": 8004,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.710749,
+	25.924544],
+	"description": "See listed services",
+	"latitude": 25.924544,
+	"longitude": -81.710749,
+	"name": "Marco Island, FL",
+	"short_desc": null,
+	"slug": "marco-island-fl-1450-winterberry-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/marco-island-fl-1450-winterberry-drive",
+	"address": {
+		"id": 3916,
+		"address_1": "1450 Winterberry Drive",
+		"address_2": null,
+		"city": "Marco Island",
+		"state_province": "FL",
+		"postal_code": "34145"
+	},
+	"organization": {
+		"id": 8004,
+		"accreditations": [],
+		"alternate_name": "THE FAMILY CHURCH OF MARCO ISLAND, FIRST BAPTIST OF MARCO ISLAND",
+		"date_incorporated": null,
+		"description": "Non-Profit organization providing emergency food relief.\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "OUR DAILY BREAD FOOD PANTRY",
+		"website": "http:\/\/fbcmarco.com\/ministries\/benevolence-food-pantry",
+		"slug": "our-daily-bread-food-pantry",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/our-daily-bread-food-pantry",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/our-daily-bread-food-pantry\/locations"
+	},
+	"phones": []
+}

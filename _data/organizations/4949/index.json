@@ -1,0 +1,46 @@
+{
+	"id": 4949,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Florida Department of Transportation (FDOT or Department) is an executive agency, which means it reports directly to the Governor. FDOTG\u00c7\u00d6s primary statutory responsibility is to coordinate the planning and development of a safe, viable, and balanced state transportation system serving all regions of the state, and to assure the compatibility of all components, including multimodal facilities. A multimodal transportation system combines two or more modes of movement of people or goods. FloridaG\u00c7\u00d6s transportation system includes roadway, air, rail, sea, spaceports, bus transit, and bicycle and pedestrian facilities.\\n\\n###MON###\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA DEPARTMENT OF TRANSPORTATION",
+	"website": "http:\/\/www.dot.state.fl.us",
+	"slug": "florida-department-of-transportation",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-transportation",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-transportation\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "FDOT@dot.state.fl.us",
+		"id": 4949,
+		"name": "Jim Boxold",
+		"title": "Secretary of Transportation",
+		"phones": [{
+			"id": 4949,
+			"department": null,
+			"extension": null,
+			"number": "866-374-3368",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "FDOT@dot.state.fl.us",
+		"id": 4950,
+		"name": "Jim Boxold",
+		"title": "Secretary of Transportation",
+		"phones": []
+	}],
+	"phones": [{
+		"id": 4949,
+		"department": null,
+		"extension": null,
+		"number": "866-374-3368",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

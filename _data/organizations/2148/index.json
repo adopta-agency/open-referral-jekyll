@@ -1,0 +1,38 @@
+{
+	"id": 2148,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Health Council of South Florida is committed to assisting Miami-Dade and Monroe residents with exploring and enrolling in insurance plans through the Affordable Care Act\/Health Insurance Marketplace. Our team of Navigators can provide you with free, unbiased, one-on-one assistance.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HEALTH COUNCIL OF SOUTH FLORIDA, INC.",
+	"website": "http:\/\/www.healthcouncil.org",
+	"slug": "health-council-of-south-florida-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/health-council-of-south-florida-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/health-council-of-south-florida-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "hshaheen@healthcouncil.org",
+		"id": 2148,
+		"name": "Helen Shaheen",
+		"title": "Coordinator, Community Relations and Outreach",
+		"phones": [{
+			"id": 2148,
+			"department": null,
+			"extension": null,
+			"number": "786-708-0836",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2148,
+		"department": null,
+		"extension": null,
+		"number": "786-708-0836",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

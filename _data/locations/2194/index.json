@@ -1,0 +1,48 @@
+{
+	"id": 2194,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77,
+	39],
+	"description": "See listed services",
+	"latitude": 39,
+	"longitude": -77,
+	"name": "Washington, DC",
+	"short_desc": null,
+	"slug": "washington-dc-200-constitution-avenue-nw",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/washington-dc-200-constitution-avenue-nw",
+	"address": {
+		"id": 1105,
+		"address_1": "200 Constitution Avenue, NW",
+		"address_2": null,
+		"city": "Washington",
+		"state_province": "DC",
+		"postal_code": "20210"
+	},
+	"organization": {
+		"id": 2194,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Our mission is to foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "U.S. DEPARTMENT OF LABOR",
+		"website": "http:\/\/www.dol.gov",
+		"slug": "u-s-department-of-labor",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/u-s-department-of-labor",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/u-s-department-of-labor\/locations"
+	},
+	"phones": [{
+		"id": 2194,
+		"department": null,
+		"extension": null,
+		"number": "866-487-2345",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

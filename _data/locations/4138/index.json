@@ -1,0 +1,48 @@
+{
+	"id": 4138,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-9e308ded-d8b5-47fa-8400-e6116654a400",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-9e308ded-d8b5-47fa-8400-e6116654a400",
+	"address": {
+		"id": 1908,
+		"address_1": "11300 NE 2nd Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33161"
+	},
+	"organization": {
+		"id": 3600,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Barry University offers programs in adult and continuing education, arts and sciences, business, communication, education, graduate medical sciences, human performance and leisure sciences, law, natural and health sciences, nursing, psychology, social work and theology. Also offers a High School Equivalency Program.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BARRY UNIVERSITY",
+		"website": "http:\/\/www.barry.edu",
+		"slug": "barry-university",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/barry-university",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/barry-university\/locations"
+	},
+	"phones": [{
+		"id": 4138,
+		"department": null,
+		"extension": null,
+		"number": "305-899-3726",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

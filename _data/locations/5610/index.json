@@ -1,0 +1,48 @@
+{
+	"id": 5610,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-35041127-2d93-47af-8fbf-a1e54a152ec6",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-35041127-2d93-47af-8fbf-a1e54a152ec6",
+	"address": {
+		"id": 2414,
+		"address_1": "2780 SW 37th Avenue",
+		"address_2": "Suite 206",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33133"
+	},
+	"organization": {
+		"id": 5609,
+		"accreditations": [],
+		"alternate_name": "HEALTHY CONNECTIONS",
+		"date_incorporated": null,
+		"description": "Healthy Connections provides optimal, humane and responsible mental health services that serve our client needs through counseling, education, training and advocacy.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HEALTHY CONNECTIONS COMMUNITY MENTAL HEALTH CENTER, INC.",
+		"website": "http:\/\/healthyconnectionscmhc.org",
+		"slug": "healthy-connections-community-mental-health-center-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/healthy-connections-community-mental-health-center-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/healthy-connections-community-mental-health-center-inc\/locations"
+	},
+	"phones": [{
+		"id": 5610,
+		"department": null,
+		"extension": null,
+		"number": "305-646-0112",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

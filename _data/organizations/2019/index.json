@@ -1,0 +1,92 @@
+{
+	"id": 2019,
+	"accreditations": [],
+	"alternate_name": "DAVE AND MARY ALPER JCC",
+	"date_incorporated": null,
+	"description": "The Alper JCC provides social, educational, cultural and recreational programs for children, adults and the elderly. Also offers programs for the special needs population.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE DAVE AND MARY ALPER JEWISH COMMUNITY CENTER, INC.",
+	"website": "http:\/\/www.alperjcc.org",
+	"slug": "the-dave-and-mary-alper-jewish-community-center-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-dave-and-mary-alper-jewish-community-center-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-dave-and-mary-alper-jewish-community-center-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "stepper@alperjcc.org",
+		"id": 2019,
+		"name": "Steve Tepper",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 2019,
+			"department": null,
+			"extension": "252.0",
+			"number": "305-271-9000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "emolk@alperjcc.org",
+		"id": 2021,
+		"name": "Elyse Molk",
+		"title": "After School Director",
+		"phones": [{
+			"id": 2021,
+			"department": null,
+			"extension": "263.0",
+			"number": "305-271-9000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "emolk@alperjcc.org",
+		"id": 2022,
+		"name": "Elyse Molk",
+		"title": "Camp and ASP Director",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "emolk@alperjcc.org",
+		"id": 2023,
+		"name": "Elyse Molk",
+		"title": "Camp Director",
+		"phones": [{
+			"id": 2023,
+			"department": null,
+			"extension": "263.0",
+			"number": "305-271-9000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2019,
+		"department": null,
+		"extension": "252.0",
+		"number": "305-271-9000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2021,
+		"department": null,
+		"extension": "263.0",
+		"number": "305-271-9000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2023,
+		"department": null,
+		"extension": "263.0",
+		"number": "305-271-9000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

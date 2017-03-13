@@ -1,0 +1,84 @@
+{
+	"id": 360,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Administers South MiamiG\u00c7\u00d6s parks, open spaces, and recreation programs for many benefits, ranging from the pursuit of educational, cultural, health and fitness to out-of-school camps and programs, sports development, and special events. Dedicated to serving the community as a whole, the City of South Miami Parks and Recreation Department welcomes all people regardless of gender, age, ability or socio-economic status.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CITY OF SOUTH MIAMI PARKS AND RECREATION DEPARTMENT",
+	"website": "http:\/\/www.southmiamifl.gov\/Index.aspx?NID=149",
+	"slug": "city-of-south-miami-parks-and-recreation-department",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-south-miami-parks-and-recreation-department",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-south-miami-parks-and-recreation-department\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "qpough@southmiamifl.gov",
+		"id": 360,
+		"name": "Quentin Pough",
+		"title": "Director of Parks & Recreation",
+		"phones": [{
+			"id": 360,
+			"department": null,
+			"extension": null,
+			"number": "305-668-3875",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "alarzabal@southmiamifl.gov",
+		"id": 361,
+		"name": "Ana Larzabel",
+		"title": "Senior Center Site Manager",
+		"phones": [{
+			"id": 361,
+			"department": null,
+			"extension": null,
+			"number": "305-669-0712",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "qpough@southmiamifl.gov",
+		"id": 362,
+		"name": "Quentin Pough",
+		"title": "Director of Parks & Recreation",
+		"phones": [{
+			"id": 362,
+			"department": null,
+			"extension": null,
+			"number": "305-668-3876",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 360,
+		"department": null,
+		"extension": null,
+		"number": "305-668-3875",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 361,
+		"department": null,
+		"extension": null,
+		"number": "305-669-0712",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 362,
+		"department": null,
+		"extension": null,
+		"number": "305-668-3876",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

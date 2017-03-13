@@ -1,0 +1,48 @@
+{
+	"id": 7286,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.53515,
+	24.995155],
+	"description": "See listed services",
+	"latitude": 24.995155,
+	"longitude": -80.53515,
+	"name": "Tavernier, FL",
+	"short_desc": null,
+	"slug": "tavernier-fl-1ba33dae-194c-4f7c-b753-6906fd36d4bf",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/tavernier-fl-1ba33dae-194c-4f7c-b753-6906fd36d4bf",
+	"address": {
+		"id": 3298,
+		"address_1": "175 Wrenn Street",
+		"address_2": null,
+		"city": "Tavernier",
+		"state_province": "FL",
+		"postal_code": "33070"
+	},
+	"organization": {
+		"id": 2213,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Wesley House Family Services provides full case management services for Monroe county. A dedicated case manager is assigned to each family. The case manager's job is to check on the child frequently and report to the court on his or her safety and well-being. The case manager also works closely with the child's parents to develop a personalized plan that identifies, addresses, corrects and prevents repetition of any circumstances which put the child at risk of harm. Also provides information and assistance regarding adoptions or foster parenting. The intent is to strengthen an preserve the family with the primary goal of protecting the child.\\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "WESLEY HOUSE FAMILY SERVICES, INC.",
+		"website": "http:\/\/www.wesleyhouse.org",
+		"slug": "wesley-house-family-services-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/wesley-house-family-services-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/wesley-house-family-services-inc\/locations"
+	},
+	"phones": [{
+		"id": 7286,
+		"department": null,
+		"extension": "224.0",
+		"number": "305-809-5000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

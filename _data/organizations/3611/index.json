@@ -1,0 +1,61 @@
+{
+	"id": 3611,
+	"accreditations": [],
+	"alternate_name": "PEACE CDC, Esmirna Church, The Red House",
+	"date_incorporated": null,
+	"description": "Peace CDC provides after school services consists of healthy snack, homework assistance, reading, arts & crafts and physical education. The children's reading progress is quarterly evaluated through \"oral reading fluency test\" provided by Nova University. The physical program is also evaluated by Nova University through the \"Pacer Test\". \\n\\nSummer Camp 2016:\\nWill provide reading, math, physical education, arts & crafts, outdoor activities and weekly field trips to: Black Beard Water Park, Dave & Busters, Chuck E. Cheese, Movies, Rock Climbing, Jumparoo, etc. Breakfast, lunch, and 1 snacks will be served daily. Will be closed on July 4th.\\n\\nDates: June 13 - July 29\\nEnrollment will begin first week of April",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "PEACE CDC, INC.",
+	"website": "http:\/\/www.peacecdc.org",
+	"slug": "peace-cdc-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/peace-cdc-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/peace-cdc-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jfrodriguez06@mail.com",
+		"id": 3611,
+		"name": "Rev. Jose F. Rodriguez",
+		"title": "CEO, Kendall Program Director",
+		"phones": [{
+			"id": 3611,
+			"department": null,
+			"extension": null,
+			"number": "786-547-7738",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "luisfabianhernandez@hotmail.com",
+		"id": 3612,
+		"name": "Luis Hernandez",
+		"title": "Homestead Program Director",
+		"phones": [{
+			"id": 3612,
+			"department": null,
+			"extension": null,
+			"number": "786-208-0714",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3611,
+		"department": null,
+		"extension": null,
+		"number": "786-547-7738",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3612,
+		"department": null,
+		"extension": null,
+		"number": "786-208-0714",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

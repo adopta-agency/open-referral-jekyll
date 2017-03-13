@@ -1,0 +1,38 @@
+{
+	"id": 7349,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Dr. Cecilia Marin offers therapeutic services to Children, Teens, Adults, Couples and Families. Is also an Infant Mental Health (0-5) provider. Psychological testing and evaluations done for: ADHD; Entrance examinations; Learning Disabilities; Pre-operative procedures; Hardship Evaluations for Immigration Office.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CECILIA M. MARIN PSY.D, LLC.",
+	"website": "http:\/\/www.drceciliamarin.net",
+	"slug": "cecilia-m-marin-psy-d-llc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/cecilia-m-marin-psy-d-llc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/cecilia-m-marin-psy-d-llc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "cmmarinpsyd@gmail.com",
+		"id": 7349,
+		"name": "Dr. Cecilia Marin",
+		"title": "Owner\/ Licensed Clinical Psychologist",
+		"phones": [{
+			"id": 7349,
+			"department": null,
+			"extension": null,
+			"number": "305-764-2333",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7349,
+		"department": null,
+		"extension": null,
+		"number": "305-764-2333",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 5846,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7989312,
+	26.1754572],
+	"description": "See listed services",
+	"latitude": 26.1754572,
+	"longitude": -81.7989312,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-0115f056-16a0-46c7-8769-e847273bfecb",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-0115f056-16a0-46c7-8769-e847273bfecb",
+	"address": {
+		"id": 2508,
+		"address_1": "2390 Tamiami Trail North",
+		"address_2": "Suite 210",
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34103"
+	},
+	"organization": {
+		"id": 5846,
+		"accreditations": [],
+		"alternate_name": "LCF",
+		"date_incorporated": null,
+		"description": "The primary objective of the Leadership Collier Program is to educate local business leaders about the societal and economic challenges facing the community today. This program will educate you on a host of issues which face Collier County from Education to Growth Management, Health Care to the Arts. This program runs from September through March and includes 10 full-day sessions. \\n\\nPrograms provided also include:\\n\\n* Leadership Collier\\n* Growing Associates in Naples \\n* Youth Leadership Collier\\n* Campaign for Leadership\\n* Leadership Institute\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LEADERSHIP COLLIER FOUNDATION, INC.",
+		"website": "http:\/\/www.napleschamber.org\/Chamber\/Leadership_Collier_Foundation.aspx",
+		"slug": "leadership-collier-foundation-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/leadership-collier-foundation-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/leadership-collier-foundation-inc\/locations"
+	},
+	"phones": [{
+		"id": 5846,
+		"department": null,
+		"extension": null,
+		"number": "239-262-6376",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

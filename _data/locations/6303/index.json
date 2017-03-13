@@ -1,0 +1,48 @@
+{
+	"id": 6303,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7114214,
+	26.13947],
+	"description": "See listed services",
+	"latitude": 26.13947,
+	"longitude": -81.7114214,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-b60e9e0d-b63f-4042-b5fd-cc6d2371be40",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-b60e9e0d-b63f-4042-b5fd-cc6d2371be40",
+	"address": {
+		"id": 2688,
+		"address_1": "7785 Davis Boulevard",
+		"address_2": "Suite 104",
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34104"
+	},
+	"organization": {
+		"id": 6302,
+		"accreditations": [],
+		"alternate_name": "NAPLES CAT ALLIANCE",
+		"date_incorporated": null,
+		"description": "Services offered include: trapping, neutering, returning and rescuing of homeless cats. Manages the registration and adoption of community cats and kittens, includes the feeding of over 1,000 cats. Also helps the community with pet retention by providing low cost veterinary services, when available, and operates a free roaming no kill cat shelter.\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COLLIER COMMUNITY CAT COALITION, INC.",
+		"website": "http:\/\/www.naplescatalliance.org",
+		"slug": "collier-community-cat-coalition-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-community-cat-coalition-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-community-cat-coalition-inc\/locations"
+	},
+	"phones": [{
+		"id": 6303,
+		"department": null,
+		"extension": null,
+		"number": "239-300-0829",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

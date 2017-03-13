@@ -1,0 +1,38 @@
+{
+	"id": 7239,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "After School, Summer camp, Spring camp provides tutoring in reading, math and writing enrichment, Common Core Florida Standards\/SAT Preparation, Homework assistance, Technology based learning, Private\/Group tutoring, Study skills and Test taking skills. Also provides a Florida Virtual school. Services provided in all subject areas by certified teachers. Snacks and dinner included. Monthly parent workshops are held in two sessions.\\n\\nCOMING SOON - January 2017:\\n* Daycare services starting from 1-5 years old.\\n* Christian based private school offering a Special Education unit grades K-12.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MEAGAN'S ACADEMIC CENTER, INC.",
+	"website": null,
+	"slug": "meagan-s-academic-center-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/meagan-s-academic-center-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/meagan-s-academic-center-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "justebrenda@gmail.com",
+		"id": 7239,
+		"name": "Dr. Brenda Juste",
+		"title": "President",
+		"phones": [{
+			"id": 7239,
+			"department": null,
+			"extension": null,
+			"number": "786-486-3405",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7239,
+		"department": null,
+		"extension": null,
+		"number": "786-486-3405",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

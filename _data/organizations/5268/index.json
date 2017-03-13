@@ -1,0 +1,84 @@
+{
+	"id": 5268,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Planned Parenthood of Southwest and Central Florida is an affiliate of Planned Parenthood Federation of America, the nation's largest and longest-running family planning organization. \\n\\nThousands of women, men and teens living in Collier County visit our health centers in Naples and Immokalee each year and rely on our comprehensive and affordable services to help them make responsible and informed decisions about their sexual and reproductive health.\\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "PLANNED PARENTHOOD OF SOUTHWEST AND CENTRAL FLORIDA",
+	"website": "http:\/\/www.plannedparenthood.org\/collier-county",
+	"slug": "planned-parenthood-of-southwest-and-central-florida",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/planned-parenthood-of-southwest-and-central-florida",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/planned-parenthood-of-southwest-and-central-florida\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 5268,
+		"name": "Barbara A. Zdravecky",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 5268,
+			"department": null,
+			"extension": null,
+			"number": "941-365-3913",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "diana.peightell@ppswcf.org",
+		"id": 5269,
+		"name": "Diana Peightell",
+		"title": null,
+		"phones": [{
+			"id": 5269,
+			"department": null,
+			"extension": null,
+			"number": "239-262-0301",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "diana.peightell@ppswcf.org",
+		"id": 5270,
+		"name": "Diana Peightell",
+		"title": null,
+		"phones": [{
+			"id": 5270,
+			"department": null,
+			"extension": null,
+			"number": "239-262-0301",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5268,
+		"department": null,
+		"extension": null,
+		"number": "941-365-3913",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5269,
+		"department": null,
+		"extension": null,
+		"number": "239-262-0301",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5270,
+		"department": null,
+		"extension": null,
+		"number": "239-262-0301",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

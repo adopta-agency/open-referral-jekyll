@@ -1,0 +1,48 @@
+{
+	"id": 7757,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2829026,
+	25.8633497],
+	"description": "See listed services",
+	"latitude": 25.8633497,
+	"longitude": -80.2829026,
+	"name": "Hialeah, FL",
+	"short_desc": null,
+	"slug": "hialeah-fl-4538-palm-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/hialeah-fl-4538-palm-avenue",
+	"address": {
+		"id": 3693,
+		"address_1": "4538 Palm Avenue",
+		"address_2": null,
+		"city": "Hialeah",
+		"state_province": "FL",
+		"postal_code": "33012"
+	},
+	"organization": {
+		"id": 7757,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides emotional and spiritual guidance for substance abuse support. This includes support groups, STEPS program, talk and group therapy. Recovery support seminars and interventions are held four times throughout the year. Also has a comprehensive treatment center that provides counseling for substance abuse and drug testing.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NUEVO CAMINAR MINISTERIO CATOLICO",
+		"website": null,
+		"slug": "nuevo-caminar-ministerio-catolico",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/nuevo-caminar-ministerio-catolico",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/nuevo-caminar-ministerio-catolico\/locations"
+	},
+	"phones": [{
+		"id": 7757,
+		"department": null,
+		"extension": null,
+		"number": "305-796-7202",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

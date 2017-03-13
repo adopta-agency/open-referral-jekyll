@@ -1,0 +1,38 @@
+{
+	"id": 3411,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "United Way 2-1-1 of Pasco County provides information and referral to residents of Pasco County in addition to counseling and suicide prevention.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "UNITED WAY 2-1-1 OF PASCO COUNTY, INC.",
+	"website": "http:\/\/www.unitedwaypasco.org",
+	"slug": "united-way-2-1-1-of-pasco-county-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-way-2-1-1-of-pasco-county-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-way-2-1-1-of-pasco-county-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 3411,
+		"name": "Duggan Cooley",
+		"title": "President\/CEO",
+		"phones": [{
+			"id": 3411,
+			"department": null,
+			"extension": null,
+			"number": "727-845-3030",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3411,
+		"department": null,
+		"extension": null,
+		"number": "727-845-3030",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

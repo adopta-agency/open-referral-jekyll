@@ -1,0 +1,61 @@
+{
+	"id": 650,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Mission of WLRN Public Radio and Television is to provide information, entertainment, and learning services with a commitment to excellence in serving local, national and international communities. WLRN is a multifaceted media enterprise comprising a television and a radio station, cable services, and closed-circuit educational channels. Serves from the areas of South Florida, Palm Beach to Key West.\\r\\n\\r\\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "WLRN PUBLIC RADIO",
+	"website": "http:\/\/www.wlrn.org",
+	"slug": "wlrn-public-radio",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/wlrn-public-radio",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/wlrn-public-radio\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jlabonia@wlrn.org",
+		"id": 650,
+		"name": "John LaBonia",
+		"title": "General Manager",
+		"phones": [{
+			"id": 650,
+			"department": null,
+			"extension": null,
+			"number": "305-995-1717",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lozada@wlrn.org",
+		"id": 651,
+		"name": "Mario Lozada",
+		"title": "RRS Coordinator",
+		"phones": [{
+			"id": 651,
+			"department": null,
+			"extension": null,
+			"number": "305-995-2218",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 650,
+		"department": null,
+		"extension": null,
+		"number": "305-995-1717",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 651,
+		"department": null,
+		"extension": null,
+		"number": "305-995-2218",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

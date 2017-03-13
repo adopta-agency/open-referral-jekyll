@@ -1,0 +1,48 @@
+{
+	"id": 3012,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77.0140068,
+	38.975287],
+	"description": "See listed services",
+	"latitude": 38.975287,
+	"longitude": -77.0140068,
+	"name": "Takoma Park, MD",
+	"short_desc": null,
+	"slug": "takoma-park-md",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/takoma-park-md",
+	"address": {
+		"id": 1521,
+		"address_1": "6930 Carroll Avenue",
+		"address_2": "Suite 400",
+		"city": "Takoma Park",
+		"state_province": "MD",
+		"postal_code": "20912"
+	},
+	"organization": {
+		"id": 3012,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Secure the Call is a charity that collects and converts as many old cell phones as possible into 911 emergency access phones. This is done on a national basis, with collections and distributions going on in most states.\\n\\nDistributions are made through community partners who work directly with clients. For information about how you can become a community partner, visit securethecall.org\/get-involved\/.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SECURE THE CALL, INC.",
+		"website": "http:\/\/securethecall.org",
+		"slug": "secure-the-call-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/secure-the-call-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/secure-the-call-inc\/locations"
+	},
+	"phones": [{
+		"id": 3012,
+		"department": null,
+		"extension": null,
+		"number": "301-891-2900",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,61 @@
+{
+	"id": 4126,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Kids Paradise is a for-profit organization that provides services to children 0-12 years old year round. After school and summer camp programs are available to all children ages 5-12 years of age. We provide after school tutoring, daily homework assistance and social skills to the children at our program. Nutritional snacks are provided on a daily basis.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "KIDS PARADISE CHILDCARE & LEARNING CENTER, INC.",
+	"website": "http:\/\/kidsparadisechildcareinfo.com",
+	"slug": "kids-paradise-childcare-learning-center-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/kids-paradise-childcare-learning-center-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/kids-paradise-childcare-learning-center-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "kidsparadise@bellsouth.net",
+		"id": 4126,
+		"name": "Maria Esteban",
+		"title": "Director",
+		"phones": [{
+			"id": 4126,
+			"department": null,
+			"extension": null,
+			"number": "305-553-1168",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kidsparadise@bellsouth.net",
+		"id": 4128,
+		"name": "Maria Esteban",
+		"title": "Director",
+		"phones": [{
+			"id": 4128,
+			"department": null,
+			"extension": null,
+			"number": "305-553-1168",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4126,
+		"department": null,
+		"extension": null,
+		"number": "305-553-1168",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4128,
+		"department": null,
+		"extension": null,
+		"number": "305-553-1168",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

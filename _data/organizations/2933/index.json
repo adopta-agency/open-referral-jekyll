@@ -1,0 +1,38 @@
+{
+	"id": 2933,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides methadone maintenance treatment (including; medically supervised withdrawal and detoxification from other opiates. Provides case management, individual counseling, treatment planning and patient referrals.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "BROWARD METRO TREATMENT CENTER",
+	"website": "http:\/\/www.methadonetreatment.com\/ClinicLocations.aspx?stateID=2&locationID=16",
+	"slug": "broward-metro-treatment-center",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/broward-metro-treatment-center",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/broward-metro-treatment-center\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "browardmetro@cmglp.com",
+		"id": 2933,
+		"name": "Melvin Baskin",
+		"title": "Program Director",
+		"phones": [{
+			"id": 2933,
+			"department": null,
+			"extension": null,
+			"number": "954-922-0522",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2933,
+		"department": null,
+		"extension": null,
+		"number": "954-922-0522",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

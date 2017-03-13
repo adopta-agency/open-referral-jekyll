@@ -1,0 +1,48 @@
+{
+	"id": 7779,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.777349,
+	24.56309],
+	"description": "See listed services",
+	"latitude": 24.56309,
+	"longitude": -81.777349,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-2405-north-roosevelt-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/key-west-fl-2405-north-roosevelt-boulevard",
+	"address": {
+		"id": 3715,
+		"address_1": "2405 North Roosevelt Boulevard",
+		"address_2": null,
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 7779,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Core Programs are Basic READ and English as a Second Language (ESL). Our new, NOAA supported Ocean Literacy Program helps ESL students improve English and learn about the ocean simultaneously. Offers free confidential one-to-one and small group literacy training by a trained LVA volunteer to Monroe County residents who desire to improve reading, writing and English communication skills.\\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LITERACY VOLUNTEERS OF AMERICA - MONROE COUNTY, INC.",
+		"website": "http:\/\/www.lva-monroe.org",
+		"slug": "literacy-volunteers-of-america-monroe-county-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/literacy-volunteers-of-america-monroe-county-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/literacy-volunteers-of-america-monroe-county-inc\/locations"
+	},
+	"phones": [{
+		"id": 7779,
+		"department": null,
+		"extension": null,
+		"number": "305-294-4352",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

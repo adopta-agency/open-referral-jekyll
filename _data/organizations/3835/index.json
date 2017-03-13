@@ -1,0 +1,62 @@
+{
+	"id": 3835,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "This is a 72-bed free standing psychiatric hospital. The hospital is comprised of three adult inpatient units and offers a separate 18 bed unit for adolescents requiring short-term, acute care for psychiatric disorders. The treatment team of psychiatrists, psychologists, medical specialists, addiction counselors, psychiatric social workers, nurses, counselors and educational specialists provide a full range of services.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SOUTHERN WINDS HOSPITAL",
+	"website": "http:\/\/westchestergeneralhospital.com\/southern-winds-hospital\/",
+	"slug": "southern-winds-hospital",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/southern-winds-hospital",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/southern-winds-hospital\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "gbaldwin@westchesterhospital.com",
+		"id": 3835,
+		"name": "Gilda Baldwin",
+		"title": "CEO",
+		"phones": [{
+			"id": 3835,
+			"department": null,
+			"extension": null,
+			"number": "305-558-9700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "admwgh@westchesterhospital.com",
+		"id": 3836,
+		"name": "Maria Kerrick, RN",
+		"title": "Chief Nursing Officer",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "admwgh@westchesterhospital.com",
+		"id": 3837,
+		"name": "Maria Kerrick, RN",
+		"title": "Chief Nursing Officer",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "admwgh@westchesterhospital.com",
+		"id": 7575,
+		"name": "Maria Kerrick, RN",
+		"title": "Chief Nursing Officer",
+		"phones": []
+	}],
+	"phones": [{
+		"id": 3835,
+		"department": null,
+		"extension": null,
+		"number": "305-558-9700",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

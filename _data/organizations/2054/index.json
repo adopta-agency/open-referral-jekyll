@@ -1,0 +1,107 @@
+{
+	"id": 2054,
+	"accreditations": [],
+	"alternate_name": "BFC",
+	"date_incorporated": null,
+	"description": "Bridging Families & Communities is a community based inter-agency team providing intensive home based services for children of high conflict and domestic violence families. Fiscally managed by The Advocate Program, Inc, it is a System of Care focusing on family strengths and need, in a cultural competent and easily accessible manner. The BFC Collaborative is a community partnership comprised of over 40 agencies in Miami-Dade. This collaborative is works together to identify unmet needs, barriers, and gaps in services. Capacity building trainings and community awareness on domestic violence\/family conflict are also offered through the BFC Collaborative.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "BRIDGING FAMILIES AND COMMUNITIES",
+	"website": "http:\/\/advocateprogram.com\/about-bridging-families-communities\/",
+	"slug": "bridging-families-and-communities",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/bridging-families-and-communities",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/bridging-families-and-communities\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "altheab@advocateprogram.org",
+		"id": 2054,
+		"name": "Althea Birch",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 2054,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0116",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "altheab@advocateprogram.org",
+		"id": 2055,
+		"name": "Althea Birch",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 2055,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0116",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "belindap@advocateprogram.org",
+		"id": 2056,
+		"name": "Belinda Paulicin, DSW, LCSW",
+		"title": "Director of Clinical Programs",
+		"phones": [{
+			"id": 2056,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0116",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "altheab@advocateprogram.org",
+		"id": 2057,
+		"name": "Althea Birch",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 2057,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0118",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2054,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0116",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2055,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0116",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2056,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0116",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2057,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0118",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

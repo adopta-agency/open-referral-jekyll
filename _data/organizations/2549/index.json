@@ -1,0 +1,61 @@
+{
+	"id": 2549,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "JPM Centre is a non-profit 501 c(3) organization established as an oasis for positive mobility. This cultural centre was created to instill justice, potential and motivation for all through our many programs aimed in providing an increase in socio and economic development. The JPM Centre is a HELP Center for the Community. The JPM Centre opens its doors to house, train, employ and build-up people from all walks of life.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE JPM CENTRE AT MIAMI GARDENS DRIVE, INC.",
+	"website": "http:\/\/www.jpmcentre.org",
+	"slug": "the-jpm-centre-at-miami-gardens-drive-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-jpm-centre-at-miami-gardens-drive-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-jpm-centre-at-miami-gardens-drive-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "drgloria@jesuspeoplemiami.com",
+		"id": 2549,
+		"name": "Dr. Gloria Williams",
+		"title": "President",
+		"phones": [{
+			"id": 2549,
+			"department": null,
+			"extension": null,
+			"number": "305-625-9630",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Richelle@jesuspeoplemiami.com",
+		"id": 2550,
+		"name": "Richelle Williams",
+		"title": "Vice-President",
+		"phones": [{
+			"id": 2550,
+			"department": null,
+			"extension": null,
+			"number": "305-625-2978",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2549,
+		"department": null,
+		"extension": null,
+		"number": "305-625-9630",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2550,
+		"department": null,
+		"extension": null,
+		"number": "305-625-2978",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

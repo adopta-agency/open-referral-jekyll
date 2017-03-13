@@ -1,0 +1,38 @@
+{
+	"id": 7293,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "AileyCamp Miami is a summer day camp where middle school students come to respect the discipline of dance as a physical activity that requires athletic ability comparable to skills demanded by any sport. Also, campers will increase their leadership skills and enjoy a variety of social activities. This is a full scholarship six week summer program. Camp uniforms, dance attire, field trips, transportation, breakfast, and lunches are provided.\\n\\nDates: June 27 - August 6\\nFinal performance on August 6",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "AILEYCAMP MIAMI",
+	"website": "http:\/\/www.arshtcenter.org\/en\/Education-Community-Engagement\/Upcoming-Events\/Events\/AileyCamp-Miami-2015\/",
+	"slug": "aileycamp-miami",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/aileycamp-miami",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/aileycamp-miami\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "aileycamp@arshtcenter.org",
+		"id": 7293,
+		"name": "Agatha Wright",
+		"title": "Camp Administrator",
+		"phones": [{
+			"id": 7293,
+			"department": null,
+			"extension": null,
+			"number": "786-468-2270",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7293,
+		"department": null,
+		"extension": null,
+		"number": "786-468-2270",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

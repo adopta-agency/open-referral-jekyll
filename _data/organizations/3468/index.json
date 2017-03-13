@@ -1,0 +1,38 @@
+{
+	"id": 3468,
+	"accreditations": [],
+	"alternate_name": "GMYS",
+	"date_incorporated": null,
+	"description": "GMYS is an independent five-level orchestra program dedicated to training young musicians between 5 and 18 years of age.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "GREATER MIAMI YOUTH SYMPHONY, INC.",
+	"website": "http:\/\/www.gmys.org",
+	"slug": "greater-miami-youth-symphony-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/greater-miami-youth-symphony-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/greater-miami-youth-symphony-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "lakeishafrith@gmys.org",
+		"id": 3468,
+		"name": "Lakeisha Frith",
+		"title": "Assistant Executive Director",
+		"phones": [{
+			"id": 3468,
+			"department": null,
+			"extension": null,
+			"number": "305-667-4069",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3468,
+		"department": null,
+		"extension": null,
+		"number": "305-667-4069",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 3287,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami Gardens, FL",
+	"short_desc": null,
+	"slug": "miami-gardens-fl-18441-nw-2nd-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-gardens-fl-18441-nw-2nd-avenue",
+	"address": {
+		"id": 1625,
+		"address_1": "18441 NW 2nd Avenue",
+		"address_2": "Suite 106",
+		"city": "Miami Gardens",
+		"state_province": "FL",
+		"postal_code": "33169"
+	},
+	"organization": {
+		"id": 3287,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Center promotes self empowerment to the consumers of mental health services, through advocacy, recovery trainings, education and support in a stigma free environment.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FRESH START DROP IN CENTER",
+		"website": null,
+		"slug": "fresh-start-drop-in-center",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/fresh-start-drop-in-center",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/fresh-start-drop-in-center\/locations"
+	},
+	"phones": [{
+		"id": 3287,
+		"department": null,
+		"extension": null,
+		"number": "305-623-9937",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,41 @@
+{
+	"id": 928,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1334432,
+	25.7824355],
+	"description": "See listed services",
+	"latitude": 25.7824355,
+	"longitude": -80.1334432,
+	"name": "Miami Beach, FL",
+	"short_desc": null,
+	"slug": "miami-beach-fl-5d6ecb8c-24d2-4265-8110-b90fce0432a0",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-beach-fl-5d6ecb8c-24d2-4265-8110-b90fce0432a0",
+	"address": {
+		"id": 484,
+		"address_1": "1100 Washington Avenue",
+		"address_2": null,
+		"city": "Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33139"
+	},
+	"organization": {
+		"id": 927,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Responsible for enforcing all laws and ordinances of Miami Beach, preventing crime, investigating criminal activity, apprehending, arresting and detaining suspects, presenting evidence, regulating traffic and investigating accidents. Provides victim\/witness assistance and sponsors the Police Athletic League.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI BEACH POLICE",
+		"website": "http:\/\/web.miamibeachfl.gov\/pd\/",
+		"slug": "miami-beach-police",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-beach-police",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-beach-police\/locations"
+	},
+	"phones": []
+}

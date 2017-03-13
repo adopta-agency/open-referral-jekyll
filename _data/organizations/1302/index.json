@@ -1,0 +1,54 @@
+{
+	"id": 1302,
+	"accreditations": [],
+	"alternate_name": "A4L",
+	"date_incorporated": null,
+	"description": "Arts for Learning (A4L) is a nonprofit organization dedicated to advancing teaching and learning through the arts and community cultural resources. A4L is a joint initiative of the Miami-Dade County Department of Cultural Affairs, Miami-Dade County Public Schools, & Young Audiences, Inc. a national nonprofit leader in arts-in-education. \\n\\nA4L uses the arts to develop academic achievement and life-skills. A4L provides teacher professional development, and programming for children and children and youth at schools, after-schools, and early childhood centers throughout the county.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ARTS FOR LEARNING MIAMI, INC.",
+	"website": "http:\/\/www.a4lmiami.org",
+	"slug": "arts-for-learning-miami-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/arts-for-learning-miami-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/arts-for-learning-miami-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "sheila@a4lmiami.org",
+		"id": 1302,
+		"name": "Sheila Womble",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 1302,
+			"department": null,
+			"extension": "23.0",
+			"number": "305-576-1212",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dia@a4lmiami.org",
+		"id": 7675,
+		"name": "Dia Carter Webb",
+		"title": "Senior Program Director",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "ivy@a4lmiami.org",
+		"id": 7704,
+		"name": "Ivy Bennett",
+		"title": "Program Director",
+		"phones": []
+	}],
+	"phones": [{
+		"id": 1302,
+		"department": null,
+		"extension": "23.0",
+		"number": "305-576-1212",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

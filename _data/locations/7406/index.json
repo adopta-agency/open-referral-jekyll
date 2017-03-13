@@ -1,0 +1,41 @@
+{
+	"id": 7406,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2571473,
+	25.7554763],
+	"description": "See listed services",
+	"latitude": 25.7554763,
+	"longitude": -80.2571473,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-111-majorca-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-111-majorca-avenue",
+	"address": {
+		"id": 3389,
+		"address_1": "111 Majorca Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33134"
+	},
+	"organization": {
+		"id": 7406,
+		"accreditations": [],
+		"alternate_name": "MCRC",
+		"date_incorporated": null,
+		"description": "We are a group practice located in Coral Gables. Our center provides individual, couples, and family counseling, as well as ADHD and gifted testing evaluations. In addition, we have two psychiatrists and a nutritionist on staff.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI COUNSELING AND RESOURCE CENTER, INC.",
+		"website": "http:\/\/www.miamicounseling.com",
+		"slug": "miami-counseling-and-resource-center-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-counseling-and-resource-center-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-counseling-and-resource-center-inc\/locations"
+	},
+	"phones": []
+}

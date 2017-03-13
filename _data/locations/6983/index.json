@@ -1,0 +1,48 @@
+{
+	"id": 6983,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.149814,
+	25.9714969],
+	"description": "See listed services",
+	"latitude": 25.9714969,
+	"longitude": -80.149814,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2601-ne-211st-terrace",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-2601-ne-211st-terrace",
+	"address": {
+		"id": 3084,
+		"address_1": "2601 NE 211st Terrace",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33180"
+	},
+	"organization": {
+		"id": 6983,
+		"accreditations": [],
+		"alternate_name": "CHAP",
+		"date_incorporated": null,
+		"description": "CHAP is an exciting and innovative after school program that combines key components including literacy and fitness with a desire to learn the Hebrew culture and language.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CHABAD CHAYIL, INC.",
+		"website": "http:\/\/www.hebrewschool.info",
+		"slug": "chabad-chayil-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/chabad-chayil-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/chabad-chayil-inc\/locations"
+	},
+	"phones": [{
+		"id": 6983,
+		"department": null,
+		"extension": null,
+		"number": "305-770-1919",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

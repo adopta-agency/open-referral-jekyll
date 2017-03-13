@@ -1,0 +1,48 @@
+{
+	"id": 2783,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-da9733ae-a7e5-4879-8dbb-143604a664f2",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-da9733ae-a7e5-4879-8dbb-143604a664f2",
+	"address": {
+		"id": 1370,
+		"address_1": "450 NW 14th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 2782,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The center locates academic and recreational activities in a safe environment, working with children and families and schools from grade 2 to graduation. We offer in school, after-school, weekend, and summer programs that include academic enhancement, physical fitness, health-care and nutrition, creative arts, culinary arts, preventions, character building, and family-oriented activities including parent orientation.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "OVERTOWN YOUTH CENTER, INC.",
+		"website": "http:\/\/www.overtownyouth.org",
+		"slug": "overtown-youth-center-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/overtown-youth-center-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/overtown-youth-center-inc\/locations"
+	},
+	"phones": [{
+		"id": 2783,
+		"department": null,
+		"extension": null,
+		"number": "305-349-1204",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,61 @@
+{
+	"id": 3562,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The SFBC is a chartered replication of the world renowned Boys Choir of Harlem, Inc., conducts a four (4) week Summer Music Program for children\/youth (grades 2-10). SMI offers academic enrichment, artistic development (Dance\/Theory\/Keyboarding\/Percussions) artistic performance, counseling, physical education, field trips and free lunch.\\n\\nSummer Music Institute for children\/youth from under-served communities with no formal vocal training shares the joys, discipline and rewards of music to transform lives.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE SOUTH FLORIDA BOYS CHOIR, INC.",
+	"website": null,
+	"slug": "the-south-florida-boys-choir-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-south-florida-boys-choir-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-south-florida-boys-choir-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "sfboyschoir@aol.com",
+		"id": 3562,
+		"name": "Angela Green",
+		"title": "Program Officer",
+		"phones": [{
+			"id": 3562,
+			"department": null,
+			"extension": null,
+			"number": "786-701-2780",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sfboyschoir@aol.com",
+		"id": 3563,
+		"name": "Angela Green",
+		"title": "Program Officer",
+		"phones": [{
+			"id": 3563,
+			"department": null,
+			"extension": null,
+			"number": "786-701-2780",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3562,
+		"department": null,
+		"extension": null,
+		"number": "786-701-2780",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3563,
+		"department": null,
+		"extension": null,
+		"number": "786-701-2780",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 1888,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-84,
+	30],
+	"description": "See listed services",
+	"latitude": 30,
+	"longitude": -84,
+	"name": "Tallahassee, FL",
+	"short_desc": null,
+	"slug": "tallahassee-fl-2737-centerview-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/tallahassee-fl-2737-centerview-drive",
+	"address": {
+		"id": 990,
+		"address_1": "2737 Centerview Drive",
+		"address_2": "Knight Building",
+		"city": "Tallahassee",
+		"state_province": "FL",
+		"postal_code": "32399-3100"
+	},
+	"organization": {
+		"id": 1888,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Established by the 1994 Juvenile Justice Act, this department provides intake, supervision and community referral services for young people under age 18 who have violated the law.\\n\\n###COL###\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA DEPARTMENT OF JUVENILE JUSTICE",
+		"website": "http:\/\/www.djj.state.fl.us",
+		"slug": "florida-department-of-juvenile-justice",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-juvenile-justice",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-juvenile-justice\/locations"
+	},
+	"phones": [{
+		"id": 1888,
+		"department": null,
+		"extension": null,
+		"number": "850-488-1850",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

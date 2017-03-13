@@ -1,0 +1,130 @@
+{
+	"id": 7833,
+	"accreditations": [],
+	"alternate_name": "CENTRO DE AVIVAMIENTO",
+	"date_incorporated": null,
+	"description": "Holy Spirit Cathedral is a Faith-based, non-residential, non-profit organization based in Hialeah, FL who helps strengthen both men, women, adolescents, & any child of any age, who have lost their way in life due to circumstance, battle and overcome through Faith and the assistance of equipped Mentors who teach you how to strengthen your spiritual foundation in order to help you overcome providing counseling and tools for emotional, mental, and spiritual support & guidance.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HOLY SPIRIT CATHEDRAL REVIVAL CENTER CHURCH, INC.",
+	"website": "http:\/\/avivamientodedios.com",
+	"slug": "holy-spirit-cathedral-revival-center-church-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/holy-spirit-cathedral-revival-center-church-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/holy-spirit-cathedral-revival-center-church-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Holyspiritcath@msn.com",
+		"id": 7833,
+		"name": "Luis Arenas",
+		"title": "Head Pastor",
+		"phones": [{
+			"id": 7833,
+			"department": null,
+			"extension": null,
+			"number": "305-332-1976",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mburgosrueda0919@gmail.com",
+		"id": 7834,
+		"name": "Marilyn Rueda",
+		"title": "Substance Abuse Mentor",
+		"phones": [{
+			"id": 7834,
+			"department": null,
+			"extension": null,
+			"number": "305-332-1976",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Mburgosrueda0919@gmail.com",
+		"id": 7835,
+		"name": "Marilyn Rueda",
+		"title": "Mood Disorder & Crisis Mentor",
+		"phones": [{
+			"id": 7835,
+			"department": null,
+			"extension": null,
+			"number": "305-332-1976",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Mburgosrueda0919@gmail.com",
+		"id": 7836,
+		"name": "Marilyn Rueda",
+		"title": "Mood Disorder & Crisis Mentor",
+		"phones": [{
+			"id": 7836,
+			"department": null,
+			"extension": null,
+			"number": "305-332-1976",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Mburgosrueda0919@gmail.com",
+		"id": 7837,
+		"name": "Marilyn Rueda",
+		"title": "Mood Disorder, Suicidal Prevention, & Crisis Mentor",
+		"phones": [{
+			"id": 7837,
+			"department": null,
+			"extension": null,
+			"number": "305-332-1976",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7833,
+		"department": null,
+		"extension": null,
+		"number": "305-332-1976",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7834,
+		"department": null,
+		"extension": null,
+		"number": "305-332-1976",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7835,
+		"department": null,
+		"extension": null,
+		"number": "305-332-1976",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7836,
+		"department": null,
+		"extension": null,
+		"number": "305-332-1976",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7837,
+		"department": null,
+		"extension": null,
+		"number": "305-332-1976",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

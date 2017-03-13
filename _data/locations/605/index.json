@@ -1,0 +1,48 @@
+{
+	"id": 605,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Hialeah, FL",
+	"short_desc": null,
+	"slug": "hialeah-fl-f127e980-c197-433a-9e85-f5968ac42872",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/hialeah-fl-f127e980-c197-433a-9e85-f5968ac42872",
+	"address": {
+		"id": 313,
+		"address_1": "7700 NW 98th Street",
+		"address_2": null,
+		"city": "Hialeah",
+		"state_province": "FL",
+		"postal_code": "33016"
+	},
+	"organization": {
+		"id": 602,
+		"accreditations": [],
+		"alternate_name": "Centro Mater East and Centro Mater West",
+		"date_incorporated": null,
+		"description": "Centro Mater Childcare Services Inc. is a 45-year-old, nonprofit organization that strives to aid economically disadvantaged families by providing quality childcare and education services.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CENTRO MATER CHILDCARE CENTER, INC.",
+		"website": "http:\/\/centromater.com",
+		"slug": "centro-mater-childcare-center-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/centro-mater-childcare-center-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/centro-mater-childcare-center-inc\/locations"
+	},
+	"phones": [{
+		"id": 605,
+		"department": null,
+		"extension": null,
+		"number": "305-362-9701",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

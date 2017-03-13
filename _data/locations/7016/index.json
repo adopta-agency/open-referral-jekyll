@@ -1,0 +1,48 @@
+{
+	"id": 7016,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	27],
+	"description": "See listed services",
+	"latitude": 27,
+	"longitude": -80,
+	"name": "West Palm Beach, FL",
+	"short_desc": null,
+	"slug": "west-palm-beach-fl-5725-corporate-way",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/west-palm-beach-fl-5725-corporate-way",
+	"address": {
+		"id": 3110,
+		"address_1": "5725 Corporate Way",
+		"address_2": "Suite 102",
+		"city": "West Palm Beach",
+		"state_province": "FL",
+		"postal_code": "33407"
+	},
+	"organization": {
+		"id": 1985,
+		"accreditations": [],
+		"alternate_name": "AHEC",
+		"date_incorporated": null,
+		"description": "The mission of this nonprofit is to assist health professionals and students in their educational and professional goals through a variety of employment assistance and career programs, continuing education and networking. The agency also has a computer network of medical resources.\\n\\n###MON###\\n###COL###\\n\\n\\nLa misi+\u00a6n de esta organizaci+\u00a6n no lucrativa es ayudar a los profesionales de la salud y estudiantes en sus metas educativas y profesionales a trav+\u00acs de una variedad de asistencia para el empleo y los programas de carrera, educaci+\u00a6n continua y trabajo en red. La agencia tambi+\u00acn tiene una red inform+\u00edtica de recursos m+\u00acdicos.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AREA HEALTH EDUCATION CENTER",
+		"website": "http:\/\/www.nationalahec.org",
+		"slug": "area-health-education-center",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/area-health-education-center",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/area-health-education-center\/locations"
+	},
+	"phones": [{
+		"id": 7016,
+		"department": null,
+		"extension": null,
+		"number": "877-819-2357",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

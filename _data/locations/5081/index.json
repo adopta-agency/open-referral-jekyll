@@ -1,0 +1,48 @@
+{
+	"id": 5081,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.8115051,
+	26.2448015],
+	"description": "See listed services",
+	"latitude": 26.2448015,
+	"longitude": -81.8115051,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-p-o-box-111431",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-p-o-box-111431",
+	"address": {
+		"id": 2135,
+		"address_1": "P.O. Box 111431",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34108"
+	},
+	"organization": {
+		"id": 5081,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Paradise Coastmen chorus and its quartets are composed of gentlemen, more that half of whom are seasonal residents. The chorus performs a variety of music familiar to both the young and the young at heart. In addition to our many public and private performances, the men of the chorus annually conduct a \"Pub Crawl\" during the December holiday season to benefit the Salvation Army.\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "PARADISE COASTMEN BARBERSHOP CHORUS",
+		"website": "http:\/\/naplesbarbershopchorus.org\/",
+		"slug": "paradise-coastmen-barbershop-chorus",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/paradise-coastmen-barbershop-chorus",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/paradise-coastmen-barbershop-chorus\/locations"
+	},
+	"phones": [{
+		"id": 5081,
+		"department": null,
+		"extension": null,
+		"number": "239-352-6366",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

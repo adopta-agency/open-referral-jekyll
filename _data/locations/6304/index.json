@@ -1,0 +1,48 @@
+{
+	"id": 6304,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Fort Lauderdale, FL",
+	"short_desc": null,
+	"slug": "fort-lauderdale-fl-1601-e-las-olas-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/fort-lauderdale-fl-1601-e-las-olas-boulevard",
+	"address": {
+		"id": 2689,
+		"address_1": "1601 E Las Olas Boulevard",
+		"address_2": null,
+		"city": "Fort Lauderdale",
+		"state_province": "FL",
+		"postal_code": "33301"
+	},
+	"organization": {
+		"id": 6304,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Fort Lauderdale Hospital is a fully licensed, 100-bed, private hospital that specializes in the treatment of drug addiction, mental health issues and co-occurring disorders for adolescents (11-17), adults (18+), and seniors (55+).",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FORT LAUDERDALE HOSPITAL",
+		"website": "http:\/\/fortlauderdalehospital.org\/",
+		"slug": "fort-lauderdale-hospital",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/fort-lauderdale-hospital",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/fort-lauderdale-hospital\/locations"
+	},
+	"phones": [{
+		"id": 6304,
+		"department": null,
+		"extension": null,
+		"number": "954-463-4321",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

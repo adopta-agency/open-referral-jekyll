@@ -1,0 +1,48 @@
+{
+	"id": 1066,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "North Miami Beach, FL",
+	"short_desc": null,
+	"slug": "north-miami-beach-fl-16101-west-dixie-highway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/north-miami-beach-fl-16101-west-dixie-highway",
+	"address": {
+		"id": 557,
+		"address_1": "16101 West Dixie Highway",
+		"address_2": null,
+		"city": "North Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33160"
+	},
+	"organization": {
+		"id": 1066,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Dedicated to creating a humane community in which all companion animals have homes with responsible, committed and loving caregivers. The Society is focused on ending the euthanasia of healthy, adoptable pets by providing the public with quality adoption services, low-cost spray\/neuter services and extensive humane education programming for citizens of all ages. The Society advocates the elimination of cruelty, neglect and pet overpopulation, and is dedicated to achieving a more kind, just and loving community for the pets and people of Miami-Dade County. Also known as the Dade County Society for the Prevention of Cruelty to Animals.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HUMANE SOCIETY OF GREATER MIAMI, INC.",
+		"website": "http:\/\/www.humanesocietymiami.org",
+		"slug": "humane-society-of-greater-miami-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/humane-society-of-greater-miami-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/humane-society-of-greater-miami-inc\/locations"
+	},
+	"phones": [{
+		"id": 1066,
+		"department": null,
+		"extension": null,
+		"number": "305-696-0800",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

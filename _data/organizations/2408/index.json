@@ -1,0 +1,222 @@
+{
+	"id": 2408,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Free legal services to eligible clients on a wide range of civil (non-criminal) legal matters. Staff Attorneys work in Units handling the following areas of law: Family Law, Housing Law, Public Benefits (includes social security, disability, unemployment), Immigration Law, and Education Law. Legal Aid also operates a Low Income Taxpayers Clinic, and the Collier Lawyers Care Pro Bono Program.\\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "LEGAL AID SERVICE OF COLLIER COUNTY, INC.",
+	"website": "http:\/\/www.legalaid.org\/collier",
+	"slug": "legal-aid-service-of-collier-county-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/legal-aid-service-of-collier-county-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/legal-aid-service-of-collier-county-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "collierinfo@legalaid.org",
+		"id": 2408,
+		"name": "Anthony J. Karrat, Esq.",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 2408,
+			"department": null,
+			"extension": null,
+			"number": "239-775-4555",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "collierinfo@legalaid.org",
+		"id": 2409,
+		"name": "Carol O'Callaghan, Esq.",
+		"title": "Managing Attorney",
+		"phones": [{
+			"id": 2409,
+			"department": null,
+			"extension": null,
+			"number": "239-775-4555",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "collierinfo@legalaid.org",
+		"id": 5318,
+		"name": "Carol O'Callaghan, Esq.",
+		"title": "Managing Attorney",
+		"phones": [{
+			"id": 5318,
+			"department": null,
+			"extension": null,
+			"number": "239-775-4555",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "collierinfo@legalaid.org",
+		"id": 5319,
+		"name": "Carol O'Callaghan, Esq.",
+		"title": "Managing Attorney",
+		"phones": [{
+			"id": 5319,
+			"department": null,
+			"extension": null,
+			"number": "239-775-4555",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "collierinfo@legalaid.org",
+		"id": 5320,
+		"name": "Carol O'Callaghan, Esq.",
+		"title": "Managing Attorney",
+		"phones": [{
+			"id": 5320,
+			"department": null,
+			"extension": null,
+			"number": "239-775-4555",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "collierinfo@legalaid.org",
+		"id": 5321,
+		"name": "Carol O'Callaghan, Esq.",
+		"title": "Managing Attorney",
+		"phones": [{
+			"id": 5321,
+			"department": null,
+			"extension": null,
+			"number": "239-775-4555",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "collierinfo@legalaid.org",
+		"id": 5322,
+		"name": "Carol O'Callaghan, Esq.",
+		"title": "Managing Attorney",
+		"phones": [{
+			"id": 5322,
+			"department": null,
+			"extension": null,
+			"number": "239-775-4555",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "collierinfo@legalaid.org",
+		"id": 5323,
+		"name": "Carol O'Callaghan, Esq.",
+		"title": "Managing Attorney",
+		"phones": [{
+			"id": 5323,
+			"department": null,
+			"extension": null,
+			"number": "239-775-4555",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "collierinfo@legalaid.org",
+		"id": 5324,
+		"name": "Carol O'Callaghan, Esq.",
+		"title": "Managing Attorney",
+		"phones": [{
+			"id": 5324,
+			"department": null,
+			"extension": null,
+			"number": "239-657-7442",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2408,
+		"department": null,
+		"extension": null,
+		"number": "239-775-4555",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2409,
+		"department": null,
+		"extension": null,
+		"number": "239-775-4555",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5318,
+		"department": null,
+		"extension": null,
+		"number": "239-775-4555",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5319,
+		"department": null,
+		"extension": null,
+		"number": "239-775-4555",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5320,
+		"department": null,
+		"extension": null,
+		"number": "239-775-4555",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5321,
+		"department": null,
+		"extension": null,
+		"number": "239-775-4555",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5322,
+		"department": null,
+		"extension": null,
+		"number": "239-775-4555",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5323,
+		"department": null,
+		"extension": null,
+		"number": "239-775-4555",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5324,
+		"department": null,
+		"extension": null,
+		"number": "239-657-7442",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

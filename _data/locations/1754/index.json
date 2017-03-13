@@ -1,0 +1,48 @@
+{
+	"id": 1754,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1951435,
+	25.7746175],
+	"description": "See listed services",
+	"latitude": 25.7746175,
+	"longitude": -80.1951435,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-73-west-flagler-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-73-west-flagler-street",
+	"address": {
+		"id": 906,
+		"address_1": "73 West Flagler Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33130"
+	},
+	"organization": {
+		"id": 1754,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "This program provides self help materials and information to fathers during pre-divorce, divorce and post-divorce times. Also assists unwed fathers in Family Court, and provides assistance with custody and time-sharing.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FATHERS FOR EQUAL RIGHTS, THE NATIONAL ORGANIZATION, INC.",
+		"website": "http:\/\/www.fathersforequalrights-miami.org",
+		"slug": "fathers-for-equal-rights-the-national-organization-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/fathers-for-equal-rights-the-national-organization-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/fathers-for-equal-rights-the-national-organization-inc\/locations"
+	},
+	"phones": [{
+		"id": 1754,
+		"department": null,
+		"extension": null,
+		"number": "305-335-9077",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

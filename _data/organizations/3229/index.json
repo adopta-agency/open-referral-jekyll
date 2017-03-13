@@ -1,0 +1,222 @@
+{
+	"id": 3229,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Through Florida KidCare, the state of Florida offers health insurance for children from birth through age 18, even if one or both parents are working. It includes four different parts. When you apply for the insurance, Florida KidCare will check which part your child may qualify for based on age and family income.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA KIDCARE",
+	"website": "http:\/\/www.floridakidcare.org\/",
+	"slug": "florida-kidcare",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-kidcare",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-kidcare\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 3229,
+		"name": "Rich Robleto",
+		"title": "Healthy Kids Director",
+		"phones": [{
+			"id": 3229,
+			"department": null,
+			"extension": null,
+			"number": "888-540-5437",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "gail.hansen@ahca.myflorida.com",
+		"id": 3230,
+		"name": "Gail Hansen",
+		"title": "MediKids Program Administrator",
+		"phones": [{
+			"id": 3230,
+			"department": null,
+			"extension": null,
+			"number": "877-506-0578",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 3231,
+		"name": "Rich Robleto",
+		"title": "Healthy Kids Director",
+		"phones": [{
+			"id": 3231,
+			"department": null,
+			"extension": null,
+			"number": "888-540-5437",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "hilld@healthykids.org",
+		"id": 3232,
+		"name": "Dwana Hill",
+		"title": "Outreach Coordinator",
+		"phones": [{
+			"id": 3232,
+			"department": null,
+			"extension": null,
+			"number": "888-352-5437",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "bob_hoelzle@dcf.state.fl.us",
+		"id": 3233,
+		"name": "Bob Hoelzle",
+		"title": "Florida Medicaid Hotline Supevisor",
+		"phones": [{
+			"id": 3233,
+			"department": null,
+			"extension": null,
+			"number": "888-540-5437",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "abkair@aol.com",
+		"id": 4414,
+		"name": "Andrew Kairalla, M.D.",
+		"title": "Medical Director",
+		"phones": [{
+			"id": 4414,
+			"department": null,
+			"extension": null,
+			"number": "305-289-2779",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "abkair@aol.com",
+		"id": 4415,
+		"name": "Dr. Andrew Kairalla",
+		"title": "Medical Director",
+		"phones": [{
+			"id": 4415,
+			"department": null,
+			"extension": null,
+			"number": "786-624-5700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "abkair@aol.com",
+		"id": 4416,
+		"name": "Dr. Jeffery Beosco",
+		"title": "Medical Director",
+		"phones": [{
+			"id": 4416,
+			"department": null,
+			"extension": null,
+			"number": "305-349-1330",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Lsanders@med.miami.edu",
+		"id": 4417,
+		"name": "Lee Sanders, M.D.",
+		"title": "Regional Medical Director",
+		"phones": [{
+			"id": 4417,
+			"department": null,
+			"extension": null,
+			"number": "305-349-1330",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3229,
+		"department": null,
+		"extension": null,
+		"number": "888-540-5437",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3230,
+		"department": null,
+		"extension": null,
+		"number": "877-506-0578",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3231,
+		"department": null,
+		"extension": null,
+		"number": "888-540-5437",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3232,
+		"department": null,
+		"extension": null,
+		"number": "888-352-5437",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3233,
+		"department": null,
+		"extension": null,
+		"number": "888-540-5437",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4414,
+		"department": null,
+		"extension": null,
+		"number": "305-289-2779",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4415,
+		"department": null,
+		"extension": null,
+		"number": "786-624-5700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4416,
+		"department": null,
+		"extension": null,
+		"number": "305-349-1330",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4417,
+		"department": null,
+		"extension": null,
+		"number": "305-349-1330",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

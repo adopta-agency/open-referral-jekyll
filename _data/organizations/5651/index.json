@@ -1,0 +1,38 @@
+{
+	"id": 5651,
+	"accreditations": [],
+	"alternate_name": "Florida Introduces Physical Activity and Nutrition to Youth",
+	"date_incorporated": null,
+	"description": "Flipany provides nutrition and physical fitness education to South Florida communities.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLIPANY",
+	"website": "http:\/\/www.flipany.org",
+	"slug": "flipany",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/flipany",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/flipany\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "kperezcarrion@flipany.org",
+		"id": 5651,
+		"name": "Kristine Perez-Carrion",
+		"title": "Director of Programs",
+		"phones": [{
+			"id": 5651,
+			"department": null,
+			"extension": "1253.0",
+			"number": "954-636-2388",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5651,
+		"department": null,
+		"extension": "1253.0",
+		"number": "954-636-2388",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

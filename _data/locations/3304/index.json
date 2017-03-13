@@ -1,0 +1,48 @@
+{
+	"id": 3304,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	27],
+	"description": "See listed services",
+	"latitude": 27,
+	"longitude": -80,
+	"name": "Stuart, FL",
+	"short_desc": null,
+	"slug": "stuart-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/stuart-fl",
+	"address": {
+		"id": 1629,
+		"address_1": "7804 SW Ellipse Way",
+		"address_2": null,
+		"city": "Stuart",
+		"state_province": "FL",
+		"postal_code": "34994"
+	},
+	"organization": {
+		"id": 3304,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "AA Trauma Cleaning Service specializes in crime scene and biological hazard cleanup, as well as disaster mitigation services across South Florida and up the Treasure Coast.\\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AA TRAUMA CLEANING",
+		"website": "http:\/\/www.aatraumacleaning.com",
+		"slug": "aa-trauma-cleaning",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/aa-trauma-cleaning",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/aa-trauma-cleaning\/locations"
+	},
+	"phones": [{
+		"id": 3304,
+		"department": null,
+		"extension": null,
+		"number": "954-973-9502",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

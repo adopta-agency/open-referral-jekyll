@@ -1,0 +1,48 @@
+{
+	"id": 2391,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7389194,
+	26.2736936],
+	"description": "See listed services",
+	"latitude": 26.2736936,
+	"longitude": -81.7389194,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-2544-northbrooke-plaza-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-2544-northbrooke-plaza-drive",
+	"address": {
+		"id": 1177,
+		"address_1": "2544 Northbrooke Plaza Drive",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34119"
+	},
+	"organization": {
+		"id": 2391,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Collier Spay Neuter Clinic provides targeted, high quality, high volume, affordable spay neuter services as a non-lethal solution to the pet overpopulation crisis for residents of Southwest Florida.\\r\\n\\r\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COLLIER SPAY NEUTER CLINIC, INC.",
+		"website": "http:\/\/www.collierspayneuter.org",
+		"slug": "collier-spay-neuter-clinic-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-spay-neuter-clinic-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-spay-neuter-clinic-inc\/locations"
+	},
+	"phones": [{
+		"id": 2391,
+		"department": null,
+		"extension": null,
+		"number": "239-514-7647",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

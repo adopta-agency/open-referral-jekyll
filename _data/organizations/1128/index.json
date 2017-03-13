@@ -1,0 +1,61 @@
+{
+	"id": 1128,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Division of Insurance Consumer Services answers general questions about insurance and insurance companies, and handles complaints against insurance entities.\\n\\n###MON###\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA DEPARTMENT OF FINANCIAL SERVICES",
+	"website": "http:\/\/www.myfloridacfo.com",
+	"slug": "florida-department-of-financial-services",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-financial-services",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-financial-services\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Jeff.Atwater@myfloridacfo.com",
+		"id": 1128,
+		"name": "Jeff Atwater",
+		"title": "Chief Financial Officer",
+		"phones": [{
+			"id": 1128,
+			"department": null,
+			"extension": null,
+			"number": "877-693-5236",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Jeff.Atwater@myfloridacfo.com",
+		"id": 1130,
+		"name": "Jeff Atwater",
+		"title": "Chief Financial Executive",
+		"phones": [{
+			"id": 1130,
+			"department": null,
+			"extension": null,
+			"number": "877-693-5236",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1128,
+		"department": null,
+		"extension": null,
+		"number": "877-693-5236",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1130,
+		"department": null,
+		"extension": null,
+		"number": "877-693-5236",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

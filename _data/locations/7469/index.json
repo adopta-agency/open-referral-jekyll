@@ -1,0 +1,48 @@
+{
+	"id": 7469,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.490025,
+	25.4759749],
+	"description": "See listed services",
+	"latitude": 25.4759749,
+	"longitude": -80.490025,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-700-nw-10th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/homestead-fl-700-nw-10th-avenue",
+	"address": {
+		"id": 3443,
+		"address_1": "700 NW 10th Avenue",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33030"
+	},
+	"organization": {
+		"id": 2476,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "After-school and summer camp services. Activities include: literacy and homework support, physical fitness, social skill development, nutrition education, family involvement and community service. Parent support and workshops also offered.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "WE CARE OF SOUTH DADE, INC.",
+		"website": "http:\/\/www.wecareofsouthdade.org",
+		"slug": "we-care-of-south-dade-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/we-care-of-south-dade-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/we-care-of-south-dade-inc\/locations"
+	},
+	"phones": [{
+		"id": 7469,
+		"department": null,
+		"extension": null,
+		"number": "305-245-8522",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

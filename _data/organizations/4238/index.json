@@ -1,0 +1,24 @@
+{
+	"id": 4238,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Children's Trust funds a wide number of programs and initiatives from a variety of funding streams depending on the nature of the program, its focus and the results it seeks to achieve. The services under this program are meant to give parents a brief idea of the uniqueness of these Trust-funded programs and where they are located, and to provide them with necessary contact information should they need additional information or have other detailed questions. Trust funded programs include HealthConnect, The Miami Heart Gallery, Out of School programs and services for children with disabilities.\\n\\n**DO NOT REFER CALLERS TO THE CHILDREN'S TRUST, WE ARE THEIR INFORMATION AND REFERRAL SERVICE**",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE CHILDREN'S TRUST",
+	"website": "http:\/\/thechildrenstrust.org",
+	"slug": "the-children-s-trust",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-children-s-trust",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-children-s-trust\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@thechildrenstrust.org",
+		"id": 4238,
+		"name": "Charles M. Auslander",
+		"title": "President and CEO",
+		"phones": []
+	}],
+	"phones": []
+}

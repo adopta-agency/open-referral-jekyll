@@ -1,0 +1,48 @@
+{
+	"id": 754,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami Lakes, FL",
+	"short_desc": null,
+	"slug": "miami-lakes-fl-5801-nw-151st-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-lakes-fl-5801-nw-151st-street",
+	"address": {
+		"id": 379,
+		"address_1": "5801 NW 151st Street",
+		"address_2": "Suite 302",
+		"city": "Miami Lakes",
+		"state_province": "FL",
+		"postal_code": "33014"
+	},
+	"organization": {
+		"id": 753,
+		"accreditations": [],
+		"alternate_name": "Emergency Pregnancy Services",
+		"date_incorporated": null,
+		"description": "Provides free counseling, support groups and material assistance to pregnant women who may be contemplating abortion. Also offers assistance such as free pregnancy tests to pregnant women and new mothers.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "RESPECT LIFE",
+		"website": "http:\/\/www.respectlifemiami.org\/contact-us.html",
+		"slug": "respect-life",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/respect-life",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/respect-life\/locations"
+	},
+	"phones": [{
+		"id": 754,
+		"department": null,
+		"extension": null,
+		"number": "305-653-2921",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

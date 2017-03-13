@@ -1,0 +1,38 @@
+{
+	"id": 3544,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The United Healthcare ChildrenG\u00c7\u00d6s Foundation (UHCCF) is a 501(c)(3) charitable organization that provides medical grants to help children gain access to health-related services not covered, or not fully covered, by their parentsG\u00c7\u00d6 commercial health insurance plan.\\n\\nFamilies can receive up to $5,000 annually per child ($10,000 lifetime maximum per child), and do not need to have insurance through United Healthcare to be eligible.\\n\\n###MON###\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "UNITED HEALTHCARE CHILDREN'S FOUNDATION, INC.",
+	"website": "http:\/\/www.uhccf.org",
+	"slug": "united-healthcare-children-s-foundation-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-healthcare-children-s-foundation-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-healthcare-children-s-foundation-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "customerservice@uhccf.org",
+		"id": 3544,
+		"name": "Contact",
+		"title": "Customer Service Agent",
+		"phones": [{
+			"id": 3544,
+			"department": null,
+			"extension": null,
+			"number": "855-698-4223",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3544,
+		"department": null,
+		"extension": null,
+		"number": "855-698-4223",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

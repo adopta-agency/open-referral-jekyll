@@ -1,0 +1,48 @@
+{
+	"id": 79,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3035664,
+	25.8915265],
+	"description": "See listed services",
+	"latitude": 25.8915265,
+	"longitude": -80.3035664,
+	"name": "Hialeah, FL",
+	"short_desc": null,
+	"slug": "hialeah-fl-7605-west-10th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/hialeah-fl-7605-west-10th-avenue",
+	"address": {
+		"id": 45,
+		"address_1": "7605 West 10th Avenue",
+		"address_2": null,
+		"city": "Hialeah",
+		"state_province": "FL",
+		"postal_code": "33016"
+	},
+	"organization": {
+		"id": 76,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Hialeah Housing Authority is dedicated to providing this community with quality, affordable housing that is decent and safe to eligible families. Assistance for low income families is made possible through the Affordable Housing Program, Housing Choice Voucher (Section 8) Program, Palm Centre, and Public Housing Program.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HIALEAH HOUSING AUTHORITY, INC.",
+		"website": "http:\/\/www.hialeahhousing.org",
+		"slug": "hialeah-housing-authority-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/hialeah-housing-authority-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/hialeah-housing-authority-inc\/locations"
+	},
+	"phones": [{
+		"id": 79,
+		"department": null,
+		"extension": null,
+		"number": "305-556-8223",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

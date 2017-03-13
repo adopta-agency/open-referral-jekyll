@@ -1,0 +1,48 @@
+{
+	"id": 2855,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-625cc701-96a8-448c-882b-657b4b305134",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-625cc701-96a8-448c-882b-657b4b305134",
+	"address": {
+		"id": 1402,
+		"address_1": "9920 NE 2nd Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33138"
+	},
+	"organization": {
+		"id": 2825,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Since 1931 Catholic Charities of the Archdiocese of Miami, Inc. has been making a difference in the lives of people who are poor and vulnerable in South Florida. Our services improve the lives of children, the elderly, people with disabilities, low-income individuals and families, and those struggling with addiction. Through strategic partnerships with donors, and the private and public sectors of our community, we leverage resources to provide optimum solutions for each client.\\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CATHOLIC CHARITIES OF THE ARCHIDIOCESE OF MIAMI, INC.",
+		"website": "http:\/\/www.ccadm.org",
+		"slug": "catholic-charities-of-the-archidiocese-of-miami-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/catholic-charities-of-the-archidiocese-of-miami-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/catholic-charities-of-the-archidiocese-of-miami-inc\/locations"
+	},
+	"phones": [{
+		"id": 2855,
+		"department": null,
+		"extension": null,
+		"number": "305-573-3333",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

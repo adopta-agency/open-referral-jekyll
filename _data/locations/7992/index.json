@@ -1,0 +1,48 @@
+{
+	"id": 7992,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2224293,
+	25.8097165],
+	"description": "See listed services",
+	"latitude": 25.8097165,
+	"longitude": -80.2224293,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-612ba5ba-adf7-4803-bd13-eeefb2738b1f",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-612ba5ba-adf7-4803-bd13-eeefb2738b1f",
+	"address": {
+		"id": 3904,
+		"address_1": "1555 NW 36th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33142"
+	},
+	"organization": {
+		"id": 699,
+		"accreditations": [],
+		"alternate_name": "LUAC",
+		"date_incorporated": null,
+		"description": "Latinos United works to provide educational programs and community services to children and adults of diverse cultural backgrounds in Allapattah and nearby communities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LATINOS UNITED IN ACTION CENTER INC.",
+		"website": "http:\/\/www.latinosunidos.org",
+		"slug": "latinos-united-in-action-center-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/latinos-united-in-action-center-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/latinos-united-in-action-center-inc\/locations"
+	},
+	"phones": [{
+		"id": 7992,
+		"department": null,
+		"extension": null,
+		"number": "305-637-1106",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,47 @@
+{
+	"id": 6812,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [],
+	"description": "See listed services",
+	"latitude": null,
+	"longitude": null,
+	"name": "Gainesville, FL",
+	"short_desc": null,
+	"slug": "gainesville-fl-university-of-florida",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/gainesville-fl-university-of-florida",
+	"address": {
+		"id": 2965,
+		"address_1": "University of Florida",
+		"address_2": null,
+		"city": "Gainesville",
+		"state_province": "FL",
+		"postal_code": "32611"
+	},
+	"organization": {
+		"id": 6812,
+		"accreditations": [],
+		"alternate_name": "UF",
+		"date_incorporated": null,
+		"description": "The University of Florida (UF) is a major, public, comprehensive, land-grant, research university. The stateG\u00c7\u00d6s oldest and most comprehensive university, UF is among the nationG\u00c7\u00d6s most academically diverse public universities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNIVERSITY OF FLORIDA",
+		"website": "http:\/\/www.ufl.edu\/",
+		"slug": "university-of-florida",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/university-of-florida",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/university-of-florida\/locations"
+	},
+	"phones": [{
+		"id": 6812,
+		"department": null,
+		"extension": null,
+		"number": "352-392-3261",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

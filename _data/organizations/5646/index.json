@@ -1,0 +1,84 @@
+{
+	"id": 5646,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides recreational and leisure opportunities to build a strong sense of community while increasing the social, cultural and physical well-being of the residents and to be innovative in the programming needs of the community.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "TOWN OF SURFSIDE PARKS AND RECREATION",
+	"website": "http:\/\/www.townofsurfsidefl.gov",
+	"slug": "town-of-surfside-parks-and-recreation",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/town-of-surfside-parks-and-recreation",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/town-of-surfside-parks-and-recreation\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "tmilian@townofsurfsidefl.gov",
+		"id": 5646,
+		"name": "Tim Milian",
+		"title": "Director",
+		"phones": [{
+			"id": 5646,
+			"department": null,
+			"extension": null,
+			"number": "305-866-3635",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tmilian@townofsurfsidefl.gov",
+		"id": 5647,
+		"name": "Tim Milian",
+		"title": "Director",
+		"phones": [{
+			"id": 5647,
+			"department": null,
+			"extension": null,
+			"number": "305-866-3635",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tmilian@townofsurfsidefl.gov",
+		"id": 8161,
+		"name": "Tim Milian",
+		"title": "Director",
+		"phones": [{
+			"id": 8161,
+			"department": null,
+			"extension": null,
+			"number": "305-866-3635",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5646,
+		"department": null,
+		"extension": null,
+		"number": "305-866-3635",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5647,
+		"department": null,
+		"extension": null,
+		"number": "305-866-3635",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8161,
+		"department": null,
+		"extension": null,
+		"number": "305-866-3635",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

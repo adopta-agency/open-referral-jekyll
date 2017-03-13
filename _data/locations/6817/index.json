@@ -1,0 +1,48 @@
+{
+	"id": 6817,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -82,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-1fcd1cbd-0d90-4c3e-8768-3b30c5edc721",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-1fcd1cbd-0d90-4c3e-8768-3b30c5edc721",
+	"address": {
+		"id": 2970,
+		"address_1": "8300 Radio Road",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34104"
+	},
+	"organization": {
+		"id": 5619,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Collier Area Transit (CAT) is committed to providing safe, accessible and courteous public transportation services to our customers through regular bus routes as well as a paratransit program.\\r\\n\\r\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COLLIER AREA TRANSIT",
+		"website": "http:\/\/www.Colliergov.net\/cat",
+		"slug": "collier-area-transit",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-area-transit",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-area-transit\/locations"
+	},
+	"phones": [{
+		"id": 6817,
+		"department": null,
+		"extension": null,
+		"number": "239-252-7272",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

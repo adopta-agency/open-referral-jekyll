@@ -1,0 +1,368 @@
+{
+	"id": 736,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "This general hospital provides complete cancer care, diabetes care, family-centered maternity care, cardiac services, emergency treatment, rehabilitation services and pediatric medicine. Miami Cardiac & Vascular Institute at South Miami Hospital is a world-renowned diagnostic, research and treatment facility.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SOUTH MIAMI HOSPITAL",
+	"website": "http:\/\/baptisthealth.net\/en\/facilities\/south-miami-hospital\/pages\/default.aspx",
+	"slug": "south-miami-hospital",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/south-miami-hospital",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/south-miami-hospital\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 736,
+		"name": "D. Wayne Brackin",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 736,
+			"department": null,
+			"extension": null,
+			"number": "786-662-4000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "JanineB@baptisthealth.net",
+		"id": 738,
+		"name": "Janine Balkin, RN",
+		"title": "Parent Educator",
+		"phones": [{
+			"id": 738,
+			"department": null,
+			"extension": null,
+			"number": "786-662-5026",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 739,
+		"name": "Stephanie Rakofsky",
+		"title": "Director",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "davidvi@baptisthealth.net",
+		"id": 740,
+		"name": "David Vittoria",
+		"title": "Director",
+		"phones": [{
+			"id": 740,
+			"department": null,
+			"extension": null,
+			"number": "888-960-8529",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "JanineB@baptisthealth.net",
+		"id": 7272,
+		"name": "Janine Balkin, RN",
+		"title": "Parent Educator",
+		"phones": [{
+			"id": 7272,
+			"department": null,
+			"extension": null,
+			"number": "786-662-5026",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "JanineB@baptisthealth.net",
+		"id": 7273,
+		"name": "Janine Balkin, RN",
+		"title": "Parent Educator",
+		"phones": [{
+			"id": 7273,
+			"department": null,
+			"extension": null,
+			"number": "786-662-5026",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "JanineB@baptisthealth.net",
+		"id": 7274,
+		"name": "Janine Balkin, RN",
+		"title": "Parent Educator",
+		"phones": [{
+			"id": 7274,
+			"department": null,
+			"extension": null,
+			"number": "786-596-3812",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "JanineB@baptisthealth.net",
+		"id": 7275,
+		"name": "Janine Balkin, RN",
+		"title": "Parent Educator",
+		"phones": [{
+			"id": 7275,
+			"department": null,
+			"extension": null,
+			"number": "786-662-5026",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "JanineB@baptisthealth.net",
+		"id": 7276,
+		"name": "Janine Balkin, RN",
+		"title": "Parent Educator",
+		"phones": [{
+			"id": 7276,
+			"department": null,
+			"extension": null,
+			"number": "786-662-5026",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "JanineB@baptisthealth.net",
+		"id": 7277,
+		"name": "Janine Balkin, RN",
+		"title": "Parent Educator",
+		"phones": [{
+			"id": 7277,
+			"department": null,
+			"extension": null,
+			"number": "786-662-5026",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "JanineB@baptisthealth.net",
+		"id": 7278,
+		"name": "Janine Balkin, RN",
+		"title": "Parent Educator",
+		"phones": [{
+			"id": 7278,
+			"department": null,
+			"extension": null,
+			"number": "786-662-5026",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "JanineB@baptisthealth.net",
+		"id": 7279,
+		"name": "Janine Balkin, RN",
+		"title": "Parent Educator",
+		"phones": [{
+			"id": 7279,
+			"department": null,
+			"extension": null,
+			"number": "786-662-5026",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "JanineB@baptisthealth.net",
+		"id": 7280,
+		"name": "Janine Balkin, RN",
+		"title": "Parent Educator",
+		"phones": [{
+			"id": 7280,
+			"department": null,
+			"extension": null,
+			"number": "786-662-5026",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "JanineB@baptisthealth.net",
+		"id": 7282,
+		"name": "Janine Balkin, RN",
+		"title": "Parent Educator",
+		"phones": [{
+			"id": 7282,
+			"department": null,
+			"extension": null,
+			"number": "786-662-5026",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "JanineB@baptisthealth.net",
+		"id": 7283,
+		"name": "Janine Balkin, RN",
+		"title": "Parent Educator",
+		"phones": [{
+			"id": 7283,
+			"department": null,
+			"extension": null,
+			"number": "786-662-5026",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "JanineB@baptisthealth.net",
+		"id": 7284,
+		"name": "Janine Balkin, RN",
+		"title": "Parent Educator",
+		"phones": [{
+			"id": 7284,
+			"department": null,
+			"extension": null,
+			"number": "786-662-5026",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 736,
+		"department": null,
+		"extension": null,
+		"number": "786-662-4000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 738,
+		"department": null,
+		"extension": null,
+		"number": "786-662-5026",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 740,
+		"department": null,
+		"extension": null,
+		"number": "888-960-8529",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7272,
+		"department": null,
+		"extension": null,
+		"number": "786-662-5026",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7273,
+		"department": null,
+		"extension": null,
+		"number": "786-662-5026",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7274,
+		"department": null,
+		"extension": null,
+		"number": "786-596-3812",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7275,
+		"department": null,
+		"extension": null,
+		"number": "786-662-5026",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7276,
+		"department": null,
+		"extension": null,
+		"number": "786-662-5026",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7277,
+		"department": null,
+		"extension": null,
+		"number": "786-662-5026",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7278,
+		"department": null,
+		"extension": null,
+		"number": "786-662-5026",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7279,
+		"department": null,
+		"extension": null,
+		"number": "786-662-5026",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7280,
+		"department": null,
+		"extension": null,
+		"number": "786-662-5026",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7282,
+		"department": null,
+		"extension": null,
+		"number": "786-662-5026",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7283,
+		"department": null,
+		"extension": null,
+		"number": "786-662-5026",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7284,
+		"department": null,
+		"extension": null,
+		"number": "786-662-5026",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

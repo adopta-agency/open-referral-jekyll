@@ -1,0 +1,222 @@
+{
+	"id": 8064,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The program provides access to educational and enrollment services for the Affordable Care Act. Helps individuals, families, and small businesses apply for health insurance through the Affordable Care Act Marketplace.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "COGNOSANTE, LLC.",
+	"website": "http:\/\/cognosante.com\/",
+	"slug": "cognosante-llc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/cognosante-llc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/cognosante-llc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "lynette.brooks@cognosante.com",
+		"id": 8064,
+		"name": "Lynette Brooks",
+		"title": null,
+		"phones": [{
+			"id": 8064,
+			"department": null,
+			"extension": null,
+			"number": "786-456-5014",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lynette.brooks@cognosante.com",
+		"id": 8240,
+		"name": "Lynette Brooks",
+		"title": null,
+		"phones": [{
+			"id": 8240,
+			"department": null,
+			"extension": null,
+			"number": "786-456-5014",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lynette.brooks@cognosante.com",
+		"id": 8241,
+		"name": "Lynette Brooks",
+		"title": null,
+		"phones": [{
+			"id": 8241,
+			"department": null,
+			"extension": null,
+			"number": "786-456-5014",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lynette.brooks@cognosante.com",
+		"id": 8242,
+		"name": "Lynette Brooks",
+		"title": null,
+		"phones": [{
+			"id": 8242,
+			"department": null,
+			"extension": null,
+			"number": "786-456-5014",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lynette.brooks@cognosante.com",
+		"id": 8243,
+		"name": "Lynette Brooks",
+		"title": null,
+		"phones": [{
+			"id": 8243,
+			"department": null,
+			"extension": null,
+			"number": "786-456-5014",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lynette.brooks@cognosante.com",
+		"id": 8244,
+		"name": "Lynette Brooks",
+		"title": null,
+		"phones": [{
+			"id": 8244,
+			"department": null,
+			"extension": null,
+			"number": "786-456-5014",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lynette.brooks@cognosante.com",
+		"id": 8245,
+		"name": "Lynette Brooks",
+		"title": null,
+		"phones": [{
+			"id": 8245,
+			"department": null,
+			"extension": null,
+			"number": "786-456-5014",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lynette.brooks@cognosante.com",
+		"id": 8247,
+		"name": "Lynette Brooks",
+		"title": null,
+		"phones": [{
+			"id": 8247,
+			"department": null,
+			"extension": null,
+			"number": "786-456-5014",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lynette.brooks@cognosante.com",
+		"id": 8248,
+		"name": "Lynette Brooks",
+		"title": null,
+		"phones": [{
+			"id": 8248,
+			"department": null,
+			"extension": null,
+			"number": "786-456-5014",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8064,
+		"department": null,
+		"extension": null,
+		"number": "786-456-5014",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8240,
+		"department": null,
+		"extension": null,
+		"number": "786-456-5014",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8241,
+		"department": null,
+		"extension": null,
+		"number": "786-456-5014",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8242,
+		"department": null,
+		"extension": null,
+		"number": "786-456-5014",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8243,
+		"department": null,
+		"extension": null,
+		"number": "786-456-5014",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8244,
+		"department": null,
+		"extension": null,
+		"number": "786-456-5014",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8245,
+		"department": null,
+		"extension": null,
+		"number": "786-456-5014",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8247,
+		"department": null,
+		"extension": null,
+		"number": "786-456-5014",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8248,
+		"department": null,
+		"extension": null,
+		"number": "786-456-5014",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

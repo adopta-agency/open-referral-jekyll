@@ -1,0 +1,48 @@
+{
+	"id": 7315,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.4807798,
+	25.4813998],
+	"description": "See listed services",
+	"latitude": 25.4813998,
+	"longitude": -80.4807798,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-c1de1f3c-c05b-4fe2-bafd-30469e1e2749",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/homestead-fl-c1de1f3c-c05b-4fe2-bafd-30469e1e2749",
+	"address": {
+		"id": 3320,
+		"address_1": "151 NW 11th Street",
+		"address_2": "Suite 400",
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33030"
+	},
+	"organization": {
+		"id": 1991,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Founded in 1995 as a Miami-based nonprofit 501(c)3 organization, Catalyst Miami (formerly known as the Human Services Coalition) identifies and launches innovative strategies to help people and communities thrive and to create a more equitable and caring society.\\r\\n\\r\\nCatalyst Miami connects people to resources that build prosperity and addresses barriers to prosperity through policy and program innovation. We focus on building the capacity of individuals, organizations and communities throughout Florida to embrace and adopt effective prosperity strategies and programs. \\r\\n\\r\\nWe work through a network of partner organizations, linking people with financial education, healthcare information, public benefits and educational and economic opportunities. \\r\\n\\r\\nCatalyst Miami also listens to the people it serves and makes its programs responsive to their needs.\\r\\nOur programs promote economic self-sufficiency, participation in civic life and respect across many divides. We inspire people to get involved and prepare them to step up to leadership roles that lead to long-term community transformation.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CATALYST MIAMI, INC.",
+		"website": "http:\/\/catalystmiami.org",
+		"slug": "catalyst-miami-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/catalyst-miami-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/catalyst-miami-inc\/locations"
+	},
+	"phones": [{
+		"id": 7315,
+		"department": null,
+		"extension": "31.0",
+		"number": "305-576-5001",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

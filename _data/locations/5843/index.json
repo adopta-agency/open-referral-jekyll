@@ -1,0 +1,48 @@
+{
+	"id": 5843,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	27],
+	"description": "See listed services",
+	"latitude": 27,
+	"longitude": -82,
+	"name": "North Fort Myers, FL",
+	"short_desc": null,
+	"slug": "north-fort-myers-fl-6f44b48b-8aa0-4871-a9b6-f9d1f25edac7",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/north-fort-myers-fl-6f44b48b-8aa0-4871-a9b6-f9d1f25edac7",
+	"address": {
+		"id": 2506,
+		"address_1": "15201 North Cleveland Avenue",
+		"address_2": "Suite 1100",
+		"city": "North Fort Myers",
+		"state_province": "FL",
+		"postal_code": "33903"
+	},
+	"organization": {
+		"id": 5842,
+		"accreditations": [],
+		"alternate_name": "AAASWFL",
+		"date_incorporated": null,
+		"description": "The AAASWFL serves as an advocate and visible focal point in the planning and service area to foster the development of comprehensive and coordinated service systems to serve older individuals. The agencyG\u00c7\u00d6s programs are both publicly and privately funded and provide an array of supportive services to elder residents in southwest Florida.\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AREA AGENCY ON AGING FOR SOUTHWEST FLORIDA, INC.",
+		"website": "http:\/\/www.aaaswfl.org",
+		"slug": "area-agency-on-aging-for-southwest-florida-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/area-agency-on-aging-for-southwest-florida-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/area-agency-on-aging-for-southwest-florida-inc\/locations"
+	},
+	"phones": [{
+		"id": 5843,
+		"department": null,
+		"extension": null,
+		"number": "866-413-5337",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

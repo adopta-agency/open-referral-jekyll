@@ -1,0 +1,38 @@
+{
+	"id": 4190,
+	"accreditations": [],
+	"alternate_name": "The Gloria M. Silverio Foundation",
+	"date_incorporated": null,
+	"description": "\"Safe Haven\" is a safety net for both the mother and the newborn infant. It allows mothers, fathers or whoever is in possession of an unharmed newborn, approximately seven days old or less, to leave them at Safe Havens: any hospital, staffed fire rescue station, or staffed emergency medical service station, with no questions asked, totally anonymous, free from fear of prosecution. A Safe Haven for Newborns is dedicated to reaching pregnant girls and mothers before they reach the crisis stage, assisting them as they make their decision in the best interest of their baby and themselves. A Safe Haven for Newborns services the entire state of Florida.\\r\\n\\r\\n###COL###\\r\\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "A SAFE HAVEN FOR NEWBORNS, INC.",
+	"website": "http:\/\/www.asafehavenfornewborns.com",
+	"slug": "a-safe-haven-for-newborns-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/a-safe-haven-for-newborns-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/a-safe-haven-for-newborns-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "safehaven@asafehavenfornewborns.com",
+		"id": 4190,
+		"name": "Nick E. Silverio",
+		"title": "Founder",
+		"phones": [{
+			"id": 4190,
+			"department": null,
+			"extension": "103.0",
+			"number": "877-767-2229",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4190,
+		"department": null,
+		"extension": "103.0",
+		"number": "877-767-2229",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

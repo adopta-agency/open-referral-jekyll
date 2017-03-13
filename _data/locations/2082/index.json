@@ -1,0 +1,48 @@
+{
+	"id": 2082,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2556224,
+	25.7331911],
+	"description": "See listed services",
+	"latitude": 25.7331911,
+	"longitude": -80.2556224,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-3071-sw-38th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-3071-sw-38th-avenue",
+	"address": {
+		"id": 1055,
+		"address_1": "3071 SW 38th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33146"
+	},
+	"organization": {
+		"id": 2082,
+		"accreditations": [],
+		"alternate_name": "M-DC DEPARTMENT OF PUBLIC WORKS AND WASTE MANAGEMENT",
+		"date_incorporated": null,
+		"description": "The Miami-Dade County Public Works and Waste Management Department provides waste collection and recycling services to households in unincorporated Miami-Dade County and eight municipalities, including Aventura, Cutler Bay, Doral, Miami Gardens, Miami Lakes, Palmetto Bay, Pinecrest and Sunny Isles Beach.\\r\\n\\r\\nThe department engineers, constructs and maintains the County's roads, bridges, canals, sidewalks, street signs, pavement markings, traffic signals, street lights and storm water drainage facilities. It maintains landscapes along the public rights-of-way of Miami-Dade County and also provides a mosquito control program.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI-DADE COUNTY DEPARTMENT OF PUBLIC WORKS AND WASTE MANAGEMENT",
+		"website": "http:\/\/www.miamidade.gov\/publicworks\/",
+		"slug": "miami-dade-county-department-of-public-works-and-waste-management",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-department-of-public-works-and-waste-management",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-department-of-public-works-and-waste-management\/locations"
+	},
+	"phones": [{
+		"id": 2082,
+		"department": null,
+		"extension": null,
+		"number": "305-514-6666",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

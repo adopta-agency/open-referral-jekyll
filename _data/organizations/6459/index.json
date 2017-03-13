@@ -1,0 +1,84 @@
+{
+	"id": 6459,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Shake-A-Leg Miami's mission uses the marine environment to improve the health, education, independence and quality of life for all with an emphasis on individuals with physical, developmental and economic challenges. The Out of School component offers after school and summer camp programs for children with and without disabilities.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SHAKE-A-LEG MIAMI - OUT OF SCHOOL PROGRAMS",
+	"website": "http:\/\/www.shakealegmiami.org",
+	"slug": "shake-a-leg-miami-out-of-school-programs",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/shake-a-leg-miami-out-of-school-programs",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/shake-a-leg-miami-out-of-school-programs\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "kiandra@shakealegmiami.org",
+		"id": 7870,
+		"name": "Kiandra Rhaney",
+		"title": "Director of Programs",
+		"phones": [{
+			"id": 7870,
+			"department": null,
+			"extension": null,
+			"number": "305-858-5550",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kiandra@shakealegmiami.org",
+		"id": 7871,
+		"name": "Kiandra Rhaney",
+		"title": "Director of Programs",
+		"phones": [{
+			"id": 7871,
+			"department": null,
+			"extension": null,
+			"number": "305-858-5550",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kiandra@shakealegmiami.org",
+		"id": 7872,
+		"name": "Kiandra Rhaney",
+		"title": "Director of Programs",
+		"phones": [{
+			"id": 7872,
+			"department": null,
+			"extension": null,
+			"number": "305-858-5550",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7870,
+		"department": null,
+		"extension": null,
+		"number": "305-858-5550",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7871,
+		"department": null,
+		"extension": null,
+		"number": "305-858-5550",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7872,
+		"department": null,
+		"extension": null,
+		"number": "305-858-5550",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

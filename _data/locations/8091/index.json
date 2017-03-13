@@ -1,0 +1,41 @@
+{
+	"id": 8091,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.316061,
+	25.791874],
+	"description": "See listed services",
+	"latitude": 25.791874,
+	"longitude": -80.316061,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-7205-corporate-center-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-7205-corporate-center-drive",
+	"address": {
+		"id": 3997,
+		"address_1": "7205 Corporate Center Drive",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33126"
+	},
+	"organization": {
+		"id": 8091,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "This office makes the provision for alcohol and drug treatment and rehabilitation for anyone 18 years or older. Services are delivered by contracted providers throughout Miami-Dade and Monroe Counties. The services provided include: detoxification, residential treatment, outpatient, day and night treatment, medication treatment, methadone maintenance, Treatment Accountability for Safer Communities (TASC), prevention and intervention. Some residential providers allow mothers to bring their babies.\\n\\nThe contracted treatment agencies in our network provide services for adults, adolescents and families who need care for behavioral health problems relating to co-occurring disorders, HIV+, homelessness, intravenous users, legal involvement, pregnancy, and women or men with dependent children.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SOUTH FLORIDA BEHAVIORAL HEALTH NETWORK",
+		"website": null,
+		"slug": "south-florida-behavioral-health-network",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/south-florida-behavioral-health-network",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/south-florida-behavioral-health-network\/locations"
+	},
+	"phones": []
+}

@@ -1,0 +1,48 @@
+{
+	"id": 5084,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.764443,
+	26.1276744],
+	"description": "See listed services",
+	"latitude": 26.1276744,
+	"longitude": -81.764443,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-3315-tamiami-trail-east",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-3315-tamiami-trail-east",
+	"address": {
+		"id": 2137,
+		"address_1": "3315 Tamiami Trail East",
+		"address_2": "6th Floor",
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34112"
+	},
+	"organization": {
+		"id": 5084,
+		"accreditations": [],
+		"alternate_name": "GUARDIAN AD LITEM",
+		"date_incorporated": null,
+		"description": "Our mission is to ensure that all abused, neglected and abandoned children in Lee, Collier, Charlotte, Hendry and Glades counties have a volunteer advocate to represent their best interests in court hearings, with social service agencies and in the community. We also make financial assistance available for things not provided by other agencies, such as a bed, participation in sports and the arts, a birthday party, or emergency clothing.\\n \\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "VOICES FOR KIDS OF SOUTH FLORIDA, INC.",
+		"website": "http:\/\/www.voicesforkids.org",
+		"slug": "voices-for-kids-of-south-florida-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/voices-for-kids-of-south-florida-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/voices-for-kids-of-south-florida-inc\/locations"
+	},
+	"phones": [{
+		"id": 5084,
+		"department": null,
+		"extension": null,
+		"number": "239-252-8432",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

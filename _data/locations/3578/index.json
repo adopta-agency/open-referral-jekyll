@@ -1,0 +1,48 @@
+{
+	"id": 3578,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3490319,
+	25.599366],
+	"description": "See listed services",
+	"latitude": 25.599366,
+	"longitude": -80.3490319,
+	"name": "Palmetto Bay, FL",
+	"short_desc": null,
+	"slug": "palmetto-bay-fl-9730-sw-183rd-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/palmetto-bay-fl-9730-sw-183rd-street",
+	"address": {
+		"id": 1747,
+		"address_1": "9730 SW 183rd Street",
+		"address_2": null,
+		"city": "Palmetto Bay",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 3578,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "My Little World Preschool offers affordable preschool services for early childhood. Full time and part time hours available for after school (including teacher planning days) and summer camp programs.\\n\\nSummer Camp 2016:\\nJune 6 - August 19 \\nRegistration is now open",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MY LITTLE WORLD PRESCHOOL, INC.",
+		"website": "http:\/\/mylittleworldpreschools.com",
+		"slug": "my-little-world-preschool-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/my-little-world-preschool-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/my-little-world-preschool-inc\/locations"
+	},
+	"phones": [{
+		"id": 3578,
+		"department": null,
+		"extension": null,
+		"number": "305-255-0601",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

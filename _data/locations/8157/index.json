@@ -1,0 +1,48 @@
+{
+	"id": 8157,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.214579,
+	25.760602],
+	"description": "See listed services",
+	"latitude": 25.760602,
+	"longitude": -80.214579,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-f13c978d-0372-4c0f-882b-2badbf21bde1",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-f13c978d-0372-4c0f-882b-2badbf21bde1",
+	"address": {
+		"id": 4062,
+		"address_1": "1300 SW 12th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33129"
+	},
+	"organization": {
+		"id": 514,
+		"accreditations": [],
+		"alternate_name": "UM",
+		"date_incorporated": null,
+		"description": "The Department of Pediatrics at the University of Miami School of Medicine is nationally and internationally acclaimed for education, research, patient care, and biomedical innovation.\\n\\nYoung patients come to UM from all over the world to receive quality care delivered with compassion by outstanding pediatric specialists and other skilled medical professionals. As part of the University of Miami School of Medicine, the Department of Pediatrics is integrated into a dynamic research environment where innovative and effective treatments and cures are under development.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNIVERSITY OF MIAMI - DEPARTMENT OF PEDIATRICS",
+		"website": "http:\/\/www.pediatrics.med.miami.edu",
+		"slug": "university-of-miami-department-of-pediatrics",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/university-of-miami-department-of-pediatrics",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/university-of-miami-department-of-pediatrics\/locations"
+	},
+	"phones": [{
+		"id": 8157,
+		"department": null,
+		"extension": null,
+		"number": "305-243-8425",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

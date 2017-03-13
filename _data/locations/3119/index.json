@@ -1,0 +1,48 @@
+{
+	"id": 3119,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1514-nw-2nd-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-1514-nw-2nd-avenue",
+	"address": {
+		"id": 1551,
+		"address_1": "1514 NW 2nd Avenue",
+		"address_2": "Suite 1",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 3119,
+		"accreditations": [],
+		"alternate_name": "THE LOTUS HOUSE",
+		"date_incorporated": null,
+		"description": "The Sundari Foundation, Inc. is a 501c3 non-denominational public charity dedicated to the support, education, advancement and social inclusion of poor, disadvantaged and homeless women, youth, and children. The Foundation operates Lotus House Shelter and Lotus House Thrift Chic Boutique and addresses the special needs of individuals it serves with innovative, holistic, evidence based solutions to break the cycle of childhood abuse, domestic violence and homelessness.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE SUNDARI FOUNDATION, INC.",
+		"website": "http:\/\/lotushouse.org\/",
+		"slug": "the-sundari-foundation-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-sundari-foundation-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-sundari-foundation-inc\/locations"
+	},
+	"phones": [{
+		"id": 3119,
+		"department": null,
+		"extension": null,
+		"number": "305-438-0556",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

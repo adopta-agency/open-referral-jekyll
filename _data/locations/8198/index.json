@@ -1,0 +1,48 @@
+{
+	"id": 8198,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2097761,
+	25.8324513],
+	"description": "See listed services",
+	"latitude": 25.8324513,
+	"longitude": -80.2097761,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-761-nw-62nd-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-761-nw-62nd-street",
+	"address": {
+		"id": 4101,
+		"address_1": "761 NW 62nd Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33150"
+	},
+	"organization": {
+		"id": 8198,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides emergency food services to those in the community who are in need.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "EGLISE BAPTISTE UN SEUL DIEU",
+		"website": null,
+		"slug": "eglise-baptiste-un-seul-dieu",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/eglise-baptiste-un-seul-dieu",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/eglise-baptiste-un-seul-dieu\/locations"
+	},
+	"phones": [{
+		"id": 8198,
+		"department": null,
+		"extension": null,
+		"number": "305-303-6670",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

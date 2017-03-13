@@ -1,0 +1,48 @@
+{
+	"id": 4190,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3212671,
+	25.8361878],
+	"description": "See listed services",
+	"latitude": 25.8361878,
+	"longitude": -80.3212671,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-6801-nw-77th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-6801-nw-77th-avenue",
+	"address": {
+		"id": 1923,
+		"address_1": "6801 NW 77th Avenue",
+		"address_2": "Suite 404",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33166"
+	},
+	"organization": {
+		"id": 4190,
+		"accreditations": [],
+		"alternate_name": "The Gloria M. Silverio Foundation",
+		"date_incorporated": null,
+		"description": "\"Safe Haven\" is a safety net for both the mother and the newborn infant. It allows mothers, fathers or whoever is in possession of an unharmed newborn, approximately seven days old or less, to leave them at Safe Havens: any hospital, staffed fire rescue station, or staffed emergency medical service station, with no questions asked, totally anonymous, free from fear of prosecution. A Safe Haven for Newborns is dedicated to reaching pregnant girls and mothers before they reach the crisis stage, assisting them as they make their decision in the best interest of their baby and themselves. A Safe Haven for Newborns services the entire state of Florida.\\r\\n\\r\\n###COL###\\r\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "A SAFE HAVEN FOR NEWBORNS, INC.",
+		"website": "http:\/\/www.asafehavenfornewborns.com",
+		"slug": "a-safe-haven-for-newborns-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/a-safe-haven-for-newborns-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/a-safe-haven-for-newborns-inc\/locations"
+	},
+	"phones": [{
+		"id": 4190,
+		"department": null,
+		"extension": "103.0",
+		"number": "877-767-2229",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

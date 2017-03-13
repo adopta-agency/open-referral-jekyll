@@ -1,0 +1,48 @@
+{
+	"id": 8130,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.4940661,
+	25.4643898],
+	"description": "See listed services",
+	"latitude": 25.4643898,
+	"longitude": -80.4940661,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-adf9d396-4430-4d97-a025-cc7cef6d3200",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/homestead-fl-adf9d396-4430-4d97-a025-cc7cef6d3200",
+	"address": {
+		"id": 4036,
+		"address_1": "600 SW 14th Avenue",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33030"
+	},
+	"organization": {
+		"id": 5350,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Gang Alternative's Guiding the Path to Success (GPS) After school Program provides after school, full day and summer camp services to 345 students and their parents (inclusive of 34 CWD) in grades K-8th during the school year and 345 students and their parents (inclusive of 34 CWD) in grades K-8th during the summer. \\n\\nThe program serves students at 6 community and school sites located in the Little Haiti, El Portal, West Little River, North Miami and Homestead neighborhoods. The program offers best-practice curricula and activities including literacy, fitness, homework assistance, computer-assisted learning, social skills\/life skills development, project-based learning, service learning, visual and performing arts, music, dance, character education and unique family engagement events.\\n\\nSummer Reading Explorers:\\nProvides literacy activities for Rising kindergarten students, Kindergarten,1st grade, and 2nd grade children to further improve their reading skills. Program takes place as part of the summer camp program.\\n\\nSummer Camp 2016:\\nBegins June 13th (10 weeks)",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GANG ALTERNATIVE - GUIDING THE PATH TO SUCCESS OUT OF SCHOOL (GPS)",
+		"website": "http:\/\/www.myga.org",
+		"slug": "gang-alternative-guiding-the-path-to-success-out-of-school-gps",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/gang-alternative-guiding-the-path-to-success-out-of-school-gps",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/gang-alternative-guiding-the-path-to-success-out-of-school-gps\/locations"
+	},
+	"phones": [{
+		"id": 8130,
+		"department": null,
+		"extension": null,
+		"number": "305-398-5985",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

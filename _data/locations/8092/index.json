@@ -1,0 +1,48 @@
+{
+	"id": 8092,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.238107,
+	25.754612],
+	"description": "See listed services",
+	"latitude": 25.754612,
+	"longitude": -80.238107,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1821-sw-27th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-1821-sw-27th-avenue",
+	"address": {
+		"id": 3998,
+		"address_1": "1821 SW 27th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33145"
+	},
+	"organization": {
+		"id": 3488,
+		"accreditations": [],
+		"alternate_name": "BOHCF",
+		"date_incorporated": null,
+		"description": "Bridge of Hope of Central Florida offers special needs children patients services in the following areas:\\n\\n* Speech Therapy and Assessments\\n* Physical Therapy and Assessments\\n* Physical Fitness Therapy and Assessments (available only in the center)\\n* Occupational Therapy (especially for but not limited to patients with autism, cerebral palsy, down syndrome, spina bifida, and early intervention through the Early Steps Program)\\n\\n1821 sw 27th ave\\nmiami 33145\\nno physical (speech and occuparional)\\nmain: 786-483-8268\\nfax: 786-703-3858",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BRIDGE OF HOPE OF CENTRAL FLORIDA, INC.",
+		"website": "http:\/\/bohcf.com\/",
+		"slug": "bridge-of-hope-of-central-florida-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/bridge-of-hope-of-central-florida-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/bridge-of-hope-of-central-florida-inc\/locations"
+	},
+	"phones": [{
+		"id": 8092,
+		"department": null,
+		"extension": null,
+		"number": "786-483-8268",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

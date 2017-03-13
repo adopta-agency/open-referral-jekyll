@@ -1,0 +1,48 @@
+{
+	"id": 2549,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami Gardens, FL",
+	"short_desc": null,
+	"slug": "miami-gardens-fl-4055-nw-183rd-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-gardens-fl-4055-nw-183rd-street",
+	"address": {
+		"id": 1255,
+		"address_1": "4055 NW 183rd Street",
+		"address_2": null,
+		"city": "Miami Gardens",
+		"state_province": "FL",
+		"postal_code": "33055"
+	},
+	"organization": {
+		"id": 2549,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "JPM Centre is a non-profit 501 c(3) organization established as an oasis for positive mobility. This cultural centre was created to instill justice, potential and motivation for all through our many programs aimed in providing an increase in socio and economic development. The JPM Centre is a HELP Center for the Community. The JPM Centre opens its doors to house, train, employ and build-up people from all walks of life.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE JPM CENTRE AT MIAMI GARDENS DRIVE, INC.",
+		"website": "http:\/\/www.jpmcentre.org",
+		"slug": "the-jpm-centre-at-miami-gardens-drive-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-jpm-centre-at-miami-gardens-drive-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-jpm-centre-at-miami-gardens-drive-inc\/locations"
+	},
+	"phones": [{
+		"id": 2549,
+		"department": null,
+		"extension": null,
+		"number": "305-625-9630",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

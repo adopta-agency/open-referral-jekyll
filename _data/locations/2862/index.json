@@ -1,0 +1,48 @@
+{
+	"id": 2862,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami Beach, FL",
+	"short_desc": null,
+	"slug": "miami-beach-fl-1200-michigan-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-beach-fl-1200-michigan-avenue",
+	"address": {
+		"id": 1409,
+		"address_1": "1200 Michigan Avenue",
+		"address_2": null,
+		"city": "Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33139"
+	},
+	"organization": {
+		"id": 2858,
+		"accreditations": [],
+		"alternate_name": "Boys and Girls Clubs",
+		"date_incorporated": null,
+		"description": "Boys & Girls Clubs of Miami-Dade exist... so that when the school bell rings, the Clubs are in! Since 1946, Boys & Girls Club of Miami-Dade has been at the forefront of youth development, working with young people to help them create great futures. With five locations in Miami-Dade serving 8,000 boys and girls each year, programs offer character and leadership development, educational enhancement, career preparation, community service, mentorship, nutrition education, performing arts, computers, health and life skills, cultural arts and sports, tutors, STEM, financial literacy, fitness, sports and recreation. Club programs are designed to inspire and enable young people and provide them with the resources to succeed and share in the American Dream.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BOYS AND GIRLS CLUBS OF MIAMI-DADE, INC.",
+		"website": "http:\/\/www.bgcmia.org",
+		"slug": "boys-and-girls-clubs-of-miami-dade-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/boys-and-girls-clubs-of-miami-dade-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/boys-and-girls-clubs-of-miami-dade-inc\/locations"
+	},
+	"phones": [{
+		"id": 2862,
+		"department": null,
+		"extension": null,
+		"number": "305-535-0070",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

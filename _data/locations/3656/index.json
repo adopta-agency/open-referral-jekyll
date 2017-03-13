@@ -1,0 +1,48 @@
+{
+	"id": 3656,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-9040-sunset-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-9040-sunset-drive",
+	"address": {
+		"id": 1774,
+		"address_1": "9040 Sunset Drive",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33173"
+	},
+	"organization": {
+		"id": 3656,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "A private, non-for-profit organization whose mission is to provide people with disabilities the assistance and support necessary to enable them to live valued lives in the community.\\n\\nServices Include:\\n* Adult Day Training\\n* Companion Services\\n* In-Home Support Services\\n* ICF\/DD (Intermediate Care Facility for the Developmentally Disabled)\\n* Residential Habilitation\\n* Respite Care\\n* Supported Employment",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SUNRISE COMMUNITY",
+		"website": "http:\/\/www.sunrisegroup.org",
+		"slug": "sunrise-community",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/sunrise-community",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/sunrise-community\/locations"
+	},
+	"phones": [{
+		"id": 3656,
+		"department": null,
+		"extension": null,
+		"number": "305-596-9040",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

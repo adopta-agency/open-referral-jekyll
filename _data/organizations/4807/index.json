@@ -1,0 +1,38 @@
+{
+	"id": 4807,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Kendall Regional Medical Center provides the following services: 24-hour emergency department, advanced diagnostic services, cardiovascular, heart and vascular institute, stroke center, maternity suites, pediatric services, orthopedic and spine institute, rehabilitative services, robotic surgery, and trauma care.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "KENDALL REGIONAL MEDICAL CENTER, INC.",
+	"website": "http:\/\/www.kendallmed.com",
+	"slug": "kendall-regional-medical-center-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/kendall-regional-medical-center-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/kendall-regional-medical-center-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "scott.cihak@hcahealthcare.com",
+		"id": 4807,
+		"name": "Scott Cihak",
+		"title": "CEO",
+		"phones": [{
+			"id": 4807,
+			"department": null,
+			"extension": null,
+			"number": "305-223-3000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4807,
+		"department": null,
+		"extension": null,
+		"number": "305-223-3000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 3411,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82.531053,
+	28.194855],
+	"description": "See listed services",
+	"latitude": 28.194855,
+	"longitude": -82.531053,
+	"name": "Land O Lakes, FL",
+	"short_desc": null,
+	"slug": "land-o-lakes-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/land-o-lakes-fl",
+	"address": {
+		"id": 1677,
+		"address_1": "17230 Camelot Court",
+		"address_2": null,
+		"city": "Land O Lakes",
+		"state_province": "FL",
+		"postal_code": "34638"
+	},
+	"organization": {
+		"id": 3411,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "United Way 2-1-1 of Pasco County provides information and referral to residents of Pasco County in addition to counseling and suicide prevention.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNITED WAY 2-1-1 OF PASCO COUNTY, INC.",
+		"website": "http:\/\/www.unitedwaypasco.org",
+		"slug": "united-way-2-1-1-of-pasco-county-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-way-2-1-1-of-pasco-county-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-way-2-1-1-of-pasco-county-inc\/locations"
+	},
+	"phones": [{
+		"id": 3411,
+		"department": null,
+		"extension": null,
+		"number": "727-845-3030",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

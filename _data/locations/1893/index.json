@@ -1,0 +1,48 @@
+{
+	"id": 1893,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Fort Lauderdale, FL",
+	"short_desc": null,
+	"slug": "fort-lauderdale-fl-3800-west-broward-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/fort-lauderdale-fl-3800-west-broward-boulevard",
+	"address": {
+		"id": 995,
+		"address_1": "3800 West Broward Boulevard",
+		"address_2": "Suite 100",
+		"city": "Fort Lauderdale",
+		"state_province": "FL",
+		"postal_code": "33312"
+	},
+	"organization": {
+		"id": 1893,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Chrysalis Center is a community behavioral health center offering a comprehensive array of mental health and substance abuse services to children, adolescents, adults, and families. Mental health services include individual and family outpatient counseling in the home environment and school environment, psychiatric evaluation and treatment, psychosexual evaluation and sexual behavior specific treatment.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CHRYSALIS HEALTH, INC.",
+		"website": "http:\/\/www.chrysaliscenter.org",
+		"slug": "chrysalis-health-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/chrysalis-health-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/chrysalis-health-inc\/locations"
+	},
+	"phones": [{
+		"id": 1893,
+		"department": null,
+		"extension": null,
+		"number": "954-587-1008",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

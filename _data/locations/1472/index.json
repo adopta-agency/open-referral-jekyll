@@ -1,0 +1,48 @@
+{
+	"id": 1472,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-74,
+	41],
+	"description": "See listed services",
+	"latitude": 41,
+	"longitude": -74,
+	"name": "New York, NY",
+	"short_desc": null,
+	"slug": "new-york-ny-475-riverside-drive-at-west-120th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/new-york-ny-475-riverside-drive-at-west-120th-street",
+	"address": {
+		"id": 769,
+		"address_1": "475 Riverside Drive at West 120th Street",
+		"address_2": "11th Floor",
+		"city": "New York",
+		"state_province": "NY",
+		"postal_code": "10115"
+	},
+	"organization": {
+		"id": 1472,
+		"accreditations": [],
+		"alternate_name": "AA, A.A.",
+		"date_incorporated": null,
+		"description": "Alcoholics Anonymous is a fellowship of men and women who share their experience, strength and hope with each other that they may solve their common problem and help others to recover from alcoholism. The only requirement for membership is a desire to stop drinking. There are no dues or fees for AA membership; we are self-supporting through our own contributions. AA is not allied with any sect, denomination, politics, organization or institution; does not wish to engage in any controversy, neither endorses nor opposes any causes. Our primary purpose is to stay sober and help other alcoholics to achieve sobriety.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ALCOHOLICS ANONYMOUS",
+		"website": "http:\/\/www.aa.org\/",
+		"slug": "alcoholics-anonymous",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/alcoholics-anonymous",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/alcoholics-anonymous\/locations"
+	},
+	"phones": [{
+		"id": 1472,
+		"department": null,
+		"extension": null,
+		"number": "212-870-3400",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

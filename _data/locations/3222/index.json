@@ -1,0 +1,48 @@
+{
+	"id": 3222,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2377078,
+	25.84791],
+	"description": "See listed services",
+	"latitude": 25.84791,
+	"longitude": -80.2377078,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-po-box-470728",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-po-box-470728",
+	"address": {
+		"id": 1588,
+		"address_1": "PO Box 470728",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33147"
+	},
+	"organization": {
+		"id": 3222,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Lodge provides emergency shelter for survivors of domestic violence and\/or sexual assault and their dependents. Clients that do not wish to remain in the shelter may also receive assistance. In addition, The Lodge provides emergency assistance to men (regardless of sexual orientation) survivors of domestic violence. Services include:\\r\\n\\r\\n* Information and Referral\\r\\n* Counseling\\r\\n* Case Management\\r\\n* Child Assessment\\r\\n* Food\\r\\n* Financial Assistance\\r\\n* Legal Assistance\\r\\n* Housing and Shelter\\r\\n* Support groups for women and children\\r\\n* Therapist from Douglas Gardens on-site\\r\\n\\r\\nAlso provides a 24 hour hotline and community education to the public on domestic violence issues, works with other community agencies like Legal Aid and Americans for Immigrant Justice for immigrants who need assistance in filing for residency. Certified applicants of the shelter can be assisted with filing for victim compensation as long as they have the police report and can be eligible for up to $1,500 to relocate.\\r\\n\\r\\nLength of stay at the shelter is 45 days, facility has 46 beds and 10 cribs available.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE LODGE",
+		"website": "http:\/\/www.thelodgemiami.org",
+		"slug": "the-lodge",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-lodge",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-lodge\/locations"
+	},
+	"phones": [{
+		"id": 3222,
+		"department": null,
+		"extension": "242.0",
+		"number": "305-693-0232",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

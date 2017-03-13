@@ -1,0 +1,48 @@
+{
+	"id": 1970,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.211812,
+	25.902978],
+	"description": "See listed services",
+	"latitude": 25.902978,
+	"longitude": -80.211812,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-14040-nw-7th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-14040-nw-7th-avenue",
+	"address": {
+		"id": 1002,
+		"address_1": "14040 NW 7th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33168"
+	},
+	"organization": {
+		"id": 1970,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Life Impact, Inc. is a community service organization committed to impact our community and help improve it's quality of life. Our job is to help young people overcome the impact of negative peer pressure, crime and drugs, and help them become responsible and productive citizen's of society. Life Impact also helps teenage mothers who need support and counseling. Our target population includes: African American (A.A.\/Jamaican\/Haitian\/Caribbean), & Hispanic (Cuban\/Puerto Rican\/S. American). Also offer parenting classes, premarital counseling, and anger management groups for youth.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LIFE IMPACT, INC.",
+		"website": "http:\/\/lifeimpactinc.org",
+		"slug": "life-impact-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/life-impact-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/life-impact-inc\/locations"
+	},
+	"phones": [{
+		"id": 1970,
+		"department": null,
+		"extension": null,
+		"number": "305-953-5433",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,61 @@
+{
+	"id": 500,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Dedicated to improving the quality of life for the millions of people living with Diabetes, and providing information about current research and treatment.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "DIABETES RESEARCH INSTITUTE FOUNDATION, INC.",
+	"website": "http:\/\/www.DiabetesResearch.org",
+	"slug": "diabetes-research-institute-foundation-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/diabetes-research-institute-foundation-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/diabetes-research-institute-foundation-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@drif.org",
+		"id": 500,
+		"name": "Robert A. Pearlman",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 500,
+			"department": null,
+			"extension": null,
+			"number": "800-321-3437",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dmathenson@med.miami.edu",
+		"id": 501,
+		"name": "Della Mathenson",
+		"title": "Diabetes Education Nutrition Department Director",
+		"phones": [{
+			"id": 501,
+			"department": null,
+			"extension": null,
+			"number": "305-243-3696",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 500,
+		"department": null,
+		"extension": null,
+		"number": "800-321-3437",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 501,
+		"department": null,
+		"extension": null,
+		"number": "305-243-3696",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

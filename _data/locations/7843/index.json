@@ -1,0 +1,41 @@
+{
+	"id": 7843,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.21199,
+	25.773931],
+	"description": "See listed services",
+	"latitude": 25.773931,
+	"longitude": -80.21199,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1025-west-flagler-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-1025-west-flagler-street",
+	"address": {
+		"id": 3768,
+		"address_1": "1025 West Flagler Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33174"
+	},
+	"organization": {
+		"id": 7842,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Heartland Hospice is part of the HCR ManorCare family, a provider of home health care, hospice care, skilled nursing, memory care and post-acute care.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HEARTLAND HOSPICE, INC.",
+		"website": "https:\/\/www.heartlandhospice.com\/find-an-agency\/heartland-hospice-services-of-dade\/",
+		"slug": "heartland-hospice-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/heartland-hospice-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/heartland-hospice-inc\/locations"
+	},
+	"phones": []
+}

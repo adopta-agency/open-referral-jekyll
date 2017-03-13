@@ -1,0 +1,41 @@
+{
+	"id": 5993,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Opa Locka, FL",
+	"short_desc": null,
+	"slug": "opa-locka-fl-5101-nw-183rd-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/opa-locka-fl-5101-nw-183rd-street",
+	"address": {
+		"id": 2548,
+		"address_1": "5101 NW 183rd Street",
+		"address_2": null,
+		"city": "Opa Locka",
+		"state_province": "FL",
+		"postal_code": "33055"
+	},
+	"organization": {
+		"id": 2410,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The YWCA of Greater Miami-Dade, Inc. provides an after school and full day programming, including summer winter, and spring break camps for youth from various areas including South Dade, Brownsville, Opa Locka, Carol City, Overtown, Allapattah, Hialeah, and Miami Gardens. Program activities include arts & crafts, nutrition, reading, sports, social skills, field trips, and cultural arts. The program is designed to build nutritional, health and academic skills.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "YWCA OF GREATER MIAMI DADE, INC.",
+		"website": "http:\/\/www.ywca-miami.org",
+		"slug": "ywca-of-greater-miami-dade-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/ywca-of-greater-miami-dade-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/ywca-of-greater-miami-dade-inc\/locations"
+	},
+	"phones": []
+}

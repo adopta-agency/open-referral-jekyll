@@ -1,0 +1,48 @@
+{
+	"id": 7224,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami Beach, FL",
+	"short_desc": null,
+	"slug": "miami-beach-fl-d9d4d804-336e-49c1-8458-30dd906f0a63",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-beach-fl-d9d4d804-336e-49c1-8458-30dd906f0a63",
+	"address": {
+		"id": 3246,
+		"address_1": "3716 Garden Avenue",
+		"address_2": null,
+		"city": "Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33140"
+	},
+	"organization": {
+		"id": 7223,
+		"accreditations": [],
+		"alternate_name": "ST. PATRICK CATHOLIC CHURCH",
+		"date_incorporated": null,
+		"description": "Serving the visitors and residents of Miami Beach since 1926.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SAINT PATRICK CATHOLIC CHURCH",
+		"website": "http:\/\/www.stpatrickmiamibeach.com",
+		"slug": "saint-patrick-catholic-church",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/saint-patrick-catholic-church",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/saint-patrick-catholic-church\/locations"
+	},
+	"phones": [{
+		"id": 7224,
+		"department": null,
+		"extension": null,
+		"number": "305-531-1124",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

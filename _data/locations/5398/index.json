@@ -1,0 +1,48 @@
+{
+	"id": 5398,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1423727,
+	25.9745595],
+	"description": "See listed services",
+	"latitude": 25.9745595,
+	"longitude": -80.1423727,
+	"name": "Aventura, FL",
+	"short_desc": null,
+	"slug": "aventura-fl-21500-biscayne-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/aventura-fl-21500-biscayne-boulevard",
+	"address": {
+		"id": 2315,
+		"address_1": "21500 Biscayne Boulevard",
+		"address_2": "Suite 503",
+		"city": "Aventura",
+		"state_province": "FL",
+		"postal_code": "33180"
+	},
+	"organization": {
+		"id": 5398,
+		"accreditations": [],
+		"alternate_name": "SHAPE",
+		"date_incorporated": null,
+		"description": "SHAPE's mission is to empower high school students to achieve personal and professional success by providing philanthropic, leadership, career and civic opportunities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "STUDENTS HELPING ACHIEVE PHILANTHROPIC EXCELLENCE, INC.",
+		"website": "http:\/\/www.shapestudents.org",
+		"slug": "students-helping-achieve-philanthropic-excellence-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/students-helping-achieve-philanthropic-excellence-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/students-helping-achieve-philanthropic-excellence-inc\/locations"
+	},
+	"phones": [{
+		"id": 5398,
+		"department": null,
+		"extension": "302.0",
+		"number": "305-370-7130",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

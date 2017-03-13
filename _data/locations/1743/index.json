@@ -1,0 +1,41 @@
+{
+	"id": 1743,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77.045802,
+	38.896429],
+	"description": "See listed services",
+	"latitude": 38.896429,
+	"longitude": -77.045802,
+	"name": "Washington, DC",
+	"short_desc": null,
+	"slug": "washington-dc-2025-east-street-nw",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/washington-dc-2025-east-street-nw",
+	"address": {
+		"id": 898,
+		"address_1": "2025 East Street, NW",
+		"address_2": null,
+		"city": "Washington",
+		"state_province": "DC",
+		"postal_code": "20006"
+	},
+	"organization": {
+		"id": 1743,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The American Red Cross prevents and alleviates human suffering in the face of emergencies by mobilizing the power of volunteers and the generosity of donors. The Red Cross offers hurricane preparedness, disaster relief, international services and comprehensive health and safety programs nationwide.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AMERICAN RED CROSS",
+		"website": "http:\/\/www.redcross.org",
+		"slug": "american-red-cross",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/american-red-cross",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/american-red-cross\/locations"
+	},
+	"phones": []
+}

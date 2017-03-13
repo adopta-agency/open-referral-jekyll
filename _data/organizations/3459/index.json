@@ -1,0 +1,38 @@
+{
+	"id": 3459,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides grants and coordinates programs that support innovative classroom curriculum by teachers; provides material resources to classrooms; improves libraries\/media centers; promotes information and computer literacy among students and families; and fosters teacher leadership in schools. No students loans.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE EDUCATION FUND, INC.",
+	"website": "http:\/\/www.educationfund.org",
+	"slug": "the-education-fund-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-education-fund-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-education-fund-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "llecht@educationfund.org",
+		"id": 3459,
+		"name": "Linda Lecht",
+		"title": "President",
+		"phones": [{
+			"id": 3459,
+			"department": null,
+			"extension": "103.0",
+			"number": "305-558-4544",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3459,
+		"department": null,
+		"extension": "103.0",
+		"number": "305-558-4544",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

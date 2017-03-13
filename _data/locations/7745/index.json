@@ -1,0 +1,48 @@
+{
+	"id": 7745,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.4455777,
+	25.478114],
+	"description": "See listed services",
+	"latitude": 25.478114,
+	"longitude": -80.4455777,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-900-ne-23rd-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/homestead-fl-900-ne-23rd-avenue",
+	"address": {
+		"id": 3683,
+		"address_1": "900 NE 23rd Avenue",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33033"
+	},
+	"organization": {
+		"id": 3150,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Sant La Haitian Neighborhood Center is a private, nonprofit organization located in the Little Haiti neighborhood of Miami, Florida. Sant La provides information and referral services in the areas of social services, education, housing opportunities, economic self-sufficiency, access to healthcare and legal services. Sant La is also devoted to developing capacity building and collaborative opportunities for neighborhood agencies.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SANT LA HAITIAN NEIGHBORHOOD CENTER, INC.",
+		"website": "http:\/\/www.santla.org",
+		"slug": "sant-la-haitian-neighborhood-center-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/sant-la-haitian-neighborhood-center-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/sant-la-haitian-neighborhood-center-inc\/locations"
+	},
+	"phones": [{
+		"id": 7745,
+		"department": null,
+		"extension": null,
+		"number": "305-248-7911",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

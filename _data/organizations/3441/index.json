@@ -1,0 +1,38 @@
+{
+	"id": 3441,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Offers comprehensive medical, surgical and osteopathic services.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "WESTCHESTER GENERAL HOSPITAL",
+	"website": "http:\/\/www.westchesterhospital.com",
+	"slug": "westchester-general-hospital",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/westchester-general-hospital",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/westchester-general-hospital\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "GBaldwin@westchesterhospital.com",
+		"id": 3441,
+		"name": "Gilda Baldwin",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 3441,
+			"department": null,
+			"extension": null,
+			"number": "305-264-5252",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3441,
+		"department": null,
+		"extension": null,
+		"number": "305-264-5252",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

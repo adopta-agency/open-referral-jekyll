@@ -1,0 +1,48 @@
+{
+	"id": 6908,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-0f670a2a-4d34-4bfb-ac78-2992bf1901fe",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-0f670a2a-4d34-4bfb-ac78-2992bf1901fe",
+	"address": {
+		"id": 3037,
+		"address_1": "5200 NE 2nd Avenue",
+		"address_2": "3rd Floor, Stein Building",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33137"
+	},
+	"organization": {
+		"id": 6908,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Seasons Hospice offers palliative care, home health aides, music therapy, spiritual support, bereavement support, and social workers. All patients will be under the care of a Registered Nurse case manager as part of their medical team. In addition, the Open Access Program can cover additional services such as IV antibiotics, IV hydration, oral chemotherapy, and other measures which will increase comfort of the patient at the end of his or her life. The Open Access Program is available on a case-by-case basis.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SEASONS HOSPICE AND PALLIATIVE CARE, INC.",
+		"website": "http:\/\/www.seasons.org",
+		"slug": "seasons-hospice-and-palliative-care-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/seasons-hospice-and-palliative-care-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/seasons-hospice-and-palliative-care-inc\/locations"
+	},
+	"phones": [{
+		"id": 6908,
+		"department": null,
+		"extension": null,
+		"number": "305-762-3883",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

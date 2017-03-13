@@ -1,0 +1,48 @@
+{
+	"id": 433,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1949441,
+	25.7754892],
+	"description": "See listed services",
+	"latitude": 25.7754892,
+	"longitude": -80.1949441,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-bbfac844-f5ed-407e-a1a5-ed56cc2b4fd1",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-bbfac844-f5ed-407e-a1a5-ed56cc2b4fd1",
+	"address": {
+		"id": 217,
+		"address_1": "123 NW 1st Avenue",
+		"address_2": "Suite 117",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33137"
+	},
+	"organization": {
+		"id": 432,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Dade Legal Aid provides free quality legal services to Miami-Dade County's indigent population. It specifically provides free legal representation in family law, domestic violence actions, divorce, custody, paternity, guardianship, housing and bankruptcy. It also provides free legal services to indigent undocumented residents in housing and public benefits actions.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "DADE LEGAL AID",
+		"website": "http:\/\/www.dadelegalaid.org\/",
+		"slug": "dade-legal-aid",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/dade-legal-aid",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/dade-legal-aid\/locations"
+	},
+	"phones": [{
+		"id": 433,
+		"department": null,
+		"extension": null,
+		"number": "305-579-5733",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 6985,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -81,
+	"name": "Immokalee, FL",
+	"short_desc": null,
+	"slug": "immokalee-fl-302-stockade-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/immokalee-fl-302-stockade-road",
+	"address": {
+		"id": 3086,
+		"address_1": "302 Stockade Road",
+		"address_2": null,
+		"city": "Immokalee",
+		"state_province": "FL",
+		"postal_code": "34142"
+	},
+	"organization": {
+		"id": 5083,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Collier County Sheriff's Office is tasked with enforcing laws and providing for public safety within Collier County.\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COLLIER COUNTY SHERIFF'S OFFICE",
+		"website": "http:\/\/www.colliersheriff.org",
+		"slug": "collier-county-sheriff-s-office",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-county-sheriff-s-office",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-county-sheriff-s-office\/locations"
+	},
+	"phones": [{
+		"id": 6985,
+		"department": null,
+		"extension": null,
+		"number": "239-657-2878",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

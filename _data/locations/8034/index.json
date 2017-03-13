@@ -1,0 +1,48 @@
+{
+	"id": 8034,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3770925,
+	25.5655427],
+	"description": "See listed services",
+	"latitude": 25.5655427,
+	"longitude": -80.3770925,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-60ae58c9-0251-4a46-8e3e-1f471c1433cd",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-60ae58c9-0251-4a46-8e3e-1f471c1433cd",
+	"address": {
+		"id": 3946,
+		"address_1": "11350 SW 216th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33177"
+	},
+	"organization": {
+		"id": 6756,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Miami-Dade County offers a variety of elderly and individuals with disabilities programs.\\n\\nEl condado de Miami - Dade ofrece una variedad de programas para personas mayores y personas discapacidads.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "M-DC CAHS - ELDERLY AND DISABILITY SERVICES",
+		"website": "http:\/\/www.miamidade.gov\/socialservices\/elderly-services.asp",
+		"slug": "m-dc-cahs-elderly-and-disability-services",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/m-dc-cahs-elderly-and-disability-services",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/m-dc-cahs-elderly-and-disability-services\/locations"
+	},
+	"phones": [{
+		"id": 8034,
+		"department": null,
+		"extension": null,
+		"number": "305-255-2399",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

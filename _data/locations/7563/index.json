@@ -1,0 +1,41 @@
+{
+	"id": 7563,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3609084,
+	25.7003339],
+	"description": "See listed services",
+	"latitude": 25.7003339,
+	"longitude": -80.3609084,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-fb18859f-f128-49c5-8cf9-d18d01324e06",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-fb18859f-f128-49c5-8cf9-d18d01324e06",
+	"address": {
+		"id": 3525,
+		"address_1": "10300 SW 72nd Street",
+		"address_2": "Buiding 300, Suite 387",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33173"
+	},
+	"organization": {
+		"id": 3245,
+		"accreditations": [],
+		"alternate_name": "COLOMBIAN AMERICAN SERVICE ASSOCIATION",
+		"date_incorporated": null,
+		"description": "CASA offers legal representation, immigration assistance, information and referrals. The Legal Department includes two staff attorneys and four paralegals.\\n\\n\\n\\nCASA ofrece representacion legal, assistancia de inmigracion, informacion y referidos. El Departamento Legal incluye dos abogados y cuatro paralegales.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CASA - LEGAL PROGRAM",
+		"website": "http:\/\/www.casa-us.org",
+		"slug": "casa-legal-program",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/casa-legal-program",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/casa-legal-program\/locations"
+	},
+	"phones": []
+}

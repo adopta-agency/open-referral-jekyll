@@ -1,0 +1,48 @@
+{
+	"id": 1983,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-b6f43655-887b-411a-b725-7175b4ca34c1",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-b6f43655-887b-411a-b725-7175b4ca34c1",
+	"address": {
+		"id": 1006,
+		"address_1": "2010 NW 7th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33125"
+	},
+	"organization": {
+		"id": 1980,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Regis House is a non-profit, 501(c)(3), charitable, community-based organization with the mission to improve lives for a healthy community through mental health, family support and substance abuse services.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "REGIS HOUSE, INC.",
+		"website": "http:\/\/www.regishouse.org",
+		"slug": "regis-house-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/regis-house-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/regis-house-inc\/locations"
+	},
+	"phones": [{
+		"id": 1983,
+		"department": null,
+		"extension": null,
+		"number": "305-642-7600",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

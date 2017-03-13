@@ -1,0 +1,48 @@
+{
+	"id": 1821,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-84,
+	30],
+	"description": "See listed services",
+	"latitude": 30,
+	"longitude": -84,
+	"name": "Tallahassee, FL",
+	"short_desc": null,
+	"slug": "tallahassee-fl-1637-metropolitan-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/tallahassee-fl-1637-metropolitan-boulevard",
+	"address": {
+		"id": 957,
+		"address_1": "1637 Metropolitan Boulevard",
+		"address_2": "Suite B",
+		"city": "Tallahassee",
+		"state_province": "FL",
+		"postal_code": "32308"
+	},
+	"organization": {
+		"id": 1821,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "BIAF provides a variety of services for TBI survivors, their families and professionals throughout the state. Offers assistance via a toll free family helpline. The programs sponsored by this organization promote education, prevention and awareness. Their resource center sends out valuable information packets that are tailored to the specific needs of each family. The Family\/Community Support program allows individuals one on one assistance from experienced Family Support Specialists. The prevention team presents educational programs and materials geared toward all age groups for both personal and professional use. The materials, course and program information along with order forms can be found online at www.biaf.org.\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BRAIN INJURY ASSOCIATION OF FLORIDA, INC",
+		"website": "http:\/\/www.biaf.org",
+		"slug": "brain-injury-association-of-florida-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/brain-injury-association-of-florida-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/brain-injury-association-of-florida-inc\/locations"
+	},
+	"phones": [{
+		"id": 1821,
+		"department": null,
+		"extension": null,
+		"number": "800-992-3442",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

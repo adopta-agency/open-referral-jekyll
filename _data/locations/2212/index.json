@@ -1,0 +1,48 @@
+{
+	"id": 2212,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1601-ne-164th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-1601-ne-164th-street",
+	"address": {
+		"id": 1114,
+		"address_1": "1601 NE 164th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33162"
+	},
+	"organization": {
+		"id": 2210,
+		"accreditations": [],
+		"alternate_name": "CILSF",
+		"date_incorporated": null,
+		"description": "CILSF serves any adult or child with a physical, psychological, cognitive, environmental or sensory impairment. It is the single point of access to resources for people with disabilities. Assists people with disabilities to achieve and maintain an independent lifestyle by exercising their right to self-determination. Provides individual and systems advocacy, information and referral, peer support, independent living skills training, adaptive equipment, social and recreational activities, prevocational skills, job placement, survival skills, American Sign Language instruction, information technology training, housing assistance, bus passes for transportation assistance, public benefits assistance, and amplified phone devices.\\n\\nNote: Job training services are available only if client is referred and comes in through the Department of Vocational Rehabilitation, at this time services to the general public are not available.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CENTER FOR INDEPENDENT LIVING OF SOUTH FLORIDA",
+		"website": "http:\/\/www.cilsf.org",
+		"slug": "center-for-independent-living-of-south-florida",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/center-for-independent-living-of-south-florida",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/center-for-independent-living-of-south-florida\/locations"
+	},
+	"phones": [{
+		"id": 2212,
+		"department": null,
+		"extension": null,
+		"number": "305-354-4424",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

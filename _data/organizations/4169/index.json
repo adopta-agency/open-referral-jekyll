@@ -1,0 +1,107 @@
+{
+	"id": 4169,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Pregnancy Help Medical Clinic provides assistance and education to women and couples with a crisis pregnancy. They provide options with their crisis. Services consist of pregnancy tests, ultrasound, counseling, parenting classes, plan of adoption, character development, medical referral, abortion recovery and much more. All services are free and strictly confidential.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "PREGNANCY HELP MEDICAL CLINICS",
+	"website": "http:\/\/www.pregnancyhelpclinics.org",
+	"slug": "pregnancy-help-medical-clinics",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/pregnancy-help-medical-clinics",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/pregnancy-help-medical-clinics\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mavila@heartbeatofmiami.org",
+		"id": 4169,
+		"name": "Martha Avila",
+		"title": "President",
+		"phones": [{
+			"id": 4169,
+			"department": null,
+			"extension": null,
+			"number": "305-821-9970",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jpernia@heartbeatofmiami.org",
+		"id": 4170,
+		"name": "Jeanne Pernia",
+		"title": "Clinics Director",
+		"phones": [{
+			"id": 4170,
+			"department": null,
+			"extension": null,
+			"number": "305-274-5105",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jpernia@heartbeatofmiami.org",
+		"id": 4171,
+		"name": "Jeanne Pernia",
+		"title": "Clinics Director",
+		"phones": [{
+			"id": 4171,
+			"department": null,
+			"extension": null,
+			"number": "305-685-6010",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mavila@heartbeatofmiami.org",
+		"id": 8238,
+		"name": "Martha Avila",
+		"title": "President",
+		"phones": [{
+			"id": 8238,
+			"department": null,
+			"extension": null,
+			"number": "305-603-8668",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4169,
+		"department": null,
+		"extension": null,
+		"number": "305-821-9970",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4170,
+		"department": null,
+		"extension": null,
+		"number": "305-274-5105",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4171,
+		"department": null,
+		"extension": null,
+		"number": "305-685-6010",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8238,
+		"department": null,
+		"extension": null,
+		"number": "305-603-8668",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

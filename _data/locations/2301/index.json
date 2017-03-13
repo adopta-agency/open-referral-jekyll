@@ -1,0 +1,41 @@
+{
+	"id": 2301,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1780787,
+	25.929945],
+	"description": "See listed services",
+	"latitude": 25.929945,
+	"longitude": -80.1780787,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1075-ne-167th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-1075-ne-167th-street",
+	"address": {
+		"id": 1149,
+		"address_1": "1075 NE 167th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33162"
+	},
+	"organization": {
+		"id": 2300,
+		"accreditations": [],
+		"alternate_name": "John T. Macdonald Foundation - FAMILY MEDICINE AND COMMUNITY HEALTH",
+		"date_incorporated": null,
+		"description": "Dr. John T. Macdonald Foundation School Health Initiative: School-based primary care, nursing and social worker services in five public schools associated with the North Miami Beach feeder pattern.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UM - FAMILY MEDICINE AND COMMUNITY HEALTH",
+		"website": "http:\/\/familymedicine.med.miami.edu\/",
+		"slug": "um-family-medicine-and-community-health",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/um-family-medicine-and-community-health",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/um-family-medicine-and-community-health\/locations"
+	},
+	"phones": []
+}

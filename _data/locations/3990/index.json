@@ -1,0 +1,48 @@
+{
+	"id": 3990,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-150-hibiscus-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-150-hibiscus-drive",
+	"address": {
+		"id": 1850,
+		"address_1": "150 Hibiscus Drive",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33166"
+	},
+	"organization": {
+		"id": 3990,
+		"accreditations": [],
+		"alternate_name": "INSTITUTE FOR SPECIAL MINDS INTERACTING IN A LEARNING ENVIRONMENT",
+		"date_incorporated": null,
+		"description": "I SMILE is an Institute for Special Minds Interacting in a Learning Environment. The goal is to help children with disabilities discover their true abilities and is given the opportunity to reach their greatest potential. The institute began to help parents with young children with Autism. Since early intervention plays an important role, we enroll children as young as 2 years old to receive Applied Behavior Analysis services. Specifically verbal behavior services. There is a low teacher to student ratio of 2-1. Children follow their individualized program which addressed their particular needs.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "I SMILE, INC.",
+		"website": "http:\/\/www.ismileflorida.org",
+		"slug": "i-smile-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/i-smile-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/i-smile-inc\/locations"
+	},
+	"phones": [{
+		"id": 3990,
+		"department": null,
+		"extension": null,
+		"number": "305-883-5007",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 8122,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.429541,
+	25.6579729],
+	"description": "See listed services",
+	"latitude": 25.6579729,
+	"longitude": -80.429541,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-14515-sw-120th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-14515-sw-120th-street",
+	"address": {
+		"id": 4028,
+		"address_1": "14515 SW 120th Street",
+		"address_2": "Suite 100A",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33186"
+	},
+	"organization": {
+		"id": 8122,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "We Coach Foundation was founded by Alicia Morgado and Luciana Leo to share their motivation, dedication and willingness to help families in their quest of providing individuals with special needs with the opportunity to reach their fullest potential. We Coach Foundation created five different programs to assist individuals and families. These programs provide education and training to the children, their families, and the community, as well as community involvement, social outings, and other necessary tools for developmental growth.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "WE COACH FOUNDATION",
+		"website": "http:\/\/www.wecoachfoundation.com",
+		"slug": "we-coach-foundation",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/we-coach-foundation",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/we-coach-foundation\/locations"
+	},
+	"phones": [{
+		"id": 8122,
+		"department": null,
+		"extension": null,
+		"number": "305-501-2335",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

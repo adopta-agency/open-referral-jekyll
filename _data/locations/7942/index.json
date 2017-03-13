@@ -1,0 +1,48 @@
+{
+	"id": 7942,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.336039,
+	25.6734177],
+	"description": "See listed services",
+	"latitude": 25.6734177,
+	"longitude": -80.336039,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-11715-sw-87th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-11715-sw-87th-avenue",
+	"address": {
+		"id": 3862,
+		"address_1": "11715 SW 87th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33176"
+	},
+	"organization": {
+		"id": 7942,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Miami Clinical Psychotherapy (MCP) specializes in Growth Groups to help nurture and facilitate individual personal growth. Our groups enhance self-awareness an where you learn ways to minimize daily stress levels and develop new coping skills. We promote a positive lifestyle by improving interactions between self and others around you. \\n\\nWe offer individual, couples and family therapy sessions. We also offer online psychotherapy through Skype. Treatment approaches used include: Motivational Interviewing strategies, Solution-Focused therapy, Rational Emotive Behavior Therapy, Cognitive Behavior Therapy, along with mindfulness and meditation practices.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI CLINICAL PSYCHOTHERAPY",
+		"website": "http:\/\/www.miamiclinicalpsychotherapy.com",
+		"slug": "miami-clinical-psychotherapy",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-clinical-psychotherapy",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-clinical-psychotherapy\/locations"
+	},
+	"phones": [{
+		"id": 7942,
+		"department": null,
+		"extension": null,
+		"number": "786-972-7110",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

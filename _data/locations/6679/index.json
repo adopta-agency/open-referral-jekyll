@@ -1,0 +1,48 @@
+{
+	"id": 6679,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Naranja, FL",
+	"short_desc": null,
+	"slug": "naranja-fl-69af0cae-cfcf-44fc-86aa-ba1bb3ff848b",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naranja-fl-69af0cae-cfcf-44fc-86aa-ba1bb3ff848b",
+	"address": {
+		"id": 2872,
+		"address_1": "13955 SW 264th Street",
+		"address_2": null,
+		"city": "Naranja",
+		"state_province": "FL",
+		"postal_code": "33032"
+	},
+	"organization": {
+		"id": 6264,
+		"accreditations": [],
+		"alternate_name": "MIAMI-DADE COUNTY COMMUNITY ACTION AND HUMAN SERVICES",
+		"date_incorporated": null,
+		"description": "Community Resource Centers provide a variety of social services to economically disadvantaged individuals and families interested in achieving self-sufficiency. These services are provided through Community Action and Human Services' Self Help Institute and are offered at various service centers throughout Miami-Dade County.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "M-DC CAHS - NARANJA COMMUNITY RESOURCE CENTER",
+		"website": "http:\/\/www.miamidade.gov\/socialservices\/center-naranja.asp",
+		"slug": "m-dc-cahs-naranja-community-resource-center",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/m-dc-cahs-naranja-community-resource-center",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/m-dc-cahs-naranja-community-resource-center\/locations"
+	},
+	"phones": [{
+		"id": 6679,
+		"department": null,
+		"extension": null,
+		"number": "305-258-5471",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

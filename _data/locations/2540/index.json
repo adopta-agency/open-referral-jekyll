@@ -1,0 +1,48 @@
+{
+	"id": 2540,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-9d9081e1-7684-4b1a-b7df-9555e665cce9",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-9d9081e1-7684-4b1a-b7df-9555e665cce9",
+	"address": {
+		"id": 1251,
+		"address_1": "18055 Homestead Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 2532,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Sponsors youth development, Alternative Education, After School and parent training programs in the South Miami-Dade area. The agency focuses on predelinquent or adjudicated youth. Offers counseling, basic education, employability skills training, tutoring and sports activities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "RICHMOND-PERRINE OPTIMIST CLUB, INC.",
+		"website": "http:\/\/www.richmondperrineoptimist.org",
+		"slug": "richmond-perrine-optimist-club-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/richmond-perrine-optimist-club-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/richmond-perrine-optimist-club-inc\/locations"
+	},
+	"phones": [{
+		"id": 2540,
+		"department": null,
+		"extension": null,
+		"number": "305-233-9325",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

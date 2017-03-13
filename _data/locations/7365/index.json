@@ -1,0 +1,48 @@
+{
+	"id": 7365,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2035326,
+	25.9429908],
+	"description": "See listed services",
+	"latitude": 25.9429908,
+	"longitude": -80.2035326,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-111-nw-183rd-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-111-nw-183rd-street",
+	"address": {
+		"id": 3357,
+		"address_1": "111 NW 183rd Street",
+		"address_2": "Suite 317",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33169"
+	},
+	"organization": {
+		"id": 7365,
+		"accreditations": [],
+		"alternate_name": "UCM",
+		"date_incorporated": null,
+		"description": "Unified Counseling & Mediation specializes in providing confidential mental health counseling services to children, adolescents, adults, and families. We also provide intensive employee assistance program (EAP), marital, couples and group psychotherapy services.\\r\\n\\r\\nSPECIALTY AREAS: \\r\\nADHD, Anger Management, Anxiety, Behavioral\/Conduct Issues, Depression, eTherapy, Gifted Evaluations, Grief\/Bereavement, Learning Disabilities, Marital\/Divorce, Parenting Skills, Psychological Testing, Stress Management, and Substance Abuse.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNIFIED COUNSELING & MEDIATION, PLLC.",
+		"website": "http:\/\/www.unifiedcm.com",
+		"slug": "unified-counseling-mediation-pllc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/unified-counseling-mediation-pllc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/unified-counseling-mediation-pllc\/locations"
+	},
+	"phones": [{
+		"id": 7365,
+		"department": null,
+		"extension": null,
+		"number": "305-918-2588",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

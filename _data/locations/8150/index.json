@@ -1,0 +1,48 @@
+{
+	"id": 8150,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2184703,
+	25.9210507],
+	"description": "See listed services",
+	"latitude": 25.9210507,
+	"longitude": -80.2184703,
+	"name": "Miami Gardens, FL",
+	"short_desc": null,
+	"slug": "miami-gardens-fl-1160-nw-159th-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-gardens-fl-1160-nw-159th-drive",
+	"address": {
+		"id": 4055,
+		"address_1": "1160 NW 159th Drive",
+		"address_2": null,
+		"city": "Miami Gardens",
+		"state_province": "FL",
+		"postal_code": "33169"
+	},
+	"organization": {
+		"id": 2693,
+		"accreditations": [],
+		"alternate_name": "UCP",
+		"date_incorporated": null,
+		"description": "The mission of United Cerebral Palsy of South Florida (UCP) is to positively impact the quality of life for people with cerebral palsy, other developmental disabilities, and their family members as well as people with similar needs, such as the frail elderly, by providing supports and services which aide in the achievement of their goals and desires.\\n\\nUCP provides a numerous amount of services of which include: education and therapeutic, medical and social services, transportation, vocational and residential services for developmentally disabled children, adults and their families.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNITED CEREBRAL PALSY ASSOCIATION OF SOUTH FLORIDA, INC.",
+		"website": "http:\/\/ucpsouthflorida.org",
+		"slug": "united-cerebral-palsy-association-of-south-florida-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-cerebral-palsy-association-of-south-florida-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-cerebral-palsy-association-of-south-florida-inc\/locations"
+	},
+	"phones": [{
+		"id": 8150,
+		"department": null,
+		"extension": null,
+		"number": "305-728-7604",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 5242,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Neighborhood Health Clinic delivers quality medical and dental care to low-income, working but uninsured Collier County adults, using a professional volunteer staff and funded by private philanthropy. Treatment is for acute, chronic and episodic conditions. Services are delivered by a volunteer medical staff in an atmosphere of dignity and respect. \\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NEIGHBORHOOD HEALTH CLINIC, INC.",
+	"website": "http:\/\/www.neighborhoodhealthclinic.org",
+	"slug": "neighborhood-health-clinic-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/neighborhood-health-clinic-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/neighborhood-health-clinic-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "llascheid@neighborhoodhealthclinic.org",
+		"id": 5242,
+		"name": "Leslie Lascheid",
+		"title": "CEO",
+		"phones": [{
+			"id": 5242,
+			"department": null,
+			"extension": null,
+			"number": "239-261-6600",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5242,
+		"department": null,
+		"extension": null,
+		"number": "239-261-6600",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

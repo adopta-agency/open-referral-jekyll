@@ -1,0 +1,77 @@
+{
+	"id": 3243,
+	"accreditations": [],
+	"alternate_name": "COLOMBIAN AMERICAN SERVICE ASSOCIATION",
+	"date_incorporated": null,
+	"description": "CASA is a private non-profit 501(C)(3), community based organization established in 1994 to assist and support all immigrants. Our efforts are focused on stabilizing and strengthening immigrant families and promoting self reliance.\\n\\n\\nCASA es una 501(C)(3) privada sin fines de lucro, organizaci+\u00a6n comunitaria establecida en 1994 para asistir y apoyar a todos los inmigrantes. Nuestros esfuerzos se centran en la estabilizaci+\u00a6n y fortalecimiento de las familias inmigrantes y promover la autosuficiencia.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CASA, INC.",
+	"website": "http:\/\/www.casa-us.org",
+	"slug": "casa-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/casa-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/casa-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@casa-us.org",
+		"id": 3243,
+		"name": "Luisa Fortou",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 3243,
+			"department": null,
+			"extension": "105.0",
+			"number": "305-463-7468",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lfortou@casa-us.org",
+		"id": 3245,
+		"name": "Luisa Fortou",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 3245,
+			"department": null,
+			"extension": "105.0",
+			"number": "305-463-7468",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@casa-us.org",
+		"id": 7565,
+		"name": "Lorena Gabuardi",
+		"title": "Intake Coordinator",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "info@casa-us.org",
+		"id": 7569,
+		"name": "Lorena Gabuardi",
+		"title": "Intake Coordinator",
+		"phones": []
+	}],
+	"phones": [{
+		"id": 3243,
+		"department": null,
+		"extension": "105.0",
+		"number": "305-463-7468",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3245,
+		"department": null,
+		"extension": "105.0",
+		"number": "305-463-7468",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

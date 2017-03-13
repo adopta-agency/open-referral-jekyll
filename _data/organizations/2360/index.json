@@ -1,0 +1,38 @@
+{
+	"id": 2360,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The National Runaway Switchboard, through the Safeline, provides crisis intervention, information and referral, message relay (youth to family, family to youth), conference calling (between caller and agency), conflict mediation (between youth and legal guardian), runaway education and prevention materials, free bus rides home for qualified youth via Greyhound's Home Free Program.\\n\\n###MON###\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NATIONAL RUNAWAY SWITCHBOARD, INC.",
+	"website": "http:\/\/www.1800runaway.org",
+	"slug": "national-runaway-switchboard-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/national-runaway-switchboard-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/national-runaway-switchboard-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mblaha@1800RUNAWAY.org",
+		"id": 2360,
+		"name": "Maureen Blaha",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 2360,
+			"department": null,
+			"extension": null,
+			"number": "800-786-2929",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2360,
+		"department": null,
+		"extension": null,
+		"number": "800-786-2929",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

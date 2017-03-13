@@ -1,0 +1,153 @@
+{
+	"id": 3806,
+	"accreditations": [],
+	"alternate_name": "DOJ",
+	"date_incorporated": null,
+	"description": "The U.S. Department of Justice enforces the law and defends the interests of the United States according to the law; ensures public safety against threats foreign and domestic; provides federal leadership in preventing and controlling crime; seeks just punishment for those guilty of unlawful behavior; and ensures fair and impartial administration of justice for all Americans.\\n\\n###MON###\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "UNITED STATES DEPARTMENT OF JUSTICE",
+	"website": "http:\/\/www.justice.gov\/",
+	"slug": "united-states-department-of-justice",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-states-department-of-justice",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-states-department-of-justice\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "AskDOJ@usdoj.gov",
+		"id": 3806,
+		"name": "Loretta E. Lynch",
+		"title": "Attorney General",
+		"phones": [{
+			"id": 3806,
+			"department": null,
+			"extension": null,
+			"number": "202-514-2000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "AskDOJ@usdoj.gov",
+		"id": 3807,
+		"name": "Amos Rojas, Jr.",
+		"title": "United States Marshal",
+		"phones": [{
+			"id": 3807,
+			"department": null,
+			"extension": null,
+			"number": "786-433-6340",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 3808,
+		"name": "Adolphus P. Wright",
+		"title": "Special Agent in Charge",
+		"phones": [{
+			"id": 3808,
+			"department": null,
+			"extension": null,
+			"number": "954-660-4500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7028,
+		"name": "William Berger",
+		"title": "United States Marshal",
+		"phones": [{
+			"id": 7028,
+			"department": null,
+			"extension": null,
+			"number": "800-827-3656",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "AskDOJ@usdoj.gov",
+		"id": 7501,
+		"name": "Loretta E. Lynch",
+		"title": "Attorney General",
+		"phones": [{
+			"id": 7501,
+			"department": null,
+			"extension": null,
+			"number": "305-294-7070",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "AskDOJ@usdoj.gov",
+		"id": 7502,
+		"name": "Loretta E. Lynch",
+		"title": "Attorney General",
+		"phones": [{
+			"id": 7502,
+			"department": null,
+			"extension": null,
+			"number": "305-961-9001",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3806,
+		"department": null,
+		"extension": null,
+		"number": "202-514-2000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3807,
+		"department": null,
+		"extension": null,
+		"number": "786-433-6340",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3808,
+		"department": null,
+		"extension": null,
+		"number": "954-660-4500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7028,
+		"department": null,
+		"extension": null,
+		"number": "800-827-3656",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7501,
+		"department": null,
+		"extension": null,
+		"number": "305-294-7070",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7502,
+		"department": null,
+		"extension": null,
+		"number": "305-961-9001",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

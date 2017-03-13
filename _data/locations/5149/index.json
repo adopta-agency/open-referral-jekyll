@@ -1,0 +1,48 @@
+{
+	"id": 5149,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -82,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-f35e72d4-8ca6-4a97-8d3d-e4e0bb729784",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-f35e72d4-8ca6-4a97-8d3d-e4e0bb729784",
+	"address": {
+		"id": 2185,
+		"address_1": "3339 Tamiami Trail East",
+		"address_2": "Building H",
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34112"
+	},
+	"organization": {
+		"id": 5134,
+		"accreditations": [],
+		"alternate_name": "FDOH Collier, Collier Health Department",
+		"date_incorporated": null,
+		"description": "Provides screening, Counseling and Treatment for Hepatitis, Sexually Transmitted Diseases, HIV\/ AIDS and Tuberculosis Immunizations (all childhood and some adult) Birth & Death Certificates Dental Clinic (emergency, restorative and preventative dental care for children up to age 21 and financially eligible adults) Kid Care Health Insurance for Children WIC (Women, Infant & Children) Nutrition Program Inspection, permitting and regulations of septic systems, community swimming pools, migrant labor housing, mobile home parks, tanning and tattoo facilities. Safety and food handling inspections & regulation of alcohol, drug and mental health centers, assisted living facilities, foster and group homes and schools. Communicable disease surveillance.\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA DEPARTMENT OF HEALTH IN COLLIER COUNTY",
+		"website": "http:\/\/collier.floridahealth.gov\/",
+		"slug": "florida-department-of-health-in-collier-county",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-health-in-collier-county",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-health-in-collier-county\/locations"
+	},
+	"phones": [{
+		"id": 5149,
+		"department": null,
+		"extension": null,
+		"number": "239-252-8207",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

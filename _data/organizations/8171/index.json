@@ -1,0 +1,38 @@
+{
+	"id": 8171,
+	"accreditations": [],
+	"alternate_name": "Living Springs is an DBA of DOLPHINS to Stop Domestic Violence, Inc.",
+	"date_incorporated": null,
+	"description": "Living Springs Counseling believes that all people are God's beloved and are worth redemption and healing. We offer Pastoral Counseling by Certified and Endorsed pastoral counselors. In addition to Pastoral Counseling, we offer classes such as ACT: Parenting Class and our Arts and Meditation Class. We also have support groups for those recovering from domestic violence.\\n\\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "LIVING SPRINGS COUNSELING",
+	"website": "http:\/\/DOLPHINSLivingSprings.com",
+	"slug": "living-springs-counseling",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/living-springs-counseling",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/living-springs-counseling\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "PamF@DOLPHINSLivingSprings.org",
+		"id": 8171,
+		"name": "Rev. Dr. Pamela Feeser, CPC",
+		"title": "Founder and ED",
+		"phones": [{
+			"id": 8171,
+			"department": null,
+			"extension": null,
+			"number": "305-432-9554",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8171,
+		"department": null,
+		"extension": null,
+		"number": "305-432-9554",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

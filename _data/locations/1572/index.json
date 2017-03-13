@@ -1,0 +1,48 @@
+{
+	"id": 1572,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.404364,
+	25.5734256],
+	"description": "See listed services",
+	"latitude": 25.5734256,
+	"longitude": -80.404364,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-po-box-016960-r-131",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-po-box-016960-r-131",
+	"address": {
+		"id": 825,
+		"address_1": "PO Box 016960 (R-131)",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33101"
+	},
+	"organization": {
+		"id": 1572,
+		"accreditations": [],
+		"alternate_name": "POISON CONTROL",
+		"date_incorporated": null,
+		"description": "The Florida Poison Information Center Network (FPICN) is dedicated to providing emergency services 24 hours a day to the citizens of Florida by offering poison prevention and management information through the use of a nationwide, toll-free hotline and accessible by voice and TTY. \\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA POISON INFORMATION CENTER NETWORK - MIAMI",
+		"website": "http:\/\/pediatrics.med.miami.edu\/poison-control-center",
+		"slug": "florida-poison-information-center-network-miami",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-poison-information-center-network-miami",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-poison-information-center-network-miami\/locations"
+	},
+	"phones": [{
+		"id": 1572,
+		"department": null,
+		"extension": null,
+		"number": "800-222-1222",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

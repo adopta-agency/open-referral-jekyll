@@ -1,0 +1,62 @@
+{
+	"id": 7458,
+	"accreditations": [],
+	"alternate_name": "NSCFF",
+	"date_incorporated": null,
+	"description": "NSCFF is a non-profit organization working to help patients, families, and caregivers deal with the effects of chronic, degenerative neurological diseases like Alzheimer's Multiple Sclerosis, Parkinson's disease and Stroke. \\n\\nPrimary Services:\\n\\n* Social Work\\n* Case Management\\n* Individual and Family Counseling\\n* Medication Management\\n* Referrals and connections to community resources\\n* Empowerment through educational and therapeutic programs",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NEUROSCIENCE CENTERS OF FLORIDA FOUNDATION, INC.",
+	"website": "http:\/\/www.nscff.org",
+	"slug": "neuroscience-centers-of-florida-foundation-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/neuroscience-centers-of-florida-foundation-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/neuroscience-centers-of-florida-foundation-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "tmr.nscff@gmail.com",
+		"id": 7458,
+		"name": "Tamara Robinett",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7458,
+			"department": null,
+			"extension": "102.0",
+			"number": "305-856-8940",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "choires@nscff.org",
+		"id": 7461,
+		"name": "Carolina Hoires, LCSW",
+		"title": "Manager, Social Work Programs",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "choires@nscff.org",
+		"id": 7462,
+		"name": "Carolina Hoires, LCSW",
+		"title": "Manager, Social Work Programs",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "choires@nscff.org",
+		"id": 7707,
+		"name": "Carolina Hoires, LCSW",
+		"title": "Manager, Social Work Programs",
+		"phones": []
+	}],
+	"phones": [{
+		"id": 7458,
+		"department": null,
+		"extension": "102.0",
+		"number": "305-856-8940",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 1132,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-7748-sw-95th-terrace",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-7748-sw-95th-terrace",
+	"address": {
+		"id": 597,
+		"address_1": "7748 SW 95th Terrace",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33156"
+	},
+	"organization": {
+		"id": 1131,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Florida Baptist Children's Homes is a faith-based, nonprofit organization that provides safe, stable, Christian homes for boys and girls who have been neglected, misdirected, abandoned, abused, or caught up in family turmoil. Offers foster and residential homes.\\n\\n###COL###\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA BAPTIST CHILDREN'S HOME, INC.",
+		"website": "http:\/\/www.fbchomes.org",
+		"slug": "florida-baptist-children-s-home-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-baptist-children-s-home-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-baptist-children-s-home-inc\/locations"
+	},
+	"phones": [{
+		"id": 1132,
+		"department": null,
+		"extension": null,
+		"number": "305-271-4121",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

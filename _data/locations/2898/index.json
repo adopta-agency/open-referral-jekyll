@@ -1,0 +1,48 @@
+{
+	"id": 2898,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-b1d10c3c-7ced-47dc-803d-389c98bdc082",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-b1d10c3c-7ced-47dc-803d-389c98bdc082",
+	"address": {
+		"id": 1430,
+		"address_1": "1401 SW 1st Street",
+		"address_2": "Suite 209",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33135"
+	},
+	"organization": {
+		"id": 2896,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Abriendo Puertas, has been serving our communities for 18 years providing human and social services in the following areas:\\n\\nChild and Youth Development After School and Summer Program in East Little Havana and in North Miami Beach offering academic reinforcement in reading\/literacy,social skills, physical fitness, karate and dance\\n\\nAbriendo Puertas ha estado sirviendo a nuestras comunidades por 18 a+\u00a6os proporcionando servicios humanos y sociales en las siguientes areas:\\n\\nChild and Youth Development After School and Summer Program( Programas de desarrollo de verano y despu+\u00acs de clases para ni+\u00a6os y j+\u00a6venes) ofrece resfuerzo acad+\u00acmico en el este de la Peque+\u00a6a Havana y en North Miami Beach en lectura\/alfabetizaci+\u00a6n, habilidades sociales, aptitud f+\u00a1sica, karate y dance.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ABRIENDO PUERTAS, INC.",
+		"website": "http:\/\/www.abriendopuertasfl.org",
+		"slug": "abriendo-puertas-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/abriendo-puertas-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/abriendo-puertas-inc\/locations"
+	},
+	"phones": [{
+		"id": 2898,
+		"department": null,
+		"extension": null,
+		"number": "305-649-6449",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

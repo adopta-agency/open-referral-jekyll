@@ -1,0 +1,48 @@
+{
+	"id": 991,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "North Miami Beach, FL",
+	"short_desc": null,
+	"slug": "north-miami-beach-fl-15290-ne-15th-court",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/north-miami-beach-fl-15290-ne-15th-court",
+	"address": {
+		"id": 519,
+		"address_1": "15290 NE 15th Court",
+		"address_2": null,
+		"city": "North Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33162"
+	},
+	"organization": {
+		"id": 985,
+		"accreditations": [],
+		"alternate_name": "NORTH MIAMI BEACH DEPARTMENT OF PARKS & REC, NMB PARKS & R.E.C.",
+		"date_incorporated": null,
+		"description": "The Parks & R.E.C. Department offers a wide variety of programs for all ages. In addition to passive parks, open spaces, and tot lots, the department manages the City's public library, a bus transportation service, three swimming pools, four community centers, the Arthur I. Snyder Tennis Complex, summer camps and after-school programs, and the Marjorie and William McDonald Center, a multi-purpose facility.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NORTH MIAMI BEACH DEPARTMENT OF PARKS & R.E.C.",
+		"website": "http:\/\/www.citynmb.com\/index.asp?Type=B_BASIC&SEC={C2CFB8B7-8BCA-4FE7-A53A-71F9C143712C}",
+		"slug": "north-miami-beach-department-of-parks-r-e-c",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/north-miami-beach-department-of-parks-r-e-c",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/north-miami-beach-department-of-parks-r-e-c\/locations"
+	},
+	"phones": [{
+		"id": 991,
+		"department": null,
+		"extension": null,
+		"number": "305-948-2915",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

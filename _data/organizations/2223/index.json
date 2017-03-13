@@ -1,0 +1,38 @@
+{
+	"id": 2223,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Peace Education Foundation develops the \"PeaceWorks\" curricula (Grades PK-12), educational materials and training program that enable individuals to: resolve conflicts effectively and non-violently; effectively deal with bullying prevention; learn ways to handle frustration and anger; practice conflict resolution strategies; respect human differences; understand the dynamics of conflict; develop positive interpersonal skills; and explore conflict and positive force for change. We also provides training for schools, teachers, parents, youth, professionals, and the workplace. \\n\\nOur grade specific \"PeaceWorks\" evidence based curricula (pre-K to high school)is honored to have held \"Select Program\" recognition from The Collaborative for Academic, Social, and Emotional Learning (CASEL) since 2008.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "PEACE EDUCATION FOUNDATION, INC.",
+	"website": "http:\/\/www.peaceeducation.org",
+	"slug": "peace-education-foundation-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/peace-education-foundation-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/peace-education-foundation-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "lloyd@peace-ed.org",
+		"id": 2223,
+		"name": "Lloyd Van Bylevelt",
+		"title": "President",
+		"phones": [{
+			"id": 2223,
+			"department": null,
+			"extension": "210.0",
+			"number": "305-576-5075",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2223,
+		"department": null,
+		"extension": "210.0",
+		"number": "305-576-5075",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 3814,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.349428,
+	25.9762803],
+	"description": "See listed services",
+	"latitude": 25.9762803,
+	"longitude": -80.349428,
+	"name": "Miramar, FL",
+	"short_desc": null,
+	"slug": "miramar-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miramar-fl",
+	"address": {
+		"id": 1809,
+		"address_1": "3400 Lakeside Drive",
+		"address_2": "6th Floor",
+		"city": "Miramar",
+		"state_province": "FL",
+		"postal_code": "33027"
+	},
+	"organization": {
+		"id": 3814,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Crimes within the purview of postal investigations include: mail fraud, the illegal transmission of controlled substances through the U.S. Mail, the mailing of child pornography, bombs or matters containing poison, unauthorized concealable firearms, harmful or prohibited articles, theft of mail or postal valuables and assaults on postal employees.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "U.S. POSTAL INSPECTION SERVICE",
+		"website": "http:\/\/www.usps.com\/postalinspectors",
+		"slug": "u-s-postal-inspection-service",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/u-s-postal-inspection-service",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/u-s-postal-inspection-service\/locations"
+	},
+	"phones": [{
+		"id": 3814,
+		"department": null,
+		"extension": null,
+		"number": "877-876-2455",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

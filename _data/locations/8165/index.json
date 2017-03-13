@@ -1,0 +1,48 @@
+{
+	"id": 8165,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.151248,
+	25.969433],
+	"description": "See listed services",
+	"latitude": 25.969433,
+	"longitude": -80.151248,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2521-ne-209th-terrace",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-2521-ne-209th-terrace",
+	"address": {
+		"id": 4070,
+		"address_1": "2521 NE 209th Terrace",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33180"
+	},
+	"organization": {
+		"id": 8165,
+		"accreditations": [],
+		"alternate_name": "AiAcademy",
+		"date_incorporated": null,
+		"description": "We are \"building better future\" in this century for our kids, through technology & engineering education, in order to do just that we provide Project Based Learning Courses in:\\n\\n* Robotics\\n* 3D Printing\\n* CAD Design\\n* Internet of Things\\n* Unmanned Aerial Systems\\n* Coding \/ Programming\\n* Raspberry Pi's\\n* Arduino's\\n* Chip\\n* and much more\\n\\nWe work with non-profit, state agencies, university outreach programs, who in terms applied for grants to offer undeserved children afterschool and summer programs in Technology & Engineering.\\n\\nSummer camp is provided for 6 weeks from July to mid August.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AUGMENTED INTELLIGENCE ACADEMY, INC.",
+		"website": "http:\/\/www.aiacademy.net",
+		"slug": "augmented-intelligence-academy-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/augmented-intelligence-academy-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/augmented-intelligence-academy-inc\/locations"
+	},
+	"phones": [{
+		"id": 8165,
+		"department": null,
+		"extension": null,
+		"number": "305-458-9509",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 6797,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Love and Care Resources provides pregnancy test, educational and counseling during pregnancy and after child birth, parenting\/baby classes. Assistance with application for Medicaid, food stamps, WIC, housing, etc. Expectant mothers\/mothers are provided with love bags (cleaning, laundry and hygiene products), access to food pantry, maternity and baby items. Monopoly money given to mothers to purchase items from the baby mart from the donations received.\\n\\n**Counselors: Please call the alternate number first when performing warm transfer before calling the main number, that should be the secondary number.**",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "LOVE AND CARE PREGNANCY RESOURCES",
+	"website": "http:\/\/www.loveandcarepr.org",
+	"slug": "love-and-care-pregnancy-resources",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/love-and-care-pregnancy-resources",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/love-and-care-pregnancy-resources\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "nmadan@bellsouth.net",
+		"id": 6797,
+		"name": "Nora Madan",
+		"title": "Counselor",
+		"phones": [{
+			"id": 6797,
+			"department": null,
+			"extension": null,
+			"number": "305-442-9448",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6797,
+		"department": null,
+		"extension": null,
+		"number": "305-442-9448",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

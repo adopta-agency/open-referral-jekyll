@@ -1,0 +1,77 @@
+{
+	"id": 927,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Responsible for enforcing all laws and ordinances of Miami Beach, preventing crime, investigating criminal activity, apprehending, arresting and detaining suspects, presenting evidence, regulating traffic and investigating accidents. Provides victim\/witness assistance and sponsors the Police Athletic League.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI BEACH POLICE",
+	"website": "http:\/\/web.miamibeachfl.gov\/pd\/",
+	"slug": "miami-beach-police",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-beach-police",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-beach-police\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "danieloates@miamibeachfl.gov",
+		"id": 927,
+		"name": "Chief Daniel Oates",
+		"title": "Chief of Police",
+		"phones": [{
+			"id": 927,
+			"department": null,
+			"extension": null,
+			"number": "305-673-7900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sarapoux@miamibeachfl.gov",
+		"id": 928,
+		"name": "Sara Poux",
+		"title": "Domestic Violence Coordinator",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 929,
+		"name": "Major Rick Clements",
+		"title": "Investigations and Support Services Division",
+		"phones": [{
+			"id": 929,
+			"department": null,
+			"extension": "5214.0",
+			"number": "305-673-7945",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ArthurMartineau@miamibeachfl.gov",
+		"id": 930,
+		"name": "Officer Arthur Martineau",
+		"title": "Executive Officer",
+		"phones": []
+	}],
+	"phones": [{
+		"id": 927,
+		"department": null,
+		"extension": null,
+		"number": "305-673-7900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 929,
+		"department": null,
+		"extension": "5214.0",
+		"number": "305-673-7945",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

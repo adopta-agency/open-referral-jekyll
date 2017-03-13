@@ -1,0 +1,48 @@
+{
+	"id": 2060,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1175-ne-125th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-1175-ne-125th-street",
+	"address": {
+		"id": 1042,
+		"address_1": "1175 NE 125th Street",
+		"address_2": "Suite 510",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33161"
+	},
+	"organization": {
+		"id": 2060,
+		"accreditations": [],
+		"alternate_name": "The Alliance",
+		"date_incorporated": null,
+		"description": "The Alliance for Gay, Lesbian, Bisexual, Transgender & Questioning (GLBTQ) Youth coordinates a full range of quality services through partnerships with many Miami-Dade County service organizations. We serve youth, families and their communities while advocating for equal rights and status of all youth regardless of their real or perceived sexual orientation or gender identity\/ expression.\\n\\nThe Alliance implements a comprehensive prevention and early intervention service continuum at the individual, family, community and policy system levels throughout the County. The Alliance provides care coordination services; family advocacy and support; education and awareness activities; practice and evidence-based research development; and youth enrichment activities for GLBTQ youth. The service partnership is composed of mental health, education\/training and advocacy community-based organizations invested in the holistic well-being of GLBTQ youth.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ALLIANCE FOR GLBTQ YOUTH, INC.",
+		"website": "http:\/\/glbtqalliance.org",
+		"slug": "alliance-for-glbtq-youth-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/alliance-for-glbtq-youth-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/alliance-for-glbtq-youth-inc\/locations"
+	},
+	"phones": [{
+		"id": 2060,
+		"department": null,
+		"extension": null,
+		"number": "305-899-8087",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

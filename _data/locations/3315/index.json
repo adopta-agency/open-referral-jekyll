@@ -1,0 +1,48 @@
+{
+	"id": 3315,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-23a62f3a-b79d-45d2-967b-dfbfe1d5439b",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-23a62f3a-b79d-45d2-967b-dfbfe1d5439b",
+	"address": {
+		"id": 1634,
+		"address_1": "12955 SW 132 street",
+		"address_2": "Suite 200",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33186"
+	},
+	"organization": {
+		"id": 3314,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Offers adults, children, and their families innovative, quality services and supports that lead to growth and independence, regardless of the physical, intellectual or behavioral challenges they face. \\n\\nOfrece a los adultos, los ni+\u00a6os y sus familias innovadores, servicios de calidad y apoyos que conducen al crecimiento y la independencia, a pesar de los impedimentos f+\u00a1sicos , intelectuales o de comportamiento.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE MENTOR NETWORK",
+		"website": "http:\/\/www.thementornetwork.com",
+		"slug": "the-mentor-network",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-mentor-network",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-mentor-network\/locations"
+	},
+	"phones": [{
+		"id": 3315,
+		"department": null,
+		"extension": null,
+		"number": "305-252-3328",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

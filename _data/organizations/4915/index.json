@@ -1,0 +1,130 @@
+{
+	"id": 4915,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Gang Alternative, Inc. is tailored to provide a safe and positive environment for young men and women to learn new skills, enhance their social knowledge, emotionally, behaviorally and spiritually.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "GANG ALTERNATIVE, INC",
+	"website": "http:\/\/www.myga.org",
+	"slug": "gang-alternative-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/gang-alternative-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/gang-alternative-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 4915,
+		"name": "Michael Nozile",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 4915,
+			"department": null,
+			"extension": null,
+			"number": "786-391-2376",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jpeterson@myga.org",
+		"id": 5350,
+		"name": "Jeanine Peterson",
+		"title": "Program Director",
+		"phones": [{
+			"id": 5350,
+			"department": null,
+			"extension": null,
+			"number": "305-398-5985",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ed@myga.org",
+		"id": 5351,
+		"name": "Erza Dieuveille",
+		"title": "Program Director",
+		"phones": [{
+			"id": 5351,
+			"department": null,
+			"extension": null,
+			"number": "786-391-2376",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@myga.org",
+		"id": 7204,
+		"name": "Morneque Moore-Ramos",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7204,
+			"department": null,
+			"extension": null,
+			"number": "786-391-2375",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mmoore-ramos@myga.org",
+		"id": 7792,
+		"name": "Morneque Moore-Ramos",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7792,
+			"department": null,
+			"extension": null,
+			"number": "786-391-2375",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4915,
+		"department": null,
+		"extension": null,
+		"number": "786-391-2376",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5350,
+		"department": null,
+		"extension": null,
+		"number": "305-398-5985",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5351,
+		"department": null,
+		"extension": null,
+		"number": "786-391-2376",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7204,
+		"department": null,
+		"extension": null,
+		"number": "786-391-2375",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7792,
+		"department": null,
+		"extension": null,
+		"number": "786-391-2375",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

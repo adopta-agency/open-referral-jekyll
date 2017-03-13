@@ -1,0 +1,48 @@
+{
+	"id": 984,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-4b78988e-7d2a-4152-9e4c-db849d44c7aa",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-4b78988e-7d2a-4152-9e4c-db849d44c7aa",
+	"address": {
+		"id": 513,
+		"address_1": "5040 NW 7th Street",
+		"address_2": "Suite 610",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33126"
+	},
+	"organization": {
+		"id": 982,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "This broad-based community organization is committed to reducing the problems of substance abuse, addiction and directly related social issues and their effects through a comprehensive strategy that includes prevention, education, intervention, treatment and law enforcement.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE MIAMI COALITION FOR A SAFE AND DRUG-FREE COMMUNITY, INC.",
+		"website": "http:\/\/www.miamicoalition.org",
+		"slug": "the-miami-coalition-for-a-safe-and-drug-free-community-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-miami-coalition-for-a-safe-and-drug-free-community-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-miami-coalition-for-a-safe-and-drug-free-community-inc\/locations"
+	},
+	"phones": [{
+		"id": 984,
+		"department": null,
+		"extension": null,
+		"number": "800-731-6306",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

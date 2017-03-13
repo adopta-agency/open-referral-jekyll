@@ -1,0 +1,107 @@
+{
+	"id": 363,
+	"accreditations": [],
+	"alternate_name": "SFAN",
+	"date_incorporated": null,
+	"description": "Established by Jackson Memorial Hospital in 1986, the South Florida AIDS Network (SFAN) was the first organization in Miami-Dade County to provide client advocacy\/case management and related support services to people with HIV\/AIDS. SFAN is now a large comprehensive HIV\/AIDS service provider in Miami-Dade County.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SOUTH FLORIDA AIDS NETWORK",
+	"website": "http:\/\/www.jacksonhealth.org\/services-sfan.asp",
+	"slug": "south-florida-aids-network",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/south-florida-aids-network",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/south-florida-aids-network\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "aidsinfo@jhsmiami.org",
+		"id": 363,
+		"name": "John Eaton",
+		"title": "Associate Administrator",
+		"phones": [{
+			"id": 363,
+			"department": null,
+			"extension": null,
+			"number": "305-585-5241",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "aidsinfo@jhsmiami.org",
+		"id": 6964,
+		"name": "John Eaton",
+		"title": "Associate Administrator",
+		"phones": [{
+			"id": 6964,
+			"department": null,
+			"extension": null,
+			"number": "305-246-2247",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "aidsinfo@jhsmiami.org",
+		"id": 7105,
+		"name": "John Eaton",
+		"title": "Associate Administrator",
+		"phones": [{
+			"id": 7105,
+			"department": null,
+			"extension": null,
+			"number": "305-585-5241",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "aidsinfo@jhsmiami.org",
+		"id": 7106,
+		"name": "John Eaton",
+		"title": "Associate Administrator",
+		"phones": [{
+			"id": 7106,
+			"department": null,
+			"extension": null,
+			"number": "305-888-8582",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 363,
+		"department": null,
+		"extension": null,
+		"number": "305-585-5241",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6964,
+		"department": null,
+		"extension": null,
+		"number": "305-246-2247",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7105,
+		"department": null,
+		"extension": null,
+		"number": "305-585-5241",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7106,
+		"department": null,
+		"extension": null,
+		"number": "305-888-8582",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

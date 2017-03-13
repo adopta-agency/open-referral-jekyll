@@ -1,0 +1,41 @@
+{
+	"id": 7863,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3542916,
+	25.6030762],
+	"description": "See listed services",
+	"latitude": 25.6030762,
+	"longitude": -80.3542916,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-44f58969-1880-4d79-916f-77fb0089b941",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-44f58969-1880-4d79-916f-77fb0089b941",
+	"address": {
+		"id": 3786,
+		"address_1": "17801 Homestead Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 460,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "OG\u00c7\u00d6Farrill Learning Center is a private, non-profit, 501(c)3 organization dedicated to the education of young children ages 3 to 11. Our goal is to serve the multicultural community with the appropriate developmental activities for children and social supportive services for their families. Our center has been providing educational services for over 11 years and is accredited by the National Association for the Education of Young Children (NAEYC). OG\u00c7\u00d6Farrill Learning Center serves low-income families and is funded by the Head Start program, a national initiative to assist families in becoming self-sufficient and providing free child care for their children, and also by The Children's Trust.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "O'FARRILL LEARNING CENTER, INC.",
+		"website": null,
+		"slug": "o-farrill-learning-center-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/o-farrill-learning-center-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/o-farrill-learning-center-inc\/locations"
+	},
+	"phones": []
+}

@@ -1,0 +1,38 @@
+{
+	"id": 4218,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "West Miami CMHC provides mental health evaluations, substance abuse psychological assessments, anger management, domestic violence counseling (Batterer's Intervention Program), DUI counseling, marriage counseling, psychiatric evaluation and consultation, individual, family and group therapy and drug testing.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "WEST MIAMI CMHC, INC.",
+	"website": "http:\/\/www.westmiamicmhc.net\/",
+	"slug": "west-miami-cmhc-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/west-miami-cmhc-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/west-miami-cmhc-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "westmiamicmhc@bellsouth.net",
+		"id": 4218,
+		"name": "Bessie Gothold",
+		"title": "Program Direcror\/OP Clinical Supervisor",
+		"phones": [{
+			"id": 4218,
+			"department": null,
+			"extension": null,
+			"number": "305-262-0099",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4218,
+		"department": null,
+		"extension": null,
+		"number": "305-262-0099",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 3602,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82.4075143,
+	29.6529762],
+	"description": "See listed services",
+	"latitude": 29.6529762,
+	"longitude": -82.4075143,
+	"name": "Gainesville, FL",
+	"short_desc": null,
+	"slug": "gainesville-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/gainesville-fl",
+	"address": {
+		"id": 1754,
+		"address_1": "6031 NW 1st Place",
+		"address_2": null,
+		"city": "Gainesville",
+		"state_province": "FL",
+		"postal_code": "32607-2025"
+	},
+	"organization": {
+		"id": 3602,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "United Way 211 for North Central Florida provides information and referrals to community resources including human service agencies, community clubs, interest groups, support groups, government services, recreation and education programs and health resources. Call center is answered by Heart of Florida.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNITED WAY 2-1-1 FOR NORTH CENTRAL FLORIDA",
+		"website": "http:\/\/www.unitedwayncfl.org",
+		"slug": "united-way-2-1-1-for-north-central-florida",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-way-2-1-1-for-north-central-florida",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-way-2-1-1-for-north-central-florida\/locations"
+	},
+	"phones": [{
+		"id": 3602,
+		"department": null,
+		"extension": null,
+		"number": "352-332-4636",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

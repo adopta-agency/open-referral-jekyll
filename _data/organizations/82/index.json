@@ -1,0 +1,445 @@
+{
+	"id": 82,
+	"accreditations": [],
+	"alternate_name": "COMMUNITY AIDS RESOURCE, INC.",
+	"date_incorporated": null,
+	"description": "Care Resource is one of the areas newest Federally Qualified Healthcare Centers serving clients in both Miami-Dade and Broward Counties. The agency provides easy, efficient access to a wide variety of quality health, prevention, education and psychosocial support services. Specific services offered include primary outpatient medical care, dental health care, case management, testing and counseling, women's programs, youth programs, food services, pharmacy and housing case management.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CARE RESOURCE, INC.",
+	"website": "http:\/\/www.careresource.org",
+	"slug": "care-resource-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/care-resource-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/care-resource-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "rsiclari@careresource.org",
+		"id": 82,
+		"name": "Rick Siclari",
+		"title": "Chief Executive Director",
+		"phones": [{
+			"id": 82,
+			"department": null,
+			"extension": "206.0",
+			"number": "305-576-1234",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "epena@careresource.org",
+		"id": 83,
+		"name": "Elsi Pena",
+		"title": "Linkage Case Manager",
+		"phones": [{
+			"id": 83,
+			"department": null,
+			"extension": "287.0",
+			"number": "305-576-1234",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 86,
+		"name": "Rick Siclari",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 86,
+			"department": null,
+			"extension": null,
+			"number": "305-576-1234",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tsmith@careresource.org",
+		"id": 90,
+		"name": "Thomas Smith",
+		"title": "Director of Behavioral Health Services",
+		"phones": [{
+			"id": 90,
+			"department": null,
+			"extension": "102.0",
+			"number": "305-576-1234",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "haran@careresource.org",
+		"id": 93,
+		"name": "Haley Aran",
+		"title": "Health Promotion & Prevention Manager",
+		"phones": [{
+			"id": 93,
+			"department": null,
+			"extension": "270.0",
+			"number": "305-576-1234",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "haran@careresource.org",
+		"id": 95,
+		"name": "Haley Aran",
+		"title": "Health Promotion & Prevention Manager",
+		"phones": [{
+			"id": 95,
+			"department": null,
+			"extension": "270.0",
+			"number": "305-576-1234",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 96,
+		"name": "Rick Siclari",
+		"title": "CEO",
+		"phones": [{
+			"id": 96,
+			"department": null,
+			"extension": null,
+			"number": "305-576-3663",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "vbrookins@careresource.org",
+		"id": 97,
+		"name": "Valjean Brookins",
+		"title": "Direct Client Services Supervisor",
+		"phones": [{
+			"id": 97,
+			"department": null,
+			"extension": null,
+			"number": "305-576-3663",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tsmith@careresource.org",
+		"id": 98,
+		"name": "Thomas Smith",
+		"title": "Director of Behavioral Health Services",
+		"phones": [{
+			"id": 98,
+			"department": null,
+			"extension": "102.0",
+			"number": "305-576-1234",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tsmith@careresource.org",
+		"id": 99,
+		"name": "Thomas Smith",
+		"title": "Director of Behavioral Health Services",
+		"phones": [{
+			"id": 99,
+			"department": null,
+			"extension": "102.0",
+			"number": "305-576-1234",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dhernandez@careresource.org",
+		"id": 100,
+		"name": "Deborah Hernandez",
+		"title": "Medical Care Services Manager",
+		"phones": [{
+			"id": 100,
+			"department": null,
+			"extension": "368.0",
+			"number": "305-576-1234",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mrivero@careresource.org",
+		"id": 6348,
+		"name": "Marcos Rivero",
+		"title": "Health Insurance Specialist \/ Medical Case Manager",
+		"phones": [{
+			"id": 6348,
+			"department": null,
+			"extension": "191.0",
+			"number": "305-576-1234",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dhernandez@careresource.org",
+		"id": 7250,
+		"name": "Deborah Hernandez",
+		"title": "Medical Care Services Manager",
+		"phones": [{
+			"id": 7250,
+			"department": null,
+			"extension": "368.0",
+			"number": "305-571-3534",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mrodriguez@careresource.org",
+		"id": 7252,
+		"name": "Milagros Rodriguez",
+		"title": "Medical Services Manager",
+		"phones": [{
+			"id": 7252,
+			"department": null,
+			"extension": null,
+			"number": "305-673-3555",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dhernandez@careresource.org",
+		"id": 7256,
+		"name": "Deborah Hernandez",
+		"title": "Medical Services Manager",
+		"phones": [{
+			"id": 7256,
+			"department": null,
+			"extension": null,
+			"number": "954-567-7141",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dhernandez@careresource.org",
+		"id": 7443,
+		"name": "Deborah Hernandez",
+		"title": "Medical Care Services Manager",
+		"phones": [{
+			"id": 7443,
+			"department": null,
+			"extension": "368.0",
+			"number": "305-576-1234",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tsmith@careresource.org",
+		"id": 7809,
+		"name": "Thomas Smith",
+		"title": "Director of Behavioral Health Services",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "tsmith@careresource.org",
+		"id": 7810,
+		"name": "Thomas Smith",
+		"title": "Director of Behavioral Health Services",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "prep@careresource.org",
+		"id": 7811,
+		"name": "Tashia Ameneiro",
+		"title": "Health Promotion & Outreach Educator",
+		"phones": [{
+			"id": 7811,
+			"department": null,
+			"extension": "289.0",
+			"number": "305-576-1234",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mrivero@careresource.org",
+		"id": 7812,
+		"name": "Marcos Rivero",
+		"title": "Health Insurance Specialist",
+		"phones": [{
+			"id": 7812,
+			"department": null,
+			"extension": "191.0",
+			"number": "954-567-7141",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 82,
+		"department": null,
+		"extension": "206.0",
+		"number": "305-576-1234",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 83,
+		"department": null,
+		"extension": "287.0",
+		"number": "305-576-1234",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 86,
+		"department": null,
+		"extension": null,
+		"number": "305-576-1234",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 90,
+		"department": null,
+		"extension": "102.0",
+		"number": "305-576-1234",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 93,
+		"department": null,
+		"extension": "270.0",
+		"number": "305-576-1234",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 95,
+		"department": null,
+		"extension": "270.0",
+		"number": "305-576-1234",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 96,
+		"department": null,
+		"extension": null,
+		"number": "305-576-3663",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 97,
+		"department": null,
+		"extension": null,
+		"number": "305-576-3663",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 98,
+		"department": null,
+		"extension": "102.0",
+		"number": "305-576-1234",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 99,
+		"department": null,
+		"extension": "102.0",
+		"number": "305-576-1234",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 100,
+		"department": null,
+		"extension": "368.0",
+		"number": "305-576-1234",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6348,
+		"department": null,
+		"extension": "191.0",
+		"number": "305-576-1234",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7250,
+		"department": null,
+		"extension": "368.0",
+		"number": "305-571-3534",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7252,
+		"department": null,
+		"extension": null,
+		"number": "305-673-3555",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7256,
+		"department": null,
+		"extension": null,
+		"number": "954-567-7141",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7443,
+		"department": null,
+		"extension": "368.0",
+		"number": "305-576-1234",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7811,
+		"department": null,
+		"extension": "289.0",
+		"number": "305-576-1234",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7812,
+		"department": null,
+		"extension": "191.0",
+		"number": "954-567-7141",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

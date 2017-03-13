@@ -1,0 +1,38 @@
+{
+	"id": 2499,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Florida Breast Cancer Foundation provides information and referral to services for women with breast cancer. Also provides educational material on breast cancer.\\n\\n###MON###\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA BREAST CANCER FOUNDATION, INC.",
+	"website": "http:\/\/www.floridabreastcancer.org",
+	"slug": "florida-breast-cancer-foundation-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-breast-cancer-foundation-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-breast-cancer-foundation-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jessica@floridabreastcancer.org",
+		"id": 2499,
+		"name": "Jessica Parker-Kerr",
+		"title": "Programs Director",
+		"phones": [{
+			"id": 2499,
+			"department": null,
+			"extension": null,
+			"number": "877-644-3222",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2499,
+		"department": null,
+		"extension": null,
+		"number": "877-644-3222",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

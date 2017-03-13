@@ -1,0 +1,48 @@
+{
+	"id": 7392,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3138649,
+	25.6852169],
+	"description": "See listed services",
+	"latitude": 25.6852169,
+	"longitude": -80.3138649,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-9100-south-dadeland-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-9100-south-dadeland-boulevard",
+	"address": {
+		"id": 3376,
+		"address_1": "9100 South Dadeland Boulevard",
+		"address_2": "Suite 1500",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33156"
+	},
+	"organization": {
+		"id": 7392,
+		"accreditations": [],
+		"alternate_name": "MFCC",
+		"date_incorporated": null,
+		"description": "MFCC is a unique counseling center that provides therapy that supports parents and caretakers with family members that are chronically ill. The goal of MFCC is to strive to help parents and caretakers cope with profoundly disheartening news about your child's or loved one's health due to a medical diagnosis along with case management. MFCC knows that a medical diagnosis can be a life altering event that places parents\/ caretakers under daily stressors that most could not understand.\\r\\n\\r\\nThis often creates feelings and expectations that one needs to be a perfect parent\/caretaker in an imperfect situation with little support. MFCC knows this is a difficult feeling to manage alone and this is why we strive to aid parents with counseling that encourages new adaptive coping techniques. Accepts some insurances.\\r\\n\\r\\n**NOTE: Currently not taking any new patients because of office remodeling\/office is currently closed along with the mailing address.**",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "META-FAMILY COUNSELING CENTER OF SOUTH FLORIDA, LLC.",
+		"website": "http:\/\/www.metafamily.org",
+		"slug": "meta-family-counseling-center-of-south-florida-llc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/meta-family-counseling-center-of-south-florida-llc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/meta-family-counseling-center-of-south-florida-llc\/locations"
+	},
+	"phones": [{
+		"id": 7392,
+		"department": null,
+		"extension": null,
+		"number": "305-985-3490",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

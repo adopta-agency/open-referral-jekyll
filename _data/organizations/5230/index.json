@@ -1,0 +1,107 @@
+{
+	"id": 5230,
+	"accreditations": [],
+	"alternate_name": "IMMOKALEE HOUSING AND FAMILY SERVICES",
+	"date_incorporated": null,
+	"description": "IHFS owns and operates three properties and provides 125 affordable rental units to low-income families in Immokalee to best meet the critical housing needs of farm workers and other low-income families. The three unites are: Sanders Pines, Timber Ridge, and Esperanza Place.\\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "IMMOKALEE NON-PROFIT HOUSING, INC.",
+	"website": "http:\/\/www.ihfservices.org",
+	"slug": "immokalee-non-profit-housing-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/immokalee-non-profit-housing-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/immokalee-non-profit-housing-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "sgolden@ihfservices.org",
+		"id": 5230,
+		"name": "Susan Golden",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5230,
+			"department": null,
+			"extension": null,
+			"number": "239-657-8333",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sgolden@ihfservices.org",
+		"id": 5231,
+		"name": "Susan Golden",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5231,
+			"department": null,
+			"extension": null,
+			"number": "239-657-8333",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sgolden@ihfservices.org",
+		"id": 5766,
+		"name": "Susan Golden",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5766,
+			"department": null,
+			"extension": null,
+			"number": "239-657-8333",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sgolden@ihfservices.org",
+		"id": 5767,
+		"name": "Susan Golden",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5767,
+			"department": null,
+			"extension": null,
+			"number": "239-867-4753",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5230,
+		"department": null,
+		"extension": null,
+		"number": "239-657-8333",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5231,
+		"department": null,
+		"extension": null,
+		"number": "239-657-8333",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5766,
+		"department": null,
+		"extension": null,
+		"number": "239-657-8333",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5767,
+		"department": null,
+		"extension": null,
+		"number": "239-867-4753",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

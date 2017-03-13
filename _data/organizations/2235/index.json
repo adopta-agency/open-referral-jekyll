@@ -1,0 +1,32 @@
+{
+	"id": 2235,
+	"accreditations": [],
+	"alternate_name": "The Linda Ray Intervention Center (LRIC); UM",
+	"date_incorporated": null,
+	"description": "The Linda Ray Center develops and delivers programs to improve the outcomes for Miami's at-risk children and families. The Center provides a model for others to use elsewhere. Evidence is collected on program effectiveness to share with the community and other partners.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "UNIVERSITY OF MIAMI - LINDA RAY CENTER",
+	"website": "http:\/\/www.fdlrs-um.org\/",
+	"slug": "university-of-miami-linda-ray-center",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/university-of-miami-linda-ray-center",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/university-of-miami-linda-ray-center\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "m.ullery@miami.edu",
+		"id": 2235,
+		"name": "Dr. Mary Anne Ullery",
+		"title": "Research Director",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "lkatz@miami.edu",
+		"id": 2237,
+		"name": "Dr. Lynne Katz",
+		"title": "Director",
+		"phones": []
+	}],
+	"phones": []
+}

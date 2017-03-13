@@ -1,0 +1,38 @@
+{
+	"id": 5439,
+	"accreditations": [],
+	"alternate_name": "SOUTHWEST FLORIDA ADDICTIONS SERVICES - SWFAS",
+	"date_incorporated": null,
+	"description": "Services include mental health and substance abuse screenings, outpatient therapy, outpatient substance abuse treatment, diversion, in-patient residential substance abuse treatment, transitional housing, and detoxification.\\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SALUSCARE, INC.",
+	"website": "http:\/\/www.saluscareflorida.org",
+	"slug": "saluscare-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/saluscare-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/saluscare-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 5439,
+		"name": "Stacey Cook Hawk",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 5439,
+			"department": null,
+			"extension": null,
+			"number": "239-275-3222",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5439,
+		"department": null,
+		"extension": null,
+		"number": "239-275-3222",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 2937,
+	"accreditations": [],
+	"alternate_name": "TGHI",
+	"date_incorporated": null,
+	"description": "Thelma Gibson Health Initiative provides health related care to diverse and underserved groups within Coconut Grove, Coral Gables, South Miami and the wider Miami-Dade community. Services include HIV\/AIDS prevention and testing, substance abuse prevention, counseling, treatment and follow up, elderly case management and the TGHI Youth Prevention Intervention Program offering youth and their families G\u00c7\u00a3wrap-aroundG\u00c7\u00a5 services including individual, family, and group counseling, targeted case management, prevocational skills training, and personal as well as cultural enrichment experiences.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THELMA GIBSON HEALTH INITIATIVE, INC.",
+	"website": "http:\/\/www.tghimiami.org",
+	"slug": "thelma-gibson-health-initiative-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/thelma-gibson-health-initiative-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/thelma-gibson-health-initiative-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Mbarton@tghimiami.org",
+		"id": 2937,
+		"name": "Merline J. Barton",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 2937,
+			"department": null,
+			"extension": null,
+			"number": "305-446-1543",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2937,
+		"department": null,
+		"extension": null,
+		"number": "305-446-1543",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

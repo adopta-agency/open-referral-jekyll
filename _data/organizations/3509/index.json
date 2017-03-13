@@ -1,0 +1,130 @@
+{
+	"id": 3509,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Since 1984, VNA\/Hospice has been providing G\u00c7\u00a3at homeG\u00c7\u00a5 healthcare for the residents and visitors of Monroe County. From Ocean Reef to Key West, when you or a family member could benefit from home health or hospice Visiting Nurse Association & Hospice of the Florida Keys offers a full range of care to enhance life and increase independence and help you stay where you most want to be G\u00c7\u00f4 at home, surrounded by the people, mementos and memories that bring comfort.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HOSPICE\/VNA OF THE FLORIDA KEYS, INC.",
+	"website": "http:\/\/www.vnahospicekeys.org\/",
+	"slug": "hospice-vna-of-the-florida-keys-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/hospice-vna-of-the-florida-keys-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/hospice-vna-of-the-florida-keys-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@VNAHospiceKeys.org",
+		"id": 3509,
+		"name": "Jody Gross",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 3509,
+			"department": null,
+			"extension": null,
+			"number": "305-294-8812",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 3510,
+		"name": "Leslie Gordon",
+		"title": "Executive Assistant to the CEO",
+		"phones": [{
+			"id": 3510,
+			"department": null,
+			"extension": "25.0",
+			"number": "305-294-8812",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 3511,
+		"name": "Leslie Gordon",
+		"title": "Executive Assistant to the CEO",
+		"phones": [{
+			"id": 3511,
+			"department": null,
+			"extension": "25.0",
+			"number": "305-294-8812",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7361,
+		"name": "Leslie Gordon",
+		"title": "Executive Assistant to the CEO",
+		"phones": [{
+			"id": 7361,
+			"department": null,
+			"extension": "25.0",
+			"number": "305-852-7887",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7362,
+		"name": "Leslie Gordon",
+		"title": "Executive Assistant to the CEO",
+		"phones": [{
+			"id": 7362,
+			"department": null,
+			"extension": "25.0",
+			"number": "305-852-7887",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3509,
+		"department": null,
+		"extension": null,
+		"number": "305-294-8812",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3510,
+		"department": null,
+		"extension": "25.0",
+		"number": "305-294-8812",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3511,
+		"department": null,
+		"extension": "25.0",
+		"number": "305-294-8812",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7361,
+		"department": null,
+		"extension": "25.0",
+		"number": "305-852-7887",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7362,
+		"department": null,
+		"extension": "25.0",
+		"number": "305-852-7887",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

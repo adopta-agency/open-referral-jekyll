@@ -1,0 +1,48 @@
+{
+	"id": 7244,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3812841,
+	25.5808893],
+	"description": "See listed services",
+	"latitude": 25.5808893,
+	"longitude": -80.3812841,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-11720-caribbean-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-11720-caribbean-boulevard",
+	"address": {
+		"id": 3262,
+		"address_1": "11720 Caribbean Boulevard",
+		"address_2": "Suite 420",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33177"
+	},
+	"organization": {
+		"id": 860,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Spectrum Programs, Inc (SPI)\/Miami Behavioral Health Center (MBHC) are comprehensive behavioral healthcare providers that offers a wide-array of services in South Florida communities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI BEHAVIORAL HEALTH CENTER, INC.",
+		"website": "http:\/\/www.mbhc.org",
+		"slug": "miami-behavioral-health-center-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-behavioral-health-center-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-behavioral-health-center-inc\/locations"
+	},
+	"phones": [{
+		"id": 7244,
+		"department": null,
+		"extension": null,
+		"number": "786-293-9544",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

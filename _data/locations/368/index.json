@@ -1,0 +1,48 @@
+{
+	"id": 368,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1625496,
+	25.9312566],
+	"description": "See listed services",
+	"latitude": 25.9312566,
+	"longitude": -80.1625496,
+	"name": "North Miami Beach, FL",
+	"short_desc": null,
+	"slug": "north-miami-beach-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/north-miami-beach-fl",
+	"address": {
+		"id": 183,
+		"address_1": "16876 NE 19th Avenue",
+		"address_2": null,
+		"city": "North Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33162"
+	},
+	"organization": {
+		"id": 368,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Serves women and teens of all ages and their male partners; GYN services including PAP, Pelvic, STD & HIV screening, pregnancy testing, laboratory screening (blood, sperm count, etc). Offers counseling on all issues related to family planning, sexuality, women's health, relationships, menstruation. Seminars for teens, menopause and beyond. Abortions on site. Provides counseling for sexual abuse, relationships, sexual fulfillment, and enrichment, etc. Provides referrals to prenatal care and delivery sites in Miami-Dade & Broward County. Private counseling for sexual abuse and foster care children. Extensive, age appropriate educational hand outs.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "WOMEN & TEENS HEALTHCARE, INC.",
+		"website": "http:\/\/www.womenandteens.com",
+		"slug": "women-teens-healthcare-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/women-teens-healthcare-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/women-teens-healthcare-inc\/locations"
+	},
+	"phones": [{
+		"id": 368,
+		"department": null,
+		"extension": null,
+		"number": "305-895-5555",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 1380,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-401-nw-2nd-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-401-nw-2nd-avenue",
+	"address": {
+		"id": 722,
+		"address_1": "401 NW 2nd Avenue",
+		"address_2": "Room S-712",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33128"
+	},
+	"organization": {
+		"id": 1379,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides vocational rehabilitation, medical and social service programs for blind and visually impaired.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA DEPARTMENT OF EDUCATION - FLORIDA DIVISION OF BLIND SERVICES",
+		"website": "http:\/\/dbs.myflorida.com\/",
+		"slug": "florida-department-of-education-florida-division-of-blind-services",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-education-florida-division-of-blind-services",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-education-florida-division-of-blind-services\/locations"
+	},
+	"phones": [{
+		"id": 1380,
+		"department": null,
+		"extension": null,
+		"number": "305-377-5339",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

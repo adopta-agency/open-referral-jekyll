@@ -1,0 +1,84 @@
+{
+	"id": 7138,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The VFW National Home for Children serves as a living memorial to America's veterans by helping our nation's veteran and military families. Through their Helpline and their on-campus programs, VFW helps families and children through times of crisis, both on campus and in their own communities nationwide.\\n\\n###COL###\\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "VFW NATIONAL HOME FOR CHILDREN, INC.",
+	"website": "http:\/\/vfwnationalhome.org",
+	"slug": "vfw-national-home-for-children-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/vfw-national-home-for-children-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/vfw-national-home-for-children-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "pgreen@vfwnationalhome.org",
+		"id": 7138,
+		"name": "Patrice Green",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7138,
+			"department": null,
+			"extension": null,
+			"number": "866-483-9642",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mstudinger@vfwnationalhome.org",
+		"id": 7139,
+		"name": "Molly Studinger",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7139,
+			"department": null,
+			"extension": null,
+			"number": "800-313-4200",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mstudinger@vfwnationalhome.org",
+		"id": 7140,
+		"name": "Molly Studinger",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7140,
+			"department": null,
+			"extension": null,
+			"number": "800-313-4200",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7138,
+		"department": null,
+		"extension": null,
+		"number": "866-483-9642",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7139,
+		"department": null,
+		"extension": null,
+		"number": "800-313-4200",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7140,
+		"department": null,
+		"extension": null,
+		"number": "800-313-4200",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

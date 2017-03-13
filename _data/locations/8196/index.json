@@ -1,0 +1,48 @@
+{
+	"id": 8196,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2310968,
+	25.9276358],
+	"description": "See listed services",
+	"latitude": 25.9276358,
+	"longitude": -80.2310968,
+	"name": "Miami Gardens, FL",
+	"short_desc": null,
+	"slug": "miami-gardens-fl-68208f49-3dca-4cf5-b5c8-94bec4a6b3a3",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-gardens-fl-68208f49-3dca-4cf5-b5c8-94bec4a6b3a3",
+	"address": {
+		"id": 4099,
+		"address_1": "1825 NW 167th Street",
+		"address_2": "Suite 109",
+		"city": "Miami Gardens",
+		"state_province": "FL",
+		"postal_code": "33056"
+	},
+	"organization": {
+		"id": 1340,
+		"accreditations": [],
+		"alternate_name": "CFCE",
+		"date_incorporated": null,
+		"description": "The Center for Family and Child Enrichment is a private, nonprofit, community-based organization that serves children in foster care who have been abused, neglected and\/or abandoned; children with severe emotional disturbances and in need of mental health care; children in the custody of parents or relatives who are chronic runaways and\/or are ungovernable; and children who come to this country without parents or guardians (unaccompanied minors). Our mission is to enrich, strengthen, preserve, restore, and empower children and families in a culturally diverse community",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CENTER FOR FAMILY AND CHILD ENRICHMENT, INC.",
+		"website": "http:\/\/www.cfceinc.org",
+		"slug": "center-for-family-and-child-enrichment-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/center-for-family-and-child-enrichment-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/center-for-family-and-child-enrichment-inc\/locations"
+	},
+	"phones": [{
+		"id": 8196,
+		"department": null,
+		"extension": null,
+		"number": "305-474-1803",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

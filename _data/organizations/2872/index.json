@@ -1,0 +1,483 @@
+{
+	"id": 2872,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Arc of South Florida is a non-profit organization with a two-folded purpose: To ensure the rights of all persons with intellectual and developmental disabilities through effective advocacy, and to provide specialized programs and services to help clients lead meaningful and fulfilling lives.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE ARC OF SOUTH FLORIDA, INC.",
+	"website": "http:\/\/www.arcsofla.org\/",
+	"slug": "the-arc-of-south-florida-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-arc-of-south-florida-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-arc-of-south-florida-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mmesser@arcsofla.org",
+		"id": 2872,
+		"name": "Michael Messer",
+		"title": "President\/CEO",
+		"phones": [{
+			"id": 2872,
+			"department": null,
+			"extension": null,
+			"number": "305-759-8500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ghparra@arcsofla.org",
+		"id": 2874,
+		"name": "Gabriel Parra",
+		"title": "Special Projects Coordinator",
+		"phones": [{
+			"id": 2874,
+			"department": null,
+			"extension": null,
+			"number": "305-759-8500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ghparra@arcsofla.org",
+		"id": 2875,
+		"name": "Gabriel Parra",
+		"title": "Director of Adult Services",
+		"phones": [{
+			"id": 2875,
+			"department": null,
+			"extension": "141.0",
+			"number": "305-759-8500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ghparra@arcsofla.org",
+		"id": 2876,
+		"name": "Gabriel Parra",
+		"title": "Director of Adult Services",
+		"phones": [{
+			"id": 2876,
+			"department": null,
+			"extension": null,
+			"number": "305-759-8500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lauraS@arcsofla.org",
+		"id": 2877,
+		"name": "Laura Secord",
+		"title": "Director of Children and Youth",
+		"phones": [{
+			"id": 2877,
+			"department": null,
+			"extension": "149.0",
+			"number": "305-246-3530",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "alv99@bellsouth.net",
+		"id": 2879,
+		"name": "Irma Alvarez",
+		"title": "Site Director Cottage 6",
+		"phones": [{
+			"id": 2879,
+			"department": null,
+			"extension": null,
+			"number": "305-279-4141",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "esmith.triplep@arcsofla.org",
+		"id": 2880,
+		"name": "Eileen smith",
+		"title": "Group Facilitator - English",
+		"phones": [{
+			"id": 2880,
+			"department": null,
+			"extension": null,
+			"number": "305-796-1139",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "myrnac@arcsofla.org",
+		"id": 2881,
+		"name": "Myrna Charlton",
+		"title": "Coordinator",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "arccyfla@bellsouth.net",
+		"id": 2885,
+		"name": "Maria Barros",
+		"title": "Site Manager",
+		"phones": [{
+			"id": 2885,
+			"department": null,
+			"extension": null,
+			"number": "305-246-3530",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ghparra@arcsofla.org",
+		"id": 4114,
+		"name": "Gabriel Parra",
+		"title": "Special Projects Coordinator",
+		"phones": [{
+			"id": 4114,
+			"department": null,
+			"extension": null,
+			"number": "305-759-8500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 4919,
+		"name": "Janell Alzate",
+		"title": "Contact Person",
+		"phones": [{
+			"id": 4919,
+			"department": null,
+			"extension": null,
+			"number": "305-623-9631",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "alv99@bellsouth.net",
+		"id": 5653,
+		"name": "Irma Alvarez",
+		"title": "Program Director",
+		"phones": [{
+			"id": 5653,
+			"department": null,
+			"extension": null,
+			"number": "305-279-4141",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "arccyfla@bellsouth.net",
+		"id": 5656,
+		"name": "Maria Barrios",
+		"title": "Program Director",
+		"phones": [{
+			"id": 5656,
+			"department": null,
+			"extension": null,
+			"number": "305-246-3530",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jialzate.ace@gmail.com",
+		"id": 6069,
+		"name": "Janell Alzate",
+		"title": "Principal ACE Academy",
+		"phones": [{
+			"id": 6069,
+			"department": null,
+			"extension": null,
+			"number": "305-623-9631",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jialzate.ace@gmail.com",
+		"id": 6070,
+		"name": "Janell Alzate",
+		"title": "Principal ACE Academy",
+		"phones": [{
+			"id": 6070,
+			"department": null,
+			"extension": null,
+			"number": "305-279-3064",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jialzate.ace@gmail.com",
+		"id": 6071,
+		"name": "Janell Alzate",
+		"title": "Principal ACE Academy",
+		"phones": [{
+			"id": 6071,
+			"department": null,
+			"extension": null,
+			"number": "305-246-4933",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lauraS@arcsofla.org",
+		"id": 6072,
+		"name": "Laura Secord",
+		"title": "Director of Children and Youth",
+		"phones": [{
+			"id": 6072,
+			"department": null,
+			"extension": null,
+			"number": "305-279-4141",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ghparra@arcsofla.org",
+		"id": 6073,
+		"name": "Gabriel Parra",
+		"title": "Director of Adult Services",
+		"phones": [{
+			"id": 6073,
+			"department": null,
+			"extension": "141.0",
+			"number": "305-759-8500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tparra@arcsofla.org",
+		"id": 6074,
+		"name": "Tonja Parra",
+		"title": "Office Manager",
+		"phones": [{
+			"id": 6074,
+			"department": null,
+			"extension": "101.0",
+			"number": "305-759-8500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "arccyfla@bellsouth.net",
+		"id": 6354,
+		"name": "Maria Barros",
+		"title": "Site Manager",
+		"phones": [{
+			"id": 6354,
+			"department": null,
+			"extension": null,
+			"number": "305-246-4933",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ghparra@arcsofla.org",
+		"id": 7266,
+		"name": "Gabriel Parra",
+		"title": "Special Projects Coordinator",
+		"phones": [{
+			"id": 7266,
+			"department": null,
+			"extension": null,
+			"number": "305-759-8500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2872,
+		"department": null,
+		"extension": null,
+		"number": "305-759-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2874,
+		"department": null,
+		"extension": null,
+		"number": "305-759-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2875,
+		"department": null,
+		"extension": "141.0",
+		"number": "305-759-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2876,
+		"department": null,
+		"extension": null,
+		"number": "305-759-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2877,
+		"department": null,
+		"extension": "149.0",
+		"number": "305-246-3530",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2879,
+		"department": null,
+		"extension": null,
+		"number": "305-279-4141",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2880,
+		"department": null,
+		"extension": null,
+		"number": "305-796-1139",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2885,
+		"department": null,
+		"extension": null,
+		"number": "305-246-3530",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4114,
+		"department": null,
+		"extension": null,
+		"number": "305-759-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4919,
+		"department": null,
+		"extension": null,
+		"number": "305-623-9631",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5653,
+		"department": null,
+		"extension": null,
+		"number": "305-279-4141",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5656,
+		"department": null,
+		"extension": null,
+		"number": "305-246-3530",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6069,
+		"department": null,
+		"extension": null,
+		"number": "305-623-9631",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6070,
+		"department": null,
+		"extension": null,
+		"number": "305-279-3064",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6071,
+		"department": null,
+		"extension": null,
+		"number": "305-246-4933",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6072,
+		"department": null,
+		"extension": null,
+		"number": "305-279-4141",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6073,
+		"department": null,
+		"extension": "141.0",
+		"number": "305-759-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6074,
+		"department": null,
+		"extension": "101.0",
+		"number": "305-759-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6354,
+		"department": null,
+		"extension": null,
+		"number": "305-246-4933",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7266,
+		"department": null,
+		"extension": null,
+		"number": "305-759-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

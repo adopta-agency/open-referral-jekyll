@@ -1,0 +1,61 @@
+{
+	"id": 1004,
+	"accreditations": [],
+	"alternate_name": "MADD",
+	"date_incorporated": null,
+	"description": "Mothers Against Drunk Driving-\u00ab (MADD) is the nationG\u00c7\u00d6s largest nonprofit working to protect families from drunk driving and underage drinking. MADD also supports drunk and drugged driving victims and survivors at no charge, serving one person every 8.6 minutes through local MADD victim advocates and at 1-877-MADD-HELP.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MOTHERS AGAINST DRUNK DRIVING, INC.",
+	"website": "http:\/\/www.madd.org",
+	"slug": "mothers-against-drunk-driving-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/mothers-against-drunk-driving-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/mothers-against-drunk-driving-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 1004,
+		"name": "Debbie Weir",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 1004,
+			"department": null,
+			"extension": null,
+			"number": "877-275-6233",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "janet.mondshein@madd.org",
+		"id": 1005,
+		"name": "Janet Mondshein",
+		"title": "Affiliate Executive Director",
+		"phones": [{
+			"id": 1005,
+			"department": null,
+			"extension": "7233.0",
+			"number": "305-273-3744",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1004,
+		"department": null,
+		"extension": null,
+		"number": "877-275-6233",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1005,
+		"department": null,
+		"extension": "7233.0",
+		"number": "305-273-3744",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

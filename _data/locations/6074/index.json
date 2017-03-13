@@ -1,0 +1,48 @@
+{
+	"id": 6074,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-b7fd16fa-718b-4573-a4a2-0ca06c9cd923",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-b7fd16fa-718b-4573-a4a2-0ca06c9cd923",
+	"address": {
+		"id": 2595,
+		"address_1": "5555 Biscayne Boulevard",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33137"
+	},
+	"organization": {
+		"id": 2872,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Arc of South Florida is a non-profit organization with a two-folded purpose: To ensure the rights of all persons with intellectual and developmental disabilities through effective advocacy, and to provide specialized programs and services to help clients lead meaningful and fulfilling lives.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE ARC OF SOUTH FLORIDA, INC.",
+		"website": "http:\/\/www.arcsofla.org\/",
+		"slug": "the-arc-of-south-florida-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-arc-of-south-florida-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-arc-of-south-florida-inc\/locations"
+	},
+	"phones": [{
+		"id": 6074,
+		"department": null,
+		"extension": "101.0",
+		"number": "305-759-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

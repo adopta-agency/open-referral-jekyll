@@ -1,0 +1,48 @@
+{
+	"id": 7229,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -82,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-9625764f-3271-47fc-a2b7-30d3c2161ee8",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/key-west-fl-9625764f-3271-47fc-a2b7-30d3c2161ee8",
+	"address": {
+		"id": 3251,
+		"address_1": "1930 Flager Avenue",
+		"address_2": null,
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 2501,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Salvation Army's mission is to feed, to clothe, to comfort, and to care. This is done through many social services such as:\\n\\n* Aid to Families\\n* Disaster Services\\n* Emergency Financial Assistance\\n* Food & Nutrition Programs\\n* Casework Services\\n* Store\\n* Ministries\\n* Worship Services \\n* Character Building Programs\\n\\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE SALVATION ARMY OF THE KEYS",
+		"website": null,
+		"slug": "the-salvation-army-of-the-keys",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-salvation-army-of-the-keys",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-salvation-army-of-the-keys\/locations"
+	},
+	"phones": [{
+		"id": 7229,
+		"department": null,
+		"extension": null,
+		"number": "305-401-0149",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

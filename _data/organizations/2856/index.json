@@ -1,0 +1,61 @@
+{
+	"id": 2856,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Christopher & Dana Reeve Foundation is committed to funding research that develops treatments and cures for paralysis caused by spinal cord injury and other central nervous system disorders. The Foundation also vigorously works to improve the quality of life for people living with disabilities through its grants program, paralysis resource center and advocacy efforts.\\n\\n####MON###\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CHRISTOPHER AND DANA REEVE FOUNDATION",
+	"website": "http:\/\/www.christopherreeve.org",
+	"slug": "christopher-and-dana-reeve-foundation",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/christopher-and-dana-reeve-foundation",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/christopher-and-dana-reeve-foundation\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "information@christopherreeve.org",
+		"id": 2856,
+		"name": "Peter T. Wilderotter",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 2856,
+			"department": null,
+			"extension": null,
+			"number": "800-225-0292",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kmcarthur@christopherreeve.org",
+		"id": 2857,
+		"name": "Kathy McArthur",
+		"title": "Information Specialist",
+		"phones": [{
+			"id": 2857,
+			"department": null,
+			"extension": null,
+			"number": "800-539-7309",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2856,
+		"department": null,
+		"extension": null,
+		"number": "800-225-0292",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2857,
+		"department": null,
+		"extension": null,
+		"number": "800-539-7309",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

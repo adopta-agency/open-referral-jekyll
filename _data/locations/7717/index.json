@@ -1,0 +1,48 @@
+{
+	"id": 7717,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2550494,
+	25.9632526],
+	"description": "See listed services",
+	"latitude": 25.9632526,
+	"longitude": -80.2550494,
+	"name": "Miami Gardens, FL",
+	"short_desc": null,
+	"slug": "miami-gardens-fl-1ef6fae9-469f-4584-ad2d-e07a80f32a8c",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-gardens-fl-1ef6fae9-469f-4584-ad2d-e07a80f32a8c",
+	"address": {
+		"id": 3658,
+		"address_1": "3250 NW 207th Street",
+		"address_2": null,
+		"city": "Miami Gardens",
+		"state_province": "FL",
+		"postal_code": "33056"
+	},
+	"organization": {
+		"id": 2810,
+		"accreditations": [],
+		"alternate_name": "CAW",
+		"date_incorporated": null,
+		"description": "After school program which provides literacy (reading); basic arithmetic review, anger management, conflict resolution, Old Fashion Manners, Afro-centricity (learning about the history of Africa and self); self esteem building; reading comprehension, composition, grammar; extra curriculum activities include: learning African dances, self defense or modeling. All aspects learned in these classes are demonstrated in the annual Spring Showcase by participants. Classes are 5 days each week-Monday through Friday (2 hours daily) with reports to parents and referral sources(progress reports).",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CONCERNED AFRICAN WOMEN, INC",
+		"website": "http:\/\/www.concernedafricanwomen.org",
+		"slug": "concerned-african-women-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/concerned-african-women-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/concerned-african-women-inc\/locations"
+	},
+	"phones": [{
+		"id": 7717,
+		"department": null,
+		"extension": null,
+		"number": "305-621-3700",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

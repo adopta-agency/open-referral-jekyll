@@ -1,0 +1,48 @@
+{
+	"id": 3527,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2101-nw-3rd-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-2101-nw-3rd-avenue",
+	"address": {
+		"id": 1727,
+		"address_1": "2101 NW 3rd Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33127"
+	},
+	"organization": {
+		"id": 3527,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Pre-School and After School Services for children ages 2 months to 12 years. Reading, writing, math, computers, learning centers, social skills development, summer, spring, and winter camps. BRAVO! Program of gardening, dance, arts and crafts, and parenting workshops for parents of Pre-school children focusing on brain development, health and hygiene, positive bonding between parents and children and much more. Free VPK. Summer Camp Enrollments now open!",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HAPPY CHILDREN OF OVERTOWN, INC.",
+		"website": "http:\/\/www.happy-children.blogspot.com",
+		"slug": "happy-children-of-overtown-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/happy-children-of-overtown-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/happy-children-of-overtown-inc\/locations"
+	},
+	"phones": [{
+		"id": 3527,
+		"department": null,
+		"extension": null,
+		"number": "305-576-0886",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

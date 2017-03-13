@@ -1,0 +1,38 @@
+{
+	"id": 7694,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Preval and Associates Counseling Services provides the following services:\\n\\n* Adoption Home Studies\\n* Post Adoption Placement Supervision\\n* Individual Counseling\\n* Therapeutic Supervised Visitations\\n* Supervised Visitations\\n* Clinical Supervision for Mental Health Counselor Interns",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "PREVAL AND ASSOCIATES COUNSELING SERVICES, LLC.",
+	"website": "http:\/\/www.prevalandassociates.net",
+	"slug": "preval-and-associates-counseling-services-llc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/preval-and-associates-counseling-services-llc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/preval-and-associates-counseling-services-llc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "hpreval@prevalandassociates.net",
+		"id": 7694,
+		"name": "Herve Preval, MBA, MS, LMHC",
+		"title": "Director\/Founder",
+		"phones": [{
+			"id": 7694,
+			"department": null,
+			"extension": null,
+			"number": "786-281-3935",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7694,
+		"department": null,
+		"extension": null,
+		"number": "786-281-3935",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

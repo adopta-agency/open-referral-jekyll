@@ -1,0 +1,48 @@
+{
+	"id": 877,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-b44ede4e-27c3-4ec1-a561-9f61d5bdfa8c",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-b44ede4e-27c3-4ec1-a561-9f61d5bdfa8c",
+	"address": {
+		"id": 451,
+		"address_1": "601 SW 8th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33130"
+	},
+	"organization": {
+		"id": 874,
+		"accreditations": [],
+		"alternate_name": "Miami Lighthouse",
+		"date_incorporated": null,
+		"description": "Miami Lighthouse for the Blind and Visually Impaired is the oldest and largest private agency in Florida to serve people of all ages who are blind and visually impaired. Provides rehabilitating social group activities and serves as a beginning area for preparation for the personal adjustment training in the rehabilitation unit.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI LIGHTHOUSE FOR THE BLIND AND VISUALLY IMPAIRED, INC.",
+		"website": "http:\/\/www.miamilighthouse.org",
+		"slug": "miami-lighthouse-for-the-blind-and-visually-impaired-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-lighthouse-for-the-blind-and-visually-impaired-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-lighthouse-for-the-blind-and-visually-impaired-inc\/locations"
+	},
+	"phones": [{
+		"id": 877,
+		"department": null,
+		"extension": null,
+		"number": "305-856-2288",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

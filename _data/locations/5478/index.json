@@ -1,0 +1,48 @@
+{
+	"id": 5478,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.252019,
+	25.9543926],
+	"description": "See listed services",
+	"latitude": 25.9543926,
+	"longitude": -80.252019,
+	"name": "Miami Gardens, FL",
+	"short_desc": null,
+	"slug": "miami-gardens-fl-3000-nw-199th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-gardens-fl-3000-nw-199th-street",
+	"address": {
+		"id": 2345,
+		"address_1": "3000 NW 199th Street",
+		"address_2": null,
+		"city": "Miami Gardens",
+		"state_province": "FL",
+		"postal_code": "33056"
+	},
+	"organization": {
+		"id": 5478,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The City of Miami Gardens Parks & Recreation Department will provide safe, inclusive, environmentally friendly parks, trails and recreation facilities. We vow to be key contributors in creating destination recreation programs, great neighborhood parks and outstanding cultural, educational and recreational opportunities. Parks & Recreation will play an integral role in balanced development and redevelopment of the community. We will facilitate economic, cultural, and tourism opportunities and will be a primary factor in the pride of our residents.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BETTY T. FERGUSON RECREATIONAL COMPLEX",
+		"website": "http:\/\/www.miamigardens-fl.gov\/parks&rec\/index.html",
+		"slug": "betty-t-ferguson-recreational-complex",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/betty-t-ferguson-recreational-complex",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/betty-t-ferguson-recreational-complex\/locations"
+	},
+	"phones": [{
+		"id": 5478,
+		"department": null,
+		"extension": "2520.0",
+		"number": "305-622-8000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 2870,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1932062,
+	25.7737339],
+	"description": "See listed services",
+	"latitude": 25.7737339,
+	"longitude": -80.1932062,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-22-east-flagler-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-22-east-flagler-street",
+	"address": {
+		"id": 1414,
+		"address_1": "22 East Flagler Street",
+		"address_2": "6 Floor",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33131"
+	},
+	"organization": {
+		"id": 2870,
+		"accreditations": [],
+		"alternate_name": "WOMEN OF TOMORROW",
+		"date_incorporated": null,
+		"description": "The Women of Tomorrow Mentor and Scholarship Program (WOT) is designed to inspire, motivate and empower at-risk young women through mentoring by highly accomplished professional women and scholarship opportunities. WOT conducts monthly mentoring sessions, career-focused field trips, specialized college campus visits and offers scholarship opportunities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "WOMEN OF TOMORROW MENTOR AND SCHOLARSHIP PROGRAM",
+		"website": "http:\/\/www.womenoftomorrow.org",
+		"slug": "women-of-tomorrow-mentor-and-scholarship-program",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/women-of-tomorrow-mentor-and-scholarship-program",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/women-of-tomorrow-mentor-and-scholarship-program\/locations"
+	},
+	"phones": [{
+		"id": 2870,
+		"department": null,
+		"extension": null,
+		"number": "305-371-3330",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

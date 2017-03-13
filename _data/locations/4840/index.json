@@ -1,0 +1,48 @@
+{
+	"id": 4840,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-434814e8-e4f9-4ff1-971f-b64c30ccc8ae",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-434814e8-e4f9-4ff1-971f-b64c30ccc8ae",
+	"address": {
+		"id": 2051,
+		"address_1": "2900 North Biscayne Boulevard",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33137"
+	},
+	"organization": {
+		"id": 4338,
+		"accreditations": [],
+		"alternate_name": "AHF",
+		"date_incorporated": null,
+		"description": "AIDS Healthcare Foundation (AHF) is a global organization providing cutting-edge medicine and advocacy to over 100,000 people in 22 countries. It is the nationG\u00c7\u00d6s largest provider of HIV\/AIDS medical care. Positive Healthcare\/Florida is designed for Medicaid patients with HIV\/AIDS. The program stresses prevention and education, promoting lifestyle changes, improving medical self-management, and increasing patient and family satisfaction. Positive Health care's disease management program includes physician consultation, patient and provider profiling, patient and provider education, clinical practice guidelines, improved claims analysis, and intensive case management focusing treatment regimens and on preventive care.\\n\\nAHF Pharmacy provides not for profit pharmacy services for anyone with HIV or other chronic illnesses.\\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AIDS HEALTHCARE FOUNDATION, INC.",
+		"website": "http:\/\/www.aidshealth.org",
+		"slug": "aids-healthcare-foundation-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/aids-healthcare-foundation-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/aids-healthcare-foundation-inc\/locations"
+	},
+	"phones": [{
+		"id": 4840,
+		"department": null,
+		"extension": null,
+		"number": "305-764-3773",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

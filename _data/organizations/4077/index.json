@@ -1,0 +1,107 @@
+{
+	"id": 4077,
+	"accreditations": [],
+	"alternate_name": "FIRST ASSEMBLY OF GOD",
+	"date_incorporated": null,
+	"description": "Provides groceries for individuals who are in need. Services are provided two times a year, or in extreme distress.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "COMMUNITY OUTREACH RESOURCE CENTER, INC.",
+	"website": null,
+	"slug": "community-outreach-resource-center-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/community-outreach-resource-center-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/community-outreach-resource-center-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "avavrina@gmail.com",
+		"id": 4077,
+		"name": "Albert Vavrina",
+		"title": "Director of Outreach",
+		"phones": [{
+			"id": 4077,
+			"department": null,
+			"extension": null,
+			"number": "305-246-0460",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "avavrina@gmail.com",
+		"id": 4078,
+		"name": "Albert Vavrina",
+		"title": "Director of Outreach",
+		"phones": [{
+			"id": 4078,
+			"department": null,
+			"extension": null,
+			"number": "305-246-0460",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "avavrina@gmail.com",
+		"id": 7011,
+		"name": "Albert Vavrina",
+		"title": "Director of Outreach",
+		"phones": [{
+			"id": 7011,
+			"department": null,
+			"extension": null,
+			"number": "305-246-0460",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "avavrina@gmail.com",
+		"id": 7012,
+		"name": "Albert Vavrina",
+		"title": "Director of Outreach",
+		"phones": [{
+			"id": 7012,
+			"department": null,
+			"extension": null,
+			"number": "305-246-0460",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4077,
+		"department": null,
+		"extension": null,
+		"number": "305-246-0460",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4078,
+		"department": null,
+		"extension": null,
+		"number": "305-246-0460",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7011,
+		"department": null,
+		"extension": null,
+		"number": "305-246-0460",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7012,
+		"department": null,
+		"extension": null,
+		"number": "305-246-0460",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

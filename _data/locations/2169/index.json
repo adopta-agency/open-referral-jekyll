@@ -1,0 +1,48 @@
+{
+	"id": 2169,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3264349,
+	25.8084348],
+	"description": "See listed services",
+	"latitude": 25.8084348,
+	"longitude": -80.3264349,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-7930-nw-36th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-7930-nw-36th-street",
+	"address": {
+		"id": 1086,
+		"address_1": "7930 NW 36th Street",
+		"address_2": "Suite 27",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33166"
+	},
+	"organization": {
+		"id": 2169,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Value Care provides home health services that include; assistance with dressing, bathing, meal preparation, neighborhood errands and doctor appointments.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "VALUE CARE",
+		"website": "http:\/\/www.valuecareathome.com\/",
+		"slug": "value-care",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/value-care",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/value-care\/locations"
+	},
+	"phones": [{
+		"id": 2169,
+		"department": null,
+		"extension": null,
+		"number": "305-722-2502",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

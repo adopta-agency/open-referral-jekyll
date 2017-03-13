@@ -1,0 +1,199 @@
+{
+	"id": 6016,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The School District of Collier County has 48 schools and serves a total student population of 45,016. There are 29 elementary schools, 10 middle schools, 8 high schools, and a PreK-thru-12 school (Everglades City School). There are also 12 Alternative School Programs.\\r\\n\\r\\nThe districtG\u00c7\u00d6s two career\/technical centers (Lorenzo Walker Institute of Technology and Immokalee Technical Center) and adult education programs (located at several sites throughout the district) offer students both short- and long-term programs.\\r\\n\\r\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "COLLIER COUNTY PUBLIC SCHOOLS",
+	"website": "http:\/\/www.collierschools.com\/",
+	"slug": "collier-county-public-schools",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-county-public-schools",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-county-public-schools\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "patton@collierschools.com",
+		"id": 6016,
+		"name": "Kamela Patton",
+		"title": "Superintendent",
+		"phones": [{
+			"id": 6016,
+			"department": null,
+			"extension": null,
+			"number": "239-377-0001",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "patton@collierschools.com",
+		"id": 6017,
+		"name": "Kamela Patton",
+		"title": "Superintendent",
+		"phones": [{
+			"id": 6017,
+			"department": null,
+			"extension": null,
+			"number": "239-377-1234",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "patton@collierschools.com",
+		"id": 7332,
+		"name": "Kamela Patton",
+		"title": "Superintendent",
+		"phones": [{
+			"id": 7332,
+			"department": null,
+			"extension": null,
+			"number": "239-377-1319",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "patton@collierschools.com",
+		"id": 7333,
+		"name": "Kamela Patton",
+		"title": "Superintendent",
+		"phones": [{
+			"id": 7333,
+			"department": null,
+			"extension": null,
+			"number": "239-377-1319",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "patton@collierschools.com",
+		"id": 7334,
+		"name": "Kamela Patton",
+		"title": "Superintendent",
+		"phones": [{
+			"id": 7334,
+			"department": null,
+			"extension": null,
+			"number": "239-377-1319",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Benoitlu@collierschools.com",
+		"id": 7373,
+		"name": "Lucia Benoit",
+		"title": "PreKinder Administrative Assistant",
+		"phones": [{
+			"id": 7373,
+			"department": null,
+			"extension": null,
+			"number": "239-377-0092",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Benoitlu@collierschools.com",
+		"id": 7388,
+		"name": "Lucia Benoit",
+		"title": "PreKinder Administrative Assistant",
+		"phones": [{
+			"id": 7388,
+			"department": null,
+			"extension": null,
+			"number": "239-377-0092",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Benoitlu@collierschools.com",
+		"id": 7389,
+		"name": "Lucia Benoit",
+		"title": "PreKinder Administrative Assistant",
+		"phones": [{
+			"id": 7389,
+			"department": null,
+			"extension": null,
+			"number": "239-377-0092",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6016,
+		"department": null,
+		"extension": null,
+		"number": "239-377-0001",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6017,
+		"department": null,
+		"extension": null,
+		"number": "239-377-1234",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7332,
+		"department": null,
+		"extension": null,
+		"number": "239-377-1319",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7333,
+		"department": null,
+		"extension": null,
+		"number": "239-377-1319",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7334,
+		"department": null,
+		"extension": null,
+		"number": "239-377-1319",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7373,
+		"department": null,
+		"extension": null,
+		"number": "239-377-0092",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7388,
+		"department": null,
+		"extension": null,
+		"number": "239-377-0092",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7389,
+		"department": null,
+		"extension": null,
+		"number": "239-377-0092",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

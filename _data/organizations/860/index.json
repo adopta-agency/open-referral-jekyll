@@ -1,0 +1,291 @@
+{
+	"id": 860,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Spectrum Programs, Inc (SPI)\/Miami Behavioral Health Center (MBHC) are comprehensive behavioral healthcare providers that offers a wide-array of services in South Florida communities.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI BEHAVIORAL HEALTH CENTER, INC.",
+	"website": "http:\/\/www.mbhc.org",
+	"slug": "miami-behavioral-health-center-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-behavioral-health-center-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-behavioral-health-center-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jsocorro@mbhc.org",
+		"id": 860,
+		"name": "Juan Socorro",
+		"title": "Cheif Clinical Officer",
+		"phones": [{
+			"id": 860,
+			"department": null,
+			"extension": null,
+			"number": "305-757-0602",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tglynn@banyanhealth.org",
+		"id": 861,
+		"name": "Tamara Glynn",
+		"title": "Clinical Director of Acute Services",
+		"phones": [{
+			"id": 861,
+			"department": null,
+			"extension": null,
+			"number": "305-774-3600",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mgonzalez@banyanhealth.org",
+		"id": 862,
+		"name": "Maria Gonzalez",
+		"title": "Program Director",
+		"phones": [{
+			"id": 862,
+			"department": null,
+			"extension": null,
+			"number": "305-644-2667",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "shess@banyanhealth.org",
+		"id": 864,
+		"name": "Sonya Hess, LCSW",
+		"title": "Program Supervisor",
+		"phones": [{
+			"id": 864,
+			"department": null,
+			"extension": null,
+			"number": "786-293-9544",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jgarcia@banyanhealth.org",
+		"id": 865,
+		"name": "Jesus Garcia",
+		"title": "Program Director",
+		"phones": [{
+			"id": 865,
+			"department": null,
+			"extension": null,
+			"number": "305-774-3616",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "msalgado@mbhc.org",
+		"id": 868,
+		"name": "Monica Salgado",
+		"title": "Program Director",
+		"phones": [{
+			"id": 868,
+			"department": null,
+			"extension": null,
+			"number": "305-774-3300",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jcampos@banyanhealth.org",
+		"id": 870,
+		"name": "Janet Campos",
+		"title": "Clinical Supervisor",
+		"phones": [{
+			"id": 870,
+			"department": null,
+			"extension": null,
+			"number": "305-774-3300",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mhernandez@mbhc.org",
+		"id": 871,
+		"name": "Maritza Hernandez",
+		"title": "Property Manager",
+		"phones": [{
+			"id": 871,
+			"department": null,
+			"extension": null,
+			"number": "305-554-1456",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "smartin@banyanhealth.org",
+		"id": 872,
+		"name": "Sarai Martin",
+		"title": "Program Director",
+		"phones": [{
+			"id": 872,
+			"department": null,
+			"extension": null,
+			"number": "305-774-3616",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tglynn@banyanhealth.org",
+		"id": 873,
+		"name": "Tamara Glynn",
+		"title": "Clinical Director of Acute Services",
+		"phones": [{
+			"id": 873,
+			"department": null,
+			"extension": null,
+			"number": "305-774-3600",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ahoffmann@banyanhealth.org",
+		"id": 4227,
+		"name": "Adrianna Hoffmann",
+		"title": "Program Director",
+		"phones": [{
+			"id": 4227,
+			"department": null,
+			"extension": null,
+			"number": "786-260-0160",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "shess@banyanhealth.org",
+		"id": 7244,
+		"name": "Sonya Hess, LCSW",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7244,
+			"department": null,
+			"extension": null,
+			"number": "786-293-9544",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 860,
+		"department": null,
+		"extension": null,
+		"number": "305-757-0602",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 861,
+		"department": null,
+		"extension": null,
+		"number": "305-774-3600",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 862,
+		"department": null,
+		"extension": null,
+		"number": "305-644-2667",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 864,
+		"department": null,
+		"extension": null,
+		"number": "786-293-9544",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 865,
+		"department": null,
+		"extension": null,
+		"number": "305-774-3616",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 868,
+		"department": null,
+		"extension": null,
+		"number": "305-774-3300",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 870,
+		"department": null,
+		"extension": null,
+		"number": "305-774-3300",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 871,
+		"department": null,
+		"extension": null,
+		"number": "305-554-1456",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 872,
+		"department": null,
+		"extension": null,
+		"number": "305-774-3616",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 873,
+		"department": null,
+		"extension": null,
+		"number": "305-774-3600",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4227,
+		"department": null,
+		"extension": null,
+		"number": "786-260-0160",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7244,
+		"department": null,
+		"extension": null,
+		"number": "786-293-9544",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

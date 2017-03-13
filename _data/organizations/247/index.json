@@ -1,0 +1,84 @@
+{
+	"id": 247,
+	"accreditations": [],
+	"alternate_name": "LSF",
+	"date_incorporated": null,
+	"description": "Lutheran Services Florida (LSF) is a statewide, non-profit, human services agency dedicated to helping all people in need regardless of religious affiliation, age or national origin. The agency has more than 60 programs located throughout Florida. \\n\\nServices provided include: the Child Care Food Program, PEPPI Head Start Child Development Center, Foster and Adoptions Case Management, Youth Shelters and Family Crisis Counseling Programs, Guardianship Program, Housing, Employment, Refugee and Immigration Programs, Ryan White AIDS Program, and Disaster Response Programs for victims of tornadoes, hurricanes, floods and other natural disasters. G\u00c7\u00ef\\n\\n###MON###\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "LUTHERAN SERVICES FLORIDA, INC.",
+	"website": "http:\/\/www.lsfnet.org",
+	"slug": "lutheran-services-florida-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/lutheran-services-florida-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/lutheran-services-florida-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ssipes@lsfnet.org",
+		"id": 247,
+		"name": "Samuel M. Sipes",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 247,
+			"department": null,
+			"extension": null,
+			"number": "813-875-1408",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "pleonard@lsfnet.org",
+		"id": 249,
+		"name": "Patricia Leonard",
+		"title": "Vice President of Programs",
+		"phones": [{
+			"id": 249,
+			"department": null,
+			"extension": null,
+			"number": "305-969-8700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "afriol@lsfnet.org",
+		"id": 8234,
+		"name": "Amaya Friol",
+		"title": "Immigration Director",
+		"phones": [{
+			"id": 8234,
+			"department": null,
+			"extension": null,
+			"number": "305-912-0870",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 247,
+		"department": null,
+		"extension": null,
+		"number": "813-875-1408",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 249,
+		"department": null,
+		"extension": null,
+		"number": "305-969-8700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8234,
+		"department": null,
+		"extension": null,
+		"number": "305-912-0870",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

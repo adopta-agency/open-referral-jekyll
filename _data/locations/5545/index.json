@@ -1,0 +1,48 @@
+{
+	"id": 5545,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7703267,
+	26.1632283],
+	"description": "See listed services",
+	"latitude": 26.1632283,
+	"longitude": -81.7703267,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-3050-horseshoe-drive-north",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-3050-horseshoe-drive-north",
+	"address": {
+		"id": 2365,
+		"address_1": "3050 Horseshoe Drive North",
+		"address_2": "Suite 154",
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34104"
+	},
+	"organization": {
+		"id": 5545,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides outpatient substance abuse treatment for adults and mental health counseling services for children and adults. We utilize individual, group, and family counseling to facilitate resolution of life problems being faces by our clients. \\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "RESOLVE COMMUNITY COUNSELING CENTER OF COLLIER COUNTY, LLC.",
+		"website": "http:\/\/www.resolvecounselingnaples.com\/",
+		"slug": "resolve-community-counseling-center-of-collier-county-llc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/resolve-community-counseling-center-of-collier-county-llc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/resolve-community-counseling-center-of-collier-county-llc\/locations"
+	},
+	"phones": [{
+		"id": 5545,
+		"department": null,
+		"extension": null,
+		"number": "239-331-4774",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

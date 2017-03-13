@@ -1,0 +1,84 @@
+{
+	"id": 717,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Transition, Inc. is a specialized service center providing a comprehensive array of job training and job placement services to adult Ex-Offenders in Miami-Dade County. Operating as the Offender Service Center for South Florida Workforce, services are delivered to individuals who have an arrest record by assisting them in their re-entry efforts to overcome the barrier to employment as a result of a criminal record.\\n\\nNow in its thirty-ninth year of successful services, Transition, Inc. maintains a database of over 3,800 employers who are willing to give Ex-Offenders a second chance to earn a living wage.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "TRANSITION, INC.",
+	"website": "http:\/\/www.transitioninc.org",
+	"slug": "transition-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/transition-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/transition-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "amanning@transitioninc.org",
+		"id": 717,
+		"name": "Anne Manning",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 717,
+			"department": null,
+			"extension": null,
+			"number": "305-571-2001",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sjordan@southfloridaworkforce.com",
+		"id": 719,
+		"name": "Sharon Jordan",
+		"title": "Program Director",
+		"phones": [{
+			"id": 719,
+			"department": null,
+			"extension": null,
+			"number": "305-571-2001",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "amanning@transitioninc.org",
+		"id": 720,
+		"name": "Anne Manning",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 720,
+			"department": null,
+			"extension": null,
+			"number": "305-571-2001",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 717,
+		"department": null,
+		"extension": null,
+		"number": "305-571-2001",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 719,
+		"department": null,
+		"extension": null,
+		"number": "305-571-2001",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 720,
+		"department": null,
+		"extension": null,
+		"number": "305-571-2001",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

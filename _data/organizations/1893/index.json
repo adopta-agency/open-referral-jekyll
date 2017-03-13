@@ -1,0 +1,130 @@
+{
+	"id": 1893,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Chrysalis Center is a community behavioral health center offering a comprehensive array of mental health and substance abuse services to children, adolescents, adults, and families. Mental health services include individual and family outpatient counseling in the home environment and school environment, psychiatric evaluation and treatment, psychosexual evaluation and sexual behavior specific treatment.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CHRYSALIS HEALTH, INC.",
+	"website": "http:\/\/www.chrysaliscenter.org",
+	"slug": "chrysalis-health-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/chrysalis-health-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/chrysalis-health-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 1893,
+		"name": "Manuel Menendez",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 1893,
+			"department": null,
+			"extension": null,
+			"number": "954-587-1008",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tzantua@chrysalishealth.com",
+		"id": 1894,
+		"name": "Tatiana Zantua",
+		"title": "Outpatient Program Director",
+		"phones": [{
+			"id": 1894,
+			"department": null,
+			"extension": null,
+			"number": "305-630-3334",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@chrysaliscenter.org",
+		"id": 1897,
+		"name": "Catherine Menendez",
+		"title": "Program Administrator",
+		"phones": [{
+			"id": 1897,
+			"department": null,
+			"extension": null,
+			"number": "305-630-3334",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "referrals@chrysalishealth.com",
+		"id": 4872,
+		"name": "Intake",
+		"title": null,
+		"phones": [{
+			"id": 4872,
+			"department": null,
+			"extension": null,
+			"number": "305-892-4600",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "referrals@chrysalishealth.com",
+		"id": 4874,
+		"name": "Intake",
+		"title": null,
+		"phones": [{
+			"id": 4874,
+			"department": null,
+			"extension": null,
+			"number": "305-892-4600",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1893,
+		"department": null,
+		"extension": null,
+		"number": "954-587-1008",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1894,
+		"department": null,
+		"extension": null,
+		"number": "305-630-3334",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1897,
+		"department": null,
+		"extension": null,
+		"number": "305-630-3334",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4872,
+		"department": null,
+		"extension": null,
+		"number": "305-892-4600",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4874,
+		"department": null,
+		"extension": null,
+		"number": "305-892-4600",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

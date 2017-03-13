@@ -1,0 +1,48 @@
+{
+	"id": 1461,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-84.28,
+	30.44],
+	"description": "See listed services",
+	"latitude": 30.44,
+	"longitude": -84.28,
+	"name": "Tallahassee, FL",
+	"short_desc": null,
+	"slug": "tallahassee-fl-po-box-10950",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/tallahassee-fl-po-box-10950",
+	"address": {
+		"id": 761,
+		"address_1": "PO Box 10950",
+		"address_2": null,
+		"city": "Tallahassee",
+		"state_province": "FL",
+		"postal_code": "32302-2950"
+	},
+	"organization": {
+		"id": 1461,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The mission of 2-1-1 Big Bend is to help individuals in need by bringing services and people together by providing telephone counseling, crisis intervention, and informational services.\\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "2-1-1 BIG BEND, INC.",
+		"website": "http:\/\/www.211bigbend.org",
+		"slug": "2-1-1-big-bend-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/2-1-1-big-bend-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/2-1-1-big-bend-inc\/locations"
+	},
+	"phones": [{
+		"id": 1461,
+		"department": null,
+		"extension": null,
+		"number": "850-617-6348",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,61 @@
+{
+	"id": 1853,
+	"accreditations": [],
+	"alternate_name": "A EVE'S CLINIC AND REFERRAL SERVICE",
+	"date_incorporated": null,
+	"description": "Provides specialized, low cost female medical care in a serene, supportive atmosphere. Services include non- surgical, 1st and 2nd trimester abortions with general anesthesia, birth control and pro-choice family planning counseling, breast exams, lab testing, pregnancy and STD testing, ultrasound examinations, gynecologic services women and teen counseling and outreach programs to school students. \\n\\nCenter offers the following free services: \\n* Women and teen counseling - birth control, family planning, termination, STD, nutrition, menstrual cycle, tubal-ligation, etc.\\n* Pregnancy confirmation services - testing, ultrasound exam, counseling\\n\\nSome gynecological services include:\\n* Pap smears\\n* Birth control\\n* Contraception\\n* Ultrasound\\n* STD's\\n* Uterine & vaginal prolapse\\n* Well-women visits\\n* Weight management & weight loss\\n* Laboratory work",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "EVE'S CLINIC REFERRAL SERVICES, INC.",
+	"website": "http:\/\/www.eveabortioncarespecialists.com",
+	"slug": "eve-s-clinic-referral-services-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/eve-s-clinic-referral-services-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/eve-s-clinic-referral-services-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "abortion@eveabortcarespecialists.com",
+		"id": 1853,
+		"name": "Karen Bookbinder",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 1853,
+			"department": null,
+			"extension": null,
+			"number": "305-591-2288",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "abortion@eveabortcarespecialists.com",
+		"id": 1855,
+		"name": "Karen Bookbinder",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 1855,
+			"department": null,
+			"extension": null,
+			"number": "305-670-9797",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1853,
+		"department": null,
+		"extension": null,
+		"number": "305-591-2288",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1855,
+		"department": null,
+		"extension": null,
+		"number": "305-670-9797",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

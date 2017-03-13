@@ -1,0 +1,24 @@
+{
+	"id": 7839,
+	"accreditations": [],
+	"alternate_name": "CFHK",
+	"date_incorporated": null,
+	"description": "Cards for Hospitalized Kids(CFHK) is an internationally recognized charitable organization that spreads hope, joy & magic to hospitalized kids across America through uplifting, handmade cards. Individuals and groups across the United States, and world, donate time and creativity to make handmade cards and send them to us for distribution in hospitals and Ronald McDonald Houses across the nation.\\n\\nGeneral Cards:\\nCards that have a general uplifting message, rather than one specific to a hospital or season. These are distributed year-round, rather than during a specific time of year.\\n\\nHoliday Cards:\\nCards for all major holidays, such as n++Christmasn++ & other winter-time holidays, Thanksgiving, Halloween, Valentines Day, St. Patrick's Day, etc. This also includes seasonal cards, such as \"Happy Spring,\" \"Happy Winter,\" etc.\\n\\n\\n###MON###\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CARDS FOR HOSPITALIZED KIDS",
+	"website": "http:\/\/www.cardsforhospitalizedkids.com\/",
+	"slug": "cards-for-hospitalized-kids",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/cards-for-hospitalized-kids",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/cards-for-hospitalized-kids\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@cardsforhospitalizedkids.com",
+		"id": 7839,
+		"name": "Jen Rubino",
+		"title": "Founder",
+		"phones": []
+	}],
+	"phones": []
+}

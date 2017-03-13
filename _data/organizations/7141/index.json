@@ -1,0 +1,38 @@
+{
+	"id": 7141,
+	"accreditations": [],
+	"alternate_name": "DAS",
+	"date_incorporated": null,
+	"description": "Domestic Animal Services ensures compliance with local and State animal-related laws; to return strays to their owners and promote the adoption of homeless animals to new families; and to work toward ending the community problem of pet overpopulation.\\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "COLLIER COUNTY DOMESTIC ANIMAL SERVICES",
+	"website": "http:\/\/colliergov.net\/index.aspx?page=100",
+	"slug": "collier-county-domestic-animal-services",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-county-domestic-animal-services",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-county-domestic-animal-services\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "kyralynch@colliergov.net",
+		"id": 7141,
+		"name": "Kyra Lynch",
+		"title": "Operations Manager",
+		"phones": [{
+			"id": 7141,
+			"department": null,
+			"extension": null,
+			"number": "239-252-7387",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7141,
+		"department": null,
+		"extension": null,
+		"number": "239-252-7387",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

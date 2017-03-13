@@ -1,0 +1,41 @@
+{
+	"id": 1604,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.367309,
+	25.8687576],
+	"description": "See listed services",
+	"latitude": 25.8687576,
+	"longitude": -80.367309,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-10601-nw-105th-way",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-10601-nw-105th-way",
+	"address": {
+		"id": 836,
+		"address_1": "10601 NW 105th Way",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33178"
+	},
+	"organization": {
+		"id": 1604,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Senior Center provides congregate meal sites for elderly citizens.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MEDLEY ELDERLY SERVICES",
+		"website": null,
+		"slug": "medley-elderly-services",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/medley-elderly-services",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/medley-elderly-services\/locations"
+	},
+	"phones": []
+}

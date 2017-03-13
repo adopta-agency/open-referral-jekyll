@@ -1,0 +1,48 @@
+{
+	"id": 4272,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Hialeah, FL",
+	"short_desc": null,
+	"slug": "hialeah-fl-300-east-1st-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/hialeah-fl-300-east-1st-avenue",
+	"address": {
+		"id": 1955,
+		"address_1": "300 East 1st Avenue",
+		"address_2": "Suite 201",
+		"city": "Hialeah",
+		"state_province": "FL",
+		"postal_code": "33010"
+	},
+	"organization": {
+		"id": 4262,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Community Coalition, Inc. is a non-profit agency established in 1998 and funded by federal and state government grants. Community Coalition's mission is to enable all of their participants to become self-sufficient members of our community by providing them with the necessary skills to prepare for their future.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COMMUNITY COALITION, INC.",
+		"website": "http:\/\/communitycoalition.info",
+		"slug": "community-coalition-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/community-coalition-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/community-coalition-inc\/locations"
+	},
+	"phones": [{
+		"id": 4272,
+		"department": null,
+		"extension": null,
+		"number": "305-887-4140",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

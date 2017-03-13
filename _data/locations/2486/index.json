@@ -1,0 +1,48 @@
+{
+	"id": 2486,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-13230-nw-7th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-13230-nw-7th-avenue",
+	"address": {
+		"id": 1214,
+		"address_1": "13230 NW 7th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33168"
+	},
+	"organization": {
+		"id": 2486,
+		"accreditations": [],
+		"alternate_name": "VVHSC",
+		"date_incorporated": null,
+		"description": "The purpose of Vision to Victory Human Services Corporation (VVHSC) is to provide activities, which are aimed at enhancing, preserving and restoring the family. Services include child care, summer program, homebuyer education, money\/debt management, post and pre home purchase counseling and foreclosure prevention counseling.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "VISION TO VICTORY HUMAN SERVICES CORPORATION",
+		"website": "http:\/\/www.vvhsc.com\/index-2.html",
+		"slug": "vision-to-victory-human-services-corporation",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/vision-to-victory-human-services-corporation",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/vision-to-victory-human-services-corporation\/locations"
+	},
+	"phones": [{
+		"id": 2486,
+		"department": null,
+		"extension": null,
+		"number": "305-691-3464",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

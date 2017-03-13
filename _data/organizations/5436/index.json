@@ -1,0 +1,84 @@
+{
+	"id": 5436,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Conservancy of Southwest Florida provides both on-site and off site environmental education programs, camps, field trips, and excursions. Also has a Wildlife Clinic containing native wildlife rehabilitation.\\r\\n\\r\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CONSERVANCY OF SOUTHWEST FLORIDA, INC.",
+	"website": "http:\/\/www.conservancy.org",
+	"slug": "conservancy-of-southwest-florida-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/conservancy-of-southwest-florida-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/conservancy-of-southwest-florida-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "sharonm@conservancy.org",
+		"id": 5436,
+		"name": "Sharon Mahar",
+		"title": "Executive Assistant",
+		"phones": [{
+			"id": 5436,
+			"department": null,
+			"extension": null,
+			"number": "239-262-0304",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "nickid@conservancy.org",
+		"id": 5437,
+		"name": "Nicki Dardinger",
+		"title": "Director of Education",
+		"phones": [{
+			"id": 5437,
+			"department": null,
+			"extension": "242.0",
+			"number": "239-262-0304",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "goodfortune@conservancy.org",
+		"id": 5438,
+		"name": "Jordan Findley",
+		"title": "Good Fortune Program Sales Associate",
+		"phones": [{
+			"id": 5438,
+			"department": null,
+			"extension": null,
+			"number": "239-262-0304",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5436,
+		"department": null,
+		"extension": null,
+		"number": "239-262-0304",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5437,
+		"department": null,
+		"extension": "242.0",
+		"number": "239-262-0304",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5438,
+		"department": null,
+		"extension": null,
+		"number": "239-262-0304",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

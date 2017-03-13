@@ -1,0 +1,41 @@
+{
+	"id": 5997,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1051-nw-29th-terrace",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-1051-nw-29th-terrace",
+	"address": {
+		"id": 2552,
+		"address_1": "1051 NW 29th Terrace",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33127"
+	},
+	"organization": {
+		"id": 2410,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The YWCA of Greater Miami-Dade, Inc. provides an after school and full day programming, including summer winter, and spring break camps for youth from various areas including South Dade, Brownsville, Opa Locka, Carol City, Overtown, Allapattah, Hialeah, and Miami Gardens. Program activities include arts & crafts, nutrition, reading, sports, social skills, field trips, and cultural arts. The program is designed to build nutritional, health and academic skills.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "YWCA OF GREATER MIAMI DADE, INC.",
+		"website": "http:\/\/www.ywca-miami.org",
+		"slug": "ywca-of-greater-miami-dade-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/ywca-of-greater-miami-dade-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/ywca-of-greater-miami-dade-inc\/locations"
+	},
+	"phones": []
+}

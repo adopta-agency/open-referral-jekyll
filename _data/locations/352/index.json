@@ -1,0 +1,48 @@
+{
+	"id": 352,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -80,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-694ef472-6da2-4052-b527-e4f2457f0647",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/homestead-fl-694ef472-6da2-4052-b527-e4f2457f0647",
+	"address": {
+		"id": 178,
+		"address_1": "778 West Palm Drive",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33034"
+	},
+	"organization": {
+		"id": 348,
+		"accreditations": [],
+		"alternate_name": "COFFO",
+		"date_incorporated": null,
+		"description": "COFFO is a statewide organization whose main objective is to enhance the living and working conditions of migrant and seasonal farmworkers and the rural poor in Florida.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COALITION OF FLORIDA FARMWORKER ORGANIZATIONS, INC.",
+		"website": "http:\/\/www.coffo.org",
+		"slug": "coalition-of-florida-farmworker-organizations-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/coalition-of-florida-farmworker-organizations-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/coalition-of-florida-farmworker-organizations-inc\/locations"
+	},
+	"phones": [{
+		"id": 352,
+		"department": null,
+		"extension": null,
+		"number": "305-246-0357",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

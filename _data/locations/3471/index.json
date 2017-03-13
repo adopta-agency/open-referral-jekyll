@@ -1,0 +1,48 @@
+{
+	"id": 3471,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-8cf1237a-6431-4863-b92e-5060d3c89c31",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-8cf1237a-6431-4863-b92e-5060d3c89c31",
+	"address": {
+		"id": 1698,
+		"address_1": "5617 NW 7th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33126"
+	},
+	"organization": {
+		"id": 3470,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Assistance to the Elderly, Inc. is a senior living community that offers Assisted Living services.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ASSISTANCE TO THE ELDERLY, INC.",
+		"website": "http:\/\/www.residentialplaza.com",
+		"slug": "assistance-to-the-elderly-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/assistance-to-the-elderly-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/assistance-to-the-elderly-inc\/locations"
+	},
+	"phones": [{
+		"id": 3471,
+		"department": null,
+		"extension": "227.0",
+		"number": "305-267-2700",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

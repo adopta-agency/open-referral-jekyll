@@ -1,0 +1,48 @@
+{
+	"id": 8185,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2379216,
+	25.8643423],
+	"description": "See listed services",
+	"latitude": 25.8643423,
+	"longitude": -80.2379216,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-9801-nw-24th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-9801-nw-24th-avenue",
+	"address": {
+		"id": 4089,
+		"address_1": "9801 NW 24th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33147"
+	},
+	"organization": {
+		"id": 8185,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Offers emergency food services to those in the community who are in need.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BIBLE BAPTIST CHURCH",
+		"website": null,
+		"slug": "bible-baptist-church",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/bible-baptist-church",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/bible-baptist-church\/locations"
+	},
+	"phones": [{
+		"id": 8185,
+		"department": null,
+		"extension": null,
+		"number": "305-836-7644",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

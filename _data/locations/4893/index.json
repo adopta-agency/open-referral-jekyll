@@ -1,0 +1,41 @@
+{
+	"id": 4893,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-11700-sw-216th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-11700-sw-216th-street",
+	"address": {
+		"id": 2060,
+		"address_1": "11700 SW 216th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33170"
+	},
+	"organization": {
+		"id": 908,
+		"accreditations": [],
+		"alternate_name": "MIAMI CHILDREN'S HOSPITAL",
+		"date_incorporated": null,
+		"description": "Nicklaus Children's Hospital, formerly Miami Children's Hospital, specializes in pediatric healthcare. With a medical staff of more than 650 physicians and over 3,500 employees, the hospital is renowned for excellence in all aspects of pediatric medical care from birth through adolescence. Nicklaus Children's Hospital, formerly Miami Children's Hospital, offers more than 40 pediatric specialties and subspecialties, and is home to FloridaG\u00c7\u00d6s only free-standing pediatric trauma center.\\r\\n\\r\\nNicklaus Children's Hospital also has 9 centers that feature select pediatric healthcare services such as urgent care and physical therapy for children up to 21 years old.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NICKLAUS CHILDREN'S HOSPITAL",
+		"website": "https:\/\/www.nicklauschildrens.org\/home",
+		"slug": "nicklaus-children-s-hospital",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/nicklaus-children-s-hospital",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/nicklaus-children-s-hospital\/locations"
+	},
+	"phones": []
+}

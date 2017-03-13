@@ -1,0 +1,48 @@
+{
+	"id": 2057,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-375e8d84-0956-4a05-b41a-35aad8369458",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-375e8d84-0956-4a05-b41a-35aad8369458",
+	"address": {
+		"id": 1040,
+		"address_1": "1150 NW 72nd Avenue",
+		"address_2": "Suite 200",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33126"
+	},
+	"organization": {
+		"id": 2054,
+		"accreditations": [],
+		"alternate_name": "BFC",
+		"date_incorporated": null,
+		"description": "Bridging Families & Communities is a community based inter-agency team providing intensive home based services for children of high conflict and domestic violence families. Fiscally managed by The Advocate Program, Inc, it is a System of Care focusing on family strengths and need, in a cultural competent and easily accessible manner. The BFC Collaborative is a community partnership comprised of over 40 agencies in Miami-Dade. This collaborative is works together to identify unmet needs, barriers, and gaps in services. Capacity building trainings and community awareness on domestic violence\/family conflict are also offered through the BFC Collaborative.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BRIDGING FAMILIES AND COMMUNITIES",
+		"website": "http:\/\/advocateprogram.com\/about-bridging-families-communities\/",
+		"slug": "bridging-families-and-communities",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/bridging-families-and-communities",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/bridging-families-and-communities\/locations"
+	},
+	"phones": [{
+		"id": 2057,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0118",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

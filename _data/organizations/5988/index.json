@@ -1,0 +1,38 @@
+{
+	"id": 5988,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Bonita Springs Lions Eye Clinic provides comprehensive eye care examinations and therapeutic care for adults and children. Diagnostic tests and examinations provided by the clinic may include: comprehensive eye exams, visual acuity, refractions, intra-ocular pressure check, visual exam, diabetic exam, cornea exam, cataract evaluation, strabismus exam, macular disease evaluation, blood sugar testing for diabetes and blood pressure check. \\n\\nTherapy provided by the clinic may include: pterygium care, glaucoma management, conjunctivitis\/general eye irritations, free eye glasses\/reading glasses, and prescriptions for corrective lenses. Referrals are made for specialized care or treatment of cataracts, retina, macular disease, eye trauma and for low cost optics. \\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "BONITA SPRINGS LIONS EYE CLINIC, INC.",
+	"website": "http:\/\/eyeclinic.bonitalions.org\/",
+	"slug": "bonita-springs-lions-eye-clinic-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/bonita-springs-lions-eye-clinic-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/bonita-springs-lions-eye-clinic-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "eveleye34135@aol.com",
+		"id": 5988,
+		"name": "Char Lupke",
+		"title": "Director",
+		"phones": [{
+			"id": 5988,
+			"department": null,
+			"extension": null,
+			"number": "239-498-3937",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5988,
+		"department": null,
+		"extension": null,
+		"number": "239-498-3937",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

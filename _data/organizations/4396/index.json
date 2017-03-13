@@ -1,0 +1,61 @@
+{
+	"id": 4396,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Theodat Dupoux International offers educational learning, disciplinary actions, mental behavior, and sports competition.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THEODAT DUPOUX INTERNATIONAL COMBAT SPORTS, CORP.",
+	"website": null,
+	"slug": "theodat-dupoux-international-combat-sports-corp",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/theodat-dupoux-international-combat-sports-corp",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/theodat-dupoux-international-combat-sports-corp\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "haititkditf@yahoo.fr",
+		"id": 4396,
+		"name": "Jean Mario Theodat",
+		"title": "Director",
+		"phones": [{
+			"id": 4396,
+			"department": null,
+			"extension": null,
+			"number": "786-487-9777",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "haititkditf@yahoo.fr",
+		"id": 4397,
+		"name": "Jean Mario Theodat",
+		"title": "Director",
+		"phones": [{
+			"id": 4397,
+			"department": null,
+			"extension": null,
+			"number": "786-487-9777",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4396,
+		"department": null,
+		"extension": null,
+		"number": "786-487-9777",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4397,
+		"department": null,
+		"extension": null,
+		"number": "786-487-9777",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

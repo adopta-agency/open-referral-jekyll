@@ -1,0 +1,38 @@
+{
+	"id": 3645,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides home care services for Miami-Dade, Broward, and Palm Beach counties. Services include personal care assistance, homemaker, escort, companionship, respite care, live in and skilled nursing care.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CARING ASSOCIATES, INC.",
+	"website": "http:\/\/www.caringhomecare.com",
+	"slug": "caring-associates-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/caring-associates-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/caring-associates-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "sergioalonso2@aol.com",
+		"id": 3645,
+		"name": "Sergio Alonso",
+		"title": "Business Development",
+		"phones": [{
+			"id": 3645,
+			"department": null,
+			"extension": null,
+			"number": "305-947-7292",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3645,
+		"department": null,
+		"extension": null,
+		"number": "305-947-7292",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

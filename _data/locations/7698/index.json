@@ -1,0 +1,48 @@
+{
+	"id": 7698,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.0789325,
+	24.7154301],
+	"description": "See listed services",
+	"latitude": 24.7154301,
+	"longitude": -81.0789325,
+	"name": "Marathon Shores, FL",
+	"short_desc": null,
+	"slug": "marathon-shores-fl-po-box-523106",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/marathon-shores-fl-po-box-523106",
+	"address": {
+		"id": 3644,
+		"address_1": "PO Box 523106",
+		"address_2": null,
+		"city": "Marathon Shores",
+		"state_province": "FL",
+		"postal_code": "33052"
+	},
+	"organization": {
+		"id": 3019,
+		"accreditations": [],
+		"alternate_name": "PFLAG",
+		"date_incorporated": null,
+		"description": "PFLAG promotes the health and well-being of gay, lesbian, bisexual and transgendered persons, their families and friends through: support, to cope with an adverse society; education, to enlighten an ill-informed public; and advocacy, to end discrimination and to secure equal civil rights. Parents, Families and Friends of Lesbians and Gays provides opportunity for dialogue about sexual orientation and gender identity, and acts to create a society that is healthy and respectful of human diversity.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "PARENTS, FAMILIES & FRIENDS OF LESBIANS & GAYS, INC.",
+		"website": "http:\/\/www.pflag.org",
+		"slug": "parents-families-friends-of-lesbians-gays-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/parents-families-friends-of-lesbians-gays-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/parents-families-friends-of-lesbians-gays-inc\/locations"
+	},
+	"phones": [{
+		"id": 7698,
+		"department": null,
+		"extension": null,
+		"number": "305-393-6610",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

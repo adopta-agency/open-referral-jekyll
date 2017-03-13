@@ -1,0 +1,48 @@
+{
+	"id": 8237,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2627792,
+	25.7270687],
+	"description": "See listed services",
+	"latitude": 25.7270687,
+	"longitude": -80.2627792,
+	"name": "Coral Gables, FL",
+	"short_desc": null,
+	"slug": "coral-gables-fl-4601-ponce-de-leon-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/coral-gables-fl-4601-ponce-de-leon-boulevard",
+	"address": {
+		"id": 4139,
+		"address_1": "4601 Ponce de Leon Boulevard",
+		"address_2": "Suite 260",
+		"city": "Coral Gables",
+		"state_province": "FL",
+		"postal_code": "33146"
+	},
+	"organization": {
+		"id": 8236,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Licensed psychotherapy for anxiety, depression, substance use\/addiction, eating disorders and body image issues, managing life with ADHD, help with personal and professional boundaries, relationship and attachment struggles.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LENA SHEFFIELD, LMHC, CAP, MAC, CEDS",
+		"website": null,
+		"slug": "lena-sheffield-lmhc-cap-mac-ceds",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/lena-sheffield-lmhc-cap-mac-ceds",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/lena-sheffield-lmhc-cap-mac-ceds\/locations"
+	},
+	"phones": [{
+		"id": 8237,
+		"department": null,
+		"extension": null,
+		"number": "305-915-9298",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

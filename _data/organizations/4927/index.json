@@ -1,0 +1,38 @@
+{
+	"id": 4927,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The mission of AFA is to provide optimal care and services to individuals confronting dementia, and to their caregivers and familiesG\u00c7\u00f6through member organizations dedicated to improving quality of life. Provides education, resources, best practices and advocacy. \\n\\n###MON###\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ALZHEIMER'S FOUNDATION OF AMERICA, INC.",
+	"website": "http:\/\/www.alzfdn.org",
+	"slug": "alzheimer-s-foundation-of-america-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/alzheimer-s-foundation-of-america-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/alzheimer-s-foundation-of-america-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "cfuschillo@alzfdn.org",
+		"id": 4927,
+		"name": "Charles J. Fuschillo, Jr.",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 4927,
+			"department": null,
+			"extension": null,
+			"number": "866-232-8484",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4927,
+		"department": null,
+		"extension": null,
+		"number": "866-232-8484",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

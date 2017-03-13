@@ -1,0 +1,48 @@
+{
+	"id": 5270,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -81,
+	"name": "Immokalee, FL",
+	"short_desc": null,
+	"slug": "immokalee-fl-419-north-first-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/immokalee-fl-419-north-first-street",
+	"address": {
+		"id": 2243,
+		"address_1": "419 North First Street",
+		"address_2": null,
+		"city": "Immokalee",
+		"state_province": "FL",
+		"postal_code": "34142"
+	},
+	"organization": {
+		"id": 5268,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Planned Parenthood of Southwest and Central Florida is an affiliate of Planned Parenthood Federation of America, the nation's largest and longest-running family planning organization. \\n\\nThousands of women, men and teens living in Collier County visit our health centers in Naples and Immokalee each year and rely on our comprehensive and affordable services to help them make responsible and informed decisions about their sexual and reproductive health.\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "PLANNED PARENTHOOD OF SOUTHWEST AND CENTRAL FLORIDA",
+		"website": "http:\/\/www.plannedparenthood.org\/collier-county",
+		"slug": "planned-parenthood-of-southwest-and-central-florida",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/planned-parenthood-of-southwest-and-central-florida",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/planned-parenthood-of-southwest-and-central-florida\/locations"
+	},
+	"phones": [{
+		"id": 5270,
+		"department": null,
+		"extension": null,
+		"number": "239-262-0301",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

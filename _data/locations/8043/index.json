@@ -1,0 +1,48 @@
+{
+	"id": 8043,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2543046,
+	25.7313255],
+	"description": "See listed services",
+	"latitude": 25.7313255,
+	"longitude": -80.2543046,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-d80ebe18-66e4-4806-bdb3-c6c31db0dac7",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-d80ebe18-66e4-4806-bdb3-c6c31db0dac7",
+	"address": {
+		"id": 3951,
+		"address_1": "3750 South Dixie Highway",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33133"
+	},
+	"organization": {
+		"id": 6585,
+		"accreditations": [],
+		"alternate_name": "FRANKIE SHANNON ROLLE CENTER",
+		"date_incorporated": null,
+		"description": "Community Resource Centers provide a variety of social services to economically disadvantaged individuals and families interested in achieving self-sufficiency. These services are provided through Community Action and Human Services' Self Help Institute and are offered at various service centers throughout Miami-Dade County.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "M-DC CAHS - COCONUT GROVE COMMUNITY RESOURCE CENTER",
+		"website": "http:\/\/www.miamidade.gov\/socialservices\/center-coconut-grove.asp",
+		"slug": "m-dc-cahs-coconut-grove-community-resource-center",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/m-dc-cahs-coconut-grove-community-resource-center",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/m-dc-cahs-coconut-grove-community-resource-center\/locations"
+	},
+	"phones": [{
+		"id": 8043,
+		"department": null,
+		"extension": null,
+		"number": "305-446-3311",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

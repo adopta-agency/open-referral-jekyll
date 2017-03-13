@@ -1,0 +1,48 @@
+{
+	"id": 8172,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.455729,
+	25.083016],
+	"description": "See listed services",
+	"latitude": 25.083016,
+	"longitude": -80.455729,
+	"name": "Key Largo, FL",
+	"short_desc": null,
+	"slug": "key-largo-fl-34-pirates-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/key-largo-fl-34-pirates-drive",
+	"address": {
+		"id": 4076,
+		"address_1": "34 Pirates Drive",
+		"address_2": null,
+		"city": "Key Largo",
+		"state_province": "FL",
+		"postal_code": "33037"
+	},
+	"organization": {
+		"id": 8172,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Living Waters Rx provides funding so that all Upper Keys residents are able to fill legitimate prescriptions from their doctor.\\n \\n* 42% of Upper Keys, Florida residents between the ages of 18-60 have no health insurance.\\n* Monroe County, FL is ranked as #1 in the nation for addictions (both alcohol and drug), suicide, domestic violence and divorce.\\n* Housing in Monroe County, FL is 86% more expensive than the rest of Florida.\\n* Retail cost is 37% more expensive than the rest of Florida.\\n* Income is 7% higher than the rest of Florida.\\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LIVING WATERS RX PROJECT",
+		"website": "http:\/\/pamelafeeser.wordpress.com",
+		"slug": "living-waters-rx-project",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/living-waters-rx-project",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/living-waters-rx-project\/locations"
+	},
+	"phones": [{
+		"id": 8172,
+		"department": null,
+		"extension": null,
+		"number": "305-942-4226",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

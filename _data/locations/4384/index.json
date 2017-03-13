@@ -1,0 +1,48 @@
+{
+	"id": 4384,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1881477,
+	25.7721982],
+	"description": "See listed services",
+	"latitude": 25.7721982,
+	"longitude": -80.1881477,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-8d8248e8-136f-4453-8cb1-9797f168b64f",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-8d8248e8-136f-4453-8cb1-9797f168b64f",
+	"address": {
+		"id": 1996,
+		"address_1": "200 South Biscayne Boulevard",
+		"address_2": "Suite 910",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33131"
+	},
+	"organization": {
+		"id": 4384,
+		"accreditations": [],
+		"alternate_name": "LFCA",
+		"date_incorporated": null,
+		"description": "Lawyers for Children America is a lead child advocacy organization protecting the rights of children who are victims of abuse, abandonment and\/or neglect by providing quality pro bono legal representation and collaborating for systematic change to improve the lives of children.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LAWYERS FOR CHILDREN AMERICA, INC.",
+		"website": "http:\/\/www.lawyersforchildrenamerica.org",
+		"slug": "lawyers-for-children-america-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/lawyers-for-children-america-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/lawyers-for-children-america-inc\/locations"
+	},
+	"phones": [{
+		"id": 4384,
+		"department": null,
+		"extension": null,
+		"number": "305-577-4771",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

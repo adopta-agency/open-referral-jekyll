@@ -1,0 +1,38 @@
+{
+	"id": 7535,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Golden Palms Care Center is an Assisted Living Facility located in Naples, FL. Our mission is Dedication, Compassion, Innovation. Personalized assisted living care in a home-like environment is provided. The nursing team base the resident's care needs utilizing care planning and care coordination. Currently various assisted living services for live-in residents and short-term clients are being provided. \\n\\nResidents can expect the following care services:\\n\\n* Assisted Living, Elder Home, and Respite Services\\n* 24- hour emergency response\\n* 24- hour commercial fire and home security system\\n* 24-hour certified staff\\n* 3 full course meals daily\\n* AM and PM snacks and refreshments\\n* Affordable living\\n* Beautician services\\n* Coordination of medical care\\n* Nursing Services\\n* Mental Health\\n* Licensed Extended Care Congregates and Limited Mental Health providers\\n* Case management services\\n* Daily housekeeping and personal laundry services\\n* Dietitian services\\n* Exercise programs\\n* Activity and social programs\\n* Free local calls\\n* Memory care or Alzheimer's care\\n* Personal care services\\n* Recreational activities and programs\\n* Rehabilitation services available\\n* Scheduled transportation\\n* Spacious and comfortable rooms\\n\\nResident also receive assistance with the following daily living activities: \\n\\n* Feeding \\n* Bathing\\n* Grooming\\n* Clothing selection and dressing\\n* Toileting\\n* Mobility\\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "GOLDEN PALMS CARE CENTER, LLC.",
+	"website": "http:\/\/www.goldenpalmscarecenter.com\/",
+	"slug": "golden-palms-care-center-llc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/golden-palms-care-center-llc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/golden-palms-care-center-llc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "goldenpalmscarecenter@gmail.com",
+		"id": 7535,
+		"name": "Venise Jean-Baptiste",
+		"title": "Director of Nursing\/Administrator",
+		"phones": [{
+			"id": 7535,
+			"department": null,
+			"extension": null,
+			"number": "239-213-5843",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7535,
+		"department": null,
+		"extension": null,
+		"number": "239-213-5843",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 8169,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1144273,
+	26.1386622],
+	"description": "See listed services",
+	"latitude": 26.1386622,
+	"longitude": -80.1144273,
+	"name": "Fort Lauderdale, FL",
+	"short_desc": null,
+	"slug": "fort-lauderdale-fl-1040-bayview-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/fort-lauderdale-fl-1040-bayview-drive",
+	"address": {
+		"id": 4074,
+		"address_1": "1040 Bayview Drive",
+		"address_2": "Suite 318",
+		"city": "Fort Lauderdale",
+		"state_province": "FL",
+		"postal_code": "33304"
+	},
+	"organization": {
+		"id": 8169,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Adoption STAR's experienced and caring staff provide education, counseling and support to pregnant women interested in learning more about adoption and\/or making an adoption plan. This can include pregnancy options education\/information, adoption planning services, confidential counseling, a choice of adoptive families, assistance in securing health insurance and pre-natal care, and post adoption counseling and support.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ADOPTION STAR, INC.",
+		"website": "http:\/\/www.adar.com",
+		"slug": "adoption-star-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/adoption-star-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/adoption-star-inc\/locations"
+	},
+	"phones": [{
+		"id": 8169,
+		"department": null,
+		"extension": null,
+		"number": "866-691-3300",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

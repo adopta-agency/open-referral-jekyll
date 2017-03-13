@@ -1,0 +1,38 @@
+{
+	"id": 3814,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Crimes within the purview of postal investigations include: mail fraud, the illegal transmission of controlled substances through the U.S. Mail, the mailing of child pornography, bombs or matters containing poison, unauthorized concealable firearms, harmful or prohibited articles, theft of mail or postal valuables and assaults on postal employees.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "U.S. POSTAL INSPECTION SERVICE",
+	"website": "http:\/\/www.usps.com\/postalinspectors",
+	"slug": "u-s-postal-inspection-service",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/u-s-postal-inspection-service",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/u-s-postal-inspection-service\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 3814,
+		"name": "Contact",
+		"title": "Customer Service",
+		"phones": [{
+			"id": 3814,
+			"department": null,
+			"extension": null,
+			"number": "877-876-2455",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3814,
+		"department": null,
+		"extension": null,
+		"number": "877-876-2455",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

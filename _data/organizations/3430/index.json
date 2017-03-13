@@ -1,0 +1,84 @@
+{
+	"id": 3430,
+	"accreditations": [],
+	"alternate_name": "GAL",
+	"date_incorporated": null,
+	"description": "Guardians appointed by Circuit Judge\/Juvenile Division to represent best interests of abused\/neglected children from juvenile\/civil court. A court order is given authorizing examination of records relating to charges without parental consent. All information is confidential, except in reporting to court or other parties involved in advocating child's best interest, consults with DCF, medical personnel, school, law enforcement, and Mental Health counselor. Volunteers must be interviewed and completed an application with 2 letters of reference; there are criminal and child abuse background checks made, 24 hours of training.\\r\\n\\r\\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "GUARDIAN AD LITEM, INC.",
+	"website": "http:\/\/www.guardianadlitem.org",
+	"slug": "guardian-ad-litem-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/guardian-ad-litem-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/guardian-ad-litem-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 3430,
+		"name": "Alan Abramowitz",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 3430,
+			"department": null,
+			"extension": null,
+			"number": "850-922-7213",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "alexsa.leto@gal.fl.gov",
+		"id": 3431,
+		"name": "Alexsa Leto",
+		"title": "Circuit 16 Director",
+		"phones": [{
+			"id": 3431,
+			"department": null,
+			"extension": null,
+			"number": "305-292-3485",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7737,
+		"name": "Jessica Allen",
+		"title": "Circuit 11 Director",
+		"phones": [{
+			"id": 7737,
+			"department": null,
+			"extension": null,
+			"number": "305-679-2222",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3430,
+		"department": null,
+		"extension": null,
+		"number": "850-922-7213",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3431,
+		"department": null,
+		"extension": null,
+		"number": "305-292-3485",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7737,
+		"department": null,
+		"extension": null,
+		"number": "305-679-2222",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

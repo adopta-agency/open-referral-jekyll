@@ -1,0 +1,331 @@
+{
+	"id": 908,
+	"accreditations": [],
+	"alternate_name": "MIAMI CHILDREN'S HOSPITAL",
+	"date_incorporated": null,
+	"description": "Nicklaus Children's Hospital, formerly Miami Children's Hospital, specializes in pediatric healthcare. With a medical staff of more than 650 physicians and over 3,500 employees, the hospital is renowned for excellence in all aspects of pediatric medical care from birth through adolescence. Nicklaus Children's Hospital, formerly Miami Children's Hospital, offers more than 40 pediatric specialties and subspecialties, and is home to FloridaG\u00c7\u00d6s only free-standing pediatric trauma center.\\r\\n\\r\\nNicklaus Children's Hospital also has 9 centers that feature select pediatric healthcare services such as urgent care and physical therapy for children up to 21 years old.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NICKLAUS CHILDREN'S HOSPITAL",
+	"website": "https:\/\/www.nicklauschildrens.org\/home",
+	"slug": "nicklaus-children-s-hospital",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/nicklaus-children-s-hospital",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/nicklaus-children-s-hospital\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 908,
+		"name": "M. Narendra Kini, M.D.",
+		"title": "President and Chief Executive Officer",
+		"phones": [{
+			"id": 908,
+			"department": null,
+			"extension": null,
+			"number": "305-666-6511",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 909,
+		"name": "Dr. Americo F. Padilla, MD",
+		"title": "Chief, Psychiatry Department",
+		"phones": [{
+			"id": 909,
+			"department": null,
+			"extension": null,
+			"number": "305-663-8439",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 912,
+		"name": "M. Narendra Kini, M.D.",
+		"title": "President and Chief Executive Officer",
+		"phones": [{
+			"id": 912,
+			"department": null,
+			"extension": null,
+			"number": "954-385-6200",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cindy.harrah@mch.com",
+		"id": 913,
+		"name": "Cindy Harrah",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 913,
+			"department": null,
+			"extension": null,
+			"number": "305-262-8300",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cindy.harrah@mch.com",
+		"id": 914,
+		"name": "Cindy Harrah",
+		"title": "Clinical Director",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "cindy.harrah@mch.com",
+		"id": 915,
+		"name": "Cindy Harrah, ARNP",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 915,
+			"department": null,
+			"extension": null,
+			"number": "305-221-3821",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cindy.harrah@mch.com",
+		"id": 916,
+		"name": "Cindy Harrah, ARNP",
+		"title": "Clinical DIrector",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "cindy.harrah@mch.com",
+		"id": 917,
+		"name": "Cindy Harrah, ARNP",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 917,
+			"department": null,
+			"extension": null,
+			"number": "305-995-3993",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cindy.harrah@mch.com",
+		"id": 918,
+		"name": "Cindy Harrah",
+		"title": "Clinical Director",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "cindy.harrah@mch.com",
+		"id": 919,
+		"name": "Cindy Harrah",
+		"title": "Clinical Director",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "cindy.harrah@mch.com",
+		"id": 920,
+		"name": "Cindy Harrah, ARNP",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 920,
+			"department": null,
+			"extension": null,
+			"number": "305-220-1120",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cindy.harrah@mch.com",
+		"id": 4893,
+		"name": "Cindy Harrah, ARNP",
+		"title": "Clinical Director",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "cindy.harrah@mch.com",
+		"id": 5526,
+		"name": "Cindy Harrah, ARNP",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 5526,
+			"department": null,
+			"extension": null,
+			"number": "305-227-5158",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cindy.harrah@mch.com",
+		"id": 5815,
+		"name": "Cindy Harrah",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 5815,
+			"department": null,
+			"extension": null,
+			"number": "305-264-5757",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 5823,
+		"name": "M. Narendra Kini, M.D.",
+		"title": "President and Chief Executive Officer",
+		"phones": [{
+			"id": 5823,
+			"department": null,
+			"extension": null,
+			"number": "305-662-8225",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Janet.dagnesses@mch.com",
+		"id": 6852,
+		"name": "Janet Dagnesses",
+		"title": "Manager",
+		"phones": [{
+			"id": 6852,
+			"department": null,
+			"extension": null,
+			"number": "786-268-2611",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cindy.harrah@mch.com",
+		"id": 7845,
+		"name": "Cindy Harrah, ARNP",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 7845,
+			"department": null,
+			"extension": null,
+			"number": "305-258-3676",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 908,
+		"department": null,
+		"extension": null,
+		"number": "305-666-6511",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 909,
+		"department": null,
+		"extension": null,
+		"number": "305-663-8439",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 912,
+		"department": null,
+		"extension": null,
+		"number": "954-385-6200",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 913,
+		"department": null,
+		"extension": null,
+		"number": "305-262-8300",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 915,
+		"department": null,
+		"extension": null,
+		"number": "305-221-3821",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 917,
+		"department": null,
+		"extension": null,
+		"number": "305-995-3993",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 920,
+		"department": null,
+		"extension": null,
+		"number": "305-220-1120",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5526,
+		"department": null,
+		"extension": null,
+		"number": "305-227-5158",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5815,
+		"department": null,
+		"extension": null,
+		"number": "305-264-5757",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5823,
+		"department": null,
+		"extension": null,
+		"number": "305-662-8225",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6852,
+		"department": null,
+		"extension": null,
+		"number": "786-268-2611",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7845,
+		"department": null,
+		"extension": null,
+		"number": "305-258-3676",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

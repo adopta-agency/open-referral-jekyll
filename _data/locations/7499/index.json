@@ -1,0 +1,48 @@
+{
+	"id": 7499,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.8452723,
+	26.5451481],
+	"description": "See listed services",
+	"latitude": 26.5451481,
+	"longitude": -81.8452723,
+	"name": "Fort Myers, FL",
+	"short_desc": null,
+	"slug": "fort-myers-fl-6810-shoppes-plantation-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/fort-myers-fl-6810-shoppes-plantation-drive",
+	"address": {
+		"id": 3467,
+		"address_1": "6810 Shoppes Plantation Drive",
+		"address_2": "Suite 8",
+		"city": "Fort Myers",
+		"state_province": "FL",
+		"postal_code": "33912"
+	},
+	"organization": {
+		"id": 3971,
+		"accreditations": [],
+		"alternate_name": "Formerly COMMUNITY BLOOD CENTERS OF SOUTH FLORIDA, INC.",
+		"date_incorporated": null,
+		"description": "On January 27, 2012 three of FloridaG\u00c7\u00d6s independent, not-for-profit blood centers, Community Blood Centers of Florida, Inc. (CBCF), FloridaG\u00c7\u00d6s Blood Centers, Inc. (FBC) and Florida Blood Services, Inc. (FBS) came together in a merger of equals and OneBlood, Inc. was established.\\n\\nA blood center that provides safe, available and affordable blood to hospital partners and their patients.\\n\\nThe service area of OneBlood includes the Tampa Bay area, South and Southeast Florida, the Orlando-metro area and surrounding Central Florida counties, parts of Southwest Florida, Pensacola and Tallahassee and some parts of Southern Georgia and Alabama.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ONE BLOOD, INC.",
+		"website": "http:\/\/www.oneblood.org",
+		"slug": "one-blood-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/one-blood-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/one-blood-inc\/locations"
+	},
+	"phones": [{
+		"id": 7499,
+		"department": null,
+		"extension": null,
+		"number": "239-425-0953",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

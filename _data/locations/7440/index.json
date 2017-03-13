@@ -1,0 +1,48 @@
+{
+	"id": 7440,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3304408,
+	25.783364],
+	"description": "See listed services",
+	"latitude": 25.783364,
+	"longitude": -80.3304408,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-59ae2788-75a3-4a9d-bbaf-4033a2514d7b",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-59ae2788-75a3-4a9d-bbaf-4033a2514d7b",
+	"address": {
+		"id": 3417,
+		"address_1": "8323 NW 12th Street",
+		"address_2": "Suite 212",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33126"
+	},
+	"organization": {
+		"id": 1651,
+		"accreditations": [],
+		"alternate_name": "FL DOH M-DC, M-DC HEALTH DEPARTMENT",
+		"date_incorporated": null,
+		"description": "The Florida Department of Health in Miami-Dade County works to prevent disease and improve the health of the Miami-Dade County Community. Public Health Services are available to all residents and visitors of Florida Department of Health in Miami-Dade County. Citizenship is not a requirement. We do not deny services based on a personG\u00c7\u00d6s race, color, sex, disability, religion, sexual orientation or national origin.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA DEPARTMENT OF HEALTH IN MIAMI-DADE COUNTY",
+		"website": "http:\/\/www.dadehealth.org",
+		"slug": "florida-department-of-health-in-miami-dade-county",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-health-in-miami-dade-county",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-health-in-miami-dade-county\/locations"
+	},
+	"phones": [{
+		"id": 7440,
+		"department": null,
+		"extension": null,
+		"number": "305-470-5620",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

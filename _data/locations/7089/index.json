@@ -1,0 +1,48 @@
+{
+	"id": 7089,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7910587,
+	26.1623855],
+	"description": "See listed services",
+	"latitude": 26.1623855,
+	"longitude": -81.7910587,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-p-o-box-10513",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-p-o-box-10513",
+	"address": {
+		"id": 3158,
+		"address_1": "P.O. Box 10513",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34101"
+	},
+	"organization": {
+		"id": 7089,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Naples Community Immigration Services, provides a variety of services to help people who have lived in the USA the requisite period of time apply to become a US citizens. Included may be photographs requirements for citizenship application, copies of the application for Naturalization form (N-400), assistance in completing the form, copies of questions typically asked by the Bureau of Citizenship and Immigration Services (CIS) in citizenship interviews and an opportunity to practice for the interview.\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NAPLES COMMUNITY IMMIGRATION SERVICES, INC.",
+		"website": null,
+		"slug": "naples-community-immigration-services-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/naples-community-immigration-services-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/naples-community-immigration-services-inc\/locations"
+	},
+	"phones": [{
+		"id": 7089,
+		"department": null,
+		"extension": null,
+		"number": "239-263-0300",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

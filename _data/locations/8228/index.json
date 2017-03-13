@@ -1,0 +1,48 @@
+{
+	"id": 8228,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3836771,
+	25.7544614],
+	"description": "See listed services",
+	"latitude": 25.7544614,
+	"longitude": -80.3836771,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-11691-sw-17th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-11691-sw-17th-street",
+	"address": {
+		"id": 4131,
+		"address_1": "11691 SW 17th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33165"
+	},
+	"organization": {
+		"id": 8228,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The National Weather Service Miami-South Florida Forecast Office is co-located with the National Hurricane Center on the campus of Florida International University. Meteorologists, hydrometeorological technicians, and support staff produce all warnings and forecasts for South Florida and the adjacent waters of the Atlantic Ocean, Gulf of Mexico, and Lake Okeechobee.\\n\\nProvides an automated weather forecast recording for up to date weather information.\\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NATIONAL WEATHER SERVICE - FORECAST OFFICE MIAMI-SOUTH FLORIDA",
+		"website": "http:\/\/www.weather.gov\/mfl\/",
+		"slug": "national-weather-service-forecast-office-miami-south-florida",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/national-weather-service-forecast-office-miami-south-florida",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/national-weather-service-forecast-office-miami-south-florida\/locations"
+	},
+	"phones": [{
+		"id": 8228,
+		"department": null,
+		"extension": null,
+		"number": "305-229-4522",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

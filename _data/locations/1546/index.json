@@ -1,0 +1,48 @@
+{
+	"id": 1546,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77,
+	39],
+	"description": "See listed services",
+	"latitude": 39,
+	"longitude": -77,
+	"name": "Arlington, VA",
+	"short_desc": null,
+	"slug": "arlington-va-1600-wilson-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/arlington-va-1600-wilson-boulevard",
+	"address": {
+		"id": 810,
+		"address_1": "1600 Wilson Boulevard",
+		"address_2": "Suite 800",
+		"city": "Arlington",
+		"state_province": "VA",
+		"postal_code": "22209"
+	},
+	"organization": {
+		"id": 1533,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "No description provided",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "I & R HOTLINES OUTSIDE MIAMI-DADE",
+		"website": null,
+		"slug": "i-r-hotlines-outside-miami-dade",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/i-r-hotlines-outside-miami-dade",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/i-r-hotlines-outside-miami-dade\/locations"
+	},
+	"phones": [{
+		"id": 1546,
+		"department": null,
+		"extension": "12.0",
+		"number": "800-621-3141",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

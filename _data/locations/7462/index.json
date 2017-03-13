@@ -1,0 +1,41 @@
+{
+	"id": 7462,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2294159,
+	25.7503689],
+	"description": "See listed services",
+	"latitude": 25.7503689,
+	"longitude": -80.2294159,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-60390e82-2207-4b3a-9923-774b615bf82f",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-60390e82-2207-4b3a-9923-774b615bf82f",
+	"address": {
+		"id": 3437,
+		"address_1": "2150 Coral Way",
+		"address_2": "8th Floor",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33145"
+	},
+	"organization": {
+		"id": 7458,
+		"accreditations": [],
+		"alternate_name": "NSCFF",
+		"date_incorporated": null,
+		"description": "NSCFF is a non-profit organization working to help patients, families, and caregivers deal with the effects of chronic, degenerative neurological diseases like Alzheimer's Multiple Sclerosis, Parkinson's disease and Stroke. \\n\\nPrimary Services:\\n\\n* Social Work\\n* Case Management\\n* Individual and Family Counseling\\n* Medication Management\\n* Referrals and connections to community resources\\n* Empowerment through educational and therapeutic programs",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NEUROSCIENCE CENTERS OF FLORIDA FOUNDATION, INC.",
+		"website": "http:\/\/www.nscff.org",
+		"slug": "neuroscience-centers-of-florida-foundation-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/neuroscience-centers-of-florida-foundation-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/neuroscience-centers-of-florida-foundation-inc\/locations"
+	},
+	"phones": []
+}

@@ -1,0 +1,61 @@
+{
+	"id": 3192,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Miami Homes for All concentrates its efforts in three main areas: advocating for the rights of the homeless population; coordinating available resources so as to maximize utilization and promote efficiency; developing and supporting prevention initiatives on the local, state and federal levels leading to the elimination of homelessness. Provides information to the general public on topics related to homelessness. Provides funding to organizations who work to prevent homelessness.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI HOMES FOR ALL, INC.",
+	"website": "http:\/\/www.miamihomeless.org",
+	"slug": "miami-homes-for-all-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-homes-for-all-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-homes-for-all-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "bibarra@miamihomesforall.org",
+		"id": 3192,
+		"name": "Barbara \"Bobbie\" Ibarra",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 3192,
+			"department": null,
+			"extension": null,
+			"number": "786-469-2060",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@miamihomeless.org",
+		"id": 6274,
+		"name": "Barbara Ibarra",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 6274,
+			"department": null,
+			"extension": null,
+			"number": "786-469-2060",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3192,
+		"department": null,
+		"extension": null,
+		"number": "786-469-2060",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6274,
+		"department": null,
+		"extension": null,
+		"number": "786-469-2060",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

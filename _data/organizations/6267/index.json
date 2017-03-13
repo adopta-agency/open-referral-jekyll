@@ -1,0 +1,38 @@
+{
+	"id": 6267,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "RJT Foundation is a support organization for families of murdered victims. Offers support to families during their difficult time of bereavement by providing customized care packages that fit their specific needs to include grief workshop shops and overall support while helping them stabilize their lives.\\n\\nThrough the Reading Warrior Program(War Against Rage Reading Is Our Remedy) we offer the dependents and siblings of the victims between the ages of 4-12 assistance with reading on selected Saturday's.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "RJT FOUNDATION, INC.",
+	"website": "http:\/\/rjtfoundation.com",
+	"slug": "rjt-foundation-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/rjt-foundation-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/rjt-foundation-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@rjtfoundation.com",
+		"id": 6267,
+		"name": "Denise Brown",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 6267,
+			"department": null,
+			"extension": null,
+			"number": "305-460-2222",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6267,
+		"department": null,
+		"extension": null,
+		"number": "305-460-2222",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

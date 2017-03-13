@@ -1,0 +1,48 @@
+{
+	"id": 7288,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1565744,
+	26.0114915],
+	"description": "See listed services",
+	"latitude": 26.0114915,
+	"longitude": -80.1565744,
+	"name": "Hollywood, FL",
+	"short_desc": null,
+	"slug": "hollywood-fl-2455-hollywood-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/hollywood-fl-2455-hollywood-boulevard",
+	"address": {
+		"id": 3300,
+		"address_1": "2455 Hollywood Boulevard",
+		"address_2": "Suite 110",
+		"city": "Hollywood",
+		"state_province": "FL",
+		"postal_code": "33020"
+	},
+	"organization": {
+		"id": 6297,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Miller Healthcare's focus is in providing quality home care to your loved ones, to promote independence and enhance their quality of life. Our caregivers will assist you to live safely and independently in the comfort of your home. We are very successful in matching the best caregivers to the clients.\\n\\nMiller Healthcare is an SMMC LTC provider and we are also ADA, APD, PAC and PCA providers. We accept assignments for long term care insurance. We also accept private pay, private insurance, HMOs and workmen's Compensation.\\n\\nIf you have any questions, we will be more than happy to meet with you and contact your insurance company to help determine eligibility and benefits. Call us today for your free evaluation.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MILLER HEALTHCARE NETWORK, LLC.",
+		"website": "http:\/\/www.needcareathome.com",
+		"slug": "miller-healthcare-network-llc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miller-healthcare-network-llc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miller-healthcare-network-llc\/locations"
+	},
+	"phones": [{
+		"id": 7288,
+		"department": null,
+		"extension": null,
+		"number": "954-453-1196",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

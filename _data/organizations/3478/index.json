@@ -1,0 +1,38 @@
+{
+	"id": 3478,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Protects and serves a population of 30,000 full-time residents, with over 2 million visitors each year.\\n\\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "KEY WEST POLICE DEPARTMENT",
+	"website": "http:\/\/www.keywestcity.com\/department\/?fDD=12-0",
+	"slug": "key-west-police-department",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/key-west-police-department",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/key-west-police-department\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "dlee@cityofkeywest-fl.gov",
+		"id": 3478,
+		"name": "Donald J. Lee, Jr",
+		"title": "Chief of Police",
+		"phones": [{
+			"id": 3478,
+			"department": null,
+			"extension": null,
+			"number": "305-809-1111",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3478,
+		"department": null,
+		"extension": null,
+		"number": "305-809-1111",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

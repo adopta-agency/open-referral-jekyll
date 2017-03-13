@@ -1,0 +1,48 @@
+{
+	"id": 3669,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77,
+	39],
+	"description": "See listed services",
+	"latitude": 39,
+	"longitude": -77,
+	"name": "Washington, DC",
+	"short_desc": null,
+	"slug": "washington-dc-1300-19th-street-nw",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/washington-dc-1300-19th-street-nw",
+	"address": {
+		"id": 1777,
+		"address_1": "1300 19th Street, NW",
+		"address_2": "Suite 200",
+		"city": "Washington",
+		"state_province": "DC",
+		"postal_code": "20036"
+	},
+	"organization": {
+		"id": 3669,
+		"accreditations": [],
+		"alternate_name": "ARHP",
+		"date_incorporated": null,
+		"description": "ARHP brings together health care professionals across disciplines and specialties for evidence-based training and network building. Our members define sexual and reproductive health in broad terms and recognize that the best care is delivered through a team of professionals partnering with an informed patient. ARHP delivers on our educational mission by translating good science into practice through producing accredited, peer-reviewed programs.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ASSOCIATION OF REPRODUCTIVE HEALTH PROFESSIONALS",
+		"website": "http:\/\/www.arhp.org",
+		"slug": "association-of-reproductive-health-professionals",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/association-of-reproductive-health-professionals",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/association-of-reproductive-health-professionals\/locations"
+	},
+	"phones": [{
+		"id": 3669,
+		"department": null,
+		"extension": null,
+		"number": "202-466-3825",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

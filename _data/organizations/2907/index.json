@@ -1,0 +1,429 @@
+{
+	"id": 2907,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The City of Hialeah is committed to providing the highest quality of life and municipal services for our community and our residents, merchants, businesses, visitors and employees by setting the standard for public service in an All-America City through excellence, integrity and inclusion.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CITY OF HIALEAH",
+	"website": "http:\/\/www.hialeahfl.gov",
+	"slug": "city-of-hialeah",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-hialeah",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-hialeah\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Malpizar@hialeahfl.gov",
+		"id": 2907,
+		"name": "Marla Alpizar",
+		"title": "Education & Community Service Director",
+		"phones": [{
+			"id": 2907,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "malpizar@hialeahfl.gov",
+		"id": 2909,
+		"name": "Marla Alpizar",
+		"title": "Education & Community Service Director",
+		"phones": [{
+			"id": 2909,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "malpizar@hialeahfl.gov",
+		"id": 2910,
+		"name": "Marla Alpizar",
+		"title": "Education & Community Service Director",
+		"phones": [{
+			"id": 2910,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "malpizar@hialeahfl.gov",
+		"id": 2911,
+		"name": "Marla Alpizar",
+		"title": "Education & Community Service Director",
+		"phones": [{
+			"id": 2911,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "malpizar@hialeahfl.gov",
+		"id": 2912,
+		"name": "Marla Alpizar",
+		"title": "Education & Community Service Director",
+		"phones": [{
+			"id": 2912,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "malpizar@hialeahfl.gov",
+		"id": 2913,
+		"name": "Marla Alpizar",
+		"title": "Education & Community Service Director",
+		"phones": [{
+			"id": 2913,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "malpizar@hialeahfl.gov",
+		"id": 2914,
+		"name": "Marla Alpizar",
+		"title": "Education & Community Service Director",
+		"phones": [{
+			"id": 2914,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "malpizar@hialeahfl.gov",
+		"id": 2915,
+		"name": "Marla Alpizar",
+		"title": "Education & Community Service Director",
+		"phones": [{
+			"id": 2915,
+			"department": null,
+			"extension": null,
+			"number": "305-818-2988",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "malpizar@hialeahfl.gov",
+		"id": 2916,
+		"name": "Marla Alpizar",
+		"title": "Education & Community Service Director",
+		"phones": [{
+			"id": 2916,
+			"department": null,
+			"extension": null,
+			"number": "305-818-2994",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "malpizar@hialeahfl.gov",
+		"id": 2918,
+		"name": "Marla Alpizar",
+		"title": "Education & Community Service Director",
+		"phones": [{
+			"id": 2918,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "SDziedzic@hialeahfl.gov",
+		"id": 2919,
+		"name": "Sharon Dziedzic",
+		"title": "Special Programs Director",
+		"phones": [{
+			"id": 2919,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "malpizar@hialeahfl.gov",
+		"id": 6104,
+		"name": "Marla Alpizar",
+		"title": "Education & Community Service Director",
+		"phones": [{
+			"id": 6104,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cbenitez@hialeahfl.gov",
+		"id": 7912,
+		"name": "Cynthia Benitez",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7912,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rlopez@hialeahfl.gov",
+		"id": 7918,
+		"name": "Roberto Lopez",
+		"title": "Project Director",
+		"phones": [{
+			"id": 7918,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7919,
+		"name": "Roberto Lopez",
+		"title": "Project Director",
+		"phones": [{
+			"id": 7919,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7920,
+		"name": "Roberto Lopez",
+		"title": "Project Director",
+		"phones": [{
+			"id": 7920,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "yfernandez@hialeahfl.gov",
+		"id": 7921,
+		"name": "Yasmin Fernandez",
+		"title": "Education & Community Services Project Director",
+		"phones": [{
+			"id": 7921,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "yfernandez@hialeahfl.gov",
+		"id": 7922,
+		"name": "Yasmin Fernandez",
+		"title": "Education & Community Services Project Director",
+		"phones": [{
+			"id": 7922,
+			"department": null,
+			"extension": null,
+			"number": "305-818-9143",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2907,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2909,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2910,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2911,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2912,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2913,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2914,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2915,
+		"department": null,
+		"extension": null,
+		"number": "305-818-2988",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2916,
+		"department": null,
+		"extension": null,
+		"number": "305-818-2994",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2918,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2919,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6104,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7912,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7918,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7919,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7920,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7921,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7922,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

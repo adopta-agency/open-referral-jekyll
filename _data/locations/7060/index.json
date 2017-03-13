@@ -1,0 +1,48 @@
+{
+	"id": 7060,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-83,
+	28],
+	"description": "See listed services",
+	"latitude": 28,
+	"longitude": -83,
+	"name": "Tampa, FL",
+	"short_desc": null,
+	"slug": "tampa-fl-1511-north-westhosre-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/tampa-fl-1511-north-westhosre-boulevard",
+	"address": {
+		"id": 3136,
+		"address_1": "1511 North Westhosre Boulevard",
+		"address_2": "Suite 980",
+		"city": "Tampa",
+		"state_province": "FL",
+		"postal_code": "33607"
+	},
+	"organization": {
+		"id": 1904,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The American Diabetes Association is leading the fight against the deadly consequences of diabetes and fighting for those affected by diabetes. The Association funds research to prevent, cure and manage diabetes; delivers services to hundreds of communities; provides objective and credible information through community-based programs to empower people to manage their disease so they can prevent the onset of complications; and gives voice to those denied their rights because of diabetes.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AMERICAN DIABETES ASSOCIATION, INC.",
+		"website": "http:\/\/www.diabetes.org",
+		"slug": "american-diabetes-association-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/american-diabetes-association-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/american-diabetes-association-inc\/locations"
+	},
+	"phones": [{
+		"id": 7060,
+		"department": null,
+		"extension": "3030.0",
+		"number": "813-885-5007",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

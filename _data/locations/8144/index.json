@@ -1,0 +1,41 @@
+{
+	"id": 8144,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.207897,
+	25.8182716],
+	"description": "See listed services",
+	"latitude": 25.8182716,
+	"longitude": -80.207897,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-698-nw-47th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-698-nw-47th-street",
+	"address": {
+		"id": 4049,
+		"address_1": "698 NW 47th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33127"
+	},
+	"organization": {
+		"id": 2295,
+		"accreditations": [],
+		"alternate_name": "NJCDC",
+		"date_incorporated": null,
+		"description": "New Jerusalem Community Development Corporation provides a summer camp program that provides academic support, social skill development, literacy skills through the arts and recreational activities. \\n\\nDates: June 20 - August 5\\nRegistration begins: April 18",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NEW JERUSALEM COMMUNITY DEVELOPMENT CORPORATION - SUMMER CAMP PROGRAM",
+		"website": "http:\/\/www.newjerusalemcdc.org",
+		"slug": "new-jerusalem-community-development-corporation-summer-camp-program",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/new-jerusalem-community-development-corporation-summer-camp-program",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/new-jerusalem-community-development-corporation-summer-camp-program\/locations"
+	},
+	"phones": []
+}

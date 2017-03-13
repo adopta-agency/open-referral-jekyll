@@ -1,0 +1,48 @@
+{
+	"id": 1188,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2622863,
+	25.7256372],
+	"description": "See listed services",
+	"latitude": 25.7256372,
+	"longitude": -80.2622863,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-420-south-dixie-highway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-420-south-dixie-highway",
+	"address": {
+		"id": 613,
+		"address_1": "420 South Dixie Highway",
+		"address_2": "Suite 2E",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33146"
+	},
+	"organization": {
+		"id": 1188,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The SFDDA provides assistance for patient referrals, refers low income dental clinics, promotes public dental health through educational materials, mediates patient complaints about dental care completed within the last twelve months, and assists members with professional or patient related issues.\\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SOUTH FLORIDA DISTRICT DENTAL ASSOCIATION, INC.",
+		"website": "http:\/\/www.sfdda.org",
+		"slug": "south-florida-district-dental-association-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/south-florida-district-dental-association-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/south-florida-district-dental-association-inc\/locations"
+	},
+	"phones": [{
+		"id": 1188,
+		"department": null,
+		"extension": null,
+		"number": "305-667-3647",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

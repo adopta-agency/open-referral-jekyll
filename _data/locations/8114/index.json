@@ -1,0 +1,48 @@
+{
+	"id": 8114,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1897391,
+	25.8056783],
+	"description": "See listed services",
+	"latitude": 25.8056783,
+	"longitude": -80.1897391,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-fe643489-3df6-4699-b9ad-55c807ca1711",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-fe643489-3df6-4699-b9ad-55c807ca1711",
+	"address": {
+		"id": 4020,
+		"address_1": "3000 Biscayne Boulevard",
+		"address_2": "Suite 500",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33137"
+	},
+	"organization": {
+		"id": 4110,
+		"accreditations": [],
+		"alternate_name": "LSGMI",
+		"date_incorporated": null,
+		"description": "Legal Services of Greater Miami, Inc. (LSGM) provides free legal advice, referral, and representation in the areas of public and subsidized housing, homeownership issues (including mortgage foreclosure), public benefits (food stamps, cash assistance, Medicaid and Social Security disability), reemployment assistance, federal income tax, special education issues, and community economic development. Special projects to help the homeless, children, and people with AIDS. Community Legal Education and \"pro se\" clinics.\\n\\nDoes not provide assistance in criminal, divorce, or custody issues. Operator can refer to another South Florida Legal Provider who may be able to help.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LEGAL SERVICES - MAIN OFFICE",
+		"website": "http:\/\/www.lsgmi.org",
+		"slug": "legal-services-main-office",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/legal-services-main-office",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/legal-services-main-office\/locations"
+	},
+	"phones": [{
+		"id": 8114,
+		"department": null,
+		"extension": null,
+		"number": "305-576-0080",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

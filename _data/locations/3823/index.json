@@ -1,0 +1,48 @@
+{
+	"id": 3823,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-84.3272197,
+	33.7983632],
+	"description": "See listed services",
+	"latitude": 33.7983632,
+	"longitude": -84.3272197,
+	"name": "Atlanta, GA",
+	"short_desc": null,
+	"slug": "atlanta-ga-d50e9902-4a18-4169-a678-5cbe02e7c458",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/atlanta-ga-d50e9902-4a18-4169-a678-5cbe02e7c458",
+	"address": {
+		"id": 1813,
+		"address_1": "1600 Clifton Road",
+		"address_2": null,
+		"city": "Atlanta",
+		"state_province": "GA",
+		"postal_code": "30329"
+	},
+	"organization": {
+		"id": 3822,
+		"accreditations": [],
+		"alternate_name": "CDC",
+		"date_incorporated": null,
+		"description": "The Centers for Disease Control and Prevention (CDC) is the national public health institute of the United States.\\r\\n\\r\\n###MON###\\r\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CENTERS FOR DISEASE CONTROL AND PREVENTION",
+		"website": "http:\/\/www.cdc.gov\/",
+		"slug": "centers-for-disease-control-and-prevention",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/centers-for-disease-control-and-prevention",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/centers-for-disease-control-and-prevention\/locations"
+	},
+	"phones": [{
+		"id": 3823,
+		"department": null,
+		"extension": null,
+		"number": "800-232-4636",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

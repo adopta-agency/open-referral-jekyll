@@ -1,0 +1,38 @@
+{
+	"id": 6945,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Good Health Clinic offers free primary care and other outpatient services, including regular check-ups in our clinic office, and referrals to specialists in Miami-Dade and Monroe Counties. \\n\\nServices provided include:\\n\\n* Primary care medical services\\n* Wellness\/Preventative Care\\n* Walk-in\/Urgent Care\\n* Chronic Disease Management\\n* WomenG\u00c7\u00d6s health\\n* Referred Specialty Care\\n* Care Coordination\\n* Prescription Assistant\\n* Diagnostic labs and imaging\\n* Advanced medical care\\n\\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "GOOD HEALTH CLINIC, INC.",
+	"website": "http:\/\/www.thegoodhealthclinic.org\/",
+	"slug": "good-health-clinic-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/good-health-clinic-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/good-health-clinic-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "goodhealthclinic@comcast.net",
+		"id": 6945,
+		"name": "Kathryn Banick",
+		"title": "CEO",
+		"phones": [{
+			"id": 6945,
+			"department": null,
+			"extension": null,
+			"number": "305-853-1788",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6945,
+		"department": null,
+		"extension": null,
+		"number": "305-853-1788",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

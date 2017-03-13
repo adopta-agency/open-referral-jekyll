@@ -1,0 +1,48 @@
+{
+	"id": 1756,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-76.6708553,
+	39.2609041],
+	"description": "See listed services",
+	"latitude": 39.2609041,
+	"longitude": -76.6708553,
+	"name": "Halethorpe, MD",
+	"short_desc": null,
+	"slug": "halethorpe-md",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/halethorpe-md",
+	"address": {
+		"id": 907,
+		"address_1": "3700 Koppers Street",
+		"address_2": "Suite 570",
+		"city": "Halethorpe",
+		"state_province": "MD",
+		"postal_code": "21227"
+	},
+	"organization": {
+		"id": 1756,
+		"accreditations": [],
+		"alternate_name": "SCDAA",
+		"date_incorporated": null,
+		"description": "SCDAA provides information an referral, publications, and various other services depending on chapter location regarding sickle cell disease.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SICKLE CELL DISEASE ASSOCIATION OF AMERICA, INC.",
+		"website": "http:\/\/www.sicklecelldisease.org",
+		"slug": "sickle-cell-disease-association-of-america-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/sickle-cell-disease-association-of-america-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/sickle-cell-disease-association-of-america-inc\/locations"
+	},
+	"phones": [{
+		"id": 1756,
+		"department": null,
+		"extension": null,
+		"number": "800-421-8453",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

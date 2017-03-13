@@ -1,0 +1,48 @@
+{
+	"id": 5094,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.72011,
+	26.172113],
+	"description": "See listed services",
+	"latitude": 26.172113,
+	"longitude": -81.72011,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-3161-santa-barbara-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-3161-santa-barbara-boulevard",
+	"address": {
+		"id": 2145,
+		"address_1": "3161 Santa Barbara Boulevard",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34116"
+	},
+	"organization": {
+		"id": 5094,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Academic educational offerings in a family oriented distinctly Biblical based context for students in PK3-8th grade.\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NAPLES CHRISTIAN ACADEMY ASSOCIATION, INC.",
+		"website": "http:\/\/www.napleschristian.net",
+		"slug": "naples-christian-academy-association-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/naples-christian-academy-association-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/naples-christian-academy-association-inc\/locations"
+	},
+	"phones": [{
+		"id": 5094,
+		"department": null,
+		"extension": null,
+		"number": "239-455-1080",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

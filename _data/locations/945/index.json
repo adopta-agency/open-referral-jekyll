@@ -1,0 +1,48 @@
+{
+	"id": 945,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-4c2b859e-e038-4fc8-89f1-4545ef750906",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-4c2b859e-e038-4fc8-89f1-4545ef750906",
+	"address": {
+		"id": 494,
+		"address_1": "10201 Hammocks Boulevard",
+		"address_2": "Suite 149",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33196"
+	},
+	"organization": {
+		"id": 943,
+		"accreditations": [],
+		"alternate_name": "TOWNCENTER SCHOOL",
+		"date_incorporated": null,
+		"description": "Towncenter School provides before and aftercare all year round. Also provides full time care throughout the summer months, Teacher Planning Days, Spring Break and Christmas Break. Early childhood education provided for infants through second grade. Aftercare provided for children 5 to 14 years old. We are an all inclusion program.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CARLMAR, INC.",
+		"website": null,
+		"slug": "carlmar-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/carlmar-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/carlmar-inc\/locations"
+	},
+	"phones": [{
+		"id": 945,
+		"department": null,
+		"extension": null,
+		"number": "305-385-9981",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

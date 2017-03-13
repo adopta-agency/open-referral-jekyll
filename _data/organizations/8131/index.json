@@ -1,0 +1,38 @@
+{
+	"id": 8131,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Primary care medical services including treatment of HIV disease and Pre-exposure prophylaxis and Post-exposure treatment to HIV.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ALBERT CANAS MD AND ASSOCIATES",
+	"website": "http:\/\/www.albertcanasmd.com",
+	"slug": "albert-canas-md-and-associates",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/albert-canas-md-and-associates",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/albert-canas-md-and-associates\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mail@albertcanasmd.com",
+		"id": 8131,
+		"name": "Stewart Stein",
+		"title": "Office Manager",
+		"phones": [{
+			"id": 8131,
+			"department": null,
+			"extension": null,
+			"number": "305-534-0503",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8131,
+		"department": null,
+		"extension": null,
+		"number": "305-534-0503",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

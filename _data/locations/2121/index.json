@@ -1,0 +1,48 @@
+{
+	"id": 2121,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3465587,
+	25.6184841],
+	"description": "See listed services",
+	"latitude": 25.6184841,
+	"longitude": -80.3465587,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-e5d23e34-da2d-4526-a4e9-5f4c9db19859",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-e5d23e34-da2d-4526-a4e9-5f4c9db19859",
+	"address": {
+		"id": 1069,
+		"address_1": "16201 SW 95th Avenue",
+		"address_2": "Suite 304",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 2121,
+		"accreditations": [],
+		"alternate_name": "DFYIT",
+		"date_incorporated": null,
+		"description": "A school based community service drug prevention program. Students prove their drug free status through initial and random drug screenings. Provides ATOD education, rewards, field trips, educational workshops, events and community service opportunities.\\n\\nServices available:\\n\\n* Community Service Projects\\n* School Club Meetings\\n* Educational Workshops, Conferences, and Events\\n* Drug Screening\\n* Youth Advisory Committee (YAC)\\n* Parent PTA Meetings\\n* Student Mentorship",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "DRUG FREE YOUTH IN TOWN, INC.",
+		"website": "http:\/\/www.dfyit.org",
+		"slug": "drug-free-youth-in-town-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/drug-free-youth-in-town-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/drug-free-youth-in-town-inc\/locations"
+	},
+	"phones": [{
+		"id": 2121,
+		"department": null,
+		"extension": "208.0",
+		"number": "305-971-0607",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

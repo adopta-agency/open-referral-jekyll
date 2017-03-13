@@ -1,0 +1,48 @@
+{
+	"id": 8161,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1219188,
+	25.8816076],
+	"description": "See listed services",
+	"latitude": 25.8816076,
+	"longitude": -80.1219188,
+	"name": "Surfside, FL",
+	"short_desc": null,
+	"slug": "surfside-fl-c0920906-de34-4180-a1b2-16e997b4bdbd",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/surfside-fl-c0920906-de34-4180-a1b2-16e997b4bdbd",
+	"address": {
+		"id": 4066,
+		"address_1": "9301 Collins Avenue",
+		"address_2": null,
+		"city": "Surfside",
+		"state_province": "FL",
+		"postal_code": "33154"
+	},
+	"organization": {
+		"id": 5646,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides recreational and leisure opportunities to build a strong sense of community while increasing the social, cultural and physical well-being of the residents and to be innovative in the programming needs of the community.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "TOWN OF SURFSIDE PARKS AND RECREATION",
+		"website": "http:\/\/www.townofsurfsidefl.gov",
+		"slug": "town-of-surfside-parks-and-recreation",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/town-of-surfside-parks-and-recreation",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/town-of-surfside-parks-and-recreation\/locations"
+	},
+	"phones": [{
+		"id": 8161,
+		"department": null,
+		"extension": null,
+		"number": "305-866-3635",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

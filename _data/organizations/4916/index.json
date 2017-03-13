@@ -1,0 +1,61 @@
+{
+	"id": 4916,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The City of North Bay Village is in Miami-Dade County, Florida.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CITY OF NORTH BAY VILLAGE",
+	"website": "http:\/\/www.nbvillage.com",
+	"slug": "city-of-north-bay-village",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-north-bay-village",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-north-bay-village\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "frollason@nbvillage.com",
+		"id": 4916,
+		"name": "Frank Rollason",
+		"title": "Village Manager",
+		"phones": [{
+			"id": 4916,
+			"department": null,
+			"extension": null,
+			"number": "305-756-7171",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "IForbes@nbvillage.com",
+		"id": 4917,
+		"name": "Inga Smith-Forbes",
+		"title": "Program Director",
+		"phones": [{
+			"id": 4917,
+			"department": null,
+			"extension": null,
+			"number": "305-756-7171",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4916,
+		"department": null,
+		"extension": null,
+		"number": "305-756-7171",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4917,
+		"department": null,
+		"extension": null,
+		"number": "305-756-7171",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

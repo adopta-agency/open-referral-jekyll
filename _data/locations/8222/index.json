@@ -1,0 +1,48 @@
+{
+	"id": 8222,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2574005,
+	25.7611114],
+	"description": "See listed services",
+	"latitude": 25.7611114,
+	"longitude": -80.2574005,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-107-antilla-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-107-antilla-avenue",
+	"address": {
+		"id": 4125,
+		"address_1": "107 Antilla Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33134"
+	},
+	"organization": {
+		"id": 8222,
+		"accreditations": [],
+		"alternate_name": "Crystal Academy",
+		"date_incorporated": null,
+		"description": "Crystal specializes in Autism Spectrum Disorders and related developmental delays, including ADHD, Dyslexia, Dyspraxia, Auditory Processing, Reading, Writing and Spelling Difficulties. A variety of evidence based therapies and ancillary services are provided:\\n\\n* Applied Behavior Analysis (ABA)\\n* Speech and Language\\n* Occupational Therapy\\n* Physical Therapy\\n* Music and Art\\n* Gymnastics\\n* Social Groups\\n* Academic Tutoring\\n\\nThe team is certified in Behavior, ESE, Occupational, Speech and Language, Prompt, INPP (Neurodevelopment), Fast ForWord, Handwriting without Tears, IL (Integrated Listening System) and IM (Interactive Metronome).",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CRYSTAL PREMIUM THERAPY CENTER AND SCHOOL",
+		"website": "http:\/\/www.crystalacademycg.org",
+		"slug": "crystal-premium-therapy-center-and-school",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/crystal-premium-therapy-center-and-school",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/crystal-premium-therapy-center-and-school\/locations"
+	},
+	"phones": [{
+		"id": 8222,
+		"department": null,
+		"extension": null,
+		"number": "305-567-5881",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

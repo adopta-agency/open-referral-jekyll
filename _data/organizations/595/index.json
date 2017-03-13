@@ -1,0 +1,61 @@
+{
+	"id": 595,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "KLC provides academic tutorial services during after-school for the school year and summer camp. The program offers enrichment and tutorial activities: Academics and Technology, Social and Leadership Skills, Parental Involvement, Physical Education, and Health. The primary goal is to provide the community the resources necessary for children to succeed in life.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "KAYLEEN'S LEARNING CENTER",
+	"website": null,
+	"slug": "kayleen-s-learning-center",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/kayleen-s-learning-center",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/kayleen-s-learning-center\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Kayleenslc@aol.com",
+		"id": 595,
+		"name": "Marisol Amarante",
+		"title": "Director",
+		"phones": [{
+			"id": 595,
+			"department": null,
+			"extension": null,
+			"number": "305-274-5553",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kayleenslc@aol.com",
+		"id": 596,
+		"name": "Marisol Amarante",
+		"title": "Director",
+		"phones": [{
+			"id": 596,
+			"department": null,
+			"extension": null,
+			"number": "305-274-5553",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 595,
+		"department": null,
+		"extension": null,
+		"number": "305-274-5553",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 596,
+		"department": null,
+		"extension": null,
+		"number": "305-274-5553",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

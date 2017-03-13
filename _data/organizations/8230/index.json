@@ -1,0 +1,38 @@
+{
+	"id": 8230,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The primary objective of William H. Turner Techincal Adults & Community Education Center and Miami-Dade County Public Schools is to develop each student's potential for learning and to foster positive interpersonal relationships. To accomplish this, it is necessary that the school environment be free of disruptions that interfere with teaching and learning activities. The student's conduct determines to a great extent the full development of the potential for learning and the development of positive relationships.\\n\\nPrograms offered include:\\n\\n* A\/C Refrigeration & Heating Technology\\n* Administrative Office Specialist\\n* Applied Welding Technologies\\n* Barbering\\n* Building Construction Technology\\n* Carpentry\\n* Cosmetology\\n* Culinary Arts\\n* Early Childhood Education\\n* Electricity\\n* Masonry Apprentice\\n* Patient Care (Phlebotomy)\\n* Plumbing Technology",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "WILLIAM H. TURNER TECHNICAL ARTS ADULT EDUCATION CENTER",
+	"website": "http:\/\/turneradulteduc.dadeschools.net\/index.html",
+	"slug": "william-h-turner-technical-arts-adult-education-center",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/william-h-turner-technical-arts-adult-education-center",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/william-h-turner-technical-arts-adult-education-center\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 8230,
+		"name": "Mr. Uwezo B. Frazier",
+		"title": "Principal",
+		"phones": [{
+			"id": 8230,
+			"department": null,
+			"extension": null,
+			"number": "305-691-8324",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8230,
+		"department": null,
+		"extension": null,
+		"number": "305-691-8324",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

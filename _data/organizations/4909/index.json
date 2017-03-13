@@ -1,0 +1,38 @@
+{
+	"id": 4909,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Power U is a nonprofit organization that advocates for social changes. Some of its campaigns are the following: Youth campaign for restorative justice, parent group for restorative justice, empowering women's campaign in the public schools system, and environmental justice.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "POWER U CENTER FOR SOCIAL CHANGE",
+	"website": "http:\/\/www.poweru.org",
+	"slug": "power-u-center-for-social-change",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/power-u-center-for-social-change",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/power-u-center-for-social-change\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "hbenford@poweru.org",
+		"id": 4909,
+		"name": "Hashim Benford",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 4909,
+			"department": null,
+			"extension": null,
+			"number": "305-576-7449",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4909,
+		"department": null,
+		"extension": null,
+		"number": "305-576-7449",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

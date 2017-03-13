@@ -1,0 +1,48 @@
+{
+	"id": 2692,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-7000-sw-59th-place",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-7000-sw-59th-place",
+	"address": {
+		"id": 1335,
+		"address_1": "7000 SW 59th Place",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33143"
+	},
+	"organization": {
+		"id": 2691,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Larkin Community Hospital (LCH) is a for-profit 146-bed general medical and surgical teaching hospital. In the last year with available data, LCH had about 7,523 emergency room visits and 5,792 admissions. Physicians at the hospital performed about 794 inpatient and 739 outpatient surgeries.\\n\\nLCH is the only hospital in Miami-Dade County with an Area of Critical Need designation by the Florida Board of Medicine. It is a physician-owned hospital and it is accredited by the Joint Commission on Accreditation of Healthcare Organizations (JCAHO). Larkin Community Hospital is a participating member of the American Hospital Associations of Hospital Quality Alliance.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LARKIN COMMUNITY HOSPITAL, INC.",
+		"website": "http:\/\/www.larkinhospital.com",
+		"slug": "larkin-community-hospital-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/larkin-community-hospital-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/larkin-community-hospital-inc\/locations"
+	},
+	"phones": [{
+		"id": 2692,
+		"department": null,
+		"extension": null,
+		"number": "800-871-5030",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

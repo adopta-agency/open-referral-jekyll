@@ -1,0 +1,61 @@
+{
+	"id": 3437,
+	"accreditations": [],
+	"alternate_name": "RTG",
+	"date_incorporated": null,
+	"description": "The after-school program focuses on the performing arts, offering classes in dance, drama and voice. These are provided through an educational format of teacher\/student classroom environments culminating in on-stage productions.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE ROXY THEATRE GROUP - AFTER SCHOOL PROGRAM",
+	"website": "http:\/\/www.RoxyPAC.com",
+	"slug": "the-roxy-theatre-group-after-school-program",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-roxy-theatre-group-after-school-program",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-roxy-theatre-group-after-school-program\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "RoxyParty@aol.com",
+		"id": 7705,
+		"name": "Noramari Onate",
+		"title": "President",
+		"phones": [{
+			"id": 7705,
+			"department": null,
+			"extension": null,
+			"number": "305-226-0030",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "RoxyParty@aol.com",
+		"id": 7706,
+		"name": "Noramari Onate",
+		"title": "President",
+		"phones": [{
+			"id": 7706,
+			"department": null,
+			"extension": null,
+			"number": "305-226-0030",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7705,
+		"department": null,
+		"extension": null,
+		"number": "305-226-0030",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7706,
+		"department": null,
+		"extension": null,
+		"number": "305-226-0030",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

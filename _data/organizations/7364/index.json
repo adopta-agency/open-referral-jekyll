@@ -1,0 +1,38 @@
+{
+	"id": 7364,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Stormont Kings Chess Program offers private chess lessons, group chess lessons, chess tournaments, family game nights, parents night out, chess and game camps, casual play, school and homeschool chess programs, etc.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE STORMONT KINGS CHESS PROGRAM, INC.",
+	"website": "http:\/\/www.stormontkingschess.com",
+	"slug": "the-stormont-kings-chess-program-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-stormont-kings-chess-program-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-stormont-kings-chess-program-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "chris@stormontkingschess.com",
+		"id": 7364,
+		"name": "Chris Stormont",
+		"title": "President and Founder",
+		"phones": [{
+			"id": 7364,
+			"department": null,
+			"extension": null,
+			"number": "786-303-2437",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7364,
+		"department": null,
+		"extension": null,
+		"number": "786-303-2437",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

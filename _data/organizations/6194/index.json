@@ -1,0 +1,38 @@
+{
+	"id": 6194,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Summer House provides in-patient substance abuse detox and treatment. Helps with alcohol detox, and detox from: Heroin, Methadone, Oxy-Contin, Suboxone, Benzodiazepine, Xanax, Valium, and Cocaine. Summer House is an in-patient substance abuse center. Our mission is to make the detoxification process comfortable by giving the person a strong liquid narcotic cocktail in reducing doses every four hours during your stay in a controlled environment until they are clean.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SUMMER HOUSE DETOX CENTER, LLC.",
+	"website": "http:\/\/www.summerhousedetoxcenter.com\/",
+	"slug": "summer-house-detox-center-llc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/summer-house-detox-center-llc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/summer-house-detox-center-llc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "detoxnow@aol.com",
+		"id": 6194,
+		"name": "Bert Boil",
+		"title": "Director",
+		"phones": [{
+			"id": 6194,
+			"department": null,
+			"extension": null,
+			"number": "305-892-8440",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6194,
+		"department": null,
+		"extension": null,
+		"number": "305-892-8440",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

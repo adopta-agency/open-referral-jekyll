@@ -1,0 +1,48 @@
+{
+	"id": 805,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-8200-nw-33rd-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-8200-nw-33rd-street",
+	"address": {
+		"id": 413,
+		"address_1": "8200 NW 33rd Street",
+		"address_2": "Suite 103",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33122"
+	},
+	"organization": {
+		"id": 789,
+		"accreditations": [],
+		"alternate_name": "CHN",
+		"date_incorporated": null,
+		"description": "Citrus Health Network, Inc. is a community mental health center dedicated to serving mentally ill individuals and their families. Citrus continues to provide services to adults and children across the spectrum of mental and behavioral health needs, and is one of the largest mental and behavioral health providers in South Florida. In 2004, Citrus also became a Federally Qualified Health Center, expanding its services to include care for primary health in addition to behavioral health. Citrus takes a total wellness approach with each client, treating the body and mind. This approach to health care addresses the whole person by integrating behavioral health services and primary care and coordinating care across a broad range of health services and community-based programs.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CITRUS HEALTH NETWORK, INC.",
+		"website": "http:\/\/www.citrushealth.org",
+		"slug": "citrus-health-network-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/citrus-health-network-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/citrus-health-network-inc\/locations"
+	},
+	"phones": [{
+		"id": 805,
+		"department": null,
+		"extension": null,
+		"number": "305-424-3043",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

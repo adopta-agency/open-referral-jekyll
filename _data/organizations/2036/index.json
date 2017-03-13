@@ -1,0 +1,24 @@
+{
+	"id": 2036,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Trauma Resolution Center provides intensive one-on-one resolution of trauma for children and adults of all crime types. The program also offers personal and system advocacy, expert witness, court evaluations, bereavement counseling, psychoeducational groups for domestic violence victims, empowerment groups for children and court support groups. Also treats individuals for trauma that is not crime-related. Provides holistic services on-site such as massage therapy for clients only.\\r\\n\\r\\nThe TRC also provides trainings to certify individuals that want to be certified in TIR, and evidence-based technique.\\r\\n\\r\\n**Please ensure that the message system finishes talking before dialing extension 100**",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "TRAUMA RESOLUTION CENTER, INC.",
+	"website": "http:\/\/www.traumaresolutioncenter.net",
+	"slug": "trauma-resolution-center-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/trauma-resolution-center-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/trauma-resolution-center-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "teresa@thetrcenter.org",
+		"id": 2036,
+		"name": "Teresa Descilo",
+		"title": "Executive Director",
+		"phones": []
+	}],
+	"phones": []
+}

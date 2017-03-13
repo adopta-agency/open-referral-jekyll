@@ -1,0 +1,38 @@
+{
+	"id": 8199,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Offers emergency food services for those in the community who are in need.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SAINT MATTHEWS FREE WILL BAPTIST CHURCH",
+	"website": null,
+	"slug": "saint-matthews-free-will-baptist-church",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/saint-matthews-free-will-baptist-church",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/saint-matthews-free-will-baptist-church\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 8199,
+		"name": "Dorothy Dickson",
+		"title": null,
+		"phones": [{
+			"id": 8199,
+			"department": null,
+			"extension": null,
+			"number": "305-751-4251",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8199,
+		"department": null,
+		"extension": null,
+		"number": "305-751-4251",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

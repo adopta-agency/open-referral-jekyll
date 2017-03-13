@@ -1,0 +1,268 @@
+{
+	"id": 5587,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides services in the following areas: Home Safety Survey, General Fire Safety Classes, Juvenile Fire setter Intervention Program, Fire Extinguisher Training, Community Emergency Response Team, Crowd Manager Training, Senior Citizen Fire and Fall Prevention, Emergency Exit Plans, Fire Safety tips and information. \\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CITY OF NAPLES FIRE-RESCUE DEPARTMENT",
+	"website": "http:\/\/www.naplesfire.com",
+	"slug": "city-of-naples-fire-rescue-department",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-naples-fire-rescue-department",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-naples-fire-rescue-department\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "fire@naplesgov.com",
+		"id": 5587,
+		"name": "Pete DiMaria",
+		"title": "Interim Fire Chief",
+		"phones": [{
+			"id": 5587,
+			"department": null,
+			"extension": null,
+			"number": "239-213-4900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "fire@naplesgov.com",
+		"id": 5588,
+		"name": "Pete DiMaria",
+		"title": "Interim Fire Chief",
+		"phones": [{
+			"id": 5588,
+			"department": null,
+			"extension": null,
+			"number": "239-213-4900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "fire@naplesgov.com",
+		"id": 5590,
+		"name": "Pete DiMaria",
+		"title": "Interim Fire Chief",
+		"phones": [{
+			"id": 5590,
+			"department": null,
+			"extension": null,
+			"number": "239-213-4900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "fire@naplesgov.com",
+		"id": 5595,
+		"name": "Pete DiMaria",
+		"title": "Fire Chief",
+		"phones": [{
+			"id": 5595,
+			"department": null,
+			"extension": null,
+			"number": "239-213-4900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 5596,
+		"name": "Kathy Brooke",
+		"title": "Fire Prevention Specialist",
+		"phones": [{
+			"id": 5596,
+			"department": null,
+			"extension": null,
+			"number": "239-213-4900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 5597,
+		"name": "Kathy Brooke",
+		"title": "Fire Prevention Specialist",
+		"phones": [{
+			"id": 5597,
+			"department": null,
+			"extension": null,
+			"number": "239-213-4900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 5598,
+		"name": "Kathy Brooke",
+		"title": "Fire Prevention Specialist",
+		"phones": [{
+			"id": 5598,
+			"department": null,
+			"extension": null,
+			"number": "239-213-4900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 5599,
+		"name": "Kathy Brooke",
+		"title": "Fire Prevention Specialist",
+		"phones": [{
+			"id": 5599,
+			"department": null,
+			"extension": null,
+			"number": "239-213-4900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "pdimaria@naplesgov.com",
+		"id": 5600,
+		"name": "Pete DiMaria",
+		"title": "Interim Fire Chief",
+		"phones": [{
+			"id": 5600,
+			"department": null,
+			"extension": null,
+			"number": "239-213-4900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "WGonsalves@naplesgov.com",
+		"id": 7121,
+		"name": "Bill Gonsalves",
+		"title": "Crime Prevention Officer",
+		"phones": [{
+			"id": 7121,
+			"department": null,
+			"extension": null,
+			"number": "239-213-4900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "fire@naplesgov.com",
+		"id": 7122,
+		"name": "Stephen McInerny",
+		"title": "Fire Chief",
+		"phones": [{
+			"id": 7122,
+			"department": null,
+			"extension": null,
+			"number": "239-213-4900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5587,
+		"department": null,
+		"extension": null,
+		"number": "239-213-4900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5588,
+		"department": null,
+		"extension": null,
+		"number": "239-213-4900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5590,
+		"department": null,
+		"extension": null,
+		"number": "239-213-4900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5595,
+		"department": null,
+		"extension": null,
+		"number": "239-213-4900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5596,
+		"department": null,
+		"extension": null,
+		"number": "239-213-4900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5597,
+		"department": null,
+		"extension": null,
+		"number": "239-213-4900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5598,
+		"department": null,
+		"extension": null,
+		"number": "239-213-4900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5599,
+		"department": null,
+		"extension": null,
+		"number": "239-213-4900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5600,
+		"department": null,
+		"extension": null,
+		"number": "239-213-4900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7121,
+		"department": null,
+		"extension": null,
+		"number": "239-213-4900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7122,
+		"department": null,
+		"extension": null,
+		"number": "239-213-4900",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

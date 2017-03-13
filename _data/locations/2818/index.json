@@ -1,0 +1,48 @@
+{
+	"id": 2818,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami Beach, FL",
+	"short_desc": null,
+	"slug": "miami-beach-fl-eecb977d-17b9-4ba1-907a-65bed0b87b25",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-beach-fl-eecb977d-17b9-4ba1-907a-65bed0b87b25",
+	"address": {
+		"id": 1382,
+		"address_1": "1700 Convention Center Drive",
+		"address_2": null,
+		"city": "Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33139"
+	},
+	"organization": {
+		"id": 2818,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The city of Miami Beach, in Miami-Dade County.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CITY OF MIAMI BEACH",
+		"website": "http:\/\/www.miamibeachfl.gov",
+		"slug": "city-of-miami-beach",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-miami-beach",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-miami-beach\/locations"
+	},
+	"phones": [{
+		"id": 2818,
+		"department": null,
+		"extension": null,
+		"number": "305-673-7000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

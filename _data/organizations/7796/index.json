@@ -1,0 +1,38 @@
+{
+	"id": 7796,
+	"accreditations": [],
+	"alternate_name": "INTEGRATIVE COUNSELING AND CONSULTING SERVICES, LLC",
+	"date_incorporated": null,
+	"description": "Licensed Psychotherapist Eva Abad, provides counseling services for children, teens, adults, and the elderly. In-home therapy can be arranged for individuals with physical disabilities or the elderly.\\n\\n* Depression and Anxiety disorders\\n* Trauma history\/PTSD symptoms\\n* Grief and Elderly issues\\n* Women and Children issues",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "EVA ABAD, LMHC",
+	"website": "http:\/\/www.evaabad.com",
+	"slug": "eva-abad-lmhc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/eva-abad-lmhc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/eva-abad-lmhc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "contact@evaabad.com",
+		"id": 7796,
+		"name": "Eva Abad",
+		"title": "Psychotherapist",
+		"phones": [{
+			"id": 7796,
+			"department": null,
+			"extension": null,
+			"number": "786-763-2223",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7796,
+		"department": null,
+		"extension": null,
+		"number": "786-763-2223",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

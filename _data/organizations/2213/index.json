@@ -1,0 +1,130 @@
+{
+	"id": 2213,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Wesley House Family Services provides full case management services for Monroe county. A dedicated case manager is assigned to each family. The case manager's job is to check on the child frequently and report to the court on his or her safety and well-being. The case manager also works closely with the child's parents to develop a personalized plan that identifies, addresses, corrects and prevents repetition of any circumstances which put the child at risk of harm. Also provides information and assistance regarding adoptions or foster parenting. The intent is to strengthen an preserve the family with the primary goal of protecting the child.\\n\\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "WESLEY HOUSE FAMILY SERVICES, INC.",
+	"website": "http:\/\/www.wesleyhouse.org",
+	"slug": "wesley-house-family-services-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/wesley-house-family-services-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/wesley-house-family-services-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@wesleyhouse.org",
+		"id": 2213,
+		"name": "Beth Barrett",
+		"title": "CEO",
+		"phones": [{
+			"id": 2213,
+			"department": null,
+			"extension": null,
+			"number": "305-809-5000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@wesleyhouse.org",
+		"id": 6438,
+		"name": "Mary Falconer",
+		"title": "Assistant to the CEO",
+		"phones": [{
+			"id": 6438,
+			"department": null,
+			"extension": null,
+			"number": "305-809-5000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@wesleyhouse.org",
+		"id": 7285,
+		"name": "Mary Falconer",
+		"title": "Assistant to the CEO",
+		"phones": [{
+			"id": 7285,
+			"department": null,
+			"extension": "224.0",
+			"number": "305-809-5000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@wesleyhouse.org",
+		"id": 7286,
+		"name": "Mary Falconer",
+		"title": "Assistant to the CEO",
+		"phones": [{
+			"id": 7286,
+			"department": null,
+			"extension": "224.0",
+			"number": "305-809-5000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cdc@wesleyhouse.org",
+		"id": 7287,
+		"name": "Christine Patterson",
+		"title": "Director",
+		"phones": [{
+			"id": 7287,
+			"department": null,
+			"extension": null,
+			"number": "305-809-5000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2213,
+		"department": null,
+		"extension": null,
+		"number": "305-809-5000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6438,
+		"department": null,
+		"extension": null,
+		"number": "305-809-5000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7285,
+		"department": null,
+		"extension": "224.0",
+		"number": "305-809-5000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7286,
+		"department": null,
+		"extension": "224.0",
+		"number": "305-809-5000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7287,
+		"department": null,
+		"extension": null,
+		"number": "305-809-5000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

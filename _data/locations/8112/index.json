@@ -1,0 +1,48 @@
+{
+	"id": 8112,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.252416,
+	25.732174],
+	"description": "See listed services",
+	"latitude": 25.732174,
+	"longitude": -80.252416,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-3153-mundy-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-3153-mundy-street",
+	"address": {
+		"id": 4018,
+		"address_1": "3153 Mundy Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33133"
+	},
+	"organization": {
+		"id": 622,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Casa Valentina is a program that provides safe and affordable housing, support services, life-skills training and crisis intervention to young adults ages 18 - 23 years old who have aged out of the foster care system (including young mothers with one child).",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CASA VALENTINA, INC.",
+		"website": "http:\/\/casavalentina.org",
+		"slug": "casa-valentina-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/casa-valentina-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/casa-valentina-inc\/locations"
+	},
+	"phones": [{
+		"id": 8112,
+		"department": null,
+		"extension": null,
+		"number": "305-444-0740",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

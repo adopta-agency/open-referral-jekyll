@@ -1,0 +1,48 @@
+{
+	"id": 1003,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.8134429,
+	26.3300568],
+	"description": "See listed services",
+	"latitude": 26.3300568,
+	"longitude": -81.8134429,
+	"name": "Bonita Springs, FL",
+	"short_desc": null,
+	"slug": "bonita-springs-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/bonita-springs-fl",
+	"address": {
+		"id": 525,
+		"address_1": "3655 Bonita Beach Road",
+		"address_2": "Suite 3",
+		"city": "Bonita Springs",
+		"state_province": "FL",
+		"postal_code": "34134"
+	},
+	"organization": {
+		"id": 1002,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Make-A-Wish grants the wish of a child diagnosed with a life-threatening medical condition in the United States and its territories.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MAKE A WISH FOUNDATION, INC.",
+		"website": "http:\/\/www.wish.org",
+		"slug": "make-a-wish-foundation-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/make-a-wish-foundation-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/make-a-wish-foundation-inc\/locations"
+	},
+	"phones": [{
+		"id": 1003,
+		"department": null,
+		"extension": null,
+		"number": "239-922-9474",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

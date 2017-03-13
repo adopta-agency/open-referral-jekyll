@@ -1,0 +1,48 @@
+{
+	"id": 7417,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2704367,
+	25.9343797],
+	"description": "See listed services",
+	"latitude": 25.9343797,
+	"longitude": -80.2704367,
+	"name": "Opa Locka, FL",
+	"short_desc": null,
+	"slug": "opa-locka-fl-4230-nw-178-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/opa-locka-fl-4230-nw-178-street",
+	"address": {
+		"id": 3397,
+		"address_1": "4230 NW 178 Street",
+		"address_2": null,
+		"city": "Opa Locka",
+		"state_province": "FL",
+		"postal_code": "33055"
+	},
+	"organization": {
+		"id": 6055,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Through the department, the City of Miami Gardens offers a wide variety of activities. From after-school and camp programs, senior clubs, fitness and sports development, there's always something to do. The department is committed to creating community through people, parks, and programs.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CITY OF MIAMI GARDENS - PARKS AND RECREATION",
+		"website": "http:\/\/www.miamigardens-fl.gov\/parks&rec",
+		"slug": "city-of-miami-gardens-parks-and-recreation",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-miami-gardens-parks-and-recreation",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-miami-gardens-parks-and-recreation\/locations"
+	},
+	"phones": [{
+		"id": 7417,
+		"department": null,
+		"extension": null,
+		"number": "305-430-2220",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,176 @@
+{
+	"id": 7996,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "We are Multicultural Care Centers LLC, a behavioral health organization that is committed to excellence. Operating out of Miami-Dade and Broward Counties, We are a quality driven organization focused on delivering services to support and strengthen our culturally diverse community. Leading the industry through an individualized service approach and fostering an environment in which the individuals and families we serve will thrive, resulting in recovery, self-sufficiency and independence.\\n\\nMulticultural Care Centers provides assistance with Substance Abuse (alcohol and other substances) and Mental Health for Adults, adolescents and children. Our mission is to help individuals recover from the effects of mental illness and drug dependency; to reclaim their emotional, psychological and physical health; to reintegrate with their families; and to become productive members of society.\\n\\nWe offer the following services:\\n* Individual Therapy \\n* Family Therapy \\n* Therapeutic Behavioral On Site Services (TBOS) \\n* Group Therapy \\n* Psychiatric Services \\n* Targeted Case Management \\n* Psychosocial Rehabilitation Services (PSR) \\n* Linkage to 12- Step Programs \\n* Routine Outpatient Care (ROC) \\n* Substance Abuse Intensive Outpatient Program (IOP) \\n* Dual Diagnosis\\n\\nThe Mental Health Targeted Case Management (MHTCM) Program supports individuals with severe and persistent mental illness in need of assistance to become independent and self sufficient, and to reduce the incidence of re-hospitalization and acute distress. MCC provides the below range of services for recipients that meet criteria for Targeted Case Management services.\\n\\nWe provide our services out in the community (Home). Which is designed to meet the needs of the individual. Our professional and dedicated staff provides comprehensive case management and substance abuse services in several languages including Spanish, English, and Creole with a culturally sensitive customer focus.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MULTICULTURAL CARE CENTERS, LLC.",
+	"website": "http:\/\/www.multiculturalcc.com",
+	"slug": "multicultural-care-centers-llc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/multicultural-care-centers-llc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/multicultural-care-centers-llc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "beatriz@multiculturalcc.com",
+		"id": 7996,
+		"name": "Beatriz Hadley",
+		"title": "CEO",
+		"phones": [{
+			"id": 7996,
+			"department": null,
+			"extension": null,
+			"number": "305-454-9214",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ldipasqua@multiculturalcc.com",
+		"id": 7997,
+		"name": "Liza Dipasqua",
+		"title": "Director of Clinical Services & Administration",
+		"phones": [{
+			"id": 7997,
+			"department": null,
+			"extension": null,
+			"number": "304-454-9214",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ldipasqua@multiculturalcc.com",
+		"id": 7999,
+		"name": "Liza Dipasqua",
+		"title": "Director of Clinical Services & Administration",
+		"phones": [{
+			"id": 7999,
+			"department": null,
+			"extension": null,
+			"number": "305-454-9214",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ldipasqua@multiculturalcc.com",
+		"id": 8000,
+		"name": "Liza Dipasqua",
+		"title": "Director of Clinical Services & Administration",
+		"phones": [{
+			"id": 8000,
+			"department": null,
+			"extension": null,
+			"number": "305-454-9214",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ldipasqua@multiculturalcc.com",
+		"id": 8001,
+		"name": "Liza Dipasqua",
+		"title": "Director of Clinical Services & Administration",
+		"phones": [{
+			"id": 8001,
+			"department": null,
+			"extension": null,
+			"number": "305-454-9214",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ldipasqua@multiculturalcc.com",
+		"id": 8002,
+		"name": "Liza Dipasqua",
+		"title": "Director of Clinical Services & Administration",
+		"phones": [{
+			"id": 8002,
+			"department": null,
+			"extension": null,
+			"number": "305-454-9214",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ldipasqua@multiculturalcc.com",
+		"id": 8003,
+		"name": "Liza Dipasqua",
+		"title": "Director of Clinical Services & Administration",
+		"phones": [{
+			"id": 8003,
+			"department": null,
+			"extension": null,
+			"number": "305-454-9214",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7996,
+		"department": null,
+		"extension": null,
+		"number": "305-454-9214",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7997,
+		"department": null,
+		"extension": null,
+		"number": "304-454-9214",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7999,
+		"department": null,
+		"extension": null,
+		"number": "305-454-9214",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8000,
+		"department": null,
+		"extension": null,
+		"number": "305-454-9214",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8001,
+		"department": null,
+		"extension": null,
+		"number": "305-454-9214",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8002,
+		"department": null,
+		"extension": null,
+		"number": "305-454-9214",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8003,
+		"department": null,
+		"extension": null,
+		"number": "305-454-9214",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

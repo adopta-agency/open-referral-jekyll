@@ -1,0 +1,48 @@
+{
+	"id": 7787,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.4389322,
+	25.7040398],
+	"description": "See listed services",
+	"latitude": 25.7040398,
+	"longitude": -80.4389322,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-4d55d2b6-4435-4b6c-ac23-8ac66917aa44",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-4d55d2b6-4435-4b6c-ac23-8ac66917aa44",
+	"address": {
+		"id": 3721,
+		"address_1": "6805 SW 152nd Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33193"
+	},
+	"organization": {
+		"id": 722,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides congregate meals, outreach, shopping assistance, recreation, education, arts and crafts, information and referral, food vouchers, and home delivered meals.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SOUTHWEST SOCIAL SERVICES - BADIA SENIOR CENTER",
+		"website": null,
+		"slug": "southwest-social-services-badia-senior-center",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/southwest-social-services-badia-senior-center",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/southwest-social-services-badia-senior-center\/locations"
+	},
+	"phones": [{
+		"id": 7787,
+		"department": null,
+		"extension": null,
+		"number": "305-261-6202",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

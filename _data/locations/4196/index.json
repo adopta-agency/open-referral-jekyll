@@ -1,0 +1,48 @@
+{
+	"id": 4196,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -80,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-16090-sw-293rd-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/homestead-fl-16090-sw-293rd-drive",
+	"address": {
+		"id": 1926,
+		"address_1": "16090 SW 293rd Drive",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33033"
+	},
+	"organization": {
+		"id": 4196,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "En Familia provides effective parenting skills training, nurturing parenting programs for the court system, educational support programs for parents and children at school, art education, family education curriculum development, marriage preparation and enrichment, domestic violence and child abuse prevention, healing sessions for families and promoting responsible fatherhood programs.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "EN FAMILIA, INC.",
+		"website": "http:\/\/www.enfamiliainc.org",
+		"slug": "en-familia-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/en-familia-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/en-familia-inc\/locations"
+	},
+	"phones": [{
+		"id": 4196,
+		"department": null,
+		"extension": null,
+		"number": "305-245-7288",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

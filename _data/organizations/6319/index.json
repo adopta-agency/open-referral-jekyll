@@ -1,0 +1,38 @@
+{
+	"id": 6319,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Metaphysical Chapel is a church open to people from all religions and backgrounds, as well as the LGBT community. Healing services are offered before church on Sundays. Monthly Psychic Fair is held on the last Saturday, except December. The church hosts many psychics, mediums, healers, shamans and international speakers on numerous spiritual, scientific and metaphysical topics.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "METAPHYSICAL CHAPEL OF SOUTH FLORIDA, INC.",
+	"website": "http:\/\/metaphysicalchapel.com\/",
+	"slug": "metaphysical-chapel-of-south-florida-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/metaphysical-chapel-of-south-florida-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/metaphysical-chapel-of-south-florida-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@MetaphysicalChapel.com",
+		"id": 6319,
+		"name": "Reverand Kevin Lee",
+		"title": "Senior Minister",
+		"phones": [{
+			"id": 6319,
+			"department": null,
+			"extension": null,
+			"number": "754-300-1428",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6319,
+		"department": null,
+		"extension": null,
+		"number": "754-300-1428",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

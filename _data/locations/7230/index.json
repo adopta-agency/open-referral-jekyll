@@ -1,0 +1,48 @@
+{
+	"id": 7230,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -82,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-ba0fcc6c-29f6-4d55-9c17-b9b1e354ea1e",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-ba0fcc6c-29f6-4d55-9c17-b9b1e354ea1e",
+	"address": {
+		"id": 3252,
+		"address_1": "4898 Coronado Parkway",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34116"
+	},
+	"organization": {
+		"id": 7230,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Golden Gate Senior Center provides educational seminars, support groups, arts and crafts, music, computer classes, exercise, yoga, English Classes, computer classes, gatherings, recreational and developmental opportunities for seniors and caregivers. Includes programs, socialization, information, seminars and convenient access to agency personnel such as Catholic Charities services, AARP Foundation (job training and job placement), Meals of Hope food pantry, Lion's Club vision screening, Collier County daily lunch program, SheriffG\u00c7\u00d6s Office and Veteran services. Also provides meeting rooms for agencies and providers to meet with seniors and caregivers.\\r\\n\\r\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GOLDEN GATE SENIOR CENTER",
+		"website": "http:\/\/www.collierseniorresources.org",
+		"slug": "golden-gate-senior-center",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/golden-gate-senior-center",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/golden-gate-senior-center\/locations"
+	},
+	"phones": [{
+		"id": 7230,
+		"department": null,
+		"extension": null,
+		"number": "239-252-4541",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

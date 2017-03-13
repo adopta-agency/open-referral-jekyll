@@ -1,0 +1,48 @@
+{
+	"id": 1452,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1949062,
+	25.8035217],
+	"description": "See listed services",
+	"latitude": 25.8035217,
+	"longitude": -80.1949062,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2801-north-miami-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-2801-north-miami-avenue",
+	"address": {
+		"id": 758,
+		"address_1": "2801 North Miami Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33127"
+	},
+	"organization": {
+		"id": 1452,
+		"accreditations": [],
+		"alternate_name": "ADE",
+		"date_incorporated": null,
+		"description": "The Association for the Development of the Exceptional (ADE), a private, non-profit agency has served Miami-Dade County's developmentally disabled population for more than 25 years.\\n\\nFrom our inception, our goal has been to provide a safe, caring and stimulating environment for exceptional adults. Offers adult day training, culinary art training, and supported employment.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ASSOCIATION FOR THE DEVELOPMENT OF THE EXCEPTIONAL",
+		"website": "http:\/\/www.ademiami.org",
+		"slug": "association-for-the-development-of-the-exceptional",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/association-for-the-development-of-the-exceptional",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/association-for-the-development-of-the-exceptional\/locations"
+	},
+	"phones": [{
+		"id": 1452,
+		"department": null,
+		"extension": null,
+		"number": "305-573-3737",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

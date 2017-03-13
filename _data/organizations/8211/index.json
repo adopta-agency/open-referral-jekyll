@@ -1,0 +1,130 @@
+{
+	"id": 8211,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Complaint department assists with those who may want to open a complaint against any educational institution in the state of Florida.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA DEPARTMENT OF EDUCATION - FILE A COMPLAINT",
+	"website": "http:\/\/www.fldoe.org\/policy\/cie\/file-a-complaint.stml",
+	"slug": "florida-department-of-education-file-a-complaint",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-education-file-a-complaint",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-education-file-a-complaint\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Melissa.Ramsey@fldoe.org",
+		"id": 8212,
+		"name": "Melissa Ramsey",
+		"title": "Executive Director for School Improvement",
+		"phones": [{
+			"id": 8212,
+			"department": null,
+			"extension": null,
+			"number": "850-245-0509",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 8213,
+		"name": "Adam Miller",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 8213,
+			"department": null,
+			"extension": null,
+			"number": "800-447-1636",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ChancellorFCS@fldoe.org",
+		"id": 8214,
+		"name": "Madeline Pumariega",
+		"title": "Chancellor",
+		"phones": [{
+			"id": 8214,
+			"department": null,
+			"extension": null,
+			"number": "850-245-0407",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ChancellorFCS@fldoe.org",
+		"id": 8215,
+		"name": "Madeline Pumariega",
+		"title": "Chancellor",
+		"phones": [{
+			"id": 8215,
+			"department": null,
+			"extension": null,
+			"number": "850-245-0407",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "CareerandAdultEd@fldoe.org",
+		"id": 8216,
+		"name": "Rod Duckworth",
+		"title": "Chancellor",
+		"phones": [{
+			"id": 8216,
+			"department": null,
+			"extension": null,
+			"number": "850-245-0446",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8212,
+		"department": null,
+		"extension": null,
+		"number": "850-245-0509",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8213,
+		"department": null,
+		"extension": null,
+		"number": "800-447-1636",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8214,
+		"department": null,
+		"extension": null,
+		"number": "850-245-0407",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8215,
+		"department": null,
+		"extension": null,
+		"number": "850-245-0407",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8216,
+		"department": null,
+		"extension": null,
+		"number": "850-245-0446",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

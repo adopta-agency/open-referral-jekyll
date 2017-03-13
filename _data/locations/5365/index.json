@@ -1,0 +1,48 @@
+{
+	"id": 5365,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7157366,
+	26.1374257],
+	"description": "See listed services",
+	"latitude": 26.1374257,
+	"longitude": -81.7157366,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-7500-davis-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-7500-davis-boulevard",
+	"address": {
+		"id": 2292,
+		"address_1": "7500 Davis Boulevard",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34104"
+	},
+	"organization": {
+		"id": 5365,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Boys and Girls Club serves 3,000 children and teens, ages 6 to 18, in various clubs and afterschool programs. Club programs such as Character & Leadership, Education & Career Development, Health & Life Skills, The Arts, Sports & Fitness, Technology, and Specialized Initiatives services promote and enhance the development of boys and girls by instilling a sense of competence, usefulness, belonging and influence. \\r\\n\\r\\nThe mission is to enable all young people, especially those who need us most, to reach their full potential as productive, caring, responsible citizens\\r\\n\\r\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BOYS AND GIRLS CLUB OF COLLIER COUNTY, INC.",
+		"website": "http:\/\/www.bgccc.com\/",
+		"slug": "boys-and-girls-club-of-collier-county-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/boys-and-girls-club-of-collier-county-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/boys-and-girls-club-of-collier-county-inc\/locations"
+	},
+	"phones": [{
+		"id": 5365,
+		"department": null,
+		"extension": null,
+		"number": "239-325-1700",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

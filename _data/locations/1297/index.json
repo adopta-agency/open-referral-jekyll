@@ -1,0 +1,48 @@
+{
+	"id": 1297,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2b36ec27-1eac-4190-a394-d33c21c7d26d",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-2b36ec27-1eac-4190-a394-d33c21c7d26d",
+	"address": {
+		"id": 666,
+		"address_1": "405 University Drive",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33134"
+	},
+	"organization": {
+		"id": 1296,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Parks and Recreation Division focuses on positively impacting Coral Gables residents and guests by providing recreational opportunities and services that promote their growth, socialization, positive interactions and family involvement. This is intended through programming, exceptional parks, and facilities that meet community desires while providing excellent care and customer service.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CITY OF CORAL GABLES PARKS AND RECREATION DIVISION",
+		"website": "http:\/\/www.coralgables.com\/index.aspx?page=71",
+		"slug": "city-of-coral-gables-parks-and-recreation-division",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-coral-gables-parks-and-recreation-division",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-coral-gables-parks-and-recreation-division\/locations"
+	},
+	"phones": [{
+		"id": 1297,
+		"department": null,
+		"extension": null,
+		"number": "305-460-5600",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

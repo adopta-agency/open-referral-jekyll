@@ -1,0 +1,61 @@
+{
+	"id": 3574,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides case management, child care, home visits, resource mothers, transportation, early development, exceptional\/learning disabled child education, parenting classes, nutrition and safety education, health care and immunizations. There is a program for four year olds, but applicant must meet federal guidelines.\\r\\n\\r\\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HORACE O'BRYANT SCHOOL",
+	"website": "http:\/\/keysschools.schoolfusion.us\/",
+	"slug": "horace-o-bryant-school",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/horace-o-bryant-school",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/horace-o-bryant-school\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Elizabeth.Alvarez@KeysSchools.com",
+		"id": 3574,
+		"name": "Elizabeth Alvarez",
+		"title": "Site Coordinator",
+		"phones": [{
+			"id": 3574,
+			"department": null,
+			"extension": "65392.0",
+			"number": "305-296-5628",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Elizabeth.Alvarez@KeysSchools.com",
+		"id": 3575,
+		"name": "Elizabeth Alvarez",
+		"title": "Site Coordinator",
+		"phones": [{
+			"id": 3575,
+			"department": null,
+			"extension": "65392.0",
+			"number": "305-296-5628",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3574,
+		"department": null,
+		"extension": "65392.0",
+		"number": "305-296-5628",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3575,
+		"department": null,
+		"extension": "65392.0",
+		"number": "305-296-5628",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

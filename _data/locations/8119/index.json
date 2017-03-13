@@ -1,0 +1,41 @@
+{
+	"id": 8119,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.22705,
+	25.7718996],
+	"description": "See listed services",
+	"latitude": 25.7718996,
+	"longitude": -80.22705,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-8a89c5ee-2050-46fe-a644-3e0205328403",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-8a89c5ee-2050-46fe-a644-3e0205328403",
+	"address": {
+		"id": 4025,
+		"address_1": "1901 SW 1st Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33135"
+	},
+	"organization": {
+		"id": 7811,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Care Resource provides specialized assistance and support for clients interested in Pre-Exposure Prophylaxis (PrEP). We may also assist with non-occupational post-exposure prophylaxis (nPEP).",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CARE RESOURCE - PrEP AND nPEP SERVICES",
+		"website": "http:\/\/www.careresource.org\/what-is-prep\/",
+		"slug": "care-resource-prep-and-npep-services",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/care-resource-prep-and-npep-services",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/care-resource-prep-and-npep-services\/locations"
+	},
+	"phones": []
+}

@@ -1,0 +1,38 @@
+{
+	"id": 5000,
+	"accreditations": [],
+	"alternate_name": "M-DC PUBLIC DEFENDER",
+	"date_incorporated": null,
+	"description": "The Public Defender is an elected official who has a constitutional duty to provide legal representation to persons in jeopardy of losing their liberty who cannot afford to hire a private attorney.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI-DADE COUNTY PUBLIC DEFENDER",
+	"website": "http:\/\/www.pdmiami.com",
+	"slug": "miami-dade-county-public-defender",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-public-defender",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-public-defender\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@pdmiami.com",
+		"id": 5000,
+		"name": "Carlos Martinez",
+		"title": "Public Defender",
+		"phones": [{
+			"id": 5000,
+			"department": null,
+			"extension": null,
+			"number": "305-545-1600",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5000,
+		"department": null,
+		"extension": null,
+		"number": "305-545-1600",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

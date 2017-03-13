@@ -1,0 +1,48 @@
+{
+	"id": 8108,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.4168491,
+	26.4199518],
+	"description": "See listed services",
+	"latitude": 26.4199518,
+	"longitude": -81.4168491,
+	"name": "Immokalee, FL",
+	"short_desc": null,
+	"slug": "immokalee-fl-160-north-1st-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/immokalee-fl-160-north-1st-street",
+	"address": {
+		"id": 4014,
+		"address_1": "160 North 1st Street",
+		"address_2": null,
+		"city": "Immokalee",
+		"state_province": "FL",
+		"postal_code": "34142"
+	},
+	"organization": {
+		"id": 6478,
+		"accreditations": [],
+		"alternate_name": "PACE",
+		"date_incorporated": null,
+		"description": "PACE Center for Girls, Inc., is a Florida-based, not-for-profit, 501(c) 3 and the only state-wide prevention program for adolescent at-risk girls in the nation and is recognized as the most effective model in the country for reducing rates of detention and incarceration, teen pregnancy, substance abuse, dropping out of school, unemployment and long-term economic dependency amongst girls.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "PACE CENTER FOR GIRLS, INC.",
+		"website": "http:\/\/www.pacecenter.org",
+		"slug": "pace-center-for-girls-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/pace-center-for-girls-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/pace-center-for-girls-inc\/locations"
+	},
+	"phones": [{
+		"id": 8108,
+		"department": null,
+		"extension": null,
+		"number": "239-842-5406",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,84 @@
+{
+	"id": 1751,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Compassion in Action offers support groups and recovery programs for addictions (alcohol, drug, compulsive gambling) and for their family (co-dependents). As well as individual addiction counseling, family counseling, relapse prevention, 12-step program, life skill classes, referrals, and education on addiction. All services are provided in Spanish.\\n\\nPrograms offered include: Refugio de Amor (substance abuse program), Esperanza (gambling addiction program), M.A.S (reentry and recovery classes).",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "COMPASSION IN ACTION MINISTRIES, INC.",
+	"website": "http:\/\/www.ciaministries.com",
+	"slug": "compassion-in-action-ministries-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/compassion-in-action-ministries-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/compassion-in-action-ministries-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@ciaministries.com",
+		"id": 1751,
+		"name": "Maria Elena Anderson",
+		"title": "Director",
+		"phones": [{
+			"id": 1751,
+			"department": null,
+			"extension": null,
+			"number": "786-942-9836",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@ciaministries.com",
+		"id": 1752,
+		"name": "Maria Elena Anderson",
+		"title": "Director",
+		"phones": [{
+			"id": 1752,
+			"department": null,
+			"extension": null,
+			"number": "786-942-9836",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@ciaministries.com",
+		"id": 1753,
+		"name": "Maria Elena Anderson",
+		"title": "Director",
+		"phones": [{
+			"id": 1753,
+			"department": null,
+			"extension": null,
+			"number": "786-942-9836",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1751,
+		"department": null,
+		"extension": null,
+		"number": "786-942-9836",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1752,
+		"department": null,
+		"extension": null,
+		"number": "786-942-9836",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1753,
+		"department": null,
+		"extension": null,
+		"number": "786-942-9836",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

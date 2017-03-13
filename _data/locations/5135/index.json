@@ -1,0 +1,48 @@
+{
+	"id": 5135,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -82,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-4451-mercantile-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-4451-mercantile-avenue",
+	"address": {
+		"id": 2174,
+		"address_1": "4451 Mercantile Avenue",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34104"
+	},
+	"organization": {
+		"id": 5135,
+		"accreditations": [],
+		"alternate_name": "ST. VINCENT DE PAUL NAPLES DISTRICT COUNCIL, INC.",
+		"date_incorporated": null,
+		"description": "The Society of St. Vincent de Paul of Naples is a Catholic lay organization whose members join together to grow spiritually by providing person-to-person service to the needy and suffering through various social service programs.\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SAINT VINCENT DE PAUL NAPLES DISTRICT COUNCIL",
+		"website": "http:\/\/www.svdpnaples.org",
+		"slug": "saint-vincent-de-paul-naples-district-council",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/saint-vincent-de-paul-naples-district-council",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/saint-vincent-de-paul-naples-district-council\/locations"
+	},
+	"phones": [{
+		"id": 5135,
+		"department": null,
+		"extension": null,
+		"number": "239-775-1667",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

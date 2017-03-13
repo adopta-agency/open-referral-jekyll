@@ -1,0 +1,107 @@
+{
+	"id": 5504,
+	"accreditations": [],
+	"alternate_name": "NPD",
+	"date_incorporated": null,
+	"description": "The Naples Police Department is the emergency communications and law enforcement arm of public safety for Naples city government. The department is organized around four primary functional commands: Administration; Criminal Investigation; Police Operations; Support Services.\\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NAPLES POLICE DEPARTMENT",
+	"website": "http:\/\/www.naplespolice.com",
+	"slug": "naples-police-department",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/naples-police-department",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/naples-police-department\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "tweschler@naplesgov.com",
+		"id": 5504,
+		"name": "Thomas Weschler",
+		"title": "Chief of Police",
+		"phones": [{
+			"id": 5504,
+			"department": null,
+			"extension": null,
+			"number": "239-213-4844",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tweschler@naplesgov.com",
+		"id": 5507,
+		"name": "Thomas Weschler",
+		"title": "Police Chief",
+		"phones": [{
+			"id": 5507,
+			"department": null,
+			"extension": null,
+			"number": "239-213-4844",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tweschler@naplesgov.com",
+		"id": 5508,
+		"name": "Thomas Weschler",
+		"title": "Police Chief",
+		"phones": [{
+			"id": 5508,
+			"department": null,
+			"extension": null,
+			"number": "239-213-4844",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "naplelspolice@naplesgov.com",
+		"id": 5510,
+		"name": "Thomas Weschler",
+		"title": "Police Chief",
+		"phones": [{
+			"id": 5510,
+			"department": null,
+			"extension": null,
+			"number": "239-213-4844",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5504,
+		"department": null,
+		"extension": null,
+		"number": "239-213-4844",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5507,
+		"department": null,
+		"extension": null,
+		"number": "239-213-4844",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5508,
+		"department": null,
+		"extension": null,
+		"number": "239-213-4844",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5510,
+		"department": null,
+		"extension": null,
+		"number": "239-213-4844",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

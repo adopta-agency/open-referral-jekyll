@@ -1,0 +1,48 @@
+{
+	"id": 7373,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7586147,
+	26.2202372],
+	"description": "See listed services",
+	"latitude": 26.2202372,
+	"longitude": -81.7586147,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-f72a74e5-9fe8-48b7-b67d-136c161f8923",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-f72a74e5-9fe8-48b7-b67d-136c161f8923",
+	"address": {
+		"id": 3362,
+		"address_1": "5775 Osceola Trail",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34109"
+	},
+	"organization": {
+		"id": 6016,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The School District of Collier County has 48 schools and serves a total student population of 45,016. There are 29 elementary schools, 10 middle schools, 8 high schools, and a PreK-thru-12 school (Everglades City School). There are also 12 Alternative School Programs.\\r\\n\\r\\nThe districtG\u00c7\u00d6s two career\/technical centers (Lorenzo Walker Institute of Technology and Immokalee Technical Center) and adult education programs (located at several sites throughout the district) offer students both short- and long-term programs.\\r\\n\\r\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COLLIER COUNTY PUBLIC SCHOOLS",
+		"website": "http:\/\/www.collierschools.com\/",
+		"slug": "collier-county-public-schools",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-county-public-schools",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-county-public-schools\/locations"
+	},
+	"phones": [{
+		"id": 7373,
+		"department": null,
+		"extension": null,
+		"number": "239-377-0092",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

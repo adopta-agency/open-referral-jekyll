@@ -1,0 +1,38 @@
+{
+	"id": 7911,
+	"accreditations": [],
+	"alternate_name": "Dr. Perez Verdecia",
+	"date_incorporated": null,
+	"description": "Provides services for the diagnosis and treatment of Autism. We render behavior analysis and behavior assistant services. We are contracted exclusively with Medicaid. \\n\\nProvides Applied Behavior Analysis services to children diagnosed with Autism Spectrum Disorder. Treatment plans and approaches are developed according to the child's needs and available resources but most of the time we use functional-based interventions combined with a well designed skills acquisition program. Services are rendered primarily at home and\/or doctor's office.\\n\\nHealth of Mind specializes in developmental psychology and treatment for children with Autism.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HEALTH OF MIND, INC.",
+	"website": null,
+	"slug": "health-of-mind-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/health-of-mind-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/health-of-mind-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "perezverdecia@gmail.com",
+		"id": 7911,
+		"name": "Frank Perez Verdecia",
+		"title": "Licensed Psychologist, Behavior Analyst",
+		"phones": [{
+			"id": 7911,
+			"department": null,
+			"extension": null,
+			"number": "305-917-5414",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7911,
+		"department": null,
+		"extension": null,
+		"number": "305-917-5414",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

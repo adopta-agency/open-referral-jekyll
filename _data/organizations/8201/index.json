@@ -1,0 +1,38 @@
+{
+	"id": 8201,
+	"accreditations": [],
+	"alternate_name": "UM",
+	"date_incorporated": null,
+	"description": "The Department of Pediatrics is integrated into a dynamic research environment where innovative and effective treatments and cures are under development. We have a proven track record of excellence including breakthrough work in the long-term effects of cancer treatment, cardiac risk in patients with HIV, the development of clinical trials in pediatric cancers, obesity prevention, long-term outcomes of fetal surgery, sleep and pulmonary complications of HIV and sickle cell disease, and parent health literacy as a means of improving child health outcomes. \\n\\nFrom pediatric cancer to cardiology, prematurity and pulmonology, diabetes to developmental disabilities our physician scientists have discovered ways to treat and prevent a range of pediatric health challenges. In addition new work is being done with the treatment of PrEP and NPEP.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "UNIVERSITY OF MIAMI - MAILMAN CENTER - ADOLESCENT MEDICINE CLINIC",
+	"website": "http:\/\/www.mailmancenter.org",
+	"slug": "university-of-miami-mailman-center-adolescent-medicine-clinic",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/university-of-miami-mailman-center-adolescent-medicine-clinic",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/university-of-miami-mailman-center-adolescent-medicine-clinic\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 8201,
+		"name": "Dr. Lawrence Friedman",
+		"title": "Director, Division of Adolescent Medicine",
+		"phones": [{
+			"id": 8201,
+			"department": null,
+			"extension": null,
+			"number": "305-243-5880",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8201,
+		"department": null,
+		"extension": null,
+		"number": "305-243-5880",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

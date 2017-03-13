@@ -1,0 +1,38 @@
+{
+	"id": 4235,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Florida Palms Academy is a Statewide Inpatient Psychiatric Program (SIPP) that provides treatment for youth 6-14 years of age who will benefit from intensive residential psychiatric treatment. Youth receive an individualized education curriculum while receiving therapeutic services.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA PALMS ACADEMY, INC.",
+	"website": "http:\/\/floridapalmsacademy.com",
+	"slug": "florida-palms-academy-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-palms-academy-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-palms-academy-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mthomas@altfam.com",
+		"id": 4235,
+		"name": "Michelle Thomas",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 4235,
+			"department": null,
+			"extension": null,
+			"number": "954-963-0991",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4235,
+		"department": null,
+		"extension": null,
+		"number": "954-963-0991",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 8066,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.4311323,
+	25.6161458],
+	"description": "See listed services",
+	"latitude": 25.6161458,
+	"longitude": -80.4311323,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-16320-sw-147th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-16320-sw-147th-avenue",
+	"address": {
+		"id": 3973,
+		"address_1": "16320 SW 147th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33187"
+	},
+	"organization": {
+		"id": 8066,
+		"accreditations": [],
+		"alternate_name": "UNITY CENTER OF MIAMI",
+		"date_incorporated": null,
+		"description": "YEP Summer Camp activities include but not limited to building skills in arts and craft, money management, bullying prevention, social relationships, stress reduction, outdoor sports and exciting field trips. \\nBreakfast, lunch and snacks are included in camp fees and served daily.\\n\\nParents\/ caregivers can learn more about the camp by calling the UCM office, or attending an Open House session which are scheduled at the UCM\/ Camp office on Tuesdays, 4:00 to 7:00pm, on 5\/10, 5\/17, 5\/24, and 5\/31.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNITY CENTER OF MIAMI - YOUTH EXPRESSING POWERFULLY (YEP) SUMMER CAMP",
+		"website": "http:\/\/www.unitycenterofmiami.org",
+		"slug": "unity-center-of-miami-youth-expressing-powerfully-yep-summer-camp",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/unity-center-of-miami-youth-expressing-powerfully-yep-summer-camp",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/unity-center-of-miami-youth-expressing-powerfully-yep-summer-camp\/locations"
+	},
+	"phones": [{
+		"id": 8066,
+		"department": null,
+		"extension": null,
+		"number": "305-232-9550",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,222 @@
+{
+	"id": 207,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Jackson North Community Mental Health Center (Jackson North CMHC) is a community-based, multi-service that provides comprehensive behavioral healthcare services for co-occurring adults and children with severe persistent mental illness and substance abuse problems. These services are provided for residents in the north and northwestern sections of Miami-Dade County. \\n\\nThe Center specializes in the provision of:\\n \\n* Adult Mental Health and Substance Abuse Services\\n* Adult Case Management\\n* Psychosocial Rehabilitation Services \\n* Children's Mental Health and Substance Abuse Services\\n* Children's Case Management Services\\n* Individual and Group Therapy \\n* Crisis Stabilization and Detoxification Services\\n* Anger and Stress Management \\n* Adult and Child Medication Management\\n* Temporary Assistance for Needy Families (TANF)",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "JACKSON COMMUNITY MENTAL HEALTH CENTER",
+	"website": "http:\/\/www.jhsmiami.org",
+	"slug": "jackson-community-mental-health-center",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/jackson-community-mental-health-center",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/jackson-community-mental-health-center\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "gfrazier@jhsmiami.org",
+		"id": 207,
+		"name": "Gail Frazier",
+		"title": "Secretary",
+		"phones": [{
+			"id": 207,
+			"department": null,
+			"extension": null,
+			"number": "786-466-2826",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dluly@jhsmiami.org",
+		"id": 208,
+		"name": "Diane Luly - Gilles",
+		"title": "Program Supervisor",
+		"phones": [{
+			"id": 208,
+			"department": null,
+			"extension": "82715.0",
+			"number": "786-466-2700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Agriffin2@jhsmiami.org",
+		"id": 209,
+		"name": "Magda Demerritt, LCSW",
+		"title": "Supervisor of Program",
+		"phones": [{
+			"id": 209,
+			"department": null,
+			"extension": "82744.0",
+			"number": "786-466-2700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "bianca.evariste@jhsmiami.org",
+		"id": 211,
+		"name": "Bianca Evariste, RN., BSN",
+		"title": "Associate Director of Patient Care services",
+		"phones": [{
+			"id": 211,
+			"department": null,
+			"extension": null,
+			"number": "786-466-2826",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Clicile.pierre@um-jmh.org",
+		"id": 212,
+		"name": "Clicile Pierre, LCSW",
+		"title": "Supervisor",
+		"phones": [{
+			"id": 212,
+			"department": null,
+			"extension": null,
+			"number": "786-466-2826",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dluly@jhsmiami.org",
+		"id": 213,
+		"name": "Diane Luly-Gilles",
+		"title": "Supervisor",
+		"phones": [{
+			"id": 213,
+			"department": null,
+			"extension": null,
+			"number": "786-466-2800",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "marie.severe@jhsmiami.org",
+		"id": 214,
+		"name": "Sandra Marie Severe",
+		"title": "Administrator",
+		"phones": [{
+			"id": 214,
+			"department": null,
+			"extension": null,
+			"number": "786-466-2700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ebenitez@jhsmiami.org",
+		"id": 215,
+		"name": "Evelyn Benitez, PsyD",
+		"title": "Administrator",
+		"phones": [{
+			"id": 215,
+			"department": null,
+			"extension": null,
+			"number": "786-466-2700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "bianca.evariste@jhsmiami.org",
+		"id": 216,
+		"name": "Bianca Evariste, RN., BSN",
+		"title": "Associate Director of Patient Care Services",
+		"phones": [{
+			"id": 216,
+			"department": null,
+			"extension": null,
+			"number": "786-466-2834",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 207,
+		"department": null,
+		"extension": null,
+		"number": "786-466-2826",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 208,
+		"department": null,
+		"extension": "82715.0",
+		"number": "786-466-2700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 209,
+		"department": null,
+		"extension": "82744.0",
+		"number": "786-466-2700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 211,
+		"department": null,
+		"extension": null,
+		"number": "786-466-2826",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 212,
+		"department": null,
+		"extension": null,
+		"number": "786-466-2826",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 213,
+		"department": null,
+		"extension": null,
+		"number": "786-466-2800",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 214,
+		"department": null,
+		"extension": null,
+		"number": "786-466-2700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 215,
+		"department": null,
+		"extension": null,
+		"number": "786-466-2700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 216,
+		"department": null,
+		"extension": null,
+		"number": "786-466-2834",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

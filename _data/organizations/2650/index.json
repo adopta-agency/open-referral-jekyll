@@ -1,0 +1,61 @@
+{
+	"id": 2650,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides education, skills building and research on child safety in the home, water, automobile, bicycles; violence prevention and gun safe storage training; coalition building and evaluation and grant writing technical assistance for safety procedures. Provides child safety items at low-to-no cost and teach proper installation and use of items (example: car seats, child proofing items, bike helmets). Annual reports on incidents of injury and violence countywide.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "INJURY FREE COALITION FOR KIDS OF MIAMI, INC.",
+	"website": "http:\/\/injuryfree.org",
+	"slug": "injury-free-coalition-for-kids-of-miami-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/injury-free-coalition-for-kids-of-miami-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/injury-free-coalition-for-kids-of-miami-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ldeus@jhsmiami.org",
+		"id": 2650,
+		"name": "Lyse Deus",
+		"title": "Program Administrator",
+		"phones": [{
+			"id": 2650,
+			"department": null,
+			"extension": null,
+			"number": "305-243-9080",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ldeus@jhsmiami.org",
+		"id": 2651,
+		"name": "Lyse Deus",
+		"title": "Program Administrator",
+		"phones": [{
+			"id": 2651,
+			"department": null,
+			"extension": null,
+			"number": "305-243-9080",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2650,
+		"department": null,
+		"extension": null,
+		"number": "305-243-9080",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2651,
+		"department": null,
+		"extension": null,
+		"number": "305-243-9080",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,337 @@
+{
+	"id": 2810,
+	"accreditations": [],
+	"alternate_name": "CAW",
+	"date_incorporated": null,
+	"description": "After school program which provides literacy (reading); basic arithmetic review, anger management, conflict resolution, Old Fashion Manners, Afro-centricity (learning about the history of Africa and self); self esteem building; reading comprehension, composition, grammar; extra curriculum activities include: learning African dances, self defense or modeling. All aspects learned in these classes are demonstrated in the annual Spring Showcase by participants. Classes are 5 days each week-Monday through Friday (2 hours daily) with reports to parents and referral sources(progress reports).",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CONCERNED AFRICAN WOMEN, INC",
+	"website": "http:\/\/www.concernedafricanwomen.org",
+	"slug": "concerned-african-women-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/concerned-african-women-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/concerned-african-women-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "caw98@bellsouth.net",
+		"id": 2810,
+		"name": "Carolyn Nesbitt",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 2810,
+			"department": null,
+			"extension": null,
+			"number": "305-621-3700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "caw98@bellsouth.net",
+		"id": 2811,
+		"name": "Carolyn Nesbitt",
+		"title": "CEO",
+		"phones": [{
+			"id": 2811,
+			"department": null,
+			"extension": null,
+			"number": "305-621-3700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "caw98@bellsouth.net",
+		"id": 2812,
+		"name": "Carolyn Nesbitt",
+		"title": "CEO",
+		"phones": [{
+			"id": 2812,
+			"department": null,
+			"extension": null,
+			"number": "305-621-3700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "caw98@bellsouth.net",
+		"id": 2813,
+		"name": "LaTrisha Carter",
+		"title": "Program Director",
+		"phones": [{
+			"id": 2813,
+			"department": null,
+			"extension": null,
+			"number": "305-621-3700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "caw98@bellsouth.net",
+		"id": 6060,
+		"name": "Carolyn Nesbitt",
+		"title": "President\/CEO",
+		"phones": [{
+			"id": 6060,
+			"department": null,
+			"extension": null,
+			"number": "305-621-3700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "caw98@bellsouth.net",
+		"id": 6308,
+		"name": "Carolyn Nesbitt",
+		"title": "President\/CEO",
+		"phones": [{
+			"id": 6308,
+			"department": null,
+			"extension": null,
+			"number": "305-621-3700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "caw98@bellsouth.net",
+		"id": 6405,
+		"name": "Carolyn Nesbitt",
+		"title": "President\/CEO",
+		"phones": [{
+			"id": 6405,
+			"department": null,
+			"extension": null,
+			"number": "305-621-3700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "caw98@bellsouth.net",
+		"id": 7715,
+		"name": "Carolyn Nesbitt",
+		"title": "President\/CEO",
+		"phones": [{
+			"id": 7715,
+			"department": null,
+			"extension": null,
+			"number": "305-621-3700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "caw98@bellsouth.net",
+		"id": 7716,
+		"name": "Carolyn Nesbitt",
+		"title": "CEO",
+		"phones": [{
+			"id": 7716,
+			"department": null,
+			"extension": null,
+			"number": "305-621-3700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "caw98@bellouth.net",
+		"id": 7717,
+		"name": "LaTrisha Carter",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7717,
+			"department": null,
+			"extension": null,
+			"number": "305-621-3700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "caw98@bellsouth.net",
+		"id": 7927,
+		"name": "LaTrisha Carter",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7927,
+			"department": null,
+			"extension": null,
+			"number": "305-621-3700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "caw98@bellsouth.net",
+		"id": 7953,
+		"name": "LaTrisha Carter",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7953,
+			"department": null,
+			"extension": null,
+			"number": "305-621-3700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "caw98@bellouth.net",
+		"id": 7954,
+		"name": "LaTrisha Carter",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7954,
+			"department": null,
+			"extension": null,
+			"number": "305-621-3700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "caw98@bellsouth.net",
+		"id": 8123,
+		"name": "LaTrisha Carter",
+		"title": "Program Director",
+		"phones": [{
+			"id": 8123,
+			"department": null,
+			"extension": null,
+			"number": "305-621-3700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2810,
+		"department": null,
+		"extension": null,
+		"number": "305-621-3700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2811,
+		"department": null,
+		"extension": null,
+		"number": "305-621-3700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2812,
+		"department": null,
+		"extension": null,
+		"number": "305-621-3700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2813,
+		"department": null,
+		"extension": null,
+		"number": "305-621-3700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6060,
+		"department": null,
+		"extension": null,
+		"number": "305-621-3700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6308,
+		"department": null,
+		"extension": null,
+		"number": "305-621-3700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6405,
+		"department": null,
+		"extension": null,
+		"number": "305-621-3700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7715,
+		"department": null,
+		"extension": null,
+		"number": "305-621-3700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7716,
+		"department": null,
+		"extension": null,
+		"number": "305-621-3700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7717,
+		"department": null,
+		"extension": null,
+		"number": "305-621-3700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7927,
+		"department": null,
+		"extension": null,
+		"number": "305-621-3700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7953,
+		"department": null,
+		"extension": null,
+		"number": "305-621-3700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7954,
+		"department": null,
+		"extension": null,
+		"number": "305-621-3700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8123,
+		"department": null,
+		"extension": null,
+		"number": "305-621-3700",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,46 @@
+{
+	"id": 432,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Dade Legal Aid provides free quality legal services to Miami-Dade County's indigent population. It specifically provides free legal representation in family law, domestic violence actions, divorce, custody, paternity, guardianship, housing and bankruptcy. It also provides free legal services to indigent undocumented residents in housing and public benefits actions.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "DADE LEGAL AID",
+	"website": "http:\/\/www.dadelegalaid.org\/",
+	"slug": "dade-legal-aid",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/dade-legal-aid",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/dade-legal-aid\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ecoto@dadelegalaid.org",
+		"id": 432,
+		"name": "Eileen Coto",
+		"title": "Administrative Assistant",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "iris@dadelegalaid.org",
+		"id": 433,
+		"name": "Iris Urquiola",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 433,
+			"department": null,
+			"extension": null,
+			"number": "305-579-5733",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 433,
+		"department": null,
+		"extension": null,
+		"number": "305-579-5733",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 7532,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2527866,
+	25.9042443],
+	"description": "See listed services",
+	"latitude": 25.9042443,
+	"longitude": -80.2527866,
+	"name": "Opa Locka, FL",
+	"short_desc": null,
+	"slug": "opa-locka-fl-100-opa-locka-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/opa-locka-fl-100-opa-locka-boulevard",
+	"address": {
+		"id": 3498,
+		"address_1": "100 Opa Locka Boulevard",
+		"address_2": null,
+		"city": "Opa Locka",
+		"state_province": "FL",
+		"postal_code": "33054"
+	},
+	"organization": {
+		"id": 7532,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "MDC FAPA provides social services, in-service training for caregivers of youth in foster\/adoptive\/kinship care. We have 3 meetings in Miami Gardens, Liberty City, and Homestead. We have a teen\/tween program. We offer mentorships, support services, educational and technology tutoring for both youth and adults.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI DADE COUNTY FOSTER & ADOPTIVE PARENT ASSOCIATION, INC.",
+		"website": "http:\/\/miamidadefapa.org\/",
+		"slug": "miami-dade-county-foster-adoptive-parent-association-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-foster-adoptive-parent-association-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-foster-adoptive-parent-association-inc\/locations"
+	},
+	"phones": [{
+		"id": 7532,
+		"department": null,
+		"extension": null,
+		"number": "305-469-1157",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

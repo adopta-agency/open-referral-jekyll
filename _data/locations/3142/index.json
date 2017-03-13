@@ -1,0 +1,48 @@
+{
+	"id": 3142,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-84,
+	30],
+	"description": "See listed services",
+	"latitude": 30,
+	"longitude": -84,
+	"name": "Tallahassee, FL",
+	"short_desc": null,
+	"slug": "tallahassee-fl-4052-bald-cypress-way",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/tallahassee-fl-4052-bald-cypress-way",
+	"address": {
+		"id": 1558,
+		"address_1": "4052 Bald Cypress Way",
+		"address_2": null,
+		"city": "Tallahassee",
+		"state_province": "FL",
+		"postal_code": "32399-1723"
+	},
+	"organization": {
+		"id": 3141,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Promotes and protects the health and safety of all people in Florida through the delivery of quality public health services and the promotion of health care standards.\\n\\n###COL###\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA DEPARTMENT OF HEALTH",
+		"website": "http:\/\/www.floridahealth.gov\/",
+		"slug": "florida-department-of-health",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-health",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-health\/locations"
+	},
+	"phones": [{
+		"id": 3142,
+		"department": null,
+		"extension": null,
+		"number": "850-488-0595",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

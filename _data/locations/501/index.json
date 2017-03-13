@@ -1,0 +1,48 @@
+{
+	"id": 501,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3081496,
+	25.8870318],
+	"description": "See listed services",
+	"latitude": 25.8870318,
+	"longitude": -80.3081496,
+	"name": "Hialeah, FL",
+	"short_desc": null,
+	"slug": "hialeah-fl-7000-west-12th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/hialeah-fl-7000-west-12th-avenue",
+	"address": {
+		"id": 253,
+		"address_1": "7000 West 12th Avenue",
+		"address_2": "Suite 4",
+		"city": "Hialeah",
+		"state_province": "FL",
+		"postal_code": "33014"
+	},
+	"organization": {
+		"id": 500,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Dedicated to improving the quality of life for the millions of people living with Diabetes, and providing information about current research and treatment.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "DIABETES RESEARCH INSTITUTE FOUNDATION, INC.",
+		"website": "http:\/\/www.DiabetesResearch.org",
+		"slug": "diabetes-research-institute-foundation-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/diabetes-research-institute-foundation-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/diabetes-research-institute-foundation-inc\/locations"
+	},
+	"phones": [{
+		"id": 501,
+		"department": null,
+		"extension": null,
+		"number": "305-243-3696",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

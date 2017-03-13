@@ -1,0 +1,48 @@
+{
+	"id": 7536,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.773886,
+	26.223147],
+	"description": "See listed services",
+	"latitude": 26.223147,
+	"longitude": -81.773886,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-86bb9f68-5a69-4795-aafc-e35672137952",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-86bb9f68-5a69-4795-aafc-e35672137952",
+	"address": {
+		"id": 3502,
+		"address_1": "2221 Corporation Boulevard",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34109"
+	},
+	"organization": {
+		"id": 7536,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Nonprofit organization providing emergency food relief through our two food pantry sites.\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MEALS OF HOPE, INC.",
+		"website": "http:\/\/www.mealsofhope.org",
+		"slug": "meals-of-hope-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/meals-of-hope-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/meals-of-hope-inc\/locations"
+	},
+	"phones": [{
+		"id": 7536,
+		"department": null,
+		"extension": "102.0",
+		"number": "239-537-7775",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

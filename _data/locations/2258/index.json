@@ -1,0 +1,48 @@
+{
+	"id": 2258,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -82,
+	"name": "Marathon, FL",
+	"short_desc": null,
+	"slug": "marathon-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/marathon-fl",
+	"address": {
+		"id": 1130,
+		"address_1": "10550 Aviation Boulevard",
+		"address_2": null,
+		"city": "Marathon",
+		"state_province": "FL",
+		"postal_code": "33050"
+	},
+	"organization": {
+		"id": 2257,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Florida Keys SPCA is dedicated to promoting the humane treatment of all animals through compassionate care, adoption, education, population control and humane law enforcement.\\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA KEYS SPCA",
+		"website": "http:\/\/fkspca.org\/",
+		"slug": "florida-keys-spca",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-keys-spca",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-keys-spca\/locations"
+	},
+	"phones": [{
+		"id": 2258,
+		"department": null,
+		"extension": null,
+		"number": "305-743-4800",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

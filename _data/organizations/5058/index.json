@@ -1,0 +1,38 @@
+{
+	"id": 5058,
+	"accreditations": [],
+	"alternate_name": "27th Avenue Boxing Center",
+	"date_incorporated": null,
+	"description": "Provides out of school programming for children. Offers: \\n\\n* Homework Assistance\\n* Literacy\\n* Fitness\/Martial Arts\\n* Social Skills\\n* Snack and Supper",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FIRST STEP CHAMPIONS, INC.",
+	"website": null,
+	"slug": "first-step-champions-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/first-step-champions-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/first-step-champions-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Warrings@aol.com",
+		"id": 5058,
+		"name": "James Warring",
+		"title": "CEO",
+		"phones": [{
+			"id": 5058,
+			"department": null,
+			"extension": null,
+			"number": "786-399-1236",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5058,
+		"department": null,
+		"extension": null,
+		"number": "786-399-1236",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

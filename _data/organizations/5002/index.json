@@ -1,0 +1,107 @@
+{
+	"id": 5002,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Federal Public Defender's Office is appointed to represent persons accused of federal criminal law violations, who are unable to retain private counsel.\\n\\n###MON###\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FEDERAL PUBLIC DEFENDER",
+	"website": "http:\/\/www.fd.org\/",
+	"slug": "federal-public-defender",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/federal-public-defender",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/federal-public-defender\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Lori_Green@ao.uscourts.gov",
+		"id": 5002,
+		"name": "Lori Green",
+		"title": "Division Chief",
+		"phones": [{
+			"id": 5002,
+			"department": null,
+			"extension": null,
+			"number": "800-788-9908",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "FLS-CJA_Coordinator@fd.org",
+		"id": 5003,
+		"name": "Carmen Dominguez",
+		"title": "CJA Coordinator",
+		"phones": [{
+			"id": 5003,
+			"department": null,
+			"extension": null,
+			"number": "305-536-6900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7073,
+		"name": "Michael Caruso",
+		"title": "Federal Public Defender",
+		"phones": [{
+			"id": 7073,
+			"department": null,
+			"extension": null,
+			"number": "305-296-9265",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7074,
+		"name": "James Lappan",
+		"title": "Assistant Federal Public Defender",
+		"phones": [{
+			"id": 7074,
+			"department": null,
+			"extension": null,
+			"number": "239-334-0397",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5002,
+		"department": null,
+		"extension": null,
+		"number": "800-788-9908",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5003,
+		"department": null,
+		"extension": null,
+		"number": "305-536-6900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7073,
+		"department": null,
+		"extension": null,
+		"number": "305-296-9265",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7074,
+		"department": null,
+		"extension": null,
+		"number": "239-334-0397",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

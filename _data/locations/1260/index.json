@@ -1,0 +1,48 @@
+{
+	"id": 1260,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-d165e594-80a3-42ea-9a71-8e2f0dd51ee1",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-d165e594-80a3-42ea-9a71-8e2f0dd51ee1",
+	"address": {
+		"id": 652,
+		"address_1": "101 West Flagler Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33130"
+	},
+	"organization": {
+		"id": 1256,
+		"accreditations": [],
+		"alternate_name": "M-DC PUBLIC LIBRARY SYSTEM",
+		"date_incorporated": null,
+		"description": "Makes available books and other materials to meet the informational, educational and recreational needs of the community through more than 3.5 million items in the Main Library, four regional libraries and 26 branch libraries throughout Miami-Dade.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI-DADE COUNTY PUBLIC LIBRARY SYSTEM",
+		"website": "http:\/\/www.mdpls.org",
+		"slug": "miami-dade-county-public-library-system",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-public-library-system",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-public-library-system\/locations"
+	},
+	"phones": [{
+		"id": 1260,
+		"department": null,
+		"extension": null,
+		"number": "305-375-2665",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

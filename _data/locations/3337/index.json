@@ -1,0 +1,48 @@
+{
+	"id": 3337,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-b61dc65e-5c59-4403-be96-eafd5c5e4dde",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-b61dc65e-5c59-4403-be96-eafd5c5e4dde",
+	"address": {
+		"id": 1643,
+		"address_1": "2043 NW 4th Court",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33127"
+	},
+	"organization": {
+		"id": 3336,
+		"accreditations": [],
+		"alternate_name": "St. Agnes C.D.C.",
+		"date_incorporated": null,
+		"description": "The Rainbow Community Development Corporation is part of the Miami-Dade Housing Agency Public Housing Division and located in Rainbow Village.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "RAINBOW COMMUNITY DEVELOPMENT CORPORATION",
+		"website": null,
+		"slug": "rainbow-community-development-corporation",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/rainbow-community-development-corporation",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/rainbow-community-development-corporation\/locations"
+	},
+	"phones": [{
+		"id": 3337,
+		"department": null,
+		"extension": null,
+		"number": "305-573-6885",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

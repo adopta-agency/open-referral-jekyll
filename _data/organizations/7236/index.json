@@ -1,0 +1,38 @@
+{
+	"id": 7236,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides individual counseling services for children, adolescents, and adults, as well as couple and family counseling. Areas of specialization include trauma, disability issues, anger management, anxiety, depression, GLBTQ concerns, sexual abuse, obsessive and compulsive behaviors, divorce or break-up, and family conflict.\\n\\n**Does not provide psychiatric services**",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MARIANA FERNANDEZ-SOTO COUNSELING",
+	"website": "http:\/\/www.marianatherapy.com\/",
+	"slug": "mariana-fernandez-soto-counseling",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/mariana-fernandez-soto-counseling",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/mariana-fernandez-soto-counseling\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "marianafs@outlook.com",
+		"id": 7236,
+		"name": "Mariana Fernandez-Soto",
+		"title": "Therapist",
+		"phones": [{
+			"id": 7236,
+			"department": null,
+			"extension": null,
+			"number": "786-475-4357",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7236,
+		"department": null,
+		"extension": null,
+		"number": "786-475-4357",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

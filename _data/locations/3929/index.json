@@ -1,0 +1,48 @@
+{
+	"id": 3929,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82.4622039,
+	28.0871854],
+	"description": "See listed services",
+	"latitude": 28.0871854,
+	"longitude": -82.4622039,
+	"name": "Tampa, FL",
+	"short_desc": null,
+	"slug": "tampa-fl-14901-crisis-center-plaza",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/tampa-fl-14901-crisis-center-plaza",
+	"address": {
+		"id": 1827,
+		"address_1": "14901 Crisis Center Plaza",
+		"address_2": null,
+		"city": "Tampa",
+		"state_province": "FL",
+		"postal_code": "33613"
+	},
+	"organization": {
+		"id": 3929,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides free crisis counseling along with useful information and referral for various agencies throughout the community 24 hours a day, 365 days a year.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE CRISIS CENTER OF TAMPA BAY, INC.",
+		"website": "http:\/\/crisiscenter.com\/contact-us.aspx",
+		"slug": "the-crisis-center-of-tampa-bay-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-crisis-center-of-tampa-bay-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-crisis-center-of-tampa-bay-inc\/locations"
+	},
+	"phones": [{
+		"id": 3929,
+		"department": null,
+		"extension": null,
+		"number": "813-964-1964",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 7070,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.8047214,
+	24.5561635],
+	"description": "See listed services",
+	"latitude": 24.5561635,
+	"longitude": -81.8047214,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-p-o-box-2186",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/key-west-fl-p-o-box-2186",
+	"address": {
+		"id": 3145,
+		"address_1": "P.O. Box 2186",
+		"address_2": null,
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33045-2186"
+	},
+	"organization": {
+		"id": 2,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Switchboard of Miami, Inc. established in 1968, is a private, nonprofit organization that provides the Miami-Dade County community with comprehensive telephone crisis counseling, suicide prevention, information and referral services 24 hours a day, 7 days a week, 365 days a year. Our agency also offers free individual and family counseling services and prevention programs for high-risk youth and their families based in local schools.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SWITCHBOARD OF MIAMI, INC.",
+		"website": "http:\/\/www.switchboardmiami.org",
+		"slug": "switchboard-of-miami-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/switchboard-of-miami-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/switchboard-of-miami-inc\/locations"
+	},
+	"phones": [{
+		"id": 7070,
+		"department": null,
+		"extension": "1161.0",
+		"number": "305-296-4357",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

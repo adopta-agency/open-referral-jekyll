@@ -1,0 +1,422 @@
+{
+	"id": 1015,
+	"accreditations": [],
+	"alternate_name": "LHANC",
+	"date_incorporated": null,
+	"description": "Serves multi-ethnic, economically or socially needy elderly at 16 centers. Provides health support, transportation, adult day care, education, counseling, recreational activities, employment placement and information and referral. Serves hot meals at congregate sites and in homes and administers two intergenerational child day care centers.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "LITTLE HAVANA ACTIVITIES AND NUTRITION CENTERS OF DADE COUNTY, INC.",
+	"website": "http:\/\/www.lhanc.org",
+	"slug": "little-havana-activities-and-nutrition-centers-of-dade-county-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/little-havana-activities-and-nutrition-centers-of-dade-county-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/little-havana-activities-and-nutrition-centers-of-dade-county-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 1015,
+		"name": "Ramon Perez-Dorrbecker",
+		"title": "President",
+		"phones": [{
+			"id": 1015,
+			"department": null,
+			"extension": null,
+			"number": "305-858-0887",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "littlehavana@lhanc.org",
+		"id": 1016,
+		"name": "Amelia Vilaseca",
+		"title": "Coordinator",
+		"phones": [{
+			"id": 1016,
+			"department": null,
+			"extension": null,
+			"number": "305-558-2570",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 1017,
+		"name": "Betty Ruano",
+		"title": "Assistant to the CEO",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "mamaru@lhanc.org",
+		"id": 1018,
+		"name": "Maro Amaru",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 1018,
+			"department": null,
+			"extension": "1247.0",
+			"number": "305-532-8576",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mamaru@lhanc.org",
+		"id": 1020,
+		"name": "Maro Amaru",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 1020,
+			"department": null,
+			"extension": "1247.0",
+			"number": "305-264-3751",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "littlehavana@lhanc.org",
+		"id": 1021,
+		"name": "Ana Beneditti",
+		"title": "Project Director",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "mamaru@lhanc.org",
+		"id": 1022,
+		"name": "Maro Amaru",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 1022,
+			"department": null,
+			"extension": "1247.0",
+			"number": "305-649-5311",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "littlehavana@lhanc.org",
+		"id": 1023,
+		"name": "Marilyn Aleman",
+		"title": "Office Manager",
+		"phones": [{
+			"id": 1023,
+			"department": null,
+			"extension": null,
+			"number": "305-858-0887",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mamaru@lhanc.org",
+		"id": 1025,
+		"name": "Maro Amaru",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 1025,
+			"department": null,
+			"extension": "1247.0",
+			"number": "305-233-7315",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ejuara@lhanc.org",
+		"id": 1026,
+		"name": "Elisa M. Juara",
+		"title": "Nutrition Director",
+		"phones": [{
+			"id": 1026,
+			"department": null,
+			"extension": null,
+			"number": "305-558-1089",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "littlehavana@lhanc.org",
+		"id": 1027,
+		"name": "Maro Amaru",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 1027,
+			"department": null,
+			"extension": null,
+			"number": "305-856-6275",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mamaru@lhanc.org",
+		"id": 1028,
+		"name": "Maro Amaru",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 1028,
+			"department": null,
+			"extension": "1247.0",
+			"number": "305-643-4114",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mamaru@lhanc.org",
+		"id": 1033,
+		"name": "Maro Amaru",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 1033,
+			"department": null,
+			"extension": "1247.0",
+			"number": "305-856-4700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tcruz@lhanc.org",
+		"id": 1035,
+		"name": "Telmo Cruz",
+		"title": "Site Coordinator",
+		"phones": [{
+			"id": 1035,
+			"department": null,
+			"extension": "1241.0",
+			"number": "305-836-1234",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mamaru@lhanc.org",
+		"id": 1036,
+		"name": "Maro Amaru",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 1036,
+			"department": null,
+			"extension": "1247.0",
+			"number": "305-672-3736",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mamaru@lhanc.org",
+		"id": 1037,
+		"name": "Maro Amaru",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 1037,
+			"department": null,
+			"extension": "1247.0",
+			"number": "305-868-4020",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "littlehavana@lhanc.org",
+		"id": 1038,
+		"name": "A. Cecilia Hunt",
+		"title": "Project Director",
+		"phones": [{
+			"id": 1038,
+			"department": null,
+			"extension": null,
+			"number": "305-532-4377",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mamaru@lhanc.org",
+		"id": 6753,
+		"name": "Maro Amaru",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 6753,
+			"department": null,
+			"extension": "1247.0",
+			"number": "305-649-6676",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mamaru@lhanc.org",
+		"id": 6754,
+		"name": "Maro Amaru",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 6754,
+			"department": null,
+			"extension": "1247.0",
+			"number": "305-598-0260",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1015,
+		"department": null,
+		"extension": null,
+		"number": "305-858-0887",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1016,
+		"department": null,
+		"extension": null,
+		"number": "305-558-2570",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1018,
+		"department": null,
+		"extension": "1247.0",
+		"number": "305-532-8576",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1020,
+		"department": null,
+		"extension": "1247.0",
+		"number": "305-264-3751",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1022,
+		"department": null,
+		"extension": "1247.0",
+		"number": "305-649-5311",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1023,
+		"department": null,
+		"extension": null,
+		"number": "305-858-0887",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1025,
+		"department": null,
+		"extension": "1247.0",
+		"number": "305-233-7315",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1026,
+		"department": null,
+		"extension": null,
+		"number": "305-558-1089",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1027,
+		"department": null,
+		"extension": null,
+		"number": "305-856-6275",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1028,
+		"department": null,
+		"extension": "1247.0",
+		"number": "305-643-4114",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1033,
+		"department": null,
+		"extension": "1247.0",
+		"number": "305-856-4700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1035,
+		"department": null,
+		"extension": "1241.0",
+		"number": "305-836-1234",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1036,
+		"department": null,
+		"extension": "1247.0",
+		"number": "305-672-3736",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1037,
+		"department": null,
+		"extension": "1247.0",
+		"number": "305-868-4020",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1038,
+		"department": null,
+		"extension": null,
+		"number": "305-532-4377",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6753,
+		"department": null,
+		"extension": "1247.0",
+		"number": "305-649-6676",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6754,
+		"department": null,
+		"extension": "1247.0",
+		"number": "305-598-0260",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

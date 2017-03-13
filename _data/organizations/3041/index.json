@@ -1,0 +1,38 @@
+{
+	"id": 3041,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Quality Counts Career Center assists practitioners to increase their knowledge, skills, and qualifications for teaching in early care and education settings or working in other capacities in the field. Career advisers are available to help practitioners develop a career plan and begin taking the next step to achieving their goals.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "QUALITY COUNTS CAREER CENTER",
+	"website": "http:\/\/www.qccareers.org",
+	"slug": "quality-counts-career-center",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/quality-counts-career-center",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/quality-counts-career-center\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jlane@thechildrensforum.com",
+		"id": 3041,
+		"name": "Jennifer Lane",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 3041,
+			"department": null,
+			"extension": null,
+			"number": "305-639-2726",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3041,
+		"department": null,
+		"extension": null,
+		"number": "305-639-2726",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

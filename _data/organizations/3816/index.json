@@ -1,0 +1,38 @@
+{
+	"id": 3816,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The F.B.I. is the primary federal agency responsible for investigating violations of federal law, protecting the nation from terrorist and foreign intelligence activities, and providing leadership and law enforcement assistance to federal, state, local and international agencies. Priorities of the FBI include: \\n\\n* Protecting the United States from terrorists attack, foreign intelligence operations and espionage\\n* Protecting the nation against cyber-based attacks and high technology crimes\\n* Combating public corruption\\n* Protecting civil rights\\n* Combating transnational and national criminal organizations\\n* Investigating major white-collar and violent crimes.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FEDERAL BUREAU OF INVESTIGATION (FBI)",
+	"website": "http:\/\/www.fbi.gov\/miami\/",
+	"slug": "federal-bureau-of-investigation-fbi",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/federal-bureau-of-investigation-fbi",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/federal-bureau-of-investigation-fbi\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Miami@ic.fbi.gov",
+		"id": 3816,
+		"name": "George L. Piro",
+		"title": "Special Agent in Charge",
+		"phones": [{
+			"id": 3816,
+			"department": null,
+			"extension": null,
+			"number": "754-703-2000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3816,
+		"department": null,
+		"extension": null,
+		"number": "754-703-2000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

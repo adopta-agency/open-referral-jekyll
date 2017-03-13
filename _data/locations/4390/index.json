@@ -1,0 +1,48 @@
+{
+	"id": 4390,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-3300-ponce-de-leon-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-3300-ponce-de-leon-boulevard",
+	"address": {
+		"id": 1999,
+		"address_1": "3300 Ponce de Leon Boulevard",
+		"address_2": "Suite 305",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33134"
+	},
+	"organization": {
+		"id": 4390,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "AlphaNet is devoted to improving the lives of individuals with Alpha-1 antitrypsin deficiency through comprehensive disease management services, clinical research administration, and consultative services. The organization also funds research and community activities.\\r\\n\\r\\nAlphaNet provides a wide range of specialized programs and services designed to meet the specific needs of the Alphas it serves.\\r\\nThe AlphaNet Disease Management and Prevention Program (ADMAPP) provide comprehensive support, education and self-management strategies for Alphas.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ALPHANET, INC.",
+		"website": "http:\/\/www.alphanet.org",
+		"slug": "alphanet-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/alphanet-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/alphanet-inc\/locations"
+	},
+	"phones": [{
+		"id": 4390,
+		"department": null,
+		"extension": "316.0",
+		"number": "800-577-2638",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 8238,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.268,
+	25.771836],
+	"description": "See listed services",
+	"latitude": 25.771836,
+	"longitude": -80.268,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-4391-w-flagler-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-4391-w-flagler-street",
+	"address": {
+		"id": 4140,
+		"address_1": "4391 W Flagler Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33134"
+	},
+	"organization": {
+		"id": 4169,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Pregnancy Help Medical Clinic provides assistance and education to women and couples with a crisis pregnancy. They provide options with their crisis. Services consist of pregnancy tests, ultrasound, counseling, parenting classes, plan of adoption, character development, medical referral, abortion recovery and much more. All services are free and strictly confidential.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "PREGNANCY HELP MEDICAL CLINICS",
+		"website": "http:\/\/www.pregnancyhelpclinics.org",
+		"slug": "pregnancy-help-medical-clinics",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/pregnancy-help-medical-clinics",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/pregnancy-help-medical-clinics\/locations"
+	},
+	"phones": [{
+		"id": 8238,
+		"department": null,
+		"extension": null,
+		"number": "305-603-8668",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

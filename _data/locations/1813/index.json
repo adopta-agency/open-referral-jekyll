@@ -1,0 +1,48 @@
+{
+	"id": 1813,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3755175,
+	25.7372148],
+	"description": "See listed services",
+	"latitude": 25.7372148,
+	"longitude": -80.3755175,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-3411-sw-112th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-3411-sw-112th-avenue",
+	"address": {
+		"id": 952,
+		"address_1": "3411 SW 112th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33165"
+	},
+	"organization": {
+		"id": 1813,
+		"accreditations": [],
+		"alternate_name": "VVA",
+		"date_incorporated": null,
+		"description": "Veterans meet monthly at general membership meetings to discuss current events and issues affecting veterans, and to arrange family and community activities. Also assists homeless veterans with their health benefits, guiding them through the system of the VA hospital, get them connected with the appropriate VA personnel, and refer out to other organizations that can help.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "VIETNAM VETERANS OF AMERICA, INC. CHAPTER #620 HIALEAH, FLORIDA",
+		"website": null,
+		"slug": "vietnam-veterans-of-america-inc-chapter-620-hialeah-florida",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/vietnam-veterans-of-america-inc-chapter-620-hialeah-florida",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/vietnam-veterans-of-america-inc-chapter-620-hialeah-florida\/locations"
+	},
+	"phones": [{
+		"id": 1813,
+		"department": null,
+		"extension": null,
+		"number": "305-528-5221",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

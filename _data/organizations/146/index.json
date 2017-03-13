@@ -1,0 +1,38 @@
+{
+	"id": 146,
+	"accreditations": [],
+	"alternate_name": "M-DC BUILDING AND NEIGHBORHOOD COMPLIANCE DEPARTMENT",
+	"date_incorporated": null,
+	"description": "Building and Neighborhood Compliance is committed to maintaining neighborhoods and improving the quality of life in our community. We provide residential and commercial code compliance services in unincorporated Miami-Dade County. \\n\\nWe emphasize community education and voluntary compliance while seeking solutions for citizen concerns. Our main objective is to address violations such as overgrown lots, junk and trash, abandoned vehicles, graffiti, illegal signs in the right-of-way, zoning violations and other neighborhood maintenance regulations; in order to enhance life safety and aesthetics in our community.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI-DADE COUNTY BUILDING AND NEIGHBORHOOD COMPLIANCE DEPARTMENT",
+	"website": "http:\/\/www.miamidade.gov\/building\/neighborhood-compliance.asp",
+	"slug": "miami-dade-county-building-and-neighborhood-compliance-department",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-building-and-neighborhood-compliance-department",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-building-and-neighborhood-compliance-department\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "CDP@miamidade.gov",
+		"id": 146,
+		"name": "Charles Danger",
+		"title": "Director-Office Manager",
+		"phones": [{
+			"id": 146,
+			"department": null,
+			"extension": null,
+			"number": "786-315-2552",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 146,
+		"department": null,
+		"extension": null,
+		"number": "786-315-2552",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 7726,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.233819,
+	25.8832239],
+	"description": "See listed services",
+	"latitude": 25.8832239,
+	"longitude": -80.233819,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2151-nw-119th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-2151-nw-119th-street",
+	"address": {
+		"id": 3665,
+		"address_1": "2151 NW 119th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33167"
+	},
+	"organization": {
+		"id": 7726,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "This program allows the less fortunate to receive food; clothing and shoes free of charge. Clothing for children is also available.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CROWNS OF THORNS IMPACT MINISTRIES, INC.",
+		"website": null,
+		"slug": "crowns-of-thorns-impact-ministries-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/crowns-of-thorns-impact-ministries-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/crowns-of-thorns-impact-ministries-inc\/locations"
+	},
+	"phones": [{
+		"id": 7726,
+		"department": null,
+		"extension": null,
+		"number": "786-320-0339",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

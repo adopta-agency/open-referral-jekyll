@@ -1,0 +1,38 @@
+{
+	"id": 6605,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Florida Coalition Against Domestic Violence is a grassroots non-profit organization whose membership is comprised of individuals, shelters and advocacy groups sharing the goal of eliminating domestic violence. FCADV maintains Florida's 24-hour, toll free Domestic Violence Hotline and shares information contained in its resource library with the public. \\r\\n\\r\\nNote: This program may be able to serve victims of human trafficking.\\r\\n\\r\\n###MON###\\r\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA COALITION AGAINST DOMESTIC VIOLENCE",
+	"website": "http:\/\/www.fcadv.org",
+	"slug": "florida-coalition-against-domestic-violence",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-coalition-against-domestic-violence",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-coalition-against-domestic-violence\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 6605,
+		"name": "Tiffany Carr",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 6605,
+			"department": null,
+			"extension": null,
+			"number": "800-500-1119",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6605,
+		"department": null,
+		"extension": null,
+		"number": "800-500-1119",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

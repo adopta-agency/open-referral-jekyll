@@ -1,0 +1,48 @@
+{
+	"id": 7292,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2335466,
+	25.7310843],
+	"description": "See listed services",
+	"latitude": 25.7310843,
+	"longitude": -80.2335466,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-40d90d6d-05bb-4b61-b5bc-d003c4a01a1f",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-40d90d6d-05bb-4b61-b5bc-d003c4a01a1f",
+	"address": {
+		"id": 3304,
+		"address_1": "2620 South Bayshore Drive",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33133"
+	},
+	"organization": {
+		"id": 6908,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Seasons Hospice offers palliative care, home health aides, music therapy, spiritual support, bereavement support, and social workers. All patients will be under the care of a Registered Nurse case manager as part of their medical team. In addition, the Open Access Program can cover additional services such as IV antibiotics, IV hydration, oral chemotherapy, and other measures which will increase comfort of the patient at the end of his or her life. The Open Access Program is available on a case-by-case basis.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SEASONS HOSPICE AND PALLIATIVE CARE, INC.",
+		"website": "http:\/\/www.seasons.org",
+		"slug": "seasons-hospice-and-palliative-care-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/seasons-hospice-and-palliative-care-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/seasons-hospice-and-palliative-care-inc\/locations"
+	},
+	"phones": [{
+		"id": 7292,
+		"department": null,
+		"extension": null,
+		"number": "305-762-9240",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

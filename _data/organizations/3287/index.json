@@ -1,0 +1,38 @@
+{
+	"id": 3287,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Center promotes self empowerment to the consumers of mental health services, through advocacy, recovery trainings, education and support in a stigma free environment.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FRESH START DROP IN CENTER",
+	"website": null,
+	"slug": "fresh-start-drop-in-center",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/fresh-start-drop-in-center",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/fresh-start-drop-in-center\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "freshstartmiami@comcast.net",
+		"id": 3287,
+		"name": "Annie Louis",
+		"title": "Consumer Program Manager",
+		"phones": [{
+			"id": 3287,
+			"department": null,
+			"extension": null,
+			"number": "305-623-9937",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3287,
+		"department": null,
+		"extension": null,
+		"number": "305-623-9937",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

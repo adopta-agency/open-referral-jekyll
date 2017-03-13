@@ -1,0 +1,48 @@
+{
+	"id": 2493,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-d76351a9-5a3a-492d-acdb-3783f4e33418",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-d76351a9-5a3a-492d-acdb-3783f4e33418",
+	"address": {
+		"id": 1221,
+		"address_1": "1601 NW 12th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 2492,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Debbie Institute, a division of the Mailman Center for Child Development, is a center for early intervention research, training and service. For more than 30 years, the Debbie Institute has conducted research on problems impacting children with special needs, provided early intervention services for children and their families and provided training for university students.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UM - DEBBIE INSTITUTE",
+		"website": "http:\/\/pediatrics.med.miami.edu\/debbie-school\/",
+		"slug": "um-debbie-institute",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/um-debbie-institute",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/um-debbie-institute\/locations"
+	},
+	"phones": [{
+		"id": 2493,
+		"department": null,
+		"extension": null,
+		"number": "305-243-3669",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

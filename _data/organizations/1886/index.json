@@ -1,0 +1,38 @@
+{
+	"id": 1886,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Miami Project international team of more than 200 scientists, researchers and clinicians take innovative approaches to the challenge of spinal cord injury.\\n\\nOffers the 1-800-STAND UP information line for questions regarding spinal cord injury research, and \"The Project\" newsletter about research and programs.\\n\\nThe Miami Project to Cure Paralysis is a multidisciplinary basic science and clinical research effort of the University of Miami, dedicated to finding more effective treatments and an eventual cure for paralysis resulting from spinal cord injury. The general public has the opportunity to participate in our studies should they meet the criteria.\\n\\n###MON###\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE MIAMI PROJECT TO CURE PARALYSIS",
+	"website": "http:\/\/www.miamiproject.miami.edu",
+	"slug": "the-miami-project-to-cure-paralysis",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-miami-project-to-cure-paralysis",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-miami-project-to-cure-paralysis\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "miamiproject@med.miami.edu",
+		"id": 1886,
+		"name": "Maria J. Amador",
+		"title": "I & R Coordinator",
+		"phones": [{
+			"id": 1886,
+			"department": null,
+			"extension": null,
+			"number": "305-243-6001",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1886,
+		"department": null,
+		"extension": null,
+		"number": "305-243-6001",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

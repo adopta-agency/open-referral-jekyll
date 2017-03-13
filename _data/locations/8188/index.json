@@ -1,0 +1,48 @@
+{
+	"id": 8188,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.306182,
+	25.6893866],
+	"description": "See listed services",
+	"latitude": 25.6893866,
+	"longitude": -80.306182,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-b00a9e9e-d6eb-4f62-9627-133ac59c5da8",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-b00a9e9e-d6eb-4f62-9627-133ac59c5da8",
+	"address": {
+		"id": 4092,
+		"address_1": "8609 South Dixie Highway",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33143"
+	},
+	"organization": {
+		"id": 3252,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides support, education and hope to people impacted by cancer and their loved ones. Through participation in professionally-led support groups, educational workshops and mind\/body classes people affected by cancer learn vital skills that enable them to regain control, reduce isolation and restore hope regardless of the stage of disease. Most importantly, CSC provides a home-like setting for people fighting cancer to connect with and learn from each other.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CANCER SUPPORT COMMUNITY GREATER MIAMI",
+		"website": "http:\/\/www.cancersupportcommunitymiami.org",
+		"slug": "cancer-support-community-greater-miami",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/cancer-support-community-greater-miami",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/cancer-support-community-greater-miami\/locations"
+	},
+	"phones": [{
+		"id": 8188,
+		"department": null,
+		"extension": "225.0",
+		"number": "305-668-5900",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

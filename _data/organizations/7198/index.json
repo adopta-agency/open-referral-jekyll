@@ -1,0 +1,38 @@
+{
+	"id": 7198,
+	"accreditations": [],
+	"alternate_name": "Angels Reach Developmental Enrichment Center and Angels Reach Special Learning Programs",
+	"date_incorporated": null,
+	"description": "Angels Reach Foundation is a non-profit organization that offers small group and individual clinical and academic programs for individuals with developmental delays, as well as family consultations and guidance, caregiver and professional training, school professional development, on site school support, family counseling and inclusive recreational opportunities for individuals. The individual programs offer flexible scheduling for one to one or matched peer interventions including any of the interventions offered through our small group programs.\\n\\nServices offered: Developmentally based Speech\/Language, Occupational Sensory Integration, Auditory Integration, ABA\/Verbal Behavior, Developmental Play Therapy, Socio-Relational, Pragmatic Language, Cognitive Behavior Therapy and Academic Support.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ANGELS REACH FOUNDATION, INC.",
+	"website": "http:\/\/angelsreach.org",
+	"slug": "angels-reach-foundation-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/angels-reach-foundation-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/angels-reach-foundation-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "dluzardo@angelsreach.org",
+		"id": 7198,
+		"name": "Dorinda Luzardo",
+		"title": "Founder & Director",
+		"phones": [{
+			"id": 7198,
+			"department": null,
+			"extension": null,
+			"number": "305-828-5276",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7198,
+		"department": null,
+		"extension": null,
+		"number": "305-828-5276",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 2364,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-81bac84a-f736-467b-90d2-fcbfe0d5acff",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-81bac84a-f736-467b-90d2-fcbfe0d5acff",
+	"address": {
+		"id": 1173,
+		"address_1": "444 SW 2nd Avenue",
+		"address_2": "5th floor",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33130"
+	},
+	"organization": {
+		"id": 2364,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The mission of the Mayor's Education Initiative is to unite community resources to strengthen the efforts made by Miami-Dade County Public Schools, with an emphasis on improving student achievement, family involvement, and the student's learning environment. These initiatives include: mentoring, college scholarships, internships, youth civic engagement programs, after-school programs and many more.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CITY OF MIAMI OFFICE OF GRANTS ADMINISTRATION",
+		"website": "http:\/\/www.miamigov.com",
+		"slug": "city-of-miami-office-of-grants-administration",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-miami-office-of-grants-administration",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-miami-office-of-grants-administration\/locations"
+	},
+	"phones": [{
+		"id": 2364,
+		"department": null,
+		"extension": null,
+		"number": "305-416-1546",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

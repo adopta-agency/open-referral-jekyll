@@ -1,0 +1,24 @@
+{
+	"id": 8170,
+	"accreditations": [],
+	"alternate_name": "CSS",
+	"date_incorporated": null,
+	"description": "CSS is a support service that offers companion services for clients of all ages. Our services include companionship services and life skills support including but not limited to tutoring services enhancing lives by assisting the unaccompanied population through their friendship, education, provision of community resources, and regular friendly visits.\\n\\nExample of services provided is transportation to and from appointments or grocery shopping, assisting pregnant women, providing tutoring services to children and much more.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CASSY'S SUPPORT SERVICE, LLC.",
+	"website": null,
+	"slug": "cassy-s-support-service-llc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/cassy-s-support-service-llc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/cassy-s-support-service-llc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "cachae.mason@gmail.com",
+		"id": 8170,
+		"name": "Cachae Mason",
+		"title": "CEO",
+		"phones": []
+	}],
+	"phones": []
+}

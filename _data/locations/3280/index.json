@@ -1,0 +1,48 @@
+{
+	"id": 3280,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-aa068551-984a-4463-97ca-c3717337d2f6",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-aa068551-984a-4463-97ca-c3717337d2f6",
+	"address": {
+		"id": 1621,
+		"address_1": "1492 West Flagler Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33135"
+	},
+	"organization": {
+		"id": 3279,
+		"accreditations": [],
+		"alternate_name": "VOA",
+		"date_incorporated": null,
+		"description": "Volunteers of America Florida provides three lines of service Housing, Behavioral Health Services and job training education and employment. Services are provided to those who are eligible (i.e. homeless persons, those with mental illness, veterans, elderly). Specifically services include assessment, treatment plans, intensive case management, crisis stabilization and support, social\/vocational rehabilitation, recreational activities and much more.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "VOLUNTEERS OF AMERICA OF FLORIDA, INC.",
+		"website": "http:\/\/www.voa-fla.org",
+		"slug": "volunteers-of-america-of-florida-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/volunteers-of-america-of-florida-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/volunteers-of-america-of-florida-inc\/locations"
+	},
+	"phones": [{
+		"id": 3280,
+		"department": null,
+		"extension": null,
+		"number": "305-644-0335",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

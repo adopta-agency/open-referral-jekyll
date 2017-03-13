@@ -1,0 +1,48 @@
+{
+	"id": 43,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-76,
+	37],
+	"description": "See listed services",
+	"latitude": 37,
+	"longitude": -76,
+	"name": "Virginia Beach, VA",
+	"short_desc": null,
+	"slug": "virginia-beach-va",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/virginia-beach-va",
+	"address": {
+		"id": 16,
+		"address_1": "1600 Corporate Landing Parkway",
+		"address_2": null,
+		"city": "Virginia Beach",
+		"state_province": "VA",
+		"postal_code": "23454"
+	},
+	"organization": {
+		"id": 43,
+		"accreditations": [],
+		"alternate_name": "ALATEEN; Alanon",
+		"date_incorporated": null,
+		"description": "Provides support for family and friends of people with a drinking problem. Alateen is for adolescents dealing with someone else's drinking.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AL-ANON FAMILY GROUPS",
+		"website": "http:\/\/al-anon.alateen.org\/",
+		"slug": "al-anon-family-groups",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/al-anon-family-groups",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/al-anon-family-groups\/locations"
+	},
+	"phones": [{
+		"id": 43,
+		"department": null,
+		"extension": null,
+		"number": "757-563-1600",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

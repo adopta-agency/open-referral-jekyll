@@ -1,0 +1,48 @@
+{
+	"id": 769,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami Beach, FL",
+	"short_desc": null,
+	"slug": "miami-beach-fl-56981e2b-ddb7-4ffb-8c10-81cdd17691d7",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-beach-fl-56981e2b-ddb7-4ffb-8c10-81cdd17691d7",
+	"address": {
+		"id": 390,
+		"address_1": "833 6th Street",
+		"address_2": "2nd Floor",
+		"city": "Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33139"
+	},
+	"organization": {
+		"id": 760,
+		"accreditations": [],
+		"alternate_name": "Formerly known as South Florida Workforce",
+		"date_incorporated": null,
+		"description": "The CareerSource South Florida funds and oversees workforce development programs for the Miami-Dade and Monroe region. It receives training funds for the South Florida region from the State of Florida. Provides services to people seeking employment, with listings of employment opportunities in the private sector, as well as public service opportunities with local governments, state and federal. Also administers Unemployment Compensation Insurance Claims and offers employment counseling, testing and training referrals for the general public.\\r\\n\\r\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CAREERSOURCE SOUTH FLORIDA",
+		"website": "http:\/\/www.careersourcesfl.com\/",
+		"slug": "careersource-south-florida",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/careersource-south-florida",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/careersource-south-florida\/locations"
+	},
+	"phones": [{
+		"id": 769,
+		"department": null,
+		"extension": null,
+		"number": "305-532-5350",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

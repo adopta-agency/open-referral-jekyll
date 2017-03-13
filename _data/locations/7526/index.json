@@ -1,0 +1,48 @@
+{
+	"id": 7526,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.0962647,
+	24.7105739],
+	"description": "See listed services",
+	"latitude": 24.7105739,
+	"longitude": -81.0962647,
+	"name": "Marathon, FL",
+	"short_desc": null,
+	"slug": "marathon-fl-3117-overseas-highway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/marathon-fl-3117-overseas-highway",
+	"address": {
+		"id": 3493,
+		"address_1": "3117 Overseas Highway",
+		"address_2": null,
+		"city": "Marathon",
+		"state_province": "FL",
+		"postal_code": "33050"
+	},
+	"organization": {
+		"id": 7525,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Monroe County Clerk of Courts provides various services in the criminal, civil, juvenile, traffic, and probate departments. Other areas include: marriage licenses, child support, passports, audits, pre-trial services, domestic violence, and jury service. Also, includes a Family Court that provides help to those people who cannot afford an attorney and Case Management for all Family Court Cases. \\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MONROE COUNTY CLERK OF THE CIRCUIT COURT",
+		"website": "https:\/\/gov.propertyinfo.com\/fl-monroe\/default.asp",
+		"slug": "monroe-county-clerk-of-the-circuit-court",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/monroe-county-clerk-of-the-circuit-court",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/monroe-county-clerk-of-the-circuit-court\/locations"
+	},
+	"phones": [{
+		"id": 7526,
+		"department": null,
+		"extension": null,
+		"number": "305-294-4641",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

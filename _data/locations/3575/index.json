@@ -1,0 +1,48 @@
+{
+	"id": 3575,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -82,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-16af93a1-79ca-4e9d-a04c-1a67833eff52",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/key-west-fl-16af93a1-79ca-4e9d-a04c-1a67833eff52",
+	"address": {
+		"id": 1746,
+		"address_1": "1105 Leon Street",
+		"address_2": null,
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 3574,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides case management, child care, home visits, resource mothers, transportation, early development, exceptional\/learning disabled child education, parenting classes, nutrition and safety education, health care and immunizations. There is a program for four year olds, but applicant must meet federal guidelines.\\r\\n\\r\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HORACE O'BRYANT SCHOOL",
+		"website": "http:\/\/keysschools.schoolfusion.us\/",
+		"slug": "horace-o-bryant-school",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/horace-o-bryant-school",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/horace-o-bryant-school\/locations"
+	},
+	"phones": [{
+		"id": 3575,
+		"department": null,
+		"extension": "65392.0",
+		"number": "305-296-5628",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

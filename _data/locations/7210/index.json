@@ -1,0 +1,48 @@
+{
+	"id": 7210,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-105,
+	40],
+	"description": "See listed services",
+	"latitude": 40,
+	"longitude": -105,
+	"name": "Englewood, CO",
+	"short_desc": null,
+	"slug": "englewood-co",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/englewood-co",
+	"address": {
+		"id": 3237,
+		"address_1": "13059 East Peakview Avenue",
+		"address_2": null,
+		"city": "Englewood",
+		"state_province": "CO",
+		"postal_code": "80111"
+	},
+	"organization": {
+		"id": 7210,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides information and resources about solutions for hearing loss, whether the person is born with it or it develops over time.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COCHLEAR AMERICAS",
+		"website": "http:\/\/www.cochlear.com",
+		"slug": "cochlear-americas",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/cochlear-americas",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/cochlear-americas\/locations"
+	},
+	"phones": [{
+		"id": 7210,
+		"department": null,
+		"extension": null,
+		"number": "800-964-4539",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

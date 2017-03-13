@@ -1,0 +1,48 @@
+{
+	"id": 2383,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1212022,
+	25.8256555],
+	"description": "See listed services",
+	"latitude": 25.8256555,
+	"longitude": -80.1212022,
+	"name": "Miami Beach, FL",
+	"short_desc": null,
+	"slug": "miami-beach-fl-5001-collins-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-beach-fl-5001-collins-avenue",
+	"address": {
+		"id": 1175,
+		"address_1": "5001 Collins Avenue",
+		"address_2": null,
+		"city": "Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33140"
+	},
+	"organization": {
+		"id": 2383,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Auxilio al Inmigrante strives to serve the needs of immigrants by vetting professionals who can take care of and speak the language of the individuals being served people. Provides information and legal advice on how immigrants can navigate the system without being taken advantage of. Also provides information on where to obtain legal advice that is affordable or based on a sliding scale.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AUXILIO AL INMIGRANTE, INC.",
+		"website": null,
+		"slug": "auxilio-al-inmigrante-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/auxilio-al-inmigrante-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/auxilio-al-inmigrante-inc\/locations"
+	},
+	"phones": [{
+		"id": 2383,
+		"department": null,
+		"extension": null,
+		"number": "786-499-8798",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

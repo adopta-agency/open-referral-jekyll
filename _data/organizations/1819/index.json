@@ -1,0 +1,38 @@
+{
+	"id": 1819,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The National Center for Victims of Crime provide information and referral services for victims of all crime. Referrals made to local service providers. Advocacy when service providers are not available. Also provides victims of crime referrals to attorneys for consultation and information about civil litigation.\\n\\n###COL###\\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NATIONAL CENTER FOR VICTIMS OF CRIME, INC.",
+	"website": "http:\/\/www.ncvc.org",
+	"slug": "national-center-for-victims-of-crime-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/national-center-for-victims-of-crime-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/national-center-for-victims-of-crime-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 1819,
+		"name": "Mai Fernandez",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 1819,
+			"department": null,
+			"extension": null,
+			"number": "202-467-8700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1819,
+		"department": null,
+		"extension": null,
+		"number": "202-467-8700",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

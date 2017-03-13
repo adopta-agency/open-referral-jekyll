@@ -1,0 +1,41 @@
+{
+	"id": 8135,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2212777,
+	25.8357628],
+	"description": "See listed services",
+	"latitude": 25.8357628,
+	"longitude": -80.2212777,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-6700-nw-14th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-6700-nw-14th-avenue",
+	"address": {
+		"id": 4040,
+		"address_1": "6700 NW 14th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33147"
+	},
+	"organization": {
+		"id": 2294,
+		"accreditations": [],
+		"alternate_name": "NJCDC",
+		"date_incorporated": null,
+		"description": "New Jerusalem Community Development Corporation provides a year round out-of school program that provides academic support, social skills development, literacy skills through the arts and physical fitness.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NEW JERUSALEM COMMUNITY DEVELOPMENT CORPORATION - AFTER SCHOOL PROGRAM",
+		"website": "http:\/\/www.newjerusalemcdc.org",
+		"slug": "new-jerusalem-community-development-corporation-after-school-program",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/new-jerusalem-community-development-corporation-after-school-program",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/new-jerusalem-community-development-corporation-after-school-program\/locations"
+	},
+	"phones": []
+}

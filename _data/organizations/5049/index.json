@@ -1,0 +1,38 @@
+{
+	"id": 5049,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Exotic animal rescue and sanctuary. Educational visits by appointment only. Education programs and speaking engagements by appointment at other locations and events. Programs use the animals to focus on: environmental conservation, finding life purpose, how to safely approach strange animals, personal space bubbles, kindness to all, responsibility, and good stewardship.\\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SHY WOLF SANCTUARY EDUCATION AND EXPERIENCE CENTER INC.",
+	"website": "http:\/\/www.shywolfsanctuary.com",
+	"slug": "shy-wolf-sanctuary-education-and-experience-center-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/shy-wolf-sanctuary-education-and-experience-center-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/shy-wolf-sanctuary-education-and-experience-center-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "admin@shywolfsanctuary.com",
+		"id": 5049,
+		"name": "Deanna Deppen",
+		"title": "President",
+		"phones": [{
+			"id": 5049,
+			"department": null,
+			"extension": null,
+			"number": "855-749-9653",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5049,
+		"department": null,
+		"extension": null,
+		"number": "855-749-9653",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 1856,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-91d53a9b-9ce4-42ee-aaa3-055c3b9ea8a9",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-91d53a9b-9ce4-42ee-aaa3-055c3b9ea8a9",
+	"address": {
+		"id": 976,
+		"address_1": "901 SW 62nd Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33144"
+	},
+	"organization": {
+		"id": 1856,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The City of West Miami is committed to providing the highest quality of life and municipal services for our community and our residents, merchants, businesses, visitors and employees.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CITY OF WEST MIAMI",
+		"website": "http:\/\/www.cityofwestmiamifl.com",
+		"slug": "city-of-west-miami",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-west-miami",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-west-miami\/locations"
+	},
+	"phones": [{
+		"id": 1856,
+		"department": null,
+		"extension": null,
+		"number": "305-266-1122",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

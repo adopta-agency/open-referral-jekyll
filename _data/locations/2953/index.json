@@ -1,0 +1,48 @@
+{
+	"id": 2953,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Hialeah Gardens, FL",
+	"short_desc": null,
+	"slug": "hialeah-gardens-fl-10301-nw-87th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/hialeah-gardens-fl-10301-nw-87th-avenue",
+	"address": {
+		"id": 1465,
+		"address_1": "10301 NW 87th Avenue",
+		"address_2": null,
+		"city": "Hialeah Gardens",
+		"state_province": "FL",
+		"postal_code": "33016"
+	},
+	"organization": {
+		"id": 2949,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The City of Hialeah Gardens is committed to providing the highest quality of life and municipal services for our community and our residents, merchants, businesses, visitors and employees by setting the standard for public service in an All-America City through excellence, integrity & inclusion.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CITY OF HIALEAH GARDENS",
+		"website": "http:\/\/www.cityofhialeahgardens.com",
+		"slug": "city-of-hialeah-gardens",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-hialeah-gardens",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-hialeah-gardens\/locations"
+	},
+	"phones": [{
+		"id": 2953,
+		"department": null,
+		"extension": null,
+		"number": "305-558-3333",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

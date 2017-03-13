@@ -1,0 +1,48 @@
+{
+	"id": 3311,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-a1c6e9a9-c7ce-4c3f-a053-39dab7b70429",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-a1c6e9a9-c7ce-4c3f-a053-39dab7b70429",
+	"address": {
+		"id": 1632,
+		"address_1": "11865 SW 26th Street",
+		"address_2": "Suite G-10",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33175"
+	},
+	"organization": {
+		"id": 3311,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Clinic offering general medicine, family practice, pediatrics (2 years and older), internal medicine, preventive medicine, women's health, gynecology, podiatry, general surgery, geriatric medicine, orthopedics, gynecology, podiatry, cardiology, neurology, urology, endocrinology, ophthalmology, skin care, psychiatry, pulmonology, allergy, general radiology, mammography, optical.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CENTROS MEDICOS LAS AMERICAS, INC.",
+		"website": "http:\/\/www.cmaclinic.com",
+		"slug": "centros-medicos-las-americas-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/centros-medicos-las-americas-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/centros-medicos-las-americas-inc\/locations"
+	},
+	"phones": [{
+		"id": 3311,
+		"department": null,
+		"extension": null,
+		"number": "866-254-6428",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

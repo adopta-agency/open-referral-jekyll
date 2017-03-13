@@ -1,0 +1,61 @@
+{
+	"id": 5116,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Senior Friendship Centers offers a network of centers throughout Southwest Florida providing primary healthcare services, some specialty medical services include general dentistry assistance with medication, compassionate drug program applications, dining programs, wellness programs, support groups, and recreational activities.\\n \\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SENIOR FRIENDSHIP CENTERS, INC.",
+	"website": "http:\/\/www.friendshipcenters.org",
+	"slug": "senior-friendship-centers-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/senior-friendship-centers-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/senior-friendship-centers-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 5116,
+		"name": "Robert Carter",
+		"title": "CEO",
+		"phones": [{
+			"id": 5116,
+			"department": null,
+			"extension": null,
+			"number": "941-955-2122",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "bgamel@friendshipcenters.org",
+		"id": 5117,
+		"name": "Betty Gamel",
+		"title": "Collier Director",
+		"phones": [{
+			"id": 5117,
+			"department": null,
+			"extension": null,
+			"number": "239-566-7425",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5116,
+		"department": null,
+		"extension": null,
+		"number": "941-955-2122",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5117,
+		"department": null,
+		"extension": null,
+		"number": "239-566-7425",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

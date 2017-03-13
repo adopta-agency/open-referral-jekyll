@@ -1,0 +1,61 @@
+{
+	"id": 1989,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "United Martial Arts Academy, Inc. offers martial art classes, after school program, summer camp and winter\/spring break camps to students aged 5 through 18 along with their families with the scope including form, kickboxing, kung-fu, llama, Philippine cali sticks, aerobic martial arts, self-defense, chi breathing, meditation and relaxation. We are an inclusive program with a literacy component. We serve the local community of Homestead and Florida City with emphasis on family, how to overcome adversity, cooperation and hard work.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "UNITED MARTIAL ARTS ACADEMY, INC.",
+	"website": "http:\/\/h2oboxing.com",
+	"slug": "united-martial-arts-academy-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-martial-arts-academy-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-martial-arts-academy-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "kellyr430@gmail.com",
+		"id": 1989,
+		"name": "Enrique Regalado",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 1989,
+			"department": null,
+			"extension": null,
+			"number": "786-366-2784",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kellyr430@gmail.com",
+		"id": 1990,
+		"name": "Kelly Regalado",
+		"title": "Program Director",
+		"phones": [{
+			"id": 1990,
+			"department": null,
+			"extension": null,
+			"number": "786-357-4255",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1989,
+		"department": null,
+		"extension": null,
+		"number": "786-366-2784",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1990,
+		"department": null,
+		"extension": null,
+		"number": "786-357-4255",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

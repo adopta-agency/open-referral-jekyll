@@ -1,0 +1,48 @@
+{
+	"id": 2291,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Fort Lauderdale, FL",
+	"short_desc": null,
+	"slug": "fort-lauderdale-fl-100-south-pine-island-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/fort-lauderdale-fl-100-south-pine-island-road",
+	"address": {
+		"id": 1139,
+		"address_1": "100 South Pine Island Road",
+		"address_2": "Suite 148",
+		"city": "Fort Lauderdale",
+		"state_province": "FL",
+		"postal_code": "33324"
+	},
+	"organization": {
+		"id": 2291,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Local Offices throughout Dade and Broward that provides DNA identification testing for paternity, maternity confirmation and also for immigration purposes. Also provides sibling ship, grand paternity, family reconstruction, and infidelity testing. Assists with all issues pertaining to DNA paternity establishment information and provides information to clients on where to find support within our local community to assist them. All services are confidential.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ALL ABOUT TRUTH DNA SERVICES, INC.",
+		"website": "http:\/\/www.dna-testingsouthflorida.com",
+		"slug": "all-about-truth-dna-services-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/all-about-truth-dna-services-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/all-about-truth-dna-services-inc\/locations"
+	},
+	"phones": [{
+		"id": 2291,
+		"department": null,
+		"extension": null,
+		"number": "954-633-2717",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

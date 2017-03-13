@@ -1,0 +1,48 @@
+{
+	"id": 6555,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-72ed0188-15b9-4572-9edc-0da5fe844f92",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-72ed0188-15b9-4572-9edc-0da5fe844f92",
+	"address": {
+		"id": 2807,
+		"address_1": "970 SW 1st Street",
+		"address_2": "3rd & 4th Floors",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33128"
+	},
+	"organization": {
+		"id": 6254,
+		"accreditations": [],
+		"alternate_name": "MIAMI-DADE COUNTY COMMUNITY ACTION AND HUMAN SERVICES",
+		"date_incorporated": null,
+		"description": "Community Resource Centers provide a variety of social services to economically disadvantaged individuals and families interested in achieving self-sufficiency. These services are provided through Community Action and Human Services' Self Help Institute and are offered at various service centers throughout Miami-Dade County.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "M-DC CAHS - ACCION COMMUNITY RESOURCE CENTER",
+		"website": "http:\/\/www.miamidade.gov\/socialservices\/center-little-havana.asp",
+		"slug": "m-dc-cahs-accion-community-resource-center",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/m-dc-cahs-accion-community-resource-center",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/m-dc-cahs-accion-community-resource-center\/locations"
+	},
+	"phones": [{
+		"id": 6555,
+		"department": null,
+		"extension": null,
+		"number": "305-545-2224",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

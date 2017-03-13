@@ -1,0 +1,48 @@
+{
+	"id": 7505,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.017732,
+	24.72186],
+	"description": "See listed services",
+	"latitude": 24.72186,
+	"longitude": -81.017732,
+	"name": "Marathon, FL",
+	"short_desc": null,
+	"slug": "marathon-fl-306-sadowski-causeway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/marathon-fl-306-sadowski-causeway",
+	"address": {
+		"id": 3473,
+		"address_1": "306 Sadowski Causeway",
+		"address_2": null,
+		"city": "Marathon",
+		"state_province": "FL",
+		"postal_code": "33050"
+	},
+	"organization": {
+		"id": 6941,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "FishermenG\u00c7\u00d6s Hospital is a non-profit community healthcare facility. We strive to continually improve the health status of our community, by providing high quality, cost effective health care, education and wellness services. Community well-being is our overriding goal and we strive to find new ways to keep the residents of our community healthy. We recognize the value of every person and are guided by our commitment to excellence.\\n\\nServices provided include:\\n* Emergency Services\\n* Diagnostic Imaging \\n* Surgical Services\\n* Laboratory\\n* Respiratory\/Cardiology \\n* Physical Therapy\\n* Pharmacy\\n* Infection Control\\n* Dietary Services\\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FISHERMEN'S COMMUNITY HOSPITAL, INC.",
+		"website": "http:\/\/www.fishermenshospital.org",
+		"slug": "fishermen-s-community-hospital-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/fishermen-s-community-hospital-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/fishermen-s-community-hospital-inc\/locations"
+	},
+	"phones": [{
+		"id": 7505,
+		"department": null,
+		"extension": null,
+		"number": "305-735-4107",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

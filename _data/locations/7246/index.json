@@ -1,0 +1,48 @@
+{
+	"id": 7246,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1906149,
+	25.8005322],
+	"description": "See listed services",
+	"latitude": 25.8005322,
+	"longitude": -80.1906149,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-222-ne-25th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-222-ne-25th-street",
+	"address": {
+		"id": 3263,
+		"address_1": "222 NE 25th Street",
+		"address_2": "Unit 102",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33137"
+	},
+	"organization": {
+		"id": 7246,
+		"accreditations": [],
+		"alternate_name": "Project LEAP @ Miami Dance Studio",
+		"date_incorporated": null,
+		"description": "Project LEAP (Living Equality through Arts and Performance) provides free weekly dance classes, as well as other performing arts training. The focus is on LGBTQ (lesbian, gay, bisexual, transgender, queer or questioning) identifying teens, who are interested in learning to use the arts for social change and community activism.\\n\\nProject LEAP is a program created by the Pioneer Winter Collective. Pioneer Winter Collective fiscally sponsored by the Miami Beach Arts Trust, Inc.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "PROJECT LEAP",
+		"website": "http:\/\/www.pioneerwinter.com\/project-leap",
+		"slug": "project-leap",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/project-leap",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/project-leap\/locations"
+	},
+	"phones": [{
+		"id": 7246,
+		"department": null,
+		"extension": null,
+		"number": "786-925-8292",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

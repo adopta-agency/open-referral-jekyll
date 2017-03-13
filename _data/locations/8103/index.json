@@ -1,0 +1,48 @@
+{
+	"id": 8103,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.648795,
+	26.615379],
+	"description": "See listed services",
+	"latitude": 26.615379,
+	"longitude": -81.648795,
+	"name": "Lehigh Acres, FL",
+	"short_desc": null,
+	"slug": "lehigh-acres-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/lehigh-acres-fl",
+	"address": {
+		"id": 4009,
+		"address_1": "1130 Lee Boulevard",
+		"address_2": "Unit D",
+		"city": "Lehigh Acres",
+		"state_province": "FL",
+		"postal_code": "33936"
+	},
+	"organization": {
+		"id": 6297,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Miller Healthcare's focus is in providing quality home care to your loved ones, to promote independence and enhance their quality of life. Our caregivers will assist you to live safely and independently in the comfort of your home. We are very successful in matching the best caregivers to the clients.\\n\\nMiller Healthcare is an SMMC LTC provider and we are also ADA, APD, PAC and PCA providers. We accept assignments for long term care insurance. We also accept private pay, private insurance, HMOs and workmen's Compensation.\\n\\nIf you have any questions, we will be more than happy to meet with you and contact your insurance company to help determine eligibility and benefits. Call us today for your free evaluation.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MILLER HEALTHCARE NETWORK, LLC.",
+		"website": "http:\/\/www.needcareathome.com",
+		"slug": "miller-healthcare-network-llc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miller-healthcare-network-llc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miller-healthcare-network-llc\/locations"
+	},
+	"phones": [{
+		"id": 8103,
+		"department": null,
+		"extension": null,
+		"number": "239-200-6999",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

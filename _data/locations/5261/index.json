@@ -1,0 +1,48 @@
+{
+	"id": 5261,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -82,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-8570-danbury-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-8570-danbury-boulevard",
+	"address": {
+		"id": 2239,
+		"address_1": "8570 Danbury Boulevard",
+		"address_2": "Suite 202",
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34120"
+	},
+	"organization": {
+		"id": 5261,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides free diapers and kindness to children from birth to age three whose parents are working and not receiving federal or state cash assistance. Must be screened by local social service agencies. \\r\\n\\r\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BABY BASICS OF COLLIER COUNTY, INC.",
+		"website": "http:\/\/babybasicscollier.org",
+		"slug": "baby-basics-of-collier-county-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/baby-basics-of-collier-county-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/baby-basics-of-collier-county-inc\/locations"
+	},
+	"phones": [{
+		"id": 5261,
+		"department": null,
+		"extension": null,
+		"number": "239-352-4310",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

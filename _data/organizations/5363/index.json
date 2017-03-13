@@ -1,0 +1,38 @@
+{
+	"id": 5363,
+	"accreditations": [],
+	"alternate_name": "ART LEAGUE OF MARCO ISLAND",
+	"date_incorporated": null,
+	"description": "The Arts Center is the home of the Art League, which was started over 40 years ago. It has since developed into a major Center for the Arts center available to those who wish to enrich their lives and those of others, and to create a greater sense of purpose in life. \\r\\n\\r\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MARCO ISLAND CENTER FOR THE ARTS",
+	"website": "http:\/\/www.marcoislandart.org\/",
+	"slug": "marco-island-center-for-the-arts",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/marco-island-center-for-the-arts",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/marco-island-center-for-the-arts\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "debbie@marcoislandart.org",
+		"id": 5363,
+		"name": "Debbie Kuindersma",
+		"title": "Office Manager",
+		"phones": [{
+			"id": 5363,
+			"department": null,
+			"extension": null,
+			"number": "239-394-4221",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5363,
+		"department": null,
+		"extension": null,
+		"number": "239-394-4221",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

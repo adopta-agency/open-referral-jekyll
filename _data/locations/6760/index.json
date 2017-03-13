@@ -1,0 +1,48 @@
+{
+	"id": 6760,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -80,
+	"name": "Florida City, FL",
+	"short_desc": null,
+	"slug": "florida-city-fl-4df5f4e9-749b-4c5a-956a-6b7b695c1cb6",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/florida-city-fl-4df5f4e9-749b-4c5a-956a-6b7b695c1cb6",
+	"address": {
+		"id": 2932,
+		"address_1": "1600 NW 6th Court",
+		"address_2": null,
+		"city": "Florida City",
+		"state_province": "FL",
+		"postal_code": "33034"
+	},
+	"organization": {
+		"id": 6756,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Miami-Dade County offers a variety of elderly and individuals with disabilities programs.\\n\\nEl condado de Miami - Dade ofrece una variedad de programas para personas mayores y personas discapacidads.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "M-DC CAHS - ELDERLY AND DISABILITY SERVICES",
+		"website": "http:\/\/www.miamidade.gov\/socialservices\/elderly-services.asp",
+		"slug": "m-dc-cahs-elderly-and-disability-services",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/m-dc-cahs-elderly-and-disability-services",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/m-dc-cahs-elderly-and-disability-services\/locations"
+	},
+	"phones": [{
+		"id": 6760,
+		"department": null,
+		"extension": null,
+		"number": "305-242-7650",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

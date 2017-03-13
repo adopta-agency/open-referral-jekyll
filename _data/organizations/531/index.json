@@ -1,0 +1,40 @@
+{
+	"id": 531,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Concept House is a not for profit social service agency licensed by the State of Florida Department of Children and Families. Serves the residents of Miami-Dade County in need of substance abuse treatment.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CONCEPT HEALTH SYSTEMS, INC.",
+	"website": "http:\/\/www.concepthouse.org\/",
+	"slug": "concept-health-systems-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/concept-health-systems-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/concept-health-systems-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@concepthouse.org",
+		"id": 531,
+		"name": "Nicholas Koenig",
+		"title": "Executive Director",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "info@concepthouse.org",
+		"id": 532,
+		"name": "Nicholas Koenig",
+		"title": "Executive Director",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "info@concepthouse.org",
+		"id": 533,
+		"name": "Nicholas Koenig",
+		"title": "Executive Director",
+		"phones": []
+	}],
+	"phones": []
+}

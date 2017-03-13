@@ -1,0 +1,48 @@
+{
+	"id": 3438,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.4304752,
+	25.4792269],
+	"description": "See listed services",
+	"latitude": 25.4792269,
+	"longitude": -80.4304752,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-1500c754-9510-425b-b736-596249ae4b82",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/homestead-fl-1500c754-9510-425b-b736-596249ae4b82",
+	"address": {
+		"id": 1686,
+		"address_1": "975 Baptist Way",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33033"
+	},
+	"organization": {
+		"id": 3438,
+		"accreditations": [],
+		"alternate_name": "Baptist Health South Florida",
+		"date_incorporated": null,
+		"description": "Homestead Hospital is a 142-bed full-service hospital facility that provides 24 hour emergency services with a dedicated area for children, medical, surgical and diagnostic services, orthopedics, obstetrics, diabetes program and other services.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HOMESTEAD HOSPITAL, INC.",
+		"website": "https:\/\/baptisthealth.net\/en\/facilities\/homestead-hospital\/pages\/default.aspx",
+		"slug": "homestead-hospital-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/homestead-hospital-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/homestead-hospital-inc\/locations"
+	},
+	"phones": [{
+		"id": 3438,
+		"department": null,
+		"extension": null,
+		"number": "786-243-8000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 7857,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.4182462,
+	26.4243074],
+	"description": "See listed services",
+	"latitude": 26.4243074,
+	"longitude": -81.4182462,
+	"name": "Immokalee, FL",
+	"short_desc": null,
+	"slug": "immokalee-fl-417-north-1st-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/immokalee-fl-417-north-1st-street",
+	"address": {
+		"id": 3781,
+		"address_1": "417 North 1st Street",
+		"address_2": null,
+		"city": "Immokalee",
+		"state_province": "FL",
+		"postal_code": "34142"
+	},
+	"organization": {
+		"id": 5110,
+		"accreditations": [],
+		"alternate_name": "AVOW",
+		"date_incorporated": null,
+		"description": "End of life care for patients and support for their families. Grief support for those who have lost a loved one or pet. Education for caregivers and on a variety of end of life topics. Grief support for children. \\r\\n\\r\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AVOW HOSPICE, INC.",
+		"website": "http:\/\/www.avowhospice.org",
+		"slug": "avow-hospice-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/avow-hospice-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/avow-hospice-inc\/locations"
+	},
+	"phones": [{
+		"id": 7857,
+		"department": null,
+		"extension": null,
+		"number": "239-261-4404",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

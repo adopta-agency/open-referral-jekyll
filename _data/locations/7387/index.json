@@ -1,0 +1,48 @@
+{
+	"id": 7387,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.5291987,
+	24.6608533],
+	"description": "See listed services",
+	"latitude": 24.6608533,
+	"longitude": -81.5291987,
+	"name": "Sugarloaf, FL",
+	"short_desc": null,
+	"slug": "sugarloaf-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/sugarloaf-fl",
+	"address": {
+		"id": 3372,
+		"address_1": "255 Crane Boulevard",
+		"address_2": null,
+		"city": "Sugarloaf",
+		"state_province": "FL",
+		"postal_code": "33042"
+	},
+	"organization": {
+		"id": 6720,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Monroe County Public Schools is a public-governmental institution responsible for the public education of students residing in Monroe County from pre-kindergarten to adult education.\\r\\n\\r\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MONROE COUNTY PUBLIC SCHOOL DISTRICT",
+		"website": "http:\/\/www.keysschools.schoolfusion.us\/",
+		"slug": "monroe-county-public-school-district",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/monroe-county-public-school-district",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/monroe-county-public-school-district\/locations"
+	},
+	"phones": [{
+		"id": 7387,
+		"department": null,
+		"extension": null,
+		"number": "305-293-1646",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

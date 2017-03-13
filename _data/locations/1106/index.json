@@ -1,0 +1,48 @@
+{
+	"id": 1106,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-4500-biscayne-blvd",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-4500-biscayne-blvd",
+	"address": {
+		"id": 582,
+		"address_1": "4500 Biscayne Blvd",
+		"address_2": "Suite 100",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33137"
+	},
+	"organization": {
+		"id": 1106,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Foster Care Review (FCR) is a non-profit organization that monitors the cases of abused, neglected and abandoned children placed in foster care. In an overburdened system, FCR ensures that children and youth living in our community's foster care system have adults who will look out for their best interests and needs such as healthcare, stable schooling and safe, permanent homes.\\n\\nTo accomplish this, we rely on our greatest strength - concerned citizens. Volunteers serve one weekday per month on citizen review panels to conduct case review hearings to monitor the wellbeing of each child. Recommendations are submitted to the court for services the child needs and actions that should be taken to ensure the child's safety, wellbeing and progress towards finding a permanent home. With each panel's recommendations, a juvenile court judge gains the insight of five committed adults who have heard the facts, considered the options and serve as advocates for each child.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA FOSTER CARE REVIEW, INC.",
+		"website": "http:\/\/www.fostercarereview.org",
+		"slug": "florida-foster-care-review-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-foster-care-review-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-foster-care-review-inc\/locations"
+	},
+	"phones": [{
+		"id": 1106,
+		"department": null,
+		"extension": "140.0",
+		"number": "305-573-6665",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

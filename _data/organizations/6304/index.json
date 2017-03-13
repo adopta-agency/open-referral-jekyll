@@ -1,0 +1,38 @@
+{
+	"id": 6304,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Fort Lauderdale Hospital is a fully licensed, 100-bed, private hospital that specializes in the treatment of drug addiction, mental health issues and co-occurring disorders for adolescents (11-17), adults (18+), and seniors (55+).",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FORT LAUDERDALE HOSPITAL",
+	"website": "http:\/\/fortlauderdalehospital.org\/",
+	"slug": "fort-lauderdale-hospital",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/fort-lauderdale-hospital",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/fort-lauderdale-hospital\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 6304,
+		"name": "Manny Llano",
+		"title": "CEO",
+		"phones": [{
+			"id": 6304,
+			"department": null,
+			"extension": null,
+			"number": "954-463-4321",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6304,
+		"department": null,
+		"extension": null,
+		"number": "954-463-4321",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

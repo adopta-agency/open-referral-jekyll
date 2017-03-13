@@ -1,0 +1,48 @@
+{
+	"id": 6147,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-c1376b97-1458-4e08-9b86-eb8a7843fdf8",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-c1376b97-1458-4e08-9b86-eb8a7843fdf8",
+	"address": {
+		"id": 2623,
+		"address_1": "8950 North Kendall Drive",
+		"address_2": "Suite 105",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33176"
+	},
+	"organization": {
+		"id": 2307,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Baptist Health is made up of a team of: 15,000 employees and 2,200 physicians in virtually all specialties G\u00c7\u00f6 many with national and international reputations. \\n\\nBaptist Outpatient Services: \\nLocated throughout South Florida, Baptist Medical Plazas and outpatient facilities provides surgical, diagnostic and urgent care services in a comfortable, relaxing environment. \\n\\nBaptist Health International Services:\\nServices more than 12,000 people, primarily from Latin America and the Caribbean. Our multilingual staff provides personalized service every step of the way. \\n\\nOur Facilities:\\n\\n\\n* Baptist Hospital of Miami \\n* Baptist Children's Hospital \\n* Doctors Hospital\\n* Homestead Hospital\\n* Mariners Hospital\\n* South Miami Hospital \\n* West Kendall Baptist Hospital \\n* Miami Cardiac & Vascular Institute",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BAPTIST HEALTH SOUTH FLORIDA, INC.",
+		"website": "http:\/\/www.baptisthealth.net",
+		"slug": "baptist-health-south-florida-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/baptist-health-south-florida-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/baptist-health-south-florida-inc\/locations"
+	},
+	"phones": [{
+		"id": 6147,
+		"department": null,
+		"extension": null,
+		"number": "786-598-3812",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

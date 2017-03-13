@@ -1,0 +1,48 @@
+{
+	"id": 1853,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3262047,
+	25.8106288],
+	"description": "See listed services",
+	"latitude": 25.8106288,
+	"longitude": -80.3262047,
+	"name": "Doral, FL",
+	"short_desc": null,
+	"slug": "doral-fl-3900-nw-79th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/doral-fl-3900-nw-79th-avenue",
+	"address": {
+		"id": 974,
+		"address_1": "3900 NW 79th Avenue",
+		"address_2": "Suite 575",
+		"city": "Doral",
+		"state_province": "FL",
+		"postal_code": "33166"
+	},
+	"organization": {
+		"id": 1853,
+		"accreditations": [],
+		"alternate_name": "A EVE'S CLINIC AND REFERRAL SERVICE",
+		"date_incorporated": null,
+		"description": "Provides specialized, low cost female medical care in a serene, supportive atmosphere. Services include non- surgical, 1st and 2nd trimester abortions with general anesthesia, birth control and pro-choice family planning counseling, breast exams, lab testing, pregnancy and STD testing, ultrasound examinations, gynecologic services women and teen counseling and outreach programs to school students. \\n\\nCenter offers the following free services: \\n* Women and teen counseling - birth control, family planning, termination, STD, nutrition, menstrual cycle, tubal-ligation, etc.\\n* Pregnancy confirmation services - testing, ultrasound exam, counseling\\n\\nSome gynecological services include:\\n* Pap smears\\n* Birth control\\n* Contraception\\n* Ultrasound\\n* STD's\\n* Uterine & vaginal prolapse\\n* Well-women visits\\n* Weight management & weight loss\\n* Laboratory work",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "EVE'S CLINIC REFERRAL SERVICES, INC.",
+		"website": "http:\/\/www.eveabortioncarespecialists.com",
+		"slug": "eve-s-clinic-referral-services-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/eve-s-clinic-referral-services-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/eve-s-clinic-referral-services-inc\/locations"
+	},
+	"phones": [{
+		"id": 1853,
+		"department": null,
+		"extension": null,
+		"number": "305-591-2288",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

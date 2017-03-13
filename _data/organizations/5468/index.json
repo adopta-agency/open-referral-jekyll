@@ -1,0 +1,38 @@
+{
+	"id": 5468,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Naples Botanical Garden is creating a world class paradise that combines delightful cultivated tropical gardens with beautifully restored natural habitats. The Garden connects people and plants through display, education, conservation and science. It will be a community gathering place and an exceptional venue for exploring our natural world as well as enjoying special events, traveling exhibitions and performances. \\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NAPLES BOTANICAL GARDEN, INC.",
+	"website": "http:\/\/www.naplesgarden.org",
+	"slug": "naples-botanical-garden-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/naples-botanical-garden-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/naples-botanical-garden-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@naplesgarden.org",
+		"id": 5468,
+		"name": "Brian Holley",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5468,
+			"department": null,
+			"extension": null,
+			"number": "239-643-7275",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5468,
+		"department": null,
+		"extension": null,
+		"number": "239-643-7275",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

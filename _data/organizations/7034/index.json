@@ -1,0 +1,38 @@
+{
+	"id": 7034,
+	"accreditations": [],
+	"alternate_name": "BVMP",
+	"date_incorporated": null,
+	"description": "The Bahama Village Music Program is a free musical education and instruction to children aged 6 to 16 years old in the Key West community. The program creates a great sense of community spirit and pride, fosters important mentor relationships between local teenage musicians and their students, encourages parent participation, and enhances studentG\u00c7\u00d6s self-esteem.\\n\\nBahama Village Music Program offers individualized lessons in piano, guitar, flute, clarinet, saxophone, trumpet, and percussion.\\n\\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "BAHAMA VILLAGE MUSIC PROGRAM, INC.",
+	"website": "http:\/\/www.bvmpkw.org",
+	"slug": "bahama-village-music-program-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/bahama-village-music-program-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/bahama-village-music-program-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "katchen@bvmpkw.org",
+		"id": 7034,
+		"name": "Katchen Duncan",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7034,
+			"department": null,
+			"extension": null,
+			"number": "305-504-7664",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7034,
+		"department": null,
+		"extension": null,
+		"number": "305-504-7664",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

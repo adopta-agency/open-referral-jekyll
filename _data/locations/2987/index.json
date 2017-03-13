@@ -1,0 +1,48 @@
+{
+	"id": 2987,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Opa Locka, FL",
+	"short_desc": null,
+	"slug": "opa-locka-fl-4775-nw-199th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/opa-locka-fl-4775-nw-199th-street",
+	"address": {
+		"id": 1497,
+		"address_1": "4775 NW 199th Street",
+		"address_2": null,
+		"city": "Opa Locka",
+		"state_province": "FL",
+		"postal_code": "33055"
+	},
+	"organization": {
+		"id": 2956,
+		"accreditations": [],
+		"alternate_name": "M-DC FIRE RESCUE DEPARTMENT",
+		"date_incorporated": null,
+		"description": "Miami-Dade Fire Rescue are dedicated to providing professional, timely and life-saving responses to a variety of emergency situations. Parent(s) seeking to abandon their newborn infants may drop them off at any Miami-Dade Fire Rescue Station as a last resort. To report chemical spills, dial 911.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI-DADE COUNTY FIRE RESCUE DEPARTMENT",
+		"website": "http:\/\/www.miamidade.gov\/fire\/",
+		"slug": "miami-dade-county-fire-rescue-department",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-fire-rescue-department",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-fire-rescue-department\/locations"
+	},
+	"phones": [{
+		"id": 2987,
+		"department": null,
+		"extension": null,
+		"number": "786-331-5000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

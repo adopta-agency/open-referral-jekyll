@@ -1,0 +1,48 @@
+{
+	"id": 1448,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-7b1f57f4-7dc9-44cd-9652-d049b6201c38",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-7b1f57f4-7dc9-44cd-9652-d049b6201c38",
+	"address": {
+		"id": 755,
+		"address_1": "22790 SW 112th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33170"
+	},
+	"organization": {
+		"id": 1443,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Agape is a non-denominational faith-based community health center. The goal is to ensure a successful transition to a new and hopeful beginning. Agape's success stems from on-of-a-kind integration of services to meet client's Psychological, Social, Physical and Spiritual needs.\\n\\nAgape no es un centro de salud de la comunidad basado en la fe . El objetivo es garantizar una transici+\u00a6n exitosa hacia un nuevo y esperanzador comienzo. El +\u00acxito de Agape proviene de un tipo de integraci+\u00a6n de servicios para satisfacer las necesidades Psicol+\u00a6gicas, Sociales, F+\u00a1sicas y Espirituales de los clientes.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AGAPE NETWORK, INC.",
+		"website": "http:\/\/theagapenetwork.org\/",
+		"slug": "agape-network-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/agape-network-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/agape-network-inc\/locations"
+	},
+	"phones": [{
+		"id": 1448,
+		"department": null,
+		"extension": null,
+		"number": "305-235-2616",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,61 @@
+{
+	"id": 1823,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Port St. Lucie Hospital is a 75-bed, inpatient mental health facility located on 20 acres near the Savannas. The hospital has varying programs that can be tailored to patient needs as well as the traditional 28 day inpatient treatment program for patients with chemical dependency issues. The hospital offers 24 hour mental health services provided by licensed professionals in various disciplines.\\n\\nPort St. Lucie Hospital is a state-licensed, Medicare-approved and Joint Commission (JACHO) Accredited facility. Self-pay and Medicare clients are welcome.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "PORT SAINT LUCIE HOSPITAL, INC.",
+	"website": "http:\/\/www.portstluciehospitalinc.com",
+	"slug": "port-saint-lucie-hospital-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/port-saint-lucie-hospital-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/port-saint-lucie-hospital-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "admissions@pslhospital.com",
+		"id": 1823,
+		"name": "Michael T. Hogan",
+		"title": "CEO",
+		"phones": [{
+			"id": 1823,
+			"department": null,
+			"extension": null,
+			"number": "772-335-0400",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "admissions@pslhospital.com",
+		"id": 1824,
+		"name": "Michael T. Hogan",
+		"title": "CEO",
+		"phones": [{
+			"id": 1824,
+			"department": null,
+			"extension": null,
+			"number": "772-335-0400",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1823,
+		"department": null,
+		"extension": null,
+		"number": "772-335-0400",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1824,
+		"department": null,
+		"extension": null,
+		"number": "772-335-0400",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

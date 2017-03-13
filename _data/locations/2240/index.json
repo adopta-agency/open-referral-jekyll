@@ -1,0 +1,48 @@
+{
+	"id": 2240,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-76.8066954,
+	39.1802156],
+	"description": "See listed services",
+	"latitude": 39.1802156,
+	"longitude": -76.8066954,
+	"name": "Columbia, MD",
+	"short_desc": null,
+	"slug": "columbia-md",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/columbia-md",
+	"address": {
+		"id": 1123,
+		"address_1": "7168 Columbia Gateway Drive",
+		"address_2": "Suite 100",
+		"city": "Columbia",
+		"state_province": "MD",
+		"postal_code": "21046"
+	},
+	"organization": {
+		"id": 2240,
+		"accreditations": [],
+		"alternate_name": "FFB",
+		"date_incorporated": null,
+		"description": "FFB offers information and referral services for affected individuals and their families as well as for doctors and eye care professionals. The Foundation also provides comprehensive information kits on retinitis pigmentosa, macular degeneration, and usher syndrome.\\r\\n\\r\\n###MON###\\r\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE FOUNDATION FIGHTING BLINDNESS, INC.",
+		"website": "http:\/\/www.fightblindness.org",
+		"slug": "the-foundation-fighting-blindness-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-foundation-fighting-blindness-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-foundation-fighting-blindness-inc\/locations"
+	},
+	"phones": [{
+		"id": 2240,
+		"department": null,
+		"extension": null,
+		"number": "410-423-0600",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

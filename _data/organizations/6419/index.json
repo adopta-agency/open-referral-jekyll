@@ -1,0 +1,84 @@
+{
+	"id": 6419,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides assistance with a twelve steps program. This group is for people with emotional imbalances: depression, anxiety, anger, loneliness, frustration, or think their life has no meaning.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NEUROTICS ANONYMOUS MIAMI",
+	"website": "http:\/\/www.neuroticosanonimosmiami.com",
+	"slug": "neurotics-anonymous-miami",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/neurotics-anonymous-miami",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/neurotics-anonymous-miami\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@neuroticosanonimos.com",
+		"id": 6419,
+		"name": "Raquel Paz",
+		"title": "Service Representative",
+		"phones": [{
+			"id": 6419,
+			"department": null,
+			"extension": null,
+			"number": "786-552-2367",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@neuroticosanonimosmiami.com",
+		"id": 6420,
+		"name": "Ilyana",
+		"title": "Coordinator",
+		"phones": [{
+			"id": 6420,
+			"department": null,
+			"extension": null,
+			"number": "786-552-2367",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 6422,
+		"name": "Mario",
+		"title": "Coordinator",
+		"phones": [{
+			"id": 6422,
+			"department": null,
+			"extension": null,
+			"number": "305-790-1235",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6419,
+		"department": null,
+		"extension": null,
+		"number": "786-552-2367",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6420,
+		"department": null,
+		"extension": null,
+		"number": "786-552-2367",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6422,
+		"department": null,
+		"extension": null,
+		"number": "305-790-1235",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

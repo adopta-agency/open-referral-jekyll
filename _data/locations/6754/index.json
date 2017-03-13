@@ -1,0 +1,48 @@
+{
+	"id": 6754,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-10000-sw-56th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-10000-sw-56th-street",
+	"address": {
+		"id": 2926,
+		"address_1": "10000 SW 56th Street",
+		"address_2": "Suite 34",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33165"
+	},
+	"organization": {
+		"id": 1015,
+		"accreditations": [],
+		"alternate_name": "LHANC",
+		"date_incorporated": null,
+		"description": "Serves multi-ethnic, economically or socially needy elderly at 16 centers. Provides health support, transportation, adult day care, education, counseling, recreational activities, employment placement and information and referral. Serves hot meals at congregate sites and in homes and administers two intergenerational child day care centers.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LITTLE HAVANA ACTIVITIES AND NUTRITION CENTERS OF DADE COUNTY, INC.",
+		"website": "http:\/\/www.lhanc.org",
+		"slug": "little-havana-activities-and-nutrition-centers-of-dade-county-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/little-havana-activities-and-nutrition-centers-of-dade-county-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/little-havana-activities-and-nutrition-centers-of-dade-county-inc\/locations"
+	},
+	"phones": [{
+		"id": 6754,
+		"department": null,
+		"extension": "1247.0",
+		"number": "305-598-0260",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

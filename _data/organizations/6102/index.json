@@ -1,0 +1,38 @@
+{
+	"id": 6102,
+	"accreditations": [],
+	"alternate_name": "NIFF",
+	"date_incorporated": null,
+	"description": "The mission of the Naples International Film Festival is to celebrate independent film and filmmakers in an intimate festival setting that enhances the culture and artistic life of our community.\\n\\n###COL###\\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NAPLES INTERNATIONAL FILM FESTIVAL, INC.",
+	"website": "http:\/\/www.naplesfilmfest.com",
+	"slug": "naples-international-film-festival-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/naples-international-film-festival-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/naples-international-film-festival-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "NIFF@naplesfilmfest.com",
+		"id": 6102,
+		"name": "Shannon Franklin",
+		"title": "Executive & Artistic Director",
+		"phones": [{
+			"id": 6102,
+			"department": null,
+			"extension": null,
+			"number": "239-775-3456",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6102,
+		"department": null,
+		"extension": null,
+		"number": "239-775-3456",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

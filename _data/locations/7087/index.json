@@ -1,0 +1,48 @@
+{
+	"id": 7087,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.211319,
+	25.892442],
+	"description": "See listed services",
+	"latitude": 25.892442,
+	"longitude": -80.211319,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-12880-nw-7th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-12880-nw-7th-avenue",
+	"address": {
+		"id": 3157,
+		"address_1": "12880 NW 7th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33128"
+	},
+	"organization": {
+		"id": 7087,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Quality United Education offers an after school program as well as a summer camp offering various recreational activities, homework help, literacy skills, etc.\\n\\nSummer Camp 2016:\\nTo be held at: First Baptist Church of Greater Miami\\n15395 North Miami Avenue\\nNorth Miami, FL 33169",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "QUALITY UNITED EDUCATION, INC.",
+		"website": "http:\/\/qualityunitededucation.org",
+		"slug": "quality-united-education-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/quality-united-education-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/quality-united-education-inc\/locations"
+	},
+	"phones": [{
+		"id": 7087,
+		"department": null,
+		"extension": null,
+		"number": "305-218-5868",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

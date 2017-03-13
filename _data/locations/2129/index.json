@@ -1,0 +1,48 @@
+{
+	"id": 2129,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2071045,
+	25.829133],
+	"description": "See listed services",
+	"latitude": 25.829133,
+	"longitude": -80.2071045,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-651-nw-58th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-651-nw-58th-street",
+	"address": {
+		"id": 1072,
+		"address_1": "651 NW 58th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33127"
+	},
+	"organization": {
+		"id": 2129,
+		"accreditations": [],
+		"alternate_name": "Edison Tri-Plex Community",
+		"date_incorporated": null,
+		"description": "Provides income restricted apartment housing in Liberty City for low income individuals or families.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "TACOLCY PROPERTY MANAGEMENT CORPORATION",
+		"website": null,
+		"slug": "tacolcy-property-management-corporation",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/tacolcy-property-management-corporation",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/tacolcy-property-management-corporation\/locations"
+	},
+	"phones": [{
+		"id": 2129,
+		"department": null,
+		"extension": null,
+		"number": "305-759-2752",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

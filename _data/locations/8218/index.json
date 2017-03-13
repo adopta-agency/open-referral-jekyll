@@ -1,0 +1,48 @@
+{
+	"id": 8218,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1922744,
+	25.8282458],
+	"description": "See listed services",
+	"latitude": 25.8282458,
+	"longitude": -80.1922744,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-5708-ne-2nd-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-5708-ne-2nd-avenue",
+	"address": {
+		"id": 4121,
+		"address_1": "5708 NE 2nd Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33127"
+	},
+	"organization": {
+		"id": 8218,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides emergency food for those in the community who are in need.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "APOSTOLIQUE FAITH CHURCH, INC.",
+		"website": null,
+		"slug": "apostolique-faith-church-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/apostolique-faith-church-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/apostolique-faith-church-inc\/locations"
+	},
+	"phones": [{
+		"id": 8218,
+		"department": null,
+		"extension": null,
+		"number": "786-487-1062",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

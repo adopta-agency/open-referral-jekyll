@@ -1,0 +1,48 @@
+{
+	"id": 744,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-11645-biscayne-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-11645-biscayne-boulevard",
+	"address": {
+		"id": 373,
+		"address_1": "11645 Biscayne Boulevard",
+		"address_2": "Suite 103 & 104",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33181"
+	},
+	"organization": {
+		"id": 741,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Miami Beach Community Health Center is a fully integrated medical facility offering a broad spectrum of services for patients of all ages. Board certified specialties include family medicine, pediatrics, obstetrics and gynecology and internal medicine, in addition to geriatrics.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI BEACH COMMUNITY HEALTH CENTER, INC.",
+		"website": "http:\/\/www.miamibeachhealth.org",
+		"slug": "miami-beach-community-health-center-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-beach-community-health-center-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-beach-community-health-center-inc\/locations"
+	},
+	"phones": [{
+		"id": 744,
+		"department": null,
+		"extension": null,
+		"number": "305-538-8835",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

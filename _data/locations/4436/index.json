@@ -1,0 +1,48 @@
+{
+	"id": 4436,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -82,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-301-simonton-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/key-west-fl-301-simonton-street",
+	"address": {
+		"id": 2023,
+		"address_1": "301 Simonton Street",
+		"address_2": "Suite 110",
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 323,
+		"accreditations": [],
+		"alternate_name": "United States Social Security Administration",
+		"date_incorporated": null,
+		"description": "Provides monthly income for insured retired persons, for eligible survivors of deceased workers and for disabled workers who are not capable of gainful work. Local offices issue new or duplicate Social Security cards, enroll persons over 65 in Medicare and process applications. Most transactions can be handled by calling the 800 number.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "U.S. SOCIAL SECURITY ADMINISTRATION",
+		"website": "http:\/\/www.ssa.gov",
+		"slug": "u-s-social-security-administration",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/u-s-social-security-administration",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/u-s-social-security-administration\/locations"
+	},
+	"phones": [{
+		"id": 4436,
+		"department": null,
+		"extension": null,
+		"number": "800-772-1213",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

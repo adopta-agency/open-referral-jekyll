@@ -1,0 +1,40 @@
+{
+	"id": 5326,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Our mission is to overcome hunger in Charlotte, Collier, Glades, Hendry and Lee counties through education and by working in a cooperative effort with affiliated agencies in the procurement and distribution of food, equitably and without discrimination.\\n\\nThis program does not distribute directly to clients. Food is available through affiliated agencies. You must contact one of the affiliated agencies for assistance.\\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HARRY CHAPIN FOOD BANK OF SOUTHWEST FLORIDA, INC.",
+	"website": "http:\/\/www.harrychapinfoodbank.org\/",
+	"slug": "harry-chapin-food-bank-of-southwest-florida-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/harry-chapin-food-bank-of-southwest-florida-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/harry-chapin-food-bank-of-southwest-florida-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "rleber@harrychapinfoodbank.org",
+		"id": 5326,
+		"name": "Richard LeBer",
+		"title": "President and CEO",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "klefort@harrychapinfoodbank.org",
+		"id": 7296,
+		"name": "Kari Lefort",
+		"title": "Director of Programs",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "lbain@harrychapinfoodbank.org",
+		"id": 7926,
+		"name": "Louise Bain",
+		"title": "Programs Outreach Coordinator",
+		"phones": []
+	}],
+	"phones": []
+}

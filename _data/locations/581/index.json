@@ -1,0 +1,48 @@
+{
+	"id": 581,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-928b9454-5b26-4b6a-9a55-566c4ec85dbe",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-928b9454-5b26-4b6a-9a55-566c4ec85dbe",
+	"address": {
+		"id": 302,
+		"address_1": "7990 SW 117th Avenue",
+		"address_2": "Suite 135",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33183"
+	},
+	"organization": {
+		"id": 577,
+		"accreditations": [],
+		"alternate_name": "CCDH, Inc.",
+		"date_incorporated": null,
+		"description": "CCDH is an advocacy organization that provides, arranges and coordinates services to adults with developmental disabilities, and to children with developmental, physical, and sensory disabilities. \\n\\nMiami-DadeG\u00c7\u00d6s lead agency advocating, planning, providing, coordinating and arranging for services benefitting people with developmental and other disabilitiesG\u00c7\u00aa\\n\\nTHE ADVOCACY NETWORK ON DISABILITIES champions the rights of individuals with intellectual, developmental, and other disabilities by promoting inclusion, providing services, and advancing systems change. Miami-DadeG\u00c7\u00d6s lead agency advocating, planning, providing, coordinating and arranging for services benefitting people with developmental and other disabilitiesG\u00c7\u00aa\\n\\nServices include:\\n\\n* Individual Advocacy and Case Management\\n* Stipends for In-Home Supports\\n* Legislative & Public Policy Advocacy\\n* Training and Technical Assistance to increase the capacity of community programs to include children with disabilities\\n* Funding for Wheelchair Repairs for children\\n* Professional Development and Training",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE ADVOCACY NETWORK ON DISABILITIES, INC.",
+		"website": "http:\/\/www.advocacynetwork.org",
+		"slug": "the-advocacy-network-on-disabilities-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-advocacy-network-on-disabilities-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-advocacy-network-on-disabilities-inc\/locations"
+	},
+	"phones": [{
+		"id": 581,
+		"department": null,
+		"extension": "222.0",
+		"number": "305-596-1160",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

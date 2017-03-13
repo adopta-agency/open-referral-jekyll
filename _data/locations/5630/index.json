@@ -1,0 +1,48 @@
+{
+	"id": 5630,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-8e964419-e431-42ac-8d6f-48ce616901e8",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-8e964419-e431-42ac-8d6f-48ce616901e8",
+	"address": {
+		"id": 2421,
+		"address_1": "2103 Coral Way",
+		"address_2": "2nd Floor",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33145"
+	},
+	"organization": {
+		"id": 5629,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Zen Village is a multi-cultural, united-faith organization and Buddhist temple that promotes spiritual well-being, diversity, and holistic wellness.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ZEN VILLAGE",
+		"website": "http:\/\/www.zenvillage.org",
+		"slug": "zen-village",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/zen-village",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/zen-village\/locations"
+	},
+	"phones": [{
+		"id": 5630,
+		"department": null,
+		"extension": null,
+		"number": "305-567-0165",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 3206,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-73.9907644,
+	40.7467438],
+	"description": "See listed services",
+	"latitude": 40.7467438,
+	"longitude": -73.9907644,
+	"name": "New York, NY",
+	"short_desc": null,
+	"slug": "new-york-ny-104-west-29th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/new-york-ny-104-west-29th-street",
+	"address": {
+		"id": 1580,
+		"address_1": "104 West 29th Street",
+		"address_2": "4th Floor",
+		"city": "New York",
+		"state_province": "NY",
+		"postal_code": "10001-2505"
+	},
+	"organization": {
+		"id": 3206,
+		"accreditations": [],
+		"alternate_name": "GAY & LESBIAN ALLIANCE AGAINST DEFAMATION",
+		"date_incorporated": null,
+		"description": "GLAAD is dedicated to promoting and ensuring fair, accurate, and inclusive representation of people and events in the media as a means of eliminating homophobia and discrimination based on gender identity and sexual orientation.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GLAAD, INC.",
+		"website": "http:\/\/www.glaad.org",
+		"slug": "glaad-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/glaad-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/glaad-inc\/locations"
+	},
+	"phones": [{
+		"id": 3206,
+		"department": null,
+		"extension": null,
+		"number": "212-629-3322",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

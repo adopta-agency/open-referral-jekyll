@@ -1,0 +1,48 @@
+{
+	"id": 4017,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-8900-sw-168th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-8900-sw-168th-street",
+	"address": {
+		"id": 1855,
+		"address_1": "8900 SW 168th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 4017,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Caring For Miami exists to improve the lives of children and families in Miami-Dade County through professional counseling, as well as free health screenings and dental services provided by the Mobile Health Unit.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CARING FOR MIAMI, INC.",
+		"website": "http:\/\/www.caringformiami.org",
+		"slug": "caring-for-miami-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/caring-for-miami-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/caring-for-miami-inc\/locations"
+	},
+	"phones": [{
+		"id": 4017,
+		"department": null,
+		"extension": null,
+		"number": "786-430-1051",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 5208,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.778271,
+	26.269172],
+	"description": "See listed services",
+	"latitude": 26.269172,
+	"longitude": -81.778271,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-1976-bethany-place",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-1976-bethany-place",
+	"address": {
+		"id": 2213,
+		"address_1": "1976 Bethany Place",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34109"
+	},
+	"organization": {
+		"id": 5208,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Laces of Love Charitable Foundation, Inc. is a 501-c-3 not-for-profit organization provides new shoes to low-income and disadvantaged children in Collier & Lee Counties through the public and private schools and\/or through non-profit organizations serving those children. No shoes are given directly to families.\\r\\n\\r\\nWe ask that the child write a thank you note or draw a picture of their new shoes and send their thank you to Laces of Love. \\r\\n\\r\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LACES OF LOVE CHARITABLE FOUNDATION, INC.",
+		"website": "http:\/\/www.lacesoflove.org",
+		"slug": "laces-of-love-charitable-foundation-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/laces-of-love-charitable-foundation-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/laces-of-love-charitable-foundation-inc\/locations"
+	},
+	"phones": [{
+		"id": 5208,
+		"department": null,
+		"extension": null,
+		"number": "239-591-1172",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

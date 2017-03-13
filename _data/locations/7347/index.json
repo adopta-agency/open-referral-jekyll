@@ -1,0 +1,48 @@
+{
+	"id": 7347,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-70.29102,
+	43.743805],
+	"description": "See listed services",
+	"latitude": 43.743805,
+	"longitude": -70.29102,
+	"name": "Falmouth, ME",
+	"short_desc": null,
+	"slug": "falmouth-me-369-falmouth-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/falmouth-me-369-falmouth-road",
+	"address": {
+		"id": 3343,
+		"address_1": "369 Falmouth Road",
+		"address_2": null,
+		"city": "Falmouth",
+		"state_province": "ME",
+		"postal_code": "04105"
+	},
+	"organization": {
+		"id": 7346,
+		"accreditations": [],
+		"alternate_name": "ACCPros",
+		"date_incorporated": null,
+		"description": "The Association of Credit Counseling Professionals has been formed to enrich the credit counseling industry by focusing on best practices, integrity and compliance. ACCPros members counsel many hundreds of thousands of clients who are in financial hardship each year. As a group we are seeing more and more individuals facing financial ruin because of the loss of a job or reduction in income.\\r\\n\\r\\n###MON###\\r\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ASSOCIATION OF CREDIT COUNSELING PROFESSIONALS",
+		"website": "http:\/\/www.accpros.org",
+		"slug": "association-of-credit-counseling-professionals",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/association-of-credit-counseling-professionals",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/association-of-credit-counseling-professionals\/locations"
+	},
+	"phones": [{
+		"id": 7347,
+		"department": null,
+		"extension": null,
+		"number": "800-635-0553",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

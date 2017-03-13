@@ -1,0 +1,48 @@
+{
+	"id": 2091,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2145995,
+	25.7887328],
+	"description": "See listed services",
+	"latitude": 25.7887328,
+	"longitude": -80.2145995,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-513679ab-36c5-43e9-a36b-32d6e7a7b204",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-513679ab-36c5-43e9-a36b-32d6e7a7b204",
+	"address": {
+		"id": 1058,
+		"address_1": "1475 NW 12th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 2091,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Sylvester Comprehensive Cancer Center integrates all cancer-related activities of the faculty of the University of Miami. This includes all cancer treatment, research and education, and outreach conducted at the University of MiamiG\u00c7\u00d6s Miller School of Medicine and within the University of Miami Health System (UHealth). As the only University-based Comprehensive Cancer Center in the region, we play a unique role in the South Florida medical community. Since itG\u00c7\u00d6s founding in 1992, Sylvester has transformed cancer treatment, research and education in South Florida and beyond.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SYLVESTER COMPREHENSIVE CANCER CENTER",
+		"website": "http:\/\/www.sylvester.org",
+		"slug": "sylvester-comprehensive-cancer-center",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/sylvester-comprehensive-cancer-center",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/sylvester-comprehensive-cancer-center\/locations"
+	},
+	"phones": [{
+		"id": 2091,
+		"department": null,
+		"extension": null,
+		"number": "305-243-1000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,41 @@
+{
+	"id": 7567,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3609084,
+	25.7003339],
+	"description": "See listed services",
+	"latitude": 25.7003339,
+	"longitude": -80.3609084,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-48b1bc9f-c323-492a-a005-7d6627414065",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-48b1bc9f-c323-492a-a005-7d6627414065",
+	"address": {
+		"id": 3529,
+		"address_1": "10300 SW 72nd Street",
+		"address_2": "Buiding 300, Suite 387",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33173"
+	},
+	"organization": {
+		"id": 7565,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "CASA offers to immigrants and their families information regarding benefits for asylum, orientations for foreign professionals, small business orientation, orientation for victims of domestic violence, etc.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CASA - SOCIAL PROGRAM",
+		"website": "http:\/\/www.casa-us.org",
+		"slug": "casa-social-program",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/casa-social-program",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/casa-social-program\/locations"
+	},
+	"phones": []
+}

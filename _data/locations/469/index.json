@@ -1,0 +1,48 @@
+{
+	"id": 469,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -80,
+	"name": "Key Largo, FL",
+	"short_desc": null,
+	"slug": "key-largo-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/key-largo-fl",
+	"address": {
+		"id": 235,
+		"address_1": "105662 Overseas Highway",
+		"address_2": null,
+		"city": "Key Largo",
+		"state_province": "FL",
+		"postal_code": "33037"
+	},
+	"organization": {
+		"id": 466,
+		"accreditations": [],
+		"alternate_name": "VA",
+		"date_incorporated": null,
+		"description": "The VA is a government-run military veteran benefit system.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "U.S. DEPARTMENT OF VETERAN AFFAIRS",
+		"website": "http:\/\/www.va.gov",
+		"slug": "u-s-department-of-veteran-affairs",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/u-s-department-of-veteran-affairs",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/u-s-department-of-veteran-affairs\/locations"
+	},
+	"phones": [{
+		"id": 469,
+		"department": null,
+		"extension": null,
+		"number": "305-451-0164",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

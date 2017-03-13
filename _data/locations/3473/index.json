@@ -1,0 +1,48 @@
+{
+	"id": 3473,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1b1b8f4f-dfd2-4ea7-829a-45ea73157e59",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-1b1b8f4f-dfd2-4ea7-829a-45ea73157e59",
+	"address": {
+		"id": 1700,
+		"address_1": "701 NW 1st Court",
+		"address_2": "Suite 200",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 3472,
+		"accreditations": [],
+		"alternate_name": "M-DC DERM",
+		"date_incorporated": null,
+		"description": "Local environmental agency protecting water and air; regulates use of hazardous materials, solid waste transportation and impacts to natural resources. Enforces environmental laws, 24-hour on call response to environmental emergency complaints and provides public environment awareness information. DERM has jurisdiction of all Miami-Dade County.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI-DADE COUNTY ENVIRONMENTAL RESOURCES MANAGEMENT",
+		"website": "http:\/\/www.miamidade.gov\/environment\/contact.asp",
+		"slug": "miami-dade-county-environmental-resources-management",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-environmental-resources-management",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-environmental-resources-management\/locations"
+	},
+	"phones": [{
+		"id": 3473,
+		"department": null,
+		"extension": null,
+		"number": "305-372-6770",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,61 @@
+{
+	"id": 6425,
+	"accreditations": [],
+	"alternate_name": "GSA",
+	"date_incorporated": null,
+	"description": "GSA is responsible for improving the governmentG\u00c7\u00d6s workplace by managing assets, delivering maximum value in acquisitions, preserving historic property and implementing technology solutions.\\n\\n###MON###\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "U.S. GENERAL SERVICES ADMINISTRATION",
+	"website": "http:\/\/gsa.gov",
+	"slug": "u-s-general-services-administration",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/u-s-general-services-administration",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/u-s-general-services-administration\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "denise.roth@gsa.gov",
+		"id": 6425,
+		"name": "Denise Turner Roth",
+		"title": "Administrator",
+		"phones": [{
+			"id": 6425,
+			"department": null,
+			"extension": null,
+			"number": "202-501-0800",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 6426,
+		"name": "Contact",
+		"title": null,
+		"phones": [{
+			"id": 6426,
+			"department": null,
+			"extension": null,
+			"number": "800-333-4636",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6425,
+		"department": null,
+		"extension": null,
+		"number": "202-501-0800",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6426,
+		"department": null,
+		"extension": null,
+		"number": "800-333-4636",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

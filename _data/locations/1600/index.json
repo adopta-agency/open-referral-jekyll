@@ -1,0 +1,48 @@
+{
+	"id": 1600,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-724-nw-17th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-724-nw-17th-street",
+	"address": {
+		"id": 834,
+		"address_1": "724 NW 17th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 1600,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides free service to the low income families. Basic needs assistance offered to homeless women and children, and food offered to homeless men.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MISSIONARIES OF CHARITY",
+		"website": null,
+		"slug": "missionaries-of-charity",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/missionaries-of-charity",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/missionaries-of-charity\/locations"
+	},
+	"phones": [{
+		"id": 1600,
+		"department": null,
+		"extension": null,
+		"number": "305-326-0032",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

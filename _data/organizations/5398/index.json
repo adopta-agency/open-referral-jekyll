@@ -1,0 +1,38 @@
+{
+	"id": 5398,
+	"accreditations": [],
+	"alternate_name": "SHAPE",
+	"date_incorporated": null,
+	"description": "SHAPE's mission is to empower high school students to achieve personal and professional success by providing philanthropic, leadership, career and civic opportunities.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "STUDENTS HELPING ACHIEVE PHILANTHROPIC EXCELLENCE, INC.",
+	"website": "http:\/\/www.shapestudents.org",
+	"slug": "students-helping-achieve-philanthropic-excellence-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/students-helping-achieve-philanthropic-excellence-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/students-helping-achieve-philanthropic-excellence-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "tammie@shapestudents.org",
+		"id": 5398,
+		"name": "Tammie Rankine",
+		"title": "Program Director",
+		"phones": [{
+			"id": 5398,
+			"department": null,
+			"extension": "302.0",
+			"number": "305-370-7130",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5398,
+		"department": null,
+		"extension": "302.0",
+		"number": "305-370-7130",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

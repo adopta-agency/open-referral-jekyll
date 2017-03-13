@@ -1,0 +1,61 @@
+{
+	"id": 5592,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides quality, affordable summer camp focusing on literacy, math, science, technology, social skills, physical health, nutrition, and family involvement. Our curriculum pairs eco-friendly initiatives with hands-on research and technology. Our summer exploration series will include fun weekly themes, exciting weekly field trips, plenty of time spent outdoors, as well as creative and stimulating indoor activities and projects. Meals included.\\n\\nSummer Camp includes \"The Summer Reading Explorers Program\", which provides literacy activities for kindergarten and 1st grade children to further improve their reading skills. Also offers free book giveaways and parent involvement activities.\\n\\nSummer Camp 2016:\\nJune 13th-August 18, 2016",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "KIDS LEARNING CENTER - INNOVATION SUMMER CAMP",
+	"website": "http:\/\/www.klcschools.com",
+	"slug": "kids-learning-center-innovation-summer-camp",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/kids-learning-center-innovation-summer-camp",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/kids-learning-center-innovation-summer-camp\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "lydenklc@yahoo.com",
+		"id": 7455,
+		"name": "Cystal Lyden",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 7455,
+			"department": null,
+			"extension": null,
+			"number": "786-573-2123",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lydenklc@yahoo.com",
+		"id": 7456,
+		"name": "Crystal Lyden",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 7456,
+			"department": null,
+			"extension": null,
+			"number": "305-253-3613",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7455,
+		"department": null,
+		"extension": null,
+		"number": "786-573-2123",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7456,
+		"department": null,
+		"extension": null,
+		"number": "305-253-3613",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

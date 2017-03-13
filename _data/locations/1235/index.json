@@ -1,0 +1,48 @@
+{
+	"id": 1235,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-155-ne-15th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-155-ne-15th-street",
+	"address": {
+		"id": 635,
+		"address_1": "155 NE 15th Street",
+		"address_2": "Suite P104B",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33132"
+	},
+	"organization": {
+		"id": 1220,
+		"accreditations": [],
+		"alternate_name": "M-DCPS",
+		"date_incorporated": null,
+		"description": "Miami-Dade County Public schools is a public-governmental institution responsible for the public education of students residing in Miami-Dade County from pre-kindergarten to adult education. A number of traditional schools and programs are available, as well as other programs geared towards specific populations.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI-DADE COUNTY PUBLIC SCHOOLS",
+		"website": "http:\/\/www.dadeschools.net",
+		"slug": "miami-dade-county-public-schools",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-public-schools",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-public-schools\/locations"
+	},
+	"phones": [{
+		"id": 1235,
+		"department": null,
+		"extension": null,
+		"number": "305-995-7112",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 3584,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "United Way 2-1-1 of Manasota provides information and referral for DeSoto, Manatee & Sarasota Counties.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "UNITED WAY 2-1-1 OF MANASOTA, INC.",
+	"website": "http:\/\/www.uw211manasota.net",
+	"slug": "united-way-2-1-1-of-manasota-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-way-2-1-1-of-manasota-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-way-2-1-1-of-manasota-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "glee@uw211manasota.net",
+		"id": 3584,
+		"name": "Gil Lee",
+		"title": "Director of Operations and Communications",
+		"phones": [{
+			"id": 3584,
+			"department": null,
+			"extension": null,
+			"number": "877-211-0444",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3584,
+		"department": null,
+		"extension": null,
+		"number": "877-211-0444",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

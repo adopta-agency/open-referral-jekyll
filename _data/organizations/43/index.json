@@ -1,0 +1,38 @@
+{
+	"id": 43,
+	"accreditations": [],
+	"alternate_name": "ALATEEN; Alanon",
+	"date_incorporated": null,
+	"description": "Provides support for family and friends of people with a drinking problem. Alateen is for adolescents dealing with someone else's drinking.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "AL-ANON FAMILY GROUPS",
+	"website": "http:\/\/al-anon.alateen.org\/",
+	"slug": "al-anon-family-groups",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/al-anon-family-groups",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/al-anon-family-groups\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "wso@al-anon.org",
+		"id": 43,
+		"name": "Meeting Information",
+		"title": null,
+		"phones": [{
+			"id": 43,
+			"department": null,
+			"extension": null,
+			"number": "757-563-1600",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 43,
+		"department": null,
+		"extension": null,
+		"number": "757-563-1600",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

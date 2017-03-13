@@ -1,0 +1,48 @@
+{
+	"id": 3217,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Hialeah, FL",
+	"short_desc": null,
+	"slug": "hialeah-fl-bc1717b7-324e-4b85-814c-e8b2b7fcfaf8",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/hialeah-fl-bc1717b7-324e-4b85-814c-e8b2b7fcfaf8",
+	"address": {
+		"id": 1587,
+		"address_1": "1671 West 37th Street",
+		"address_2": "Suite 4",
+		"city": "Hialeah",
+		"state_province": "FL",
+		"postal_code": "33012"
+	},
+	"organization": {
+		"id": 3214,
+		"accreditations": [],
+		"alternate_name": "STEPS In The Right Direction",
+		"date_incorporated": null,
+		"description": "S.T.E.P.S. in the Right Direction Inc. serves people in need in Miami-Dade and Monroe counties. The Hialeah-based agency helps the elderly and families reach financial stability and self-sufficiency, and restores their hope for a prosperous future. S.T.E.P.S. is defined by its guiding principles, its strong leadership and a rich history serving South Florida since 2000. \\r\\n\\r\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "S.T.E.P.S. IN THE RIGHT DIRECTION, INC.",
+		"website": "http:\/\/www.stepsflorida.org",
+		"slug": "s-t-e-p-s-in-the-right-direction-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/s-t-e-p-s-in-the-right-direction-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/s-t-e-p-s-in-the-right-direction-inc\/locations"
+	},
+	"phones": [{
+		"id": 3217,
+		"department": null,
+		"extension": "222.0",
+		"number": "305-231-9936",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

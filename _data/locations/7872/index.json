@@ -1,0 +1,48 @@
+{
+	"id": 7872,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2335466,
+	25.7310843],
+	"description": "See listed services",
+	"latitude": 25.7310843,
+	"longitude": -80.2335466,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-f9517390-fa5e-412a-bf4a-e3f66e3c5457",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-f9517390-fa5e-412a-bf4a-e3f66e3c5457",
+	"address": {
+		"id": 3795,
+		"address_1": "2620 South Bayshore Drive",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33133"
+	},
+	"organization": {
+		"id": 6459,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Shake-A-Leg Miami's mission uses the marine environment to improve the health, education, independence and quality of life for all with an emphasis on individuals with physical, developmental and economic challenges. The Out of School component offers after school and summer camp programs for children with and without disabilities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SHAKE-A-LEG MIAMI - OUT OF SCHOOL PROGRAMS",
+		"website": "http:\/\/www.shakealegmiami.org",
+		"slug": "shake-a-leg-miami-out-of-school-programs",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/shake-a-leg-miami-out-of-school-programs",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/shake-a-leg-miami-out-of-school-programs\/locations"
+	},
+	"phones": [{
+		"id": 7872,
+		"department": null,
+		"extension": null,
+		"number": "305-858-5550",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

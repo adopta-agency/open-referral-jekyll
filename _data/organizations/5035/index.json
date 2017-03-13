@@ -1,0 +1,61 @@
+{
+	"id": 5035,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "CREW's fundraiser to help raise money and awareness of the Corkscrew Regional Ecosystem Watershed's 60,000 acre project straddling Lee and Collier counties. This benefit concert features Kat Epple and Wendy Webb.\\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CREW LAND AND WATER TRUST",
+	"website": "http:\/\/www.crewtrust.org",
+	"slug": "crew-land-and-water-trust",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/crew-land-and-water-trust",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/crew-land-and-water-trust\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "brenda@crewtrust.org",
+		"id": 5035,
+		"name": "Brenda Brooks",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5035,
+			"department": null,
+			"extension": null,
+			"number": "239-657-2253",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "brenda@crewtrust.org",
+		"id": 5036,
+		"name": "Brenda Brooks",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5036,
+			"department": null,
+			"extension": null,
+			"number": "239-657-2253",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5035,
+		"department": null,
+		"extension": null,
+		"number": "239-657-2253",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5036,
+		"department": null,
+		"extension": null,
+		"number": "239-657-2253",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

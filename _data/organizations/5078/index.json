@@ -1,0 +1,38 @@
+{
+	"id": 5078,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides vision and health screenings for adults and preschool children. Provides assistance in getting eye exams, glasses, eye surgery and hearing aids and scholarship grants. Collects donated eye glasses and hearing aids. There is an eye clinic available in Bonita Springs where doctors from the Naples Lion Club operate. \\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NAPLES LION CLUB, INC.",
+	"website": "http:\/\/napleslionsclub.com",
+	"slug": "naples-lion-club-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/naples-lion-club-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/naples-lion-club-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "freedmanh@comcast.net",
+		"id": 5078,
+		"name": "Dr. Al Sinotti",
+		"title": null,
+		"phones": [{
+			"id": 5078,
+			"department": null,
+			"extension": null,
+			"number": "239-353-4800",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5078,
+		"department": null,
+		"extension": null,
+		"number": "239-353-4800",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

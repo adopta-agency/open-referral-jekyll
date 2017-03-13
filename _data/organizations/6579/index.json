@@ -1,0 +1,38 @@
+{
+	"id": 6579,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Disability Independence Group, Inc. (DIG) is a 501(c)(3) non-profit organization that promotes recruitment, education and employment of persons with disabilities thereby improving their lives through competitive employment and financial stability; and through the changing of societyG\u00c7\u00d6s perception of persons with disabilities.\\r\\n\\r\\nDIG is a resource center for persons with disabilities, their families, lawyers, and other professionals regarding an individualG\u00c7\u00d6s rights in the legal system, the education system, and employment. \\r\\n\\t\\r\\nThe philosophy of DIG is to empower people with disabilities to become self-advocates by giving them access to the tools they need to be educated on their legal rights.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "DISABILITY INDEPENDENCE GROUP, INC.",
+	"website": "http:\/\/www.justdigit.org",
+	"slug": "disability-independence-group-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/disability-independence-group-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/disability-independence-group-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "debbie@justdigit.org",
+		"id": 6579,
+		"name": "Deborah Dietz",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 6579,
+			"department": null,
+			"extension": null,
+			"number": "305-669-2822",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6579,
+		"department": null,
+		"extension": null,
+		"number": "305-669-2822",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

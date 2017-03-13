@@ -1,0 +1,38 @@
+{
+	"id": 6109,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Actors' Playhouse is the largest self-producer of critically acclaimed dramatic and musical theatre for adults and children in South Florida.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ACTOR'S PLAYHOUSE PRODUCTIONS, INC.",
+	"website": "http:\/\/actorsplayhouse.org",
+	"slug": "actor-s-playhouse-productions-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/actor-s-playhouse-productions-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/actor-s-playhouse-productions-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "bstein@actorsplayhouse.org",
+		"id": 6109,
+		"name": "Barbara Stein",
+		"title": "Executive Producing Director",
+		"phones": [{
+			"id": 6109,
+			"department": null,
+			"extension": null,
+			"number": "305-444-9293",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6109,
+		"department": null,
+		"extension": null,
+		"number": "305-444-9293",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

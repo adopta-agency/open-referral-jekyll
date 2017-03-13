@@ -1,0 +1,38 @@
+{
+	"id": 7241,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Safe Haven Recovery Center is a drug and alcohol treatment center located in Miami, Florida. The goal is to provide the best quality of treatment to our patients while teaching ways of sober living without the use of drugs and alcohol.\\n\\nSubstances Treated: \\nAlcohol, prescription meds, methadone, heroin, cocaine, crystal meth, morphine, inhalants, molly (MDMA), ecstasy, PCP, and most other addictive drugs.\\n\\nTreatment Programs: \\nInpatient Treatment, Intensive Outpatient Treatment, Outpatient Treatment and complete after care services to assist the patient in maintaining their sobriety.\\n\\nLiving Quarters: \\nSeparate from the recovery facility to prevent patients from feeling institutionalized.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SAFE HAVEN RECOVERY, INC.",
+	"website": "http:\/\/safehaven.center\/",
+	"slug": "safe-haven-recovery-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/safe-haven-recovery-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/safe-haven-recovery-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "safehavenrecovery@gmail.com",
+		"id": 7241,
+		"name": "Dublynn",
+		"title": "Vice President",
+		"phones": [{
+			"id": 7241,
+			"department": null,
+			"extension": null,
+			"number": "866-447-4650",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7241,
+		"department": null,
+		"extension": null,
+		"number": "866-447-4650",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

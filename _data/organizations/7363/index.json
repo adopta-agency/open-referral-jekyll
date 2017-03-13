@@ -1,0 +1,38 @@
+{
+	"id": 7363,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides targeted case management services for adults.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "EMBRACING YOU COUNSELING SERVICES, INC.",
+	"website": "http:\/\/www.embraceycsi.com",
+	"slug": "embracing-you-counseling-services-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/embracing-you-counseling-services-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/embracing-you-counseling-services-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@embraceycsi.com",
+		"id": 7363,
+		"name": "Juline Allen",
+		"title": null,
+		"phones": [{
+			"id": 7363,
+			"department": null,
+			"extension": null,
+			"number": "786-953-4612",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7363,
+		"department": null,
+		"extension": null,
+		"number": "786-953-4612",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 753,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Hollywood, FL",
+	"short_desc": null,
+	"slug": "hollywood-fl-4747-hollywood-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/hollywood-fl-4747-hollywood-boulevard",
+	"address": {
+		"id": 378,
+		"address_1": "4747 Hollywood Boulevard",
+		"address_2": "Suite 103",
+		"city": "Hollywood",
+		"state_province": "FL",
+		"postal_code": "33021"
+	},
+	"organization": {
+		"id": 753,
+		"accreditations": [],
+		"alternate_name": "Emergency Pregnancy Services",
+		"date_incorporated": null,
+		"description": "Provides free counseling, support groups and material assistance to pregnant women who may be contemplating abortion. Also offers assistance such as free pregnancy tests to pregnant women and new mothers.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "RESPECT LIFE",
+		"website": "http:\/\/www.respectlifemiami.org\/contact-us.html",
+		"slug": "respect-life",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/respect-life",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/respect-life\/locations"
+	},
+	"phones": [{
+		"id": 753,
+		"department": null,
+		"extension": null,
+		"number": "954-981-2922",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

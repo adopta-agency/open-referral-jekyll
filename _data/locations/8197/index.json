@@ -1,0 +1,48 @@
+{
+	"id": 8197,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77.09,
+	38.9799999],
+	"description": "See listed services",
+	"latitude": 38.9799999,
+	"longitude": -77.09,
+	"name": "Bethesda, MD",
+	"short_desc": null,
+	"slug": "bethesda-md-po-box-5918",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/bethesda-md-po-box-5918",
+	"address": {
+		"id": 4100,
+		"address_1": "PO Box 5918",
+		"address_2": null,
+		"city": "Bethesda",
+		"state_province": "MD",
+		"postal_code": "20824"
+	},
+	"organization": {
+		"id": 8197,
+		"accreditations": [],
+		"alternate_name": "Give an Hour",
+		"date_incorporated": null,
+		"description": "Give an Hour is a national nonprofit that provides free mental health services to active duty service members, National Guard and Reserve forces, and veterans who have separated or retired from any branch of military service. Also serves family members and loved ones of those who have served in the military. \\n \\nThe volunteer mental health professionals include: psychologists, psychiatrists, licensed marriage and family counselors, licensed clinical social workers, pastoral counselors etc.\\n\\nEach mental health professional commits to provide free care for a minimum of one hour per week for one year. While Give an Hour is NOT a crisis service and does NOT offer emergency help, our providers can help in the following areas: \\n\\nIndividual Services, Marital Services, Family Services, Group Counseling, Child and Adolescent Services, Parent Guidance, Post-Traumatic Stress, Alcohol\/Chemical Dependency, Pastoral Counseling, Grief and Loss, Traumatic Brain Injury, Anger Management, Anxiety, Separation\/Divorce, and Sexual Abuse.\\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE GIVE AN HOUR NONPROFIT CORPORATION",
+		"website": "http:\/\/www.giveanhour.org\/",
+		"slug": "the-give-an-hour-nonprofit-corporation",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-give-an-hour-nonprofit-corporation",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-give-an-hour-nonprofit-corporation\/locations"
+	},
+	"phones": [{
+		"id": 8197,
+		"department": null,
+		"extension": null,
+		"number": "240-668-4365",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

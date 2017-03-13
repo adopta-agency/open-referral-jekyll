@@ -1,0 +1,38 @@
+{
+	"id": 1217,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Offers 24-hour emergency services, surgical and diagnostic services, maternity, pediatrics, urgent care, orthopedics, peripheral and cardiovascular diseases, diabetes program, psychiatric services, outpatient addiction treatment, and other specialties.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "JACKSON SOUTH COMMUNITY HOSPITAL",
+	"website": "http:\/\/www.jacksonhealth.org\/jackson-south.asp",
+	"slug": "jackson-south-community-hospital",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/jackson-south-community-hospital",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/jackson-south-community-hospital\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@jhsmiami.org",
+		"id": 1217,
+		"name": "Willa Fontana",
+		"title": "Executive Assistant",
+		"phones": [{
+			"id": 1217,
+			"department": null,
+			"extension": null,
+			"number": "305-251-2500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1217,
+		"department": null,
+		"extension": null,
+		"number": "305-251-2500",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

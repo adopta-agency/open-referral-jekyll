@@ -1,0 +1,48 @@
+{
+	"id": 2716,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-f0a5f57e-ab33-4a55-ad53-c04d2d97ab7b",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-f0a5f57e-ab33-4a55-ad53-c04d2d97ab7b",
+	"address": {
+		"id": 1348,
+		"address_1": "1600 NW 3rd Avenue",
+		"address_2": "Suite 100",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 2714,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "URGENT, Inc. is a 501 (c) (3) Miami, FL based youth and community development organization dedicated to empowering young minds to transform their communities. Guided by the principles of innovation, growth and transformation URGENT sees young people as the drivers of change and works to provide empowering opportunities to create the next generation of social change agents.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "URGENT, INC.",
+		"website": "http:\/\/www.urgentinc.org",
+		"slug": "urgent-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/urgent-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/urgent-inc\/locations"
+	},
+	"phones": [{
+		"id": 2716,
+		"department": null,
+		"extension": null,
+		"number": "786-581-7812",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

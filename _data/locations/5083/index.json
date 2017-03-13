@@ -1,0 +1,48 @@
+{
+	"id": 5083,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7649815,
+	26.1258791],
+	"description": "See listed services",
+	"latitude": 26.1258791,
+	"longitude": -81.7649815,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-3319-tamiami-trail-east",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-3319-tamiami-trail-east",
+	"address": {
+		"id": 2136,
+		"address_1": "3319 Tamiami Trail East",
+		"address_2": "Building J",
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34112"
+	},
+	"organization": {
+		"id": 5083,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Collier County Sheriff's Office is tasked with enforcing laws and providing for public safety within Collier County.\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COLLIER COUNTY SHERIFF'S OFFICE",
+		"website": "http:\/\/www.colliersheriff.org",
+		"slug": "collier-county-sheriff-s-office",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-county-sheriff-s-office",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/collier-county-sheriff-s-office\/locations"
+	},
+	"phones": [{
+		"id": 5083,
+		"department": null,
+		"extension": null,
+		"number": "239-774-4434",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

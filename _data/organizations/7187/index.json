@@ -1,0 +1,84 @@
+{
+	"id": 7187,
+	"accreditations": [],
+	"alternate_name": "FP&L, FPL",
+	"date_incorporated": null,
+	"description": "Florida Power & Light Company is the third-largest electric utility in the United States, serving approximately 4.7 million customer accounts across nearly half of the state of Florida.\\n\\n###COL###\\n###MON##",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA POWER AND LIGHT COMPANY",
+	"website": "http:\/\/www.fpl.com",
+	"slug": "florida-power-and-light-company",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-power-and-light-company",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-power-and-light-company\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 7187,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 7187,
+			"department": null,
+			"extension": null,
+			"number": "305-442-8770",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7188,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 7188,
+			"department": null,
+			"extension": null,
+			"number": "305-442-8770",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7189,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 7189,
+			"department": null,
+			"extension": null,
+			"number": "305-442-8770",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7187,
+		"department": null,
+		"extension": null,
+		"number": "305-442-8770",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7188,
+		"department": null,
+		"extension": null,
+		"number": "305-442-8770",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7189,
+		"department": null,
+		"extension": null,
+		"number": "305-442-8770",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

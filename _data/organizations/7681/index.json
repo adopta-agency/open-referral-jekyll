@@ -1,0 +1,38 @@
+{
+	"id": 7681,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "A2C provides individual and family counseling services, assisting those suffering with anxiety, depression, grief, and adjustment to life events. A2C understands that not all grief's are the same, appropriately tailoring its services to best serve the community.\\n\\nAs a platform for human rights, and through the founderG\u00c7\u00d6s extended experience with immigration law and suicide grief, A2C provides training and consultation on topics including: Domestic Violence in The World of Immigration and The Effects of Suicide on Those Left Behind, among others.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ADVOCATE2CREATE, LLC.",
+	"website": "http:\/\/www.advocate2create.com",
+	"slug": "advocate2create-llc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/advocate2create-llc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/advocate2create-llc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "patricia@advocate2create.com",
+		"id": 7681,
+		"name": "Patricia Timmerman, LMHC, LMFT, NCC",
+		"title": "Licensed Mental Health Counselor and Licensed Marriage and Family Therapist",
+		"phones": [{
+			"id": 7681,
+			"department": null,
+			"extension": null,
+			"number": "305-482-3366",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7681,
+		"department": null,
+		"extension": null,
+		"number": "305-482-3366",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

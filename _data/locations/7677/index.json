@@ -1,0 +1,48 @@
+{
+	"id": 7677,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.79797,
+	26.2075238],
+	"description": "See listed services",
+	"latitude": 26.2075238,
+	"longitude": -81.79797,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-a99725ae-6162-400d-83f9-693d2171ae6c",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/naples-fl-a99725ae-6162-400d-83f9-693d2171ae6c",
+	"address": {
+		"id": 3626,
+		"address_1": "5025 Castello Drive",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34103"
+	},
+	"organization": {
+		"id": 6979,
+		"accreditations": [],
+		"alternate_name": "JFCS",
+		"date_incorporated": null,
+		"description": "Jewish Family and Community Services of Southwest Florida (JFCS), a non-sectarian social service agency, supports the geriatric population by providing a wide range of social services, including mental health counseling, case management and food assistance.\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "JEWISH FAMILY AND COMMUNITY SERVICES OF SOUTHWEST FLORIDA, INC.",
+		"website": "http:\/\/www.jfcsswfl.org\/index.html",
+		"slug": "jewish-family-and-community-services-of-southwest-florida-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/jewish-family-and-community-services-of-southwest-florida-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/jewish-family-and-community-services-of-southwest-florida-inc\/locations"
+	},
+	"phones": [{
+		"id": 7677,
+		"department": null,
+		"extension": "200.0",
+		"number": "239-325-4444",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

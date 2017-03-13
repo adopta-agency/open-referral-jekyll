@@ -1,0 +1,61 @@
+{
+	"id": 2034,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Chai Lifeline provides crucial emotional, social and financial help that enables families to cope with the diagnosis, treatment and repercussions of life-threatening or lifelong pediatric illness.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CHAI LIFELINE",
+	"website": "http:\/\/www.chailifeline.org",
+	"slug": "chai-lifeline",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/chai-lifeline",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/chai-lifeline\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@chailifeline.org",
+		"id": 2034,
+		"name": "Rabbi Simcha Scholar",
+		"title": "Executive Vice President",
+		"phones": [{
+			"id": 2034,
+			"department": null,
+			"extension": null,
+			"number": "877-242-4543",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "eweiss@chailifeline.org",
+		"id": 2035,
+		"name": "Ellen Weiss",
+		"title": "Director of Programs and Services of Southeast",
+		"phones": [{
+			"id": 2035,
+			"department": null,
+			"extension": null,
+			"number": "305-956-9990",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2034,
+		"department": null,
+		"extension": null,
+		"number": "877-242-4543",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2035,
+		"department": null,
+		"extension": null,
+		"number": "305-956-9990",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

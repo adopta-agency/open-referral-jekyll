@@ -1,0 +1,48 @@
+{
+	"id": 5154,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3016501,
+	25.7339823],
+	"description": "See listed services",
+	"latitude": 25.7339823,
+	"longitude": -80.3016501,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-6530-sw-39th-terrace",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-6530-sw-39th-terrace",
+	"address": {
+		"id": 2189,
+		"address_1": "6530 SW 39th Terrace",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33155"
+	},
+	"organization": {
+		"id": 5154,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Offers hot Home Delivered Meals - breakfast, lunch, and dinner seven days a week. Also offers Pest Control, Homemaker assistance (chores included), and Companionship at a reduced price.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE WAKI AND SOL OF MIAMI CORP",
+		"website": null,
+		"slug": "the-waki-and-sol-of-miami-corp",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-waki-and-sol-of-miami-corp",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-waki-and-sol-of-miami-corp\/locations"
+	},
+	"phones": [{
+		"id": 5154,
+		"department": null,
+		"extension": null,
+		"number": "786-712-4589",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

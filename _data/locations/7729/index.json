@@ -1,0 +1,48 @@
+{
+	"id": 7729,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.4253963,
+	26.4310001],
+	"description": "See listed services",
+	"latitude": 26.4310001,
+	"longitude": -81.4253963,
+	"name": "Immokalee, FL",
+	"short_desc": null,
+	"slug": "immokalee-fl-640-north-9th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/immokalee-fl-640-north-9th-street",
+	"address": {
+		"id": 3668,
+		"address_1": "640 North 9th Street",
+		"address_2": null,
+		"city": "Immokalee",
+		"state_province": "FL",
+		"postal_code": "34142"
+	},
+	"organization": {
+		"id": 52,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "A national Christian organization whose mission is to provide adequate, affordable homes to low income families.\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HABITAT FOR HUMANITY, INC.",
+		"website": "http:\/\/www.habitat.org",
+		"slug": "habitat-for-humanity-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/habitat-for-humanity-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/habitat-for-humanity-inc\/locations"
+	},
+	"phones": [{
+		"id": 7729,
+		"department": null,
+		"extension": null,
+		"number": "239-657-4466",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

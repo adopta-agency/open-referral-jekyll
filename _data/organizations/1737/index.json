@@ -1,0 +1,84 @@
+{
+	"id": 1737,
+	"accreditations": [],
+	"alternate_name": "CHADD",
+	"date_incorporated": null,
+	"description": "CHADD is a membership organization, produces the bi-monthly Attention magazine (for members), and sponsors an annual conference. The National Resource Center on ADHD (NRC) is the CDC-funded national clearinghouse for evidence-based information about ADHD.\\n\\n###MON###\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CHILDREN AND ADULTS WITH ATTENTION-DEFICIT\/HYPERACTIVITY DISORDER, INC.",
+	"website": "http:\/\/www.chadd.org",
+	"slug": "children-and-adults-with-attention-deficit-hyperactivity-disorder-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/children-and-adults-with-attention-deficit-hyperactivity-disorder-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/children-and-adults-with-attention-deficit-hyperactivity-disorder-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 1737,
+		"name": "April Gower",
+		"title": "Chief Operations Officer",
+		"phones": [{
+			"id": 1737,
+			"department": null,
+			"extension": null,
+			"number": "301-306-7070",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "broward-dade@chadd.net",
+		"id": 1738,
+		"name": "Lora",
+		"title": "Chapter Coordinator",
+		"phones": [{
+			"id": 1738,
+			"department": null,
+			"extension": null,
+			"number": "954-680-0799",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "customer_service@chadd.org",
+		"id": 7069,
+		"name": "Katie Hadlich",
+		"title": "Membership and Marketing Associate",
+		"phones": [{
+			"id": 7069,
+			"department": null,
+			"extension": null,
+			"number": "800-233-4050",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1737,
+		"department": null,
+		"extension": null,
+		"number": "301-306-7070",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1738,
+		"department": null,
+		"extension": null,
+		"number": "954-680-0799",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7069,
+		"department": null,
+		"extension": null,
+		"number": "800-233-4050",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

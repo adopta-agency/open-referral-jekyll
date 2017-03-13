@@ -1,0 +1,48 @@
+{
+	"id": 5495,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1656656,
+	25.8825564],
+	"description": "See listed services",
+	"latitude": 25.8825564,
+	"longitude": -80.1656656,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-11601-biscayne-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-11601-biscayne-boulevard",
+	"address": {
+		"id": 2349,
+		"address_1": "11601 Biscayne Boulevard",
+		"address_2": "Suite 306",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33181"
+	},
+	"organization": {
+		"id": 5495,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Dr. L Mitchell and Associates provides therapeutic services and interventions specializing in domestic violence, batterer's intervention, anger management, trauma, addictions, individual, family, and marital counseling. Also addresses parenting and sex education, LGBTQ: Lesbian, Gay, Bisexual, Transgender, Questioning issues, eating disorders, and ADHD. Services serve children, adolescents, and adults.\\r\\n\\r\\n**The doctor has moved to a new office, address not available at this moment but can inform client that the office is located in Miramar.**",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "DR. L MITCHELL AND ASSOCIATES, PA",
+		"website": "http:\/\/www.drlmitchell.com",
+		"slug": "dr-l-mitchell-and-associates-pa",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/dr-l-mitchell-and-associates-pa",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/dr-l-mitchell-and-associates-pa\/locations"
+	},
+	"phones": [{
+		"id": 5495,
+		"department": null,
+		"extension": null,
+		"number": "305-439-6957",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

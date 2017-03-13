@@ -1,0 +1,61 @@
+{
+	"id": 7556,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The CBC also offers support groups for adults who play a significant role in a child's life and adults with personal loss. The CBC offers:\\n\\n* Parent\/Caregiver support groups - grieving the loss of a child, spouse, friend or relative.\\n* Adult support groups (CBC supported or community based referral) for adults with no participating children.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE CHILDREN'S BEREAVEMENT CENTER - LIFT FROM LOSS ADULT GROUPS",
+	"website": "http:\/\/www.childbereavement.org",
+	"slug": "the-children-s-bereavement-center-lift-from-loss-adult-groups",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-children-s-bereavement-center-lift-from-loss-adult-groups",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-children-s-bereavement-center-lift-from-loss-adult-groups\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "kaokramer@childbereavement.org",
+		"id": 7557,
+		"name": "Kathy Kramer",
+		"title": "Program & Training Director",
+		"phones": [{
+			"id": 7557,
+			"department": null,
+			"extension": null,
+			"number": "305-668-4902",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kaokramer@childbereavement.org",
+		"id": 7558,
+		"name": "Kathy Kramer",
+		"title": "Program & Training Director",
+		"phones": [{
+			"id": 7558,
+			"department": null,
+			"extension": null,
+			"number": "305-668-4902",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7557,
+		"department": null,
+		"extension": null,
+		"number": "305-668-4902",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7558,
+		"department": null,
+		"extension": null,
+		"number": "305-668-4902",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

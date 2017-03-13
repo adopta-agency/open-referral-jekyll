@@ -1,0 +1,38 @@
+{
+	"id": 1209,
+	"accreditations": [],
+	"alternate_name": "M-DC MEDICAL EXAMINER",
+	"date_incorporated": null,
+	"description": "The Medical Examiner Department provides medicolegal investigative services for the citizens of Miami-Dade County. The work of the department focuses on forensic pathology. This field of study combines the efforts of legal and police investigations with those of medicine and science to ascertain the facts surrounding deaths, particularly the cause and manner of death.\\n\\nServices include: death certificate copies, pathology, toxicology, forensic odontology, forensic photography, medical records, morgue, photography, medical investigations, public interment and indigent cremation service.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI-DADE COUNTY MEDICAL EXAMINER",
+	"website": "http:\/\/www.miamidade.gov\/medicalexaminer",
+	"slug": "miami-dade-county-medical-examiner",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-medical-examiner",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-medical-examiner\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "eol@miamidade.gov",
+		"id": 1209,
+		"name": "Dr. Emma Lew",
+		"title": "Interim Chief Medical Examiner",
+		"phones": [{
+			"id": 1209,
+			"department": null,
+			"extension": null,
+			"number": "305-545-2400",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1209,
+		"department": null,
+		"extension": null,
+		"number": "305-545-2400",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

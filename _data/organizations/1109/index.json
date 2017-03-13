@@ -1,0 +1,24 @@
+{
+	"id": 1109,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Toys for Tots Program collects new, unwrapped toys and distributes those toys as Christmas gifts to needy children in the community in which the campaign is conducted. In some cases cars maybe donated as well.\\n\\nTo request a toy, single families must go to the website and follow the directions. Families must contact the list of local agencies on the website for information on their toy distribution.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "TOYS FOR TOTS",
+	"website": "http:\/\/www.hialeah-fl.toysfortots.org\/local-coordinator-sites\/lco-sites\/request-toys.aspx",
+	"slug": "toys-for-tots",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/toys-for-tots",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/toys-for-tots\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "hialeaht4t@gmail.com",
+		"id": 1109,
+		"name": "Eddy Fonseca",
+		"title": "Local Toys for Tots Coordinator",
+		"phones": []
+	}],
+	"phones": []
+}

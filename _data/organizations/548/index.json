@@ -1,0 +1,169 @@
+{
+	"id": 548,
+	"accreditations": [],
+	"alternate_name": "CIS",
+	"date_incorporated": null,
+	"description": "Communities in Schools is dedicated to creating public\/private partnerships for the benefit of Miami-Dade County Public Schools and community centers. Services offered include a mentorship program which is targeted to youth who are at-risk of dropping out of school.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "COMMUNITIES IN SCHOOLS OF MIAMI, INC.",
+	"website": "http:\/\/www.cismiami.org",
+	"slug": "communities-in-schools-of-miami-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/communities-in-schools-of-miami-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/communities-in-schools-of-miami-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "elinares@cismiami.org",
+		"id": 548,
+		"name": "Elyssa Linares",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 548,
+			"department": null,
+			"extension": null,
+			"number": "305-252-5444",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "scarri@cismiami.org",
+		"id": 554,
+		"name": "Sonise Carri",
+		"title": "Senior Site Coordinator",
+		"phones": [{
+			"id": 554,
+			"department": null,
+			"extension": "2260.0",
+			"number": "305-252-5444",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "emckinsey@cismiami.org",
+		"id": 555,
+		"name": "Eve Mckinsey",
+		"title": "Site Coordinator",
+		"phones": [{
+			"id": 555,
+			"department": null,
+			"extension": null,
+			"number": "305-694-4170",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mthomas@cismiami.org",
+		"id": 558,
+		"name": "Monika Thomas",
+		"title": "Site Coordinator",
+		"phones": [{
+			"id": 558,
+			"department": null,
+			"extension": null,
+			"number": "786-316-2374",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kodediran@cismiami.org",
+		"id": 4314,
+		"name": "Mrs. K Odediran",
+		"title": "Site Coordinator",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "ndixon@cismiami.org",
+		"id": 7203,
+		"name": "Nardia Dixon",
+		"title": "Program Assistant",
+		"phones": [{
+			"id": 7203,
+			"department": null,
+			"extension": "239.0",
+			"number": "305-252-5444",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tutoring@cismiami.org",
+		"id": 7213,
+		"name": "Elyssa Linares",
+		"title": "Director of Planning and Operations",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "emckinsey@cismiami.org",
+		"id": 7848,
+		"name": "Eve Mckinsey",
+		"title": "Site Coordinator",
+		"phones": [{
+			"id": 7848,
+			"department": null,
+			"extension": null,
+			"number": "305-252-5444",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 548,
+		"department": null,
+		"extension": null,
+		"number": "305-252-5444",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 554,
+		"department": null,
+		"extension": "2260.0",
+		"number": "305-252-5444",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 555,
+		"department": null,
+		"extension": null,
+		"number": "305-694-4170",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 558,
+		"department": null,
+		"extension": null,
+		"number": "786-316-2374",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7203,
+		"department": null,
+		"extension": "239.0",
+		"number": "305-252-5444",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7848,
+		"department": null,
+		"extension": null,
+		"number": "305-252-5444",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

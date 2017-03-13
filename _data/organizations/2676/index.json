@@ -1,0 +1,61 @@
+{
+	"id": 2676,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Easter Seals South Florida provides year-round services, offering activities for elementary and middle school children. The program includes literacy and homework support, physical fitness, social skills and a variety of enrichment activities involving music, art, dance and a unique French Heritage Language Program which is offered by the Haitian Cultural Art Alliance. \\n\\nAfter school services will be available for 175 elementary and middle school slots for 130 typically-developing children and 45 children with disabilities. After-school services at Easter Seals South Florida are only available to those attending Easter Seals Academy. \\n\\nSummer camp services will be available for 96 elementary and middle school slots for 50 typically-developing children and 46 children with disabilities residing in the city of Miami, Little Haiti and surrounding neighborhoods. The summer camp is open to the public regardless of attendance at Easter Seals Academy. It is held for 9 weeks.\\n\\nDates: June 13 - August 12",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "EASTER SEALS - AFTER SCHOOL AND SUMMER CAMP PROGRAM",
+	"website": "http:\/\/www.easterseals.com\/southflorida",
+	"slug": "easter-seals-after-school-and-summer-camp-program",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/easter-seals-after-school-and-summer-camp-program",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/easter-seals-after-school-and-summer-camp-program\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ganzellotti@sfl.easterseals.com",
+		"id": 7937,
+		"name": "Georgina Anzellotti",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 7937,
+			"department": null,
+			"extension": null,
+			"number": "305-325-0470",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ganzellotti@sfl.easterseals.com",
+		"id": 7938,
+		"name": "Georgina Anzellotti",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 7938,
+			"department": null,
+			"extension": null,
+			"number": "305-325-0470",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7937,
+		"department": null,
+		"extension": null,
+		"number": "305-325-0470",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7938,
+		"department": null,
+		"extension": null,
+		"number": "305-325-0470",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

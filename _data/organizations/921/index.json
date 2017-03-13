@@ -1,0 +1,130 @@
+{
+	"id": 921,
+	"accreditations": [],
+	"alternate_name": "MIAMI BRIDGE",
+	"date_incorporated": null,
+	"description": "Provides 24-hour emergency shelter for runaway, abused, and homeless youth ages 10-17. Goals include; providing a safe environment, formal education, mental health and substance abuse prevention counseling, reuniting child and family, arranging appropriate alternative placement if needed. Also provides non-residential family crisis intervention, counseling and case management services for families experiencing stress due to their adolescent's behavior problems. Provides emergency shelter services for youth in state custody ages 13-17. Provides family crisis intervention, counseling and case management services for high risk youth.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI BRIDGE YOUTH AND FAMILY SERVICES, INC.",
+	"website": "http:\/\/www.miamibridge.org",
+	"slug": "miami-bridge-youth-and-family-services-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-bridge-youth-and-family-services-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-bridge-youth-and-family-services-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@miamibridge.org",
+		"id": 921,
+		"name": "Dorcas Wilcox",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 921,
+			"department": null,
+			"extension": null,
+			"number": "305-635-8953",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Lchavis@miamibridge.org",
+		"id": 922,
+		"name": "Lashonda Chavis",
+		"title": "Director of Admissions",
+		"phones": [{
+			"id": 922,
+			"department": null,
+			"extension": null,
+			"number": "305-636-3526",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Dwilcox@miamibridge.org",
+		"id": 924,
+		"name": "Dorcas Wilcox",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 924,
+			"department": null,
+			"extension": null,
+			"number": "305-635-8953",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Dwilcox@miamibridge.org",
+		"id": 925,
+		"name": "Dorcas Wilcox",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 925,
+			"department": null,
+			"extension": null,
+			"number": "305-246-8956",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Trobinson@miamibridge.org",
+		"id": 926,
+		"name": "Taurean Robinson",
+		"title": "Director of Shelter Services",
+		"phones": [{
+			"id": 926,
+			"department": null,
+			"extension": null,
+			"number": "305-246-8956",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 921,
+		"department": null,
+		"extension": null,
+		"number": "305-635-8953",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 922,
+		"department": null,
+		"extension": null,
+		"number": "305-636-3526",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 924,
+		"department": null,
+		"extension": null,
+		"number": "305-635-8953",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 925,
+		"department": null,
+		"extension": null,
+		"number": "305-246-8956",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 926,
+		"department": null,
+		"extension": null,
+		"number": "305-246-8956",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 5238,
+	"accreditations": [],
+	"alternate_name": "HOLY FAITH OUTREACH",
+	"date_incorporated": null,
+	"description": "Holy Faith Missionary Baptist Church provides food to low income families. They provide a stable religious environment to assist individuals with their needs as well as individual and family faith-based counseling. During the Christmas season, they provide gifts and food to low income families.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HOLY FAITH MISSIONARY BAPTIST CHURCH, INC.",
+	"website": "http:\/\/www.holyfaithmbc.org\/",
+	"slug": "holy-faith-missionary-baptist-church-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/holy-faith-missionary-baptist-church-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/holy-faith-missionary-baptist-church-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "holyfaithoutreach@yahoo.com",
+		"id": 5238,
+		"name": "Charlene Rowe",
+		"title": "Administrator",
+		"phones": [{
+			"id": 5238,
+			"department": null,
+			"extension": null,
+			"number": "305-621-5187",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5238,
+		"department": null,
+		"extension": null,
+		"number": "305-621-5187",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

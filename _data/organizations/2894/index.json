@@ -1,0 +1,84 @@
+{
+	"id": 2894,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "ASPIRA of Florida oversees three charter charter schools within Miami-Dade County. Services include counseling, tutoring and after school programs.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ASPIRA - CHARTER MIDDLE SCHOOLS",
+	"website": "http:\/\/www.aspirafl.org",
+	"slug": "aspira-charter-middle-schools",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/aspira-charter-middle-schools",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/aspira-charter-middle-schools\/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 7939,
+		"name": "Kenneth Feria, M. Ed.",
+		"title": "Principal",
+		"phones": [{
+			"id": 7939,
+			"department": null,
+			"extension": null,
+			"number": "305-276-6767",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7940,
+		"name": "Marie Caceres, M. Ed.",
+		"title": "Principal",
+		"phones": [{
+			"id": 7940,
+			"department": null,
+			"extension": null,
+			"number": "305-576-1512",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7941,
+		"name": "Antonio Cejas, M. Ed.",
+		"title": "Principal, ASPIRA Leadership College & Preparatory Academy",
+		"phones": [{
+			"id": 7941,
+			"department": null,
+			"extension": null,
+			"number": "305-893-8050",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7939,
+		"department": null,
+		"extension": null,
+		"number": "305-276-6767",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7940,
+		"department": null,
+		"extension": null,
+		"number": "305-576-1512",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7941,
+		"department": null,
+		"extension": null,
+		"number": "305-893-8050",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

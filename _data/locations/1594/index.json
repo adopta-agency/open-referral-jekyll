@@ -1,0 +1,48 @@
+{
+	"id": 1594,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "North Miami Beach, FL",
+	"short_desc": null,
+	"slug": "north-miami-beach-fl-18900-ne-25th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/north-miami-beach-fl-18900-ne-25th-avenue",
+	"address": {
+		"id": 830,
+		"address_1": "18900 NE 25th Avenue",
+		"address_2": null,
+		"city": "North Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33180"
+	},
+	"organization": {
+		"id": 1594,
+		"accreditations": [],
+		"alternate_name": "MARJCC",
+		"date_incorporated": null,
+		"description": "MARJCC provides a full range of programs from infant day care to senior adult activities. The facility has a full health and fitness complex and also provides a full range of cultural programs for all ages.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MICHAEL-ANN RUSSELL JEWISH COMMUNITY CENTER, INC.",
+		"website": "http:\/\/www.marjcc.org",
+		"slug": "michael-ann-russell-jewish-community-center-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/michael-ann-russell-jewish-community-center-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/michael-ann-russell-jewish-community-center-inc\/locations"
+	},
+	"phones": [{
+		"id": 1594,
+		"department": null,
+		"extension": null,
+		"number": "305-932-4200",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

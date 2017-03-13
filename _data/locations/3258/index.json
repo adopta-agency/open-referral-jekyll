@@ -1,0 +1,48 @@
+{
+	"id": 3258,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "South Miami, FL",
+	"short_desc": null,
+	"slug": "south-miami-fl-6060-sw-66th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/south-miami-fl-6060-sw-66th-street",
+	"address": {
+		"id": 1606,
+		"address_1": "6060 SW 66th Street",
+		"address_2": null,
+		"city": "South Miami",
+		"state_province": "FL",
+		"postal_code": "33143"
+	},
+	"organization": {
+		"id": 3256,
+		"accreditations": [],
+		"alternate_name": "ST. ALBAN'S CHILD ENRICHMENT CENTER",
+		"date_incorporated": null,
+		"description": "St. Alban's Child Enrichment Center is a private Non-Profit 501(C)3 program that serves children and families in Miami Dade County. The mission of St. Alban's is to provide courteous, convenient, comprehensive and quality services for children and families.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SAINT ALBAN'S CHILD ENRICHMENT CENTER, INC.",
+		"website": "http:\/\/stalbanschildcare.org",
+		"slug": "saint-alban-s-child-enrichment-center-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/saint-alban-s-child-enrichment-center-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/saint-alban-s-child-enrichment-center-inc\/locations"
+	},
+	"phones": [{
+		"id": 3258,
+		"department": null,
+		"extension": null,
+		"number": "305-667-2664",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

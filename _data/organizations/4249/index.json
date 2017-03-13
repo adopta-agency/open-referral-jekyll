@@ -1,0 +1,153 @@
+{
+	"id": 4249,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Watershed Addiction Treatment Program is a crisis help line manned by Certified Behavioral Health Technicians as well as a center for treatment of drug, alcohol, and prescription drug addiction. The staff is available 24\/7 and offers resources, referrals, information and help to those in need or who have family members in need of help for drug and alcohol addiction. Programs include inpatient detoxification, subacute rehab, residential, day\/night treatment, outpatient, substance abuse detoxification and treatment.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "A WATERSHED ADDICTION TREATMENT CENTER",
+	"website": "http:\/\/www.thewatershed.com",
+	"slug": "a-watershed-addiction-treatment-center",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/a-watershed-addiction-treatment-center",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/a-watershed-addiction-treatment-center\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ccrosby@thewatershed.com",
+		"id": 4249,
+		"name": "Christopher Crosby",
+		"title": "CEO",
+		"phones": [{
+			"id": 4249,
+			"department": null,
+			"extension": null,
+			"number": "855-383-1291",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "acoletti@thewatershed.com",
+		"id": 4250,
+		"name": "Ashling Coletti",
+		"title": "Marketing Assistant",
+		"phones": [{
+			"id": 4250,
+			"department": null,
+			"extension": null,
+			"number": "855-383-1291",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "acoletti@thewatershed.com",
+		"id": 4252,
+		"name": "Ashling Coletti",
+		"title": "Marketing Assistant",
+		"phones": [{
+			"id": 4252,
+			"department": null,
+			"extension": null,
+			"number": "800-260-7129",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "acoletti@thewatershed.com",
+		"id": 4254,
+		"name": "Ashling Coletti",
+		"title": "Marketing Assistant",
+		"phones": [{
+			"id": 4254,
+			"department": null,
+			"extension": null,
+			"number": "855-383-1291",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "acoletti@thewatershed.com",
+		"id": 4255,
+		"name": "Ashling Coletti",
+		"title": "Marketing Assistant",
+		"phones": [{
+			"id": 4255,
+			"department": null,
+			"extension": null,
+			"number": "800-260-7129",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 4261,
+		"name": "Certified Behavioral Technicians",
+		"title": "Certified Behavioral Technicians",
+		"phones": [{
+			"id": 4261,
+			"department": null,
+			"extension": null,
+			"number": "855-383-1291",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4249,
+		"department": null,
+		"extension": null,
+		"number": "855-383-1291",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4250,
+		"department": null,
+		"extension": null,
+		"number": "855-383-1291",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4252,
+		"department": null,
+		"extension": null,
+		"number": "800-260-7129",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4254,
+		"department": null,
+		"extension": null,
+		"number": "855-383-1291",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4255,
+		"department": null,
+		"extension": null,
+		"number": "800-260-7129",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4261,
+		"department": null,
+		"extension": null,
+		"number": "855-383-1291",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

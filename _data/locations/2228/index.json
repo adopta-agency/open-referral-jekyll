@@ -1,0 +1,48 @@
+{
+	"id": 2228,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.7220709,
+	28.3067705],
+	"description": "See listed services",
+	"latitude": 28.3067705,
+	"longitude": -80.7220709,
+	"name": "Rockledge, FL",
+	"short_desc": null,
+	"slug": "rockledge-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/rockledge-fl",
+	"address": {
+		"id": 1118,
+		"address_1": "PO Box 561627",
+		"address_2": null,
+		"city": "Rockledge",
+		"state_province": "FL",
+		"postal_code": "32956"
+	},
+	"organization": {
+		"id": 2228,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "211 Brevard is a private, not-for-profit organization serving Brevard County, Florida. 211 Brevard operates a telephone-based helpline offering crisis intervention and information & referral services, twenty-four hours a day. Also, provides services through the Help Me Grow program targeting children 0-8 years old for developmental disability screenings.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "2-1-1 BREVARD",
+		"website": "http:\/\/www.211brevard.org",
+		"slug": "2-1-1-brevard",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/2-1-1-brevard",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/2-1-1-brevard\/locations"
+	},
+	"phones": [{
+		"id": 2228,
+		"department": null,
+		"extension": "204.0",
+		"number": "321-632-6688",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 1861,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2208502,
+	25.8333734],
+	"description": "See listed services",
+	"latitude": 25.8333734,
+	"longitude": -80.2208502,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-6306-nw-14th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-6306-nw-14th-avenue",
+	"address": {
+		"id": 981,
+		"address_1": "6306 NW 14th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33147"
+	},
+	"organization": {
+		"id": 1861,
+		"accreditations": [],
+		"alternate_name": "MULTIETHNIC YOUTH GROUP ASSOCIATION",
+		"date_incorporated": null,
+		"description": "The MEYGA Center has an after-school and summer youth program for youth ages 5-14 years old. The curriculum includes but not limited to leadership development, literacy, homework assistance, SPARK Fitness, Social Skills, self-expression, arts & crafts, field trips and other educational curriculum.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MEYGA CENTER",
+		"website": null,
+		"slug": "meyga-center",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/meyga-center",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/meyga-center\/locations"
+	},
+	"phones": [{
+		"id": 1861,
+		"department": null,
+		"extension": null,
+		"number": "786-534-6921",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

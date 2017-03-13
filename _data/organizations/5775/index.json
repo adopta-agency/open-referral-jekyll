@@ -1,0 +1,84 @@
+{
+	"id": 5775,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The mission of the Montessori Achievement Center is to plant the seeds of discovery and exploration that will enable children to educate themselves throughout their lifetime.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MONTESSORI SCHOOL OF NORTH MIAMI",
+	"website": "http:\/\/www.montessorimiami.org",
+	"slug": "montessori-school-of-north-miami",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/montessori-school-of-north-miami",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/montessori-school-of-north-miami\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "montessorinm@aol.com",
+		"id": 5775,
+		"name": "Evelyn Lopez Coto",
+		"title": "Director",
+		"phones": [{
+			"id": 5775,
+			"department": null,
+			"extension": null,
+			"number": "305-893-5994",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "montessorinm@aol.com",
+		"id": 5778,
+		"name": "Evelyn Lopez Coto",
+		"title": "Director",
+		"phones": [{
+			"id": 5778,
+			"department": null,
+			"extension": null,
+			"number": "305-758-2879",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "montessorinm@aol.com",
+		"id": 5779,
+		"name": "Evelyn Lopez Coto",
+		"title": "Director",
+		"phones": [{
+			"id": 5779,
+			"department": null,
+			"extension": null,
+			"number": "305-893-5994",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5775,
+		"department": null,
+		"extension": null,
+		"number": "305-893-5994",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5778,
+		"department": null,
+		"extension": null,
+		"number": "305-758-2879",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5779,
+		"department": null,
+		"extension": null,
+		"number": "305-893-5994",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

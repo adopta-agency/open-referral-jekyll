@@ -1,0 +1,48 @@
+{
+	"id": 7742,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1354016,
+	25.7928337],
+	"description": "See listed services",
+	"latitude": 25.7928337,
+	"longitude": -80.1354016,
+	"name": "Miami Beach, FL",
+	"short_desc": null,
+	"slug": "miami-beach-fl-e3912d64-4bc4-41ac-a425-6a13b9886d15",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-beach-fl-e3912d64-4bc4-41ac-a425-6a13b9886d15",
+	"address": {
+		"id": 3680,
+		"address_1": "1700 Convention Center Drive",
+		"address_2": null,
+		"city": "Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33139"
+	},
+	"organization": {
+		"id": 7742,
+		"accreditations": [],
+		"alternate_name": "HACMB",
+		"date_incorporated": null,
+		"description": "The Miami Beach Housing Authority is funded by the U.S. Department of H.U.D. It oversees several low-to-moderate income housing complexes, Section 8 and the Emergency Rent Supplement Program on Miami Beach.\\n\\nProvides emergency rental assistance to low income residents of Miami Beach who are facing eviction. Applicants must be disabled, elderly or parents with dependent children and have been residents of Miami Beach for at least one year. Clients must have some source of income or a plan for future income.\\n\\nThe Leonard Turkel Residences:\\n* Pre-application dates are currently being scheduled and TBA. \\n* The residences are designated for income-eligible elderly persons 62 years of age or older with an income of at least $10,640 a year. \\n* The residences are a moderate rent apartment and utilities are paid separately, it IS NOT low income housing.\\n\\n* A computer lottery process will randomly select a maximum of 1,000 pre-applications. \\n* Only one pre-application per household will be accepted.\\n* Pre-aplications will ONLY be available for completion online at: https:\/\/miamibeach.apply4housing.com",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE HOUSING AUTHORITY OF THE CITY MIAMI BEACH",
+		"website": "http:\/\/www.miamibeachfl.gov",
+		"slug": "the-housing-authority-of-the-city-miami-beach",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-housing-authority-of-the-city-miami-beach",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-housing-authority-of-the-city-miami-beach\/locations"
+	},
+	"phones": [{
+		"id": 7742,
+		"department": null,
+		"extension": null,
+		"number": "305-532-6401",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

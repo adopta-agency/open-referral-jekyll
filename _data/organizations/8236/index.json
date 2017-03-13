@@ -1,0 +1,61 @@
+{
+	"id": 8236,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Licensed psychotherapy for anxiety, depression, substance use\/addiction, eating disorders and body image issues, managing life with ADHD, help with personal and professional boundaries, relationship and attachment struggles.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "LENA SHEFFIELD, LMHC, CAP, MAC, CEDS",
+	"website": null,
+	"slug": "lena-sheffield-lmhc-cap-mac-ceds",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/lena-sheffield-lmhc-cap-mac-ceds",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/lena-sheffield-lmhc-cap-mac-ceds\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "lenalsheffield@gmail.com",
+		"id": 8236,
+		"name": "Lena Sheffield",
+		"title": "Owner",
+		"phones": [{
+			"id": 8236,
+			"department": null,
+			"extension": null,
+			"number": "305-915-9298",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lenalsheffield@gmail.com",
+		"id": 8237,
+		"name": "Lena Sheffield",
+		"title": "Owner",
+		"phones": [{
+			"id": 8237,
+			"department": null,
+			"extension": null,
+			"number": "305-915-9298",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8236,
+		"department": null,
+		"extension": null,
+		"number": "305-915-9298",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8237,
+		"department": null,
+		"extension": null,
+		"number": "305-915-9298",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

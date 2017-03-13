@@ -1,0 +1,153 @@
+{
+	"id": 901,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Maintains over 120 parks and recreational facilities including ten pools, five pre-schools and day care centers, two golf courses, a beach and a cemetery. Offers activities at no or low cost, and special recreation programs for people with disabilities.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CITY OF MIAMI PARKS AND RECREATION DEPARTMENT",
+	"website": "http:\/\/www.miamigov.com\/parks\/",
+	"slug": "city-of-miami-parks-and-recreation-department",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-miami-parks-and-recreation-department",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/city-of-miami-parks-and-recreation-department\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ZGuan@miamigov.com",
+		"id": 901,
+		"name": "Zhaoming Guan",
+		"title": "Assistant Superintendent of Recreation",
+		"phones": [{
+			"id": 901,
+			"department": null,
+			"extension": null,
+			"number": "305-416-1300",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ZGuan@miamigov.com",
+		"id": 903,
+		"name": "Zhaoming Guan",
+		"title": "Assistant Superintendent of Recreation",
+		"phones": [{
+			"id": 903,
+			"department": null,
+			"extension": null,
+			"number": "305-416-1300",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "narguelles@miamigov.com",
+		"id": 904,
+		"name": "Nadia Arguelles",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 904,
+			"department": null,
+			"extension": "2.0",
+			"number": "305-960-4960",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "CLong@miamigov.com",
+		"id": 905,
+		"name": "Christine Long",
+		"title": "Day Care Administrator",
+		"phones": [{
+			"id": 905,
+			"department": null,
+			"extension": null,
+			"number": "305-759-3507",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "CLong@miamigov.com",
+		"id": 6343,
+		"name": "Christine Long",
+		"title": "Day Care Administrator",
+		"phones": [{
+			"id": 6343,
+			"department": null,
+			"extension": null,
+			"number": "305-759-3507",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "CLong@miamigov.com",
+		"id": 8027,
+		"name": "Christine Long",
+		"title": "Day Care Administrator",
+		"phones": [{
+			"id": 8027,
+			"department": null,
+			"extension": null,
+			"number": "305-635-2739",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 901,
+		"department": null,
+		"extension": null,
+		"number": "305-416-1300",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 903,
+		"department": null,
+		"extension": null,
+		"number": "305-416-1300",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 904,
+		"department": null,
+		"extension": "2.0",
+		"number": "305-960-4960",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 905,
+		"department": null,
+		"extension": null,
+		"number": "305-759-3507",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6343,
+		"department": null,
+		"extension": null,
+		"number": "305-759-3507",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8027,
+		"department": null,
+		"extension": null,
+		"number": "305-635-2739",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

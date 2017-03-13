@@ -1,0 +1,48 @@
+{
+	"id": 7621,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-122.4095868,
+	37.7889188],
+	"description": "See listed services",
+	"latitude": 37.7889188,
+	"longitude": -122.4095868,
+	"name": "San Francisco, CA",
+	"short_desc": null,
+	"slug": "san-francisco-ca-567-sutter-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/san-francisco-ca-567-sutter-street",
+	"address": {
+		"id": 3577,
+		"address_1": "567 Sutter Street",
+		"address_2": "3rd Floor",
+		"city": "San Francisco",
+		"state_province": "CA",
+		"postal_code": "94102"
+	},
+	"organization": {
+		"id": 7621,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "ReachOut USA, DBA of Inspire USA Foundation, is a 501(c)(3) non-profit organization. Our mission is to help youth strengthen mental wellness through technology-driven resources and peer support. ReachOut provides forums that are a safe, anonymous online space where teens and young adults can go for immediate support and information free of judgment. More often people will come to the forums when they're going through a tough time to share their story, discuss a problem or to directly reach out for help and support. \\r\\n\\r\\nPlease visit http:\/\/us.reachout.com\/. \\r\\n\\r\\n**NOTE: ReachOut will not be accepting new registrants as of December 1, 2015 and forum activity will be suspended as of December 31, 2105 due to funding purposes. All existing posts will stay frozen and accessible for the time being but individuals will be unable to create new posts or threads.**\\r\\n \\r\\n\\r\\n###MON###\\r\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "REACHOUT USA, INC.",
+		"website": "http:\/\/us.reachout.com\/",
+		"slug": "reachout-usa-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/reachout-usa-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/reachout-usa-inc\/locations"
+	},
+	"phones": [{
+		"id": 7621,
+		"department": null,
+		"extension": null,
+		"number": "800-448-3000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

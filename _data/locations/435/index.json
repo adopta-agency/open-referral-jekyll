@@ -1,0 +1,48 @@
+{
+	"id": 435,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81,
+	35],
+	"description": "See listed services",
+	"latitude": 35,
+	"longitude": -81,
+	"name": "Waxhaw, NC",
+	"short_desc": null,
+	"slug": "waxhaw-nc",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/waxhaw-nc",
+	"address": {
+		"id": 218,
+		"address_1": "2019 Sandy Pond Lane",
+		"address_2": null,
+		"city": "Waxhaw",
+		"state_province": "NC",
+		"postal_code": "28173"
+	},
+	"organization": {
+		"id": 435,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "CareConnect USA offers programs to assist callers in financial crisis. Those programs include mortgage payment assistance, tax relief, child support assistance, bankruptcy assistance, debt counseling and collector complaints.\\n\\n###COL###\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CARECONNECT USA",
+		"website": "http:\/\/www.careconnectusa.org",
+		"slug": "careconnect-usa",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/careconnect-usa",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/careconnect-usa\/locations"
+	},
+	"phones": [{
+		"id": 435,
+		"department": null,
+		"extension": null,
+		"number": "800-291-1068",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

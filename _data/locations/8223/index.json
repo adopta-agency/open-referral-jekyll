@@ -1,0 +1,48 @@
+{
+	"id": 8223,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77.0352649,
+	38.900635],
+	"description": "See listed services",
+	"latitude": 38.900635,
+	"longitude": -77.0352649,
+	"name": "Washington, DC",
+	"short_desc": null,
+	"slug": "washington-dc-5ea3d27e-c0a8-40d0-8239-e06b2edb2b95",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/washington-dc-5ea3d27e-c0a8-40d0-8239-e06b2edb2b95",
+	"address": {
+		"id": 4126,
+		"address_1": "810 Vermond Avenue, NW",
+		"address_2": null,
+		"city": "Washington",
+		"state_province": "DC",
+		"postal_code": "20420"
+	},
+	"organization": {
+		"id": 466,
+		"accreditations": [],
+		"alternate_name": "VA",
+		"date_incorporated": null,
+		"description": "The VA is a government-run military veteran benefit system.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "U.S. DEPARTMENT OF VETERAN AFFAIRS",
+		"website": "http:\/\/www.va.gov",
+		"slug": "u-s-department-of-veteran-affairs",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/u-s-department-of-veteran-affairs",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/u-s-department-of-veteran-affairs\/locations"
+	},
+	"phones": [{
+		"id": 8223,
+		"department": null,
+		"extension": null,
+		"number": "877-424-3838",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

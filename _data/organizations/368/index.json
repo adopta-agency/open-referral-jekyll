@@ -1,0 +1,38 @@
+{
+	"id": 368,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Serves women and teens of all ages and their male partners; GYN services including PAP, Pelvic, STD & HIV screening, pregnancy testing, laboratory screening (blood, sperm count, etc). Offers counseling on all issues related to family planning, sexuality, women's health, relationships, menstruation. Seminars for teens, menopause and beyond. Abortions on site. Provides counseling for sexual abuse, relationships, sexual fulfillment, and enrichment, etc. Provides referrals to prenatal care and delivery sites in Miami-Dade & Broward County. Private counseling for sexual abuse and foster care children. Extensive, age appropriate educational hand outs.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "WOMEN & TEENS HEALTHCARE, INC.",
+	"website": "http:\/\/www.womenandteens.com",
+	"slug": "women-teens-healthcare-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/women-teens-healthcare-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/women-teens-healthcare-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "sylvester@womenandteens.com",
+		"id": 368,
+		"name": "Dr. Sylvester Braithwaite",
+		"title": "Medical Director",
+		"phones": [{
+			"id": 368,
+			"department": null,
+			"extension": null,
+			"number": "305-895-5555",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 368,
+		"department": null,
+		"extension": null,
+		"number": "305-895-5555",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

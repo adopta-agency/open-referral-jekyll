@@ -1,0 +1,48 @@
+{
+	"id": 1053,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-84.284049,
+	30.440082],
+	"description": "See listed services",
+	"latitude": 30.440082,
+	"longitude": -84.284049,
+	"name": "Tallahassee, FL",
+	"short_desc": null,
+	"slug": "tallahassee-fl-301-south-bronough-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/tallahassee-fl-301-south-bronough-street",
+	"address": {
+		"id": 551,
+		"address_1": "301 South Bronough Street",
+		"address_2": "Suite 200",
+		"city": "Tallahassee",
+		"state_province": "FL",
+		"postal_code": "32301"
+	},
+	"organization": {
+		"id": 1053,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The mission of IPN is to ensure public health and safety by providing an avenue for swift intervention\/close monitoring and advocacy of nurses whose practice may be impaired due to the use, misuse, or abuse of alcohol or drugs, or a mental and\/or physical condition. IPN is authorized by Florida Statute, Chapter 464\/456, to assist those nurses whose practice is affected.\\n\\nServices provided include:\\n\\n* Confidential consultations \\n* Evaluate incoming referrals \\n* Provide intervention training \\n* Conduct state-wide training sessions \\n* Facilitate evaluations and\/or treatment \\n* Provide on-going advocacy for participants \\n* Nurse Support Groups \\n* Detect relapses and provide a format for early intervention \\n* Report non-compliance of participants to DOH for appropriate action to ensure public safety and welfare\\n* Case management \\n\\n###COL###\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "INTERVENTION PROJECT FOR NURSES, INC.",
+		"website": "http:\/\/www.ipnfl.org",
+		"slug": "intervention-project-for-nurses-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/intervention-project-for-nurses-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/intervention-project-for-nurses-inc\/locations"
+	},
+	"phones": [{
+		"id": 1053,
+		"department": null,
+		"extension": "118.0",
+		"number": "800-840-2720",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

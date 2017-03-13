@@ -1,0 +1,48 @@
+{
+	"id": 7554,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1841411,
+	25.8745274],
+	"description": "See listed services",
+	"latitude": 25.8745274,
+	"longitude": -80.1841411,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-10933f56-f5c1-4e27-84a9-05bdf4a4bc9c",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-10933f56-f5c1-4e27-84a9-05bdf4a4bc9c",
+	"address": {
+		"id": 3516,
+		"address_1": "601 NE 107th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33161"
+	},
+	"organization": {
+		"id": 4182,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides comprehensive bereavement support, education and resource center for children (kindergarten - college age) and their families who have suffered a loss due to death. CBC provides peer support groups for children, teens and young adults; and concurrent education, support and advocacy groups for their families.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE CHILDREN'S BEREAVEMENT CENTER, INC.",
+		"website": "http:\/\/www.childbereavement.org",
+		"slug": "the-children-s-bereavement-center-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-children-s-bereavement-center-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-children-s-bereavement-center-inc\/locations"
+	},
+	"phones": [{
+		"id": 7554,
+		"department": null,
+		"extension": null,
+		"number": "305-668-4902",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

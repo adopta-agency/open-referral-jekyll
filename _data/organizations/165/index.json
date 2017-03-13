@@ -1,0 +1,61 @@
+{
+	"id": 165,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Government Information Center provides access to government services through our web portal miamidade.gov and the 3-1-1 Answer Center, the Miami-Dade's multi-jurisdictional call center for non-emergency government services.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI-DADE GOVERNMENT INFORMATION CENTER",
+	"website": "http:\/\/www.miamidade.gov\/information\/311-service-center.asp",
+	"slug": "miami-dade-government-information-center",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-government-information-center",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-government-information-center\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ryane@miamidade.gov",
+		"id": 165,
+		"name": "Aimee Martinez",
+		"title": "Assistant Director",
+		"phones": [{
+			"id": 165,
+			"department": null,
+			"extension": null,
+			"number": "305-468-5900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ryane@miamidade.gov",
+		"id": 166,
+		"name": "Aimee Martinez",
+		"title": "Assistant Director",
+		"phones": [{
+			"id": 166,
+			"department": null,
+			"extension": null,
+			"number": "305-468-5900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 165,
+		"department": null,
+		"extension": null,
+		"number": "305-468-5900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 166,
+		"department": null,
+		"extension": null,
+		"number": "305-468-5900",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

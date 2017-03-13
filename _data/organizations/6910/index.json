@@ -1,0 +1,38 @@
+{
+	"id": 6910,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The purpose of Do The Right Thing of Miami, Inc. (DTRT) is to recognize and reward Miami youth for their exemplary behavior, accomplishments and good deeds through a unique partnership with the City of Miami Police Department. The DTRT Awards Program distinguishes exceptional school-age children who choose to be drug and crime free, exhibit non-violent behavior, do well in school, make a difference in their communities and demonstrate turnaround behavior.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "DO THE RIGHT THING OF MIAMI, INC.",
+	"website": "http:\/\/dotherightthinginc.org",
+	"slug": "do-the-right-thing-of-miami-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/do-the-right-thing-of-miami-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/do-the-right-thing-of-miami-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jadkisondtrt@aol.com",
+		"id": 6910,
+		"name": "Jodi Atkison",
+		"title": "Director",
+		"phones": [{
+			"id": 6910,
+			"department": null,
+			"extension": null,
+			"number": "305-579-3344",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6910,
+		"department": null,
+		"extension": null,
+		"number": "305-579-3344",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 5029,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.242118,
+	25.834212],
+	"description": "See listed services",
+	"latitude": 25.834212,
+	"longitude": -80.242118,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1d98f6cd-ec37-46bb-a549-7a4a3fc71090",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-1d98f6cd-ec37-46bb-a549-7a4a3fc71090",
+	"address": {
+		"id": 2105,
+		"address_1": "6600 NW 27th Avenue",
+		"address_2": "Annex Building, Room A14",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33147"
+	},
+	"organization": {
+		"id": 5029,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "An open and progressive outreach ministry. The bereavement support group is open to anyone who has lost a family member, significant other, or friend recently or in the past. One will find spiritual and emotional support in a nonjudgmental manner. Education and counseling on domestic violence, sexual abuse, rape, and human trafficking is provided. Other services include visits to the sick and shut-in, voter registration, information and referral, notary public, health and wellness, gay and lesbian issues. Home visits to provide support are done.\\n\\nThe support group is made possible through Baptist Hospital's Pastoral Care Department (www.baptisthealth.net\/ch).",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SET FREE MINISTRIES THROUGH JESUS CHRIST OF THE APOSTOLIC FAITH CHURCH, INC.",
+		"website": "http:\/\/www.baptisthealth.net\/ch",
+		"slug": "set-free-ministries-through-jesus-christ-of-the-apostolic-faith-church-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/set-free-ministries-through-jesus-christ-of-the-apostolic-faith-church-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/set-free-ministries-through-jesus-christ-of-the-apostolic-faith-church-inc\/locations"
+	},
+	"phones": [{
+		"id": 5029,
+		"department": null,
+		"extension": null,
+		"number": "786-488-2108",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

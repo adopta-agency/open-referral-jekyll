@@ -1,0 +1,48 @@
+{
+	"id": 6217,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -80,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-229cd410-82fe-4592-a68e-4544d7ee681e",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/homestead-fl-229cd410-82fe-4592-a68e-4544d7ee681e",
+	"address": {
+		"id": 2637,
+		"address_1": "800 NE 12th Avenue",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33030"
+	},
+	"organization": {
+		"id": 2410,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The YWCA of Greater Miami-Dade, Inc. provides an after school and full day programming, including summer winter, and spring break camps for youth from various areas including South Dade, Brownsville, Opa Locka, Carol City, Overtown, Allapattah, Hialeah, and Miami Gardens. Program activities include arts & crafts, nutrition, reading, sports, social skills, field trips, and cultural arts. The program is designed to build nutritional, health and academic skills.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "YWCA OF GREATER MIAMI DADE, INC.",
+		"website": "http:\/\/www.ywca-miami.org",
+		"slug": "ywca-of-greater-miami-dade-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/ywca-of-greater-miami-dade-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/ywca-of-greater-miami-dade-inc\/locations"
+	},
+	"phones": [{
+		"id": 6217,
+		"department": null,
+		"extension": null,
+		"number": "305-248-3357",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

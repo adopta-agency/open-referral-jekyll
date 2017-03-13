@@ -1,0 +1,48 @@
+{
+	"id": 1055,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2490-coral-way",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-2490-coral-way",
+	"address": {
+		"id": 552,
+		"address_1": "2490 Coral Way",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33145-3449"
+	},
+	"organization": {
+		"id": 1055,
+		"accreditations": [],
+		"alternate_name": "Informed Families\/Florida Family Partnership, IF\/FP",
+		"date_incorporated": null,
+		"description": "We are a drug prevention and education organization. We aim to increase community and parent awareness about risk-taking behaviors of children, such as alcohol and drug use, and encourages parents to become\/stay involved with their children and their activities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "INFORMED FAMILIES\/THE FLORIDA FAMILY PARTNERSHIP, INC.",
+		"website": "http:\/\/www.informedfamilies.org",
+		"slug": "informed-families-the-florida-family-partnership-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/informed-families-the-florida-family-partnership-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/informed-families-the-florida-family-partnership-inc\/locations"
+	},
+	"phones": [{
+		"id": 1055,
+		"department": null,
+		"extension": null,
+		"number": "305-856-4886",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

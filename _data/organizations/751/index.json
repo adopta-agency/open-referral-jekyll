@@ -1,0 +1,61 @@
+{
+	"id": 751,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides a \"home away from home\" for parents with a child who is receiving hospital treatment at JMH or surrounding area hospitals. There are 31 rooms with semi-private baths, a kitchen and laundry room.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "RONALD MCDONALD HOUSE CHARITIES OF SOUTH FLORIDA, INC.",
+	"website": "http:\/\/www.rmhcsouthflorida.org",
+	"slug": "ronald-mcdonald-house-charities-of-south-florida-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/ronald-mcdonald-house-charities-of-south-florida-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/ronald-mcdonald-house-charities-of-south-florida-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "soraya@rmhcsouthflorida.org",
+		"id": 751,
+		"name": "Soraya Rivera-Moya",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 751,
+			"department": null,
+			"extension": "5.0",
+			"number": "954-828-1822",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "gicelle@rmhcsouthflorida.org",
+		"id": 752,
+		"name": "Gicelle Guardia",
+		"title": "Assistant House Manager",
+		"phones": [{
+			"id": 752,
+			"department": null,
+			"extension": null,
+			"number": "305-324-5683",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 751,
+		"department": null,
+		"extension": "5.0",
+		"number": "954-828-1822",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 752,
+		"department": null,
+		"extension": null,
+		"number": "305-324-5683",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

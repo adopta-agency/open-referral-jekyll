@@ -1,0 +1,48 @@
+{
+	"id": 6818,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	27],
+	"description": "See listed services",
+	"latitude": 27,
+	"longitude": -82,
+	"name": "Fort Myers, FL",
+	"short_desc": null,
+	"slug": "fort-myers-fl-2855-colonial-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/fort-myers-fl-2855-colonial-boulevard",
+	"address": {
+		"id": 2971,
+		"address_1": "2855 Colonial Boulevard",
+		"address_2": null,
+		"city": "Fort Myers",
+		"state_province": "FL",
+		"postal_code": "33966"
+	},
+	"organization": {
+		"id": 6818,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Lee County Public Schools is the ninth-largest district in Florida and the 40th-largest school district in the United States. We proudly educate more than 82,000 students in grades K-12. Our District is a model for others in the state and nation - from our Microsoft Certified High School (Dunbar High) to our National Blue Ribbon School of Excellence (The Sanibel School) to one of the top IB High Schools in the world (Fort Myers High).\\n\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LEE COUNTY PUBLIC SCHOOLS",
+		"website": "http:\/\/www.leeschools.net",
+		"slug": "lee-county-public-schools",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/lee-county-public-schools",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/lee-county-public-schools\/locations"
+	},
+	"phones": [{
+		"id": 6818,
+		"department": null,
+		"extension": null,
+		"number": "239-334-1102",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

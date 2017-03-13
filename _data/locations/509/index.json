@@ -1,0 +1,48 @@
+{
+	"id": 509,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-c5c967cb-ae36-44cf-842d-5e02fc51a9f4",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-c5c967cb-ae36-44cf-842d-5e02fc51a9f4",
+	"address": {
+		"id": 260,
+		"address_1": "111 NW 1st Street",
+		"address_2": "10th Floor, Suite 1034",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33128"
+	},
+	"organization": {
+		"id": 504,
+		"accreditations": [],
+		"alternate_name": "OCAd, M-DC OFFICE OF COMMUNITY ADVOCACY",
+		"date_incorporated": null,
+		"description": "The Office of Community Advocacy (OCAd) is charged with making Miami-Dade County \"One Community\" that embraces our diverse enriched and unique population.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI-DADE COUNTY OFFICE OF COMMUNITY ADVOCACY",
+		"website": "http:\/\/www.miamidade.gov\/advocacy\/",
+		"slug": "miami-dade-county-office-of-community-advocacy",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-office-of-community-advocacy",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-county-office-of-community-advocacy\/locations"
+	},
+	"phones": [{
+		"id": 509,
+		"department": null,
+		"extension": null,
+		"number": "305-375-5730",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 7678,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3672984,
+	25.5981679],
+	"description": "See listed services",
+	"latitude": 25.5981679,
+	"longitude": -80.3672984,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-b33ce5c9-1b24-4b05-88c8-56c20119671f",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-b33ce5c9-1b24-4b05-88c8-56c20119671f",
+	"address": {
+		"id": 3627,
+		"address_1": "10825 SW 184th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 7678,
+		"accreditations": [],
+		"alternate_name": "KLC 3",
+		"date_incorporated": null,
+		"description": "Kids Learning Center of South Dade III provides the following programs:\\n\\n* Afterschool Program \\n* Project Bassed Learning\\n* Enrichment Activities\\n* Home Learning \\n* Snack\\n* Tutoring\\n* Behavior Therapy",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "KIDS LEARNING CENTER OF SOUTH DADE III, INC.",
+		"website": "http:\/\/klcschools.com",
+		"slug": "kids-learning-center-of-south-dade-iii-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/kids-learning-center-of-south-dade-iii-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/kids-learning-center-of-south-dade-iii-inc\/locations"
+	},
+	"phones": [{
+		"id": 7678,
+		"department": null,
+		"extension": null,
+		"number": "305-253-3613",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

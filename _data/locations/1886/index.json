@@ -1,0 +1,48 @@
+{
+	"id": 1886,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2122028,
+	25.7888651],
+	"description": "See listed services",
+	"latitude": 25.7888651,
+	"longitude": -80.2122028,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1095-nw-14th-terrace",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-1095-nw-14th-terrace",
+	"address": {
+		"id": 989,
+		"address_1": "1095 NW 14th Terrace",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 1886,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Miami Project international team of more than 200 scientists, researchers and clinicians take innovative approaches to the challenge of spinal cord injury.\\n\\nOffers the 1-800-STAND UP information line for questions regarding spinal cord injury research, and \"The Project\" newsletter about research and programs.\\n\\nThe Miami Project to Cure Paralysis is a multidisciplinary basic science and clinical research effort of the University of Miami, dedicated to finding more effective treatments and an eventual cure for paralysis resulting from spinal cord injury. The general public has the opportunity to participate in our studies should they meet the criteria.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE MIAMI PROJECT TO CURE PARALYSIS",
+		"website": "http:\/\/www.miamiproject.miami.edu",
+		"slug": "the-miami-project-to-cure-paralysis",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-miami-project-to-cure-paralysis",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-miami-project-to-cure-paralysis\/locations"
+	},
+	"phones": [{
+		"id": 1886,
+		"department": null,
+		"extension": null,
+		"number": "305-243-6001",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

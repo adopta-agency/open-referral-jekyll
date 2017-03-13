@@ -1,0 +1,48 @@
+{
+	"id": 8211,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-84.284994,
+	30.43495],
+	"description": "See listed services",
+	"latitude": 30.43495,
+	"longitude": -84.284994,
+	"name": "Tallahassee, FL",
+	"short_desc": null,
+	"slug": "tallahassee-fl-325-w-gaines-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/tallahassee-fl-325-w-gaines-street",
+	"address": {
+		"id": 4114,
+		"address_1": "325 W Gaines Street",
+		"address_2": "Commission for Independent Education - Suite 1414",
+		"city": "Tallahassee",
+		"state_province": "FL",
+		"postal_code": "32399"
+	},
+	"organization": {
+		"id": 1379,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides vocational rehabilitation, medical and social service programs for blind and visually impaired.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA DEPARTMENT OF EDUCATION - FLORIDA DIVISION OF BLIND SERVICES",
+		"website": "http:\/\/dbs.myflorida.com\/",
+		"slug": "florida-department-of-education-florida-division-of-blind-services",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-education-florida-division-of-blind-services",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-education-florida-division-of-blind-services\/locations"
+	},
+	"phones": [{
+		"id": 8211,
+		"department": null,
+		"extension": null,
+		"number": "888-224-6684",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

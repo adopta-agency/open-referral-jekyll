@@ -1,0 +1,130 @@
+{
+	"id": 1166,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "FDLE is funded through the Florida legislature and operates the statewide Missing Endangered Persons Information Clearinghouse which collects, stores and disseminates information to help locate missing children.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA DEPT OF LAW ENFORCEMENT (FDLE)",
+	"website": "http:\/\/www.fdle.state.fl.us",
+	"slug": "florida-dept-of-law-enforcement-fdle",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-dept-of-law-enforcement-fdle",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-dept-of-law-enforcement-fdle\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@fdle.state.fl.us",
+		"id": 1166,
+		"name": "Office of Public Information",
+		"title": "PIO",
+		"phones": [{
+			"id": 1166,
+			"department": null,
+			"extension": null,
+			"number": "850-410-7000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@fdle.state.fl.us",
+		"id": 1167,
+		"name": "Rick Swearingen",
+		"title": "Commissioner",
+		"phones": [{
+			"id": 1167,
+			"department": null,
+			"extension": null,
+			"number": "305-470-5500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@fdle.state.fl.us",
+		"id": 1168,
+		"name": "Rick Swearingen",
+		"title": "Commissioner",
+		"phones": [{
+			"id": 1168,
+			"department": null,
+			"extension": null,
+			"number": "850-410-7640",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mepic@fdle.state.fl.us",
+		"id": 1169,
+		"name": "Mr. Charles Schaeffer",
+		"title": "Information Program Director",
+		"phones": [{
+			"id": 1169,
+			"department": null,
+			"extension": null,
+			"number": "888-356-4774",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@fdle.state.fl.us",
+		"id": 7348,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 7348,
+			"department": null,
+			"extension": null,
+			"number": "305-470-5500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1166,
+		"department": null,
+		"extension": null,
+		"number": "850-410-7000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1167,
+		"department": null,
+		"extension": null,
+		"number": "305-470-5500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1168,
+		"department": null,
+		"extension": null,
+		"number": "850-410-7640",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1169,
+		"department": null,
+		"extension": null,
+		"number": "888-356-4774",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7348,
+		"department": null,
+		"extension": null,
+		"number": "305-470-5500",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

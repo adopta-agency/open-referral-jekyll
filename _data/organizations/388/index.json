@@ -1,0 +1,107 @@
+{
+	"id": 388,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "HDC is a HUD-certified 501(c)3 non-profit organization serving Southwest Florida. Services include very low, low and moderate income housing assistance to purchase a home, Fair Housing outreach and Homebuyer Education, HUD-certified credit and foreclosure counseling, and money management workshops. \\n\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HOUSING DEVELOPMENT CORPORATION OF SW FLORIDA, INC.",
+	"website": "http:\/\/www.collierhousing.com",
+	"slug": "housing-development-corporation-of-sw-florida-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/housing-development-corporation-of-sw-florida-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/housing-development-corporation-of-sw-florida-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mpuchalla@collierhousing.com",
+		"id": 388,
+		"name": "Micheal Puchella",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 388,
+			"department": null,
+			"extension": null,
+			"number": "239-434-2397",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mPuchalla@collierhousing.com",
+		"id": 389,
+		"name": "Michael Puchalla",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 389,
+			"department": null,
+			"extension": null,
+			"number": "239-434-2397",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mPuchalla@collierhousing.com",
+		"id": 7608,
+		"name": "Michael Puchalla",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7608,
+			"department": null,
+			"extension": null,
+			"number": "239-434-2397",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mPuchalla@collierhousing.com",
+		"id": 7609,
+		"name": "Michael Puchalla",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7609,
+			"department": null,
+			"extension": null,
+			"number": "239-434-2397",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 388,
+		"department": null,
+		"extension": null,
+		"number": "239-434-2397",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 389,
+		"department": null,
+		"extension": null,
+		"number": "239-434-2397",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7608,
+		"department": null,
+		"extension": null,
+		"number": "239-434-2397",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7609,
+		"department": null,
+		"extension": null,
+		"number": "239-434-2397",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

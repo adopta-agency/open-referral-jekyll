@@ -1,0 +1,48 @@
+{
+	"id": 247,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-83,
+	28],
+	"description": "See listed services",
+	"latitude": 28,
+	"longitude": -83,
+	"name": "Tampa, FL",
+	"short_desc": null,
+	"slug": "tampa-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/tampa-fl",
+	"address": {
+		"id": 145,
+		"address_1": "3627 A, W. Waters Avenue",
+		"address_2": null,
+		"city": "Tampa",
+		"state_province": "FL",
+		"postal_code": "33614"
+	},
+	"organization": {
+		"id": 247,
+		"accreditations": [],
+		"alternate_name": "LSF",
+		"date_incorporated": null,
+		"description": "Lutheran Services Florida (LSF) is a statewide, non-profit, human services agency dedicated to helping all people in need regardless of religious affiliation, age or national origin. The agency has more than 60 programs located throughout Florida. \\n\\nServices provided include: the Child Care Food Program, PEPPI Head Start Child Development Center, Foster and Adoptions Case Management, Youth Shelters and Family Crisis Counseling Programs, Guardianship Program, Housing, Employment, Refugee and Immigration Programs, Ryan White AIDS Program, and Disaster Response Programs for victims of tornadoes, hurricanes, floods and other natural disasters. G\u00c7\u00ef\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LUTHERAN SERVICES FLORIDA, INC.",
+		"website": "http:\/\/www.lsfnet.org",
+		"slug": "lutheran-services-florida-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/lutheran-services-florida-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/lutheran-services-florida-inc\/locations"
+	},
+	"phones": [{
+		"id": 247,
+		"department": null,
+		"extension": null,
+		"number": "813-875-1408",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

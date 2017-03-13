@@ -1,0 +1,48 @@
+{
+	"id": 1037,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami Beach, FL",
+	"short_desc": null,
+	"slug": "miami-beach-fl-8638-harding-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-beach-fl-8638-harding-avenue",
+	"address": {
+		"id": 549,
+		"address_1": "8638 Harding Avenue",
+		"address_2": null,
+		"city": "Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33141"
+	},
+	"organization": {
+		"id": 1015,
+		"accreditations": [],
+		"alternate_name": "LHANC",
+		"date_incorporated": null,
+		"description": "Serves multi-ethnic, economically or socially needy elderly at 16 centers. Provides health support, transportation, adult day care, education, counseling, recreational activities, employment placement and information and referral. Serves hot meals at congregate sites and in homes and administers two intergenerational child day care centers.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LITTLE HAVANA ACTIVITIES AND NUTRITION CENTERS OF DADE COUNTY, INC.",
+		"website": "http:\/\/www.lhanc.org",
+		"slug": "little-havana-activities-and-nutrition-centers-of-dade-county-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/little-havana-activities-and-nutrition-centers-of-dade-county-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/little-havana-activities-and-nutrition-centers-of-dade-county-inc\/locations"
+	},
+	"phones": [{
+		"id": 1037,
+		"department": null,
+		"extension": "1247.0",
+		"number": "305-868-4020",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

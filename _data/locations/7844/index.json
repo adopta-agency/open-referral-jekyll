@@ -1,0 +1,48 @@
+{
+	"id": 7844,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.4210144,
+	26.4189823],
+	"description": "See listed services",
+	"latitude": 26.4189823,
+	"longitude": -81.4210144,
+	"name": "Immokalee, FL",
+	"short_desc": null,
+	"slug": "immokalee-fl-402-west-main-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/immokalee-fl-402-west-main-street",
+	"address": {
+		"id": 3769,
+		"address_1": "402 West Main Street",
+		"address_2": null,
+		"city": "Immokalee",
+		"state_province": "FL",
+		"postal_code": "34142"
+	},
+	"organization": {
+		"id": 7844,
+		"accreditations": [],
+		"alternate_name": "RCMA",
+		"date_incorporated": null,
+		"description": "The Redlands Christian Migrant Association provides quality child care and early education for children of migrant farm workers and rural, low-income families throughout Florida. The largest non-profit child-care provider in Florida, RCMA is a leader in high-quality early childhood services. More than half of RCMA's child-care centers are nationally accredited.\\r\\n\\r\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "REDLANDS CHRISTIAN MIGRANT ASSOCIATION - COLLIER, INC.",
+		"website": "http:\/\/www.rcma.org",
+		"slug": "redlands-christian-migrant-association-collier-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/redlands-christian-migrant-association-collier-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/redlands-christian-migrant-association-collier-inc\/locations"
+	},
+	"phones": [{
+		"id": 7844,
+		"department": null,
+		"extension": null,
+		"number": "800-282-6540",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

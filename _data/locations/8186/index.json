@@ -1,0 +1,48 @@
+{
+	"id": 8186,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2544209,
+	25.8460709],
+	"description": "See listed services",
+	"latitude": 25.8460709,
+	"longitude": -80.2544209,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-3505-nw-79th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-3505-nw-79th-street",
+	"address": {
+		"id": 4090,
+		"address_1": "3505 NW 79th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33147"
+	},
+	"organization": {
+		"id": 8186,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides emergency food assistance for those in the community who are in need.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FOUNTAIN OF LIFE APOSTOLIC CHURCH",
+		"website": null,
+		"slug": "fountain-of-life-apostolic-church",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/fountain-of-life-apostolic-church",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/fountain-of-life-apostolic-church\/locations"
+	},
+	"phones": [{
+		"id": 8186,
+		"department": null,
+		"extension": null,
+		"number": "305-546-2723",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

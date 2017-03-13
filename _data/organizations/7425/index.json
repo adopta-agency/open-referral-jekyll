@@ -1,0 +1,222 @@
+{
+	"id": 7425,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Offers ongoing sports training programs to those who desire afternoon, evening and\/or weekend hours. There is no cost to participate. Participants must register with Special Olympics or must be currently registered.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SPECIAL OLYMPICS FLORIDA - MD-C - COMMUNITY SPORTS TRAINING PROGRAMS",
+	"website": "http:\/\/specialolympicsflorida.org\/miami-dade\/",
+	"slug": "special-olympics-florida-md-c-community-sports-training-programs",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/special-olympics-florida-md-c-community-sports-training-programs",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/special-olympics-florida-md-c-community-sports-training-programs\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mthompson@specialolympicsmiamidade.org",
+		"id": 7426,
+		"name": "Mark Thompson",
+		"title": "Athlete Recruitment Manager",
+		"phones": [{
+			"id": 7426,
+			"department": null,
+			"extension": null,
+			"number": "305-406-9467",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mthompson@specialolympicsmiamidade.org",
+		"id": 7427,
+		"name": "Mark Thompson",
+		"title": "Athlete Recruitment Manager",
+		"phones": [{
+			"id": 7427,
+			"department": null,
+			"extension": null,
+			"number": "305-406-9467",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mthompson@specialolympicsmiamidade.org",
+		"id": 7428,
+		"name": "Mark Thompson",
+		"title": "Athlete Recruitment Manager",
+		"phones": [{
+			"id": 7428,
+			"department": null,
+			"extension": null,
+			"number": "305-406-9467",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mthompson@specialolympicsmiamidade.org",
+		"id": 7429,
+		"name": "Mark Thompson",
+		"title": "Athlete Recruitment Manager",
+		"phones": [{
+			"id": 7429,
+			"department": null,
+			"extension": null,
+			"number": "305-406-9467",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mthompson@specialolympicsmiamidade.org",
+		"id": 7430,
+		"name": "Mark Thompson",
+		"title": "Athlete Recruitment Manager",
+		"phones": [{
+			"id": 7430,
+			"department": null,
+			"extension": null,
+			"number": "305-406-9467",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mthompson@specialolympicsmiamidade.org",
+		"id": 7431,
+		"name": "Mark Thompson",
+		"title": "Athlete Recruitment Manager",
+		"phones": [{
+			"id": 7431,
+			"department": null,
+			"extension": null,
+			"number": "305-406-9467",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mthompson@specialolympicsmiamidade.org",
+		"id": 7432,
+		"name": "Mark Thompson",
+		"title": "Athlete Recruitment Manager",
+		"phones": [{
+			"id": 7432,
+			"department": null,
+			"extension": null,
+			"number": "305-406-9467",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mthompson@specialolympicsmiamidade.org",
+		"id": 7433,
+		"name": "Mark Thompson",
+		"title": "Athlete Recruitment Manager",
+		"phones": [{
+			"id": 7433,
+			"department": null,
+			"extension": null,
+			"number": "305-406-9467",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mthompson@specialolympicsmiamidade.org",
+		"id": 8025,
+		"name": "Mark Thompson",
+		"title": "Athlete Recruitment Manager",
+		"phones": [{
+			"id": 8025,
+			"department": null,
+			"extension": null,
+			"number": "305-406-9467",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7426,
+		"department": null,
+		"extension": null,
+		"number": "305-406-9467",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7427,
+		"department": null,
+		"extension": null,
+		"number": "305-406-9467",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7428,
+		"department": null,
+		"extension": null,
+		"number": "305-406-9467",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7429,
+		"department": null,
+		"extension": null,
+		"number": "305-406-9467",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7430,
+		"department": null,
+		"extension": null,
+		"number": "305-406-9467",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7431,
+		"department": null,
+		"extension": null,
+		"number": "305-406-9467",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7432,
+		"department": null,
+		"extension": null,
+		"number": "305-406-9467",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7433,
+		"department": null,
+		"extension": null,
+		"number": "305-406-9467",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8025,
+		"department": null,
+		"extension": null,
+		"number": "305-406-9467",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

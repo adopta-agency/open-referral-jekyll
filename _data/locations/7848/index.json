@@ -1,0 +1,48 @@
+{
+	"id": 7848,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.4149422,
+	25.6517038],
+	"description": "See listed services",
+	"latitude": 25.6517038,
+	"longitude": -80.4149422,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-21d36187-110b-4159-bf0e-8a8c0c195b76",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-21d36187-110b-4159-bf0e-8a8c0c195b76",
+	"address": {
+		"id": 3773,
+		"address_1": "12485 SW 137th Avenue",
+		"address_2": "Suite 109",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33186"
+	},
+	"organization": {
+		"id": 548,
+		"accreditations": [],
+		"alternate_name": "CIS",
+		"date_incorporated": null,
+		"description": "Communities in Schools is dedicated to creating public\/private partnerships for the benefit of Miami-Dade County Public Schools and community centers. Services offered include a mentorship program which is targeted to youth who are at-risk of dropping out of school.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COMMUNITIES IN SCHOOLS OF MIAMI, INC.",
+		"website": "http:\/\/www.cismiami.org",
+		"slug": "communities-in-schools-of-miami-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/communities-in-schools-of-miami-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/communities-in-schools-of-miami-inc\/locations"
+	},
+	"phones": [{
+		"id": 7848,
+		"department": null,
+		"extension": null,
+		"number": "305-252-5444",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

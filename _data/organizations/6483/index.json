@@ -1,0 +1,38 @@
+{
+	"id": 6483,
+	"accreditations": [],
+	"alternate_name": "TLE",
+	"date_incorporated": null,
+	"description": "The Learning Experience School (TLE) established in 1977 is a private non-profit school for children and adults with developmental disabilities. Promotes a safe and peaceful environment that encourages individualized academic, social and emotional growth for all children and adults with developmental disabilities. They provide students with the necessary tools to go beyond the classroom and become active members of the community.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE LEARNING EXPERIENCE SCHOOL, INC.",
+	"website": "http:\/\/www.thelearningexperienceschool.org",
+	"slug": "the-learning-experience-school-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-learning-experience-school-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/the-learning-experience-school-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "vgburley@tleschool.org",
+		"id": 6483,
+		"name": "Vickie Burley",
+		"title": "Head of School",
+		"phones": [{
+			"id": 6483,
+			"department": null,
+			"extension": null,
+			"number": "305-275-5900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6483,
+		"department": null,
+		"extension": null,
+		"number": "305-275-5900",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

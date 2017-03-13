@@ -1,0 +1,48 @@
+{
+	"id": 374,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "West Palm Beach, FL",
+	"short_desc": null,
+	"slug": "west-palm-beach-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/west-palm-beach-fl",
+	"address": {
+		"id": 184,
+		"address_1": "2300 North Florida Mango Road",
+		"address_2": "Suite 360",
+		"city": "West Palm Beach",
+		"state_province": "FL",
+		"postal_code": "33409"
+	},
+	"organization": {
+		"id": 374,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides community education, peer education programs, teen clinic, and reproductive health services.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "PLANNED PARENTHOOD OF SOUTH FLORIDA AND TREASURE COAST, INC.",
+		"website": "http:\/\/www.plannedparenthood.org\/ppsoflo\/",
+		"slug": "planned-parenthood-of-south-florida-and-treasure-coast-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/planned-parenthood-of-south-florida-and-treasure-coast-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/planned-parenthood-of-south-florida-and-treasure-coast-inc\/locations"
+	},
+	"phones": [{
+		"id": 374,
+		"department": null,
+		"extension": null,
+		"number": "561-848-6402",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

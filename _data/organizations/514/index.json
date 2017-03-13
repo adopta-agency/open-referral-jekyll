@@ -1,0 +1,452 @@
+{
+	"id": 514,
+	"accreditations": [],
+	"alternate_name": "UM",
+	"date_incorporated": null,
+	"description": "The Department of Pediatrics at the University of Miami School of Medicine is nationally and internationally acclaimed for education, research, patient care, and biomedical innovation.\\n\\nYoung patients come to UM from all over the world to receive quality care delivered with compassion by outstanding pediatric specialists and other skilled medical professionals. As part of the University of Miami School of Medicine, the Department of Pediatrics is integrated into a dynamic research environment where innovative and effective treatments and cures are under development.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "UNIVERSITY OF MIAMI - DEPARTMENT OF PEDIATRICS",
+	"website": "http:\/\/www.pediatrics.med.miami.edu",
+	"slug": "university-of-miami-department-of-pediatrics",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/university-of-miami-department-of-pediatrics",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/university-of-miami-department-of-pediatrics\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jschaechter@med.miami.edu",
+		"id": 514,
+		"name": "Judy Schaechter",
+		"title": "Professor & Chair, Department of Pediatrics",
+		"phones": [{
+			"id": 514,
+			"department": null,
+			"extension": null,
+			"number": "305-243-3993",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cbronzetti@med.miami.edu",
+		"id": 515,
+		"name": "Dr. G. Patricia Cantwell",
+		"title": "Director of Pediatric Critical Care",
+		"phones": [{
+			"id": 515,
+			"department": null,
+			"extension": null,
+			"number": "305-585-6051",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Prusconi@med.miami.edu",
+		"id": 516,
+		"name": "Dr. Paolo Rusconi",
+		"title": "Division Chief of Pediatric Cardiology",
+		"phones": [{
+			"id": 516,
+			"department": null,
+			"extension": null,
+			"number": "305-585-6683",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "PRenaud@med.miami.edu",
+		"id": 527,
+		"name": "Peggy Renaud, BSN",
+		"title": "Case Worker",
+		"phones": [{
+			"id": 527,
+			"department": null,
+			"extension": null,
+			"number": "305-243-3441",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lfriedma@med.miami.edu",
+		"id": 528,
+		"name": "Dr. Lawrence B. Friedman, M.D",
+		"title": "Director for Adolescent Medicine",
+		"phones": [{
+			"id": 528,
+			"department": null,
+			"extension": null,
+			"number": "305-243-5880",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "nbecerra@med.miami.edu",
+		"id": 6950,
+		"name": "Nancy Becerra, BA",
+		"title": "Healthy Steps Specialist",
+		"phones": [{
+			"id": 6950,
+			"department": null,
+			"extension": null,
+			"number": "305-905-4093",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "alevine@med.miami.edu",
+		"id": 6952,
+		"name": "Aja Levine, MSW",
+		"title": "Associate Director - Healthy Steps Specialist",
+		"phones": [{
+			"id": 6952,
+			"department": null,
+			"extension": null,
+			"number": "305-270-3495",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "gbarahona@med.miami.edu",
+		"id": 6953,
+		"name": "Georgina Barahona",
+		"title": "Healthy Steps Specialist",
+		"phones": [{
+			"id": 6953,
+			"department": null,
+			"extension": null,
+			"number": "305-877-9142",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jjent@med.miami.edu",
+		"id": 6954,
+		"name": "Jason Jent, PhD",
+		"title": "Healthy Steps Program Director",
+		"phones": [{
+			"id": 6954,
+			"department": null,
+			"extension": null,
+			"number": "305-905-4093",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7030,
+		"name": "Dr. Maria L. Alcaide",
+		"title": "Associate Professor of Clinical Medicine",
+		"phones": [{
+			"id": 7030,
+			"department": null,
+			"extension": null,
+			"number": "305-243-4625",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "emansoor@miami.edu",
+		"id": 7689,
+		"name": "Elana Mansoor, Psy.D.",
+		"title": "Program Co-Director",
+		"phones": [{
+			"id": 7689,
+			"department": null,
+			"extension": null,
+			"number": "305-243-8425",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "emansoor@miami.edu",
+		"id": 7860,
+		"name": "Elana Mansoor, Psy.D.",
+		"title": "Program Co-Director",
+		"phones": [{
+			"id": 7860,
+			"department": null,
+			"extension": null,
+			"number": "305-243-8425",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7861,
+		"name": "Margaret Astacio",
+		"title": "Care Coordinator",
+		"phones": [{
+			"id": 7861,
+			"department": null,
+			"extension": null,
+			"number": "305-243-8425",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "emansoor@miami.edu",
+		"id": 7886,
+		"name": "Elana Mansoor, Psy.D.",
+		"title": "Program Co-Director",
+		"phones": [{
+			"id": 7886,
+			"department": null,
+			"extension": null,
+			"number": "305-243-8425",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "emansoor@miami.edu",
+		"id": 8024,
+		"name": "Elana Mansoor, Psy.D.",
+		"title": "Program Co-Director",
+		"phones": [{
+			"id": 8024,
+			"department": null,
+			"extension": null,
+			"number": "305-243-8425",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 8155,
+		"name": "Margaret Astacio",
+		"title": "Care Coordinator",
+		"phones": [{
+			"id": 8155,
+			"department": null,
+			"extension": null,
+			"number": "305-243-8425",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "emansoor@miami.edu",
+		"id": 8156,
+		"name": "Elana Mansoor, Psy.D.",
+		"title": "Program Co-Director",
+		"phones": [{
+			"id": 8156,
+			"department": null,
+			"extension": null,
+			"number": "305-243-8425",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "emansoor@miami.edu",
+		"id": 8157,
+		"name": "Elana Mansoor, Psy.D.",
+		"title": "Program Co-Director",
+		"phones": [{
+			"id": 8157,
+			"department": null,
+			"extension": null,
+			"number": "305-243-8425",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "emansoor@miami.edu",
+		"id": 8158,
+		"name": "Elana Mansoor, Psy.D.",
+		"title": "Program Co-Director",
+		"phones": [{
+			"id": 8158,
+			"department": null,
+			"extension": null,
+			"number": "305-243-8425",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 514,
+		"department": null,
+		"extension": null,
+		"number": "305-243-3993",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 515,
+		"department": null,
+		"extension": null,
+		"number": "305-585-6051",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 516,
+		"department": null,
+		"extension": null,
+		"number": "305-585-6683",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 527,
+		"department": null,
+		"extension": null,
+		"number": "305-243-3441",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 528,
+		"department": null,
+		"extension": null,
+		"number": "305-243-5880",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6950,
+		"department": null,
+		"extension": null,
+		"number": "305-905-4093",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6952,
+		"department": null,
+		"extension": null,
+		"number": "305-270-3495",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6953,
+		"department": null,
+		"extension": null,
+		"number": "305-877-9142",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6954,
+		"department": null,
+		"extension": null,
+		"number": "305-905-4093",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7030,
+		"department": null,
+		"extension": null,
+		"number": "305-243-4625",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7689,
+		"department": null,
+		"extension": null,
+		"number": "305-243-8425",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7860,
+		"department": null,
+		"extension": null,
+		"number": "305-243-8425",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7861,
+		"department": null,
+		"extension": null,
+		"number": "305-243-8425",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7886,
+		"department": null,
+		"extension": null,
+		"number": "305-243-8425",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8024,
+		"department": null,
+		"extension": null,
+		"number": "305-243-8425",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8155,
+		"department": null,
+		"extension": null,
+		"number": "305-243-8425",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8156,
+		"department": null,
+		"extension": null,
+		"number": "305-243-8425",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8157,
+		"department": null,
+		"extension": null,
+		"number": "305-243-8425",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8158,
+		"department": null,
+		"extension": null,
+		"number": "305-243-8425",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

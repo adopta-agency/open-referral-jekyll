@@ -1,0 +1,48 @@
+{
+	"id": 3931,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81,
+	29],
+	"description": "See listed services",
+	"latitude": 29,
+	"longitude": -81,
+	"name": "Orlando, FL",
+	"short_desc": null,
+	"slug": "orlando-fl-1940-traylor-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/orlando-fl-1940-traylor-boulevard",
+	"address": {
+		"id": 1828,
+		"address_1": "1940 Traylor Boulevard",
+		"address_2": null,
+		"city": "Orlando",
+		"state_province": "FL",
+		"postal_code": "32804"
+	},
+	"organization": {
+		"id": 3931,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Looking for affordable housing, quality day care or utility assistance? Are you dealing with a personal crisis, struggling with thoughts of suicide or seeking help with an aging parent?\\n\\nSimply dial, 2-1-1, United WayG\u00c7\u00d6s free, 24-hour information and referral helpline which links people in need with assistance from more than 2,000 local health and human service programs. Staffed 24-hours per day by caring, highly trained, multilingual operators, 2-1-1 is your connection to finding help.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HEART OF FLORIDA UNITED WAY 2-1-1",
+		"website": "http:\/\/www.hfuw.org",
+		"slug": "heart-of-florida-united-way-2-1-1",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/heart-of-florida-united-way-2-1-1",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/heart-of-florida-united-way-2-1-1\/locations"
+	},
+	"phones": [{
+		"id": 3931,
+		"department": null,
+		"extension": null,
+		"number": "407-839-4357",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

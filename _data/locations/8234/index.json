@@ -1,0 +1,48 @@
+{
+	"id": 8234,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2979928,
+	25.9112608],
+	"description": "See listed services",
+	"latitude": 25.9112608,
+	"longitude": -80.2979928,
+	"name": "Miami Lakes, FL",
+	"short_desc": null,
+	"slug": "miami-lakes-fl-5979-nw-151st-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-lakes-fl-5979-nw-151st-street",
+	"address": {
+		"id": 4136,
+		"address_1": "5979 NW 151st Street",
+		"address_2": "Suite 101",
+		"city": "Miami Lakes",
+		"state_province": "FL",
+		"postal_code": "33014"
+	},
+	"organization": {
+		"id": 247,
+		"accreditations": [],
+		"alternate_name": "LSF",
+		"date_incorporated": null,
+		"description": "Lutheran Services Florida (LSF) is a statewide, non-profit, human services agency dedicated to helping all people in need regardless of religious affiliation, age or national origin. The agency has more than 60 programs located throughout Florida. \\n\\nServices provided include: the Child Care Food Program, PEPPI Head Start Child Development Center, Foster and Adoptions Case Management, Youth Shelters and Family Crisis Counseling Programs, Guardianship Program, Housing, Employment, Refugee and Immigration Programs, Ryan White AIDS Program, and Disaster Response Programs for victims of tornadoes, hurricanes, floods and other natural disasters. G\u00c7\u00ef\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LUTHERAN SERVICES FLORIDA, INC.",
+		"website": "http:\/\/www.lsfnet.org",
+		"slug": "lutheran-services-florida-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/lutheran-services-florida-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/lutheran-services-florida-inc\/locations"
+	},
+	"phones": [{
+		"id": 8234,
+		"department": null,
+		"extension": null,
+		"number": "305-912-0870",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

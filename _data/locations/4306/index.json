@@ -1,0 +1,48 @@
+{
+	"id": 4306,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -80,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-31b7a0cb-4ad8-4bbc-9db5-3006ebe8ddb4",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/homestead-fl-31b7a0cb-4ad8-4bbc-9db5-3006ebe8ddb4",
+	"address": {
+		"id": 1971,
+		"address_1": "145 NE 10th Street",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33030"
+	},
+	"organization": {
+		"id": 4299,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "\"Sowing Seeds into the Lives of Young People,\" just as a plant rooted in solid soil will grow strong and provide sustaining life for a life time; this too applies to Sweet Vine Incorporated.\\n\\nOur purpose is to address the socioeconomic needs of disadvantaged communities, families and children; provide opportunities for partakers by connecting them with quality services\/programs promoting self-efficacy and excellence. \\n\\nEngage innovative and enriching approaches aimed at building strong foundations, educating, fine-tuning, empowering and motivating each participant to become critical thinkers and self-confident\/leaders within their perspective communities, school and country OR wherever they may thrive the world. \\n\\nTeach participants the importance of working across cultures promoting unity and ethnic harmony establishing common knowledge as a platform of learning to understand and respect one another. To involve participants in social-exposure activities encompassing different worlds.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SWEET VINE, INC.",
+		"website": "http:\/\/www.sweetvine.org",
+		"slug": "sweet-vine-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/sweet-vine-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/sweet-vine-inc\/locations"
+	},
+	"phones": [{
+		"id": 4306,
+		"department": null,
+		"extension": null,
+		"number": "305-246-1193",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

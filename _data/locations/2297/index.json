@@ -1,0 +1,48 @@
+{
+	"id": 2297,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-98,
+	30],
+	"description": "See listed services",
+	"latitude": 30,
+	"longitude": -98,
+	"name": "Buda, TX",
+	"short_desc": null,
+	"slug": "buda-tx-1770-fm-967",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/buda-tx-1770-fm-967",
+	"address": {
+		"id": 1145,
+		"address_1": "1770 FM 967",
+		"address_2": null,
+		"city": "Buda",
+		"state_province": "TX",
+		"postal_code": "78610"
+	},
+	"organization": {
+		"id": 2296,
+		"accreditations": [],
+		"alternate_name": "NCFH",
+		"date_incorporated": null,
+		"description": "The National Center for Farmworker Health (NCFH), established in 1975, is dedicated to improving the health status of farmworker families by providing information services and products to a network of more than 500 migrant health center service sites in the United States as well as organizations, universities, researchers, and individuals involved in farmworker health.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NATIONAL CENTER FOR FARM WORKER HEALTH (NCFH)",
+		"website": "http:\/\/www.ncfh.org",
+		"slug": "national-center-for-farm-worker-health-ncfh",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/national-center-for-farm-worker-health-ncfh",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/national-center-for-farm-worker-health-ncfh\/locations"
+	},
+	"phones": [{
+		"id": 2297,
+		"department": null,
+		"extension": null,
+		"number": "800-377-9968",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

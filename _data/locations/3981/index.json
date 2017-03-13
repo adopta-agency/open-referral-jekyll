@@ -1,0 +1,48 @@
+{
+	"id": 3981,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-f0e74f66-94a4-4e81-9572-9e14d3df9623",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-f0e74f66-94a4-4e81-9572-9e14d3df9623",
+	"address": {
+		"id": 1844,
+		"address_1": "10800 Biscayne Boulevard",
+		"address_2": "Suite 500",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33161"
+	},
+	"organization": {
+		"id": 3979,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Miami Dade Family Learning Partnership, a 501 (c)(3) organization dedicated to families and children in our community. The Family Learning Partnership collaborates with community agencies and institutions to improve child and family well-being. The work focuses on family and adult literacy, family support, child welfare, literacy training and research. The Partnership serves as the literacy coalition for Miami Dade County.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI-DADE FAMILY LEARNING PARTNERSHIP, INC.",
+		"website": "http:\/\/www.teachmorelovemore.org",
+		"slug": "miami-dade-family-learning-partnership-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-family-learning-partnership-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/miami-dade-family-learning-partnership-inc\/locations"
+	},
+	"phones": [{
+		"id": 3981,
+		"department": null,
+		"extension": null,
+		"number": "305-891-7323",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

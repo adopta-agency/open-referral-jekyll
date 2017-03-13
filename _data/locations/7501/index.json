@@ -1,0 +1,48 @@
+{
+	"id": 7501,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.8026682,
+	24.5587692],
+	"description": "See listed services",
+	"latitude": 24.5587692,
+	"longitude": -81.8026682,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-869ebf0b-7388-4426-ac57-4f95f58ab60d",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/key-west-fl-869ebf0b-7388-4426-ac57-4f95f58ab60d",
+	"address": {
+		"id": 3469,
+		"address_1": "301 Simonton Street",
+		"address_2": null,
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 3806,
+		"accreditations": [],
+		"alternate_name": "DOJ",
+		"date_incorporated": null,
+		"description": "The U.S. Department of Justice enforces the law and defends the interests of the United States according to the law; ensures public safety against threats foreign and domestic; provides federal leadership in preventing and controlling crime; seeks just punishment for those guilty of unlawful behavior; and ensures fair and impartial administration of justice for all Americans.\\n\\n###MON###\\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNITED STATES DEPARTMENT OF JUSTICE",
+		"website": "http:\/\/www.justice.gov\/",
+		"slug": "united-states-department-of-justice",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-states-department-of-justice",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/united-states-department-of-justice\/locations"
+	},
+	"phones": [{
+		"id": 7501,
+		"department": null,
+		"extension": null,
+		"number": "305-294-7070",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

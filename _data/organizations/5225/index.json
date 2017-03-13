@@ -1,0 +1,38 @@
+{
+	"id": 5225,
+	"accreditations": [],
+	"alternate_name": "ARTSNAPLES",
+	"date_incorporated": null,
+	"description": "ArtsNaples World Festival, Inc. is a not-for-profit corporation, which operates as a professional arts organization in Naples, Florida. It offers over fifty annual events spanning areas of the cultural and performing arts during its Festival. ArtsNaples performs in venues throughout Southwest Florida and partners with dozens of local, regional, national and international arts organizations. \\r\\n\\r\\nDates: April 25, 2016 - May 8, 2016\\r\\n\\r\\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ARTSNAPLES WORLD FESTIVAL, INC.",
+	"website": "http:\/\/www.artsnaplesworldfestival.org",
+	"slug": "artsnaples-world-festival-inc",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/artsnaples-world-festival-inc",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/artsnaples-world-festival-inc\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@ArtsNaplesWorldFestival.org",
+		"id": 5225,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 5225,
+			"department": null,
+			"extension": null,
+			"number": "239-390-2788",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5225,
+		"department": null,
+		"extension": null,
+		"number": "239-390-2788",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

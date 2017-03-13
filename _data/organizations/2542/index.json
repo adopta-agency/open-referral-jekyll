@@ -1,0 +1,38 @@
+{
+	"id": 2542,
+	"accreditations": [],
+	"alternate_name": "KWBG",
+	"date_incorporated": null,
+	"description": "The Key West Business Guild is a nonprofit organization devoted to promoting Key West to LGBT travelers. We provide comprehensive information about Gay Key West and promote our member organizations to a national and international travel market.\\n\\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "KEY WEST BUSINESS GUILD",
+	"website": "http:\/\/www.kwbgonline.org",
+	"slug": "key-west-business-guild",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/key-west-business-guild",
+	"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/key-west-business-guild\/locations",
+	"contacts": [{
+		"department": null,
+		"email": "office@gaykeywestfl.com",
+		"id": 2542,
+		"name": "Rebeca Tomlinson",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 2542,
+			"department": null,
+			"extension": null,
+			"number": "305-294-4603",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2542,
+		"department": null,
+		"extension": null,
+		"number": "305-294-4603",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

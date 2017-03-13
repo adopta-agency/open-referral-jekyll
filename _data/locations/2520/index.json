@@ -1,0 +1,48 @@
+{
+	"id": 2520,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2620-south-bayshore-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-2620-south-bayshore-drive",
+	"address": {
+		"id": 1238,
+		"address_1": "2620 South Bayshore Drive",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33133"
+	},
+	"organization": {
+		"id": 2520,
+		"accreditations": [],
+		"alternate_name": "Shake, SALM, Marine Academy , Watersports Center",
+		"date_incorporated": null,
+		"description": "Shake-A-Leg MiamiG\u00c7\u00d6s mission is to use the marine environment to improve the health, education, and independence of people with disabilities, disadvantaged youth, and their families\\r\\n\\r\\nPrograms are offered seven days a week year-round for children, youth, and adults with or without physical or mental challenges to experience Biscayne Bay. The organization works with children & adults with physical, developmental, and economic challenges in a marine environment, utilizing Biscayne Bay to teach environmental lessons, therapeutic sailing, swimming, & kayaking, among other waterspouts activities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SHAKE-A-LEG MIAMI, INC.",
+		"website": "http:\/\/www.shakealegmiami.org",
+		"slug": "shake-a-leg-miami-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/shake-a-leg-miami-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/shake-a-leg-miami-inc\/locations"
+	},
+	"phones": [{
+		"id": 2520,
+		"department": null,
+		"extension": null,
+		"number": "305-858-5550",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

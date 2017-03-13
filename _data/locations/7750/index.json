@@ -1,0 +1,48 @@
+{
+	"id": 7750,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2584046,
+	25.7715546],
+	"description": "See listed services",
+	"latitude": 25.7715546,
+	"longitude": -80.2584046,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-84ccb779-279d-4a8d-a970-478478ab1e1a",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/miami-fl-84ccb779-279d-4a8d-a970-478478ab1e1a",
+	"address": {
+		"id": 3688,
+		"address_1": "3850 West Flagler Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33134"
+	},
+	"organization": {
+		"id": 6793,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Banyan Community Health Center is a Federally Qualified Health Center (FQHC). Banyan is part of the larger community mental health resource Banyan Health System. Our FQHC offers primary care, pediatrics, women's health and men's health services, behavioral health, vision & hearing, preventive dental, support services, pharmacy, and lab\/x-rays. Also offers wellness visits and care for chronic conditions such as diabetes, hypertension, etc.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BANYAN COMMUNITY HEALTH CENTER, INC.",
+		"website": "http:\/\/www.banyanhealth.org\/services\/primary-health",
+		"slug": "banyan-community-health-center-inc",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/banyan-community-health-center-inc",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/banyan-community-health-center-inc\/locations"
+	},
+	"phones": [{
+		"id": 7750,
+		"department": null,
+		"extension": null,
+		"number": "305-774-3300",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

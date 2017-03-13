@@ -1,0 +1,48 @@
+{
+	"id": 6987,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -80,
+	"name": "Key Largo, FL",
+	"short_desc": null,
+	"slug": "key-largo-fl-102050-overseas-highway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/locations\/key-largo-fl-102050-overseas-highway",
+	"address": {
+		"id": 3088,
+		"address_1": "102050 Overseas Highway",
+		"address_2": "Suite 202",
+		"city": "Key Largo",
+		"state_province": "FL",
+		"postal_code": "33037"
+	},
+	"organization": {
+		"id": 3480,
+		"accreditations": [],
+		"alternate_name": "MONROE COUNTY HEALTH DEPARTMENT, FL DOH MONROE COUNTY",
+		"date_incorporated": null,
+		"description": "The Florida Department of Health in Monroe County oversees public health, immunization, vital statistics, and other activities for Monroe County, Florida.\\n\\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA DEPARTMENT OF HEALTH IN MONROE COUNTY",
+		"website": "http:\/\/monroe.floridahealth.gov\/",
+		"slug": "florida-department-of-health-in-monroe-county",
+		"url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-health-in-monroe-county",
+		"locations_url": "https:\/\/miamiopen211-api.herokuapp.com\/api\/organizations\/florida-department-of-health-in-monroe-county\/locations"
+	},
+	"phones": [{
+		"id": 6987,
+		"department": null,
+		"extension": null,
+		"number": "305-453-8750",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}
