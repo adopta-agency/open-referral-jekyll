@@ -1,0 +1,41 @@
+{
+	"id": 6371,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-76.7645499,
+	39.3170143],
+	"description": "See listed services",
+	"latitude": 39.3170143,
+	"longitude": -76.7645499,
+	"name": "Windsor Mill, MD",
+	"short_desc": null,
+	"slug": "windsor-mill-md-7500-security-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/windsor-mill-md-7500-security-boulevard",
+	"address": {
+		"id": 2715,
+		"address_1": "7500 Security Boulevard",
+		"address_2": null,
+		"city": "Windsor Mill",
+		"state_province": "MD",
+		"postal_code": "21244"
+	},
+	"organization": {
+		"id": 6371,
+		"accreditations": [],
+		"alternate_name": "CMS",
+		"date_incorporated": null,
+		"description": "The Centers for Medicare and Medicaid Services is here to offer all Americans access to health insurance options they can afford, options that protect Americans from financial hardship and give quality coverage.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CENTERS FOR MEDICARE AND MEDICAID SERVICES",
+		"website": "http://www.cms.gov",
+		"slug": "centers-for-medicare-and-medicaid-services",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/centers-for-medicare-and-medicaid-services",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/centers-for-medicare-and-medicaid-services/locations"
+	},
+	"phones": []
+}

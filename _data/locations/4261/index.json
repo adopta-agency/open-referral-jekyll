@@ -1,0 +1,48 @@
+{
+	"id": 4261,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Delray Beach, FL",
+	"short_desc": null,
+	"slug": "delray-beach-fl-8d1edf10-af29-4d31-bf5c-8cdd7c14e43a",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/delray-beach-fl-8d1edf10-af29-4d31-bf5c-8cdd7c14e43a",
+	"address": {
+		"id": 1950,
+		"address_1": "200 Congress Park Drive",
+		"address_2": "Suite 101",
+		"city": "Delray Beach",
+		"state_province": "FL",
+		"postal_code": "33445"
+	},
+	"organization": {
+		"id": 4249,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Watershed Addiction Treatment Program is a crisis help line manned by Certified Behavioral Health Technicians as well as a center for treatment of drug, alcohol, and prescription drug addiction. The staff is available 24/7 and offers resources, referrals, information and help to those in need or who have family members in need of help for drug and alcohol addiction. Programs include inpatient detoxification, subacute rehab, residential, day/night treatment, outpatient, substance abuse detoxification and treatment.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "A WATERSHED ADDICTION TREATMENT CENTER",
+		"website": "http://www.thewatershed.com",
+		"slug": "a-watershed-addiction-treatment-center",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/a-watershed-addiction-treatment-center",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/a-watershed-addiction-treatment-center/locations"
+	},
+	"phones": [{
+		"id": 4261,
+		"department": null,
+		"extension": null,
+		"number": "855-383-1291",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

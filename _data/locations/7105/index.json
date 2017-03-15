@@ -1,0 +1,48 @@
+{
+	"id": 7105,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-e145cc94-9a4d-4da2-84e0-a7302ca2a0b3",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-e145cc94-9a4d-4da2-84e0-a7302ca2a0b3",
+	"address": {
+		"id": 3168,
+		"address_1": "1611 NW 12th Avenue",
+		"address_2": "ACC-East/First Floor",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 363,
+		"accreditations": [],
+		"alternate_name": "SFAN",
+		"date_incorporated": null,
+		"description": "Established by Jackson Memorial Hospital in 1986, the South Florida AIDS Network (SFAN) was the first organization in Miami-Dade County to provide client advocacy/case management and related support services to people with HIV/AIDS. SFAN is now a large comprehensive HIV/AIDS service provider in Miami-Dade County.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SOUTH FLORIDA AIDS NETWORK",
+		"website": "http://www.jacksonhealth.org/services-sfan.asp",
+		"slug": "south-florida-aids-network",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/south-florida-aids-network",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/south-florida-aids-network/locations"
+	},
+	"phones": [{
+		"id": 7105,
+		"department": null,
+		"extension": null,
+		"number": "305-585-5241",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

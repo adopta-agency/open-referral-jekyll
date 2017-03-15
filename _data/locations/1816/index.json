@@ -1,0 +1,48 @@
+{
+	"id": 1816,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77,
+	39],
+	"description": "See listed services",
+	"latitude": 39,
+	"longitude": -77,
+	"name": "Silver Spring, MD",
+	"short_desc": null,
+	"slug": "silver-spring-md",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/silver-spring-md",
+	"address": {
+		"id": 953,
+		"address_1": "10903 New Hampshire Avenue",
+		"address_2": null,
+		"city": "Silver Spring",
+		"state_province": "MD",
+		"postal_code": "20993-0002"
+	},
+	"organization": {
+		"id": 1816,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The FDA welcomes reports from the public alerting it to problems with products that it regulates. The reports help FDA ensure that products on the market are safe, effective, and properly manufactured, stored and labeled. FDA will accept reports concerning seafood and dairy products, while reports concerning meat or poultry should be made to the U.S. Department of Agriculture. FDA also accepts reports concerning drugs, cosmetics, medical devices and radiation-emitting electronic products, such as microwave ovens or video display terminals.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "U.S. FOOD AND DRUG ADMINISTRATION",
+		"website": "http://www.fda.gov",
+		"slug": "u-s-food-and-drug-administration",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-food-and-drug-administration",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-food-and-drug-administration/locations"
+	},
+	"phones": [{
+		"id": 1816,
+		"department": null,
+		"extension": null,
+		"number": "888-463-6332",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

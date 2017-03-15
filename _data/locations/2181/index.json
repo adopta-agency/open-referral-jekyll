@@ -1,0 +1,48 @@
+{
+	"id": 2181,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-18425-nw-2nd-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-18425-nw-2nd-avenue",
+	"address": {
+		"id": 1094,
+		"address_1": "18425 NW 2nd Avenue",
+		"address_2": "Suite 100",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33169"
+	},
+	"organization": {
+		"id": 2176,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides community service programs including counseling, probation, diversion, education and orientation for ex-offenders.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ADVOCATE PROGRAM, INC.",
+		"website": "http://advocateprogram.org",
+		"slug": "advocate-program-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/advocate-program-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/advocate-program-inc/locations"
+	},
+	"phones": [{
+		"id": 2181,
+		"department": null,
+		"extension": null,
+		"number": "305-493-9770",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

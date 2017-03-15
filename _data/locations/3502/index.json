@@ -1,0 +1,48 @@
+{
+	"id": 3502,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.500545,
+	25.0336608],
+	"description": "See listed services",
+	"latitude": 25.0336608,
+	"longitude": -80.500545,
+	"name": "Tavernier, FL",
+	"short_desc": null,
+	"slug": "tavernier-fl-93911-overseas-highway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/tavernier-fl-93911-overseas-highway",
+	"address": {
+		"id": 1712,
+		"address_1": "93911 Overseas Highway",
+		"address_2": "Suite 7",
+		"city": "Tavernier",
+		"state_province": "FL",
+		"postal_code": "33070"
+	},
+	"organization": {
+		"id": 3502,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "United WayGu00c7u00d6s goal is to create long-lasting changes by addressing the underlying causes of these problems. Living united means being a part of the change. It takes everyone in the community working together to create a brighter future. Give. Advocate. Volunteer. LIVE UNITED.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNITED WAY OF THE FLORIDA KEYS, INC.",
+		"website": "http://www.keysunitedway.org/",
+		"slug": "united-way-of-the-florida-keys-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-way-of-the-florida-keys-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-way-of-the-florida-keys-inc/locations"
+	},
+	"phones": [{
+		"id": 3502,
+		"department": null,
+		"extension": null,
+		"number": "305-735-1929",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

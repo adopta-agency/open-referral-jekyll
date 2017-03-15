@@ -1,0 +1,48 @@
+{
+	"id": 5175,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2176995,
+	25.7742047],
+	"description": "See listed services",
+	"latitude": 25.7742047,
+	"longitude": -80.2176995,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1366-nw-1st-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-1366-nw-1st-street",
+	"address": {
+		"id": 2196,
+		"address_1": "1366 NW 1st Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33125"
+	},
+	"organization": {
+		"id": 5175,
+		"accreditations": [],
+		"alternate_name": "LEADERSHIP LEARNING CENTER",
+		"date_incorporated": null,
+		"description": "After school program designed for elementary and middle school children grades K-8. Homework assistance, computer lab, literacy program, social skills program, fitness program including creative arts.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LEADERSHIP LEARNING CENTER AT SAINT JOHN BOSCO, INC.",
+		"website": "http://www.leadershiplearningcenter.org/",
+		"slug": "leadership-learning-center-at-saint-john-bosco-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/leadership-learning-center-at-saint-john-bosco-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/leadership-learning-center-at-saint-john-bosco-inc/locations"
+	},
+	"phones": [{
+		"id": 5175,
+		"department": null,
+		"extension": "501.0",
+		"number": "305-649-4730",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

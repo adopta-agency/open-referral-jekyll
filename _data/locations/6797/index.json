@@ -1,0 +1,48 @@
+{
+	"id": 6797,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2548083,
+	25.770282],
+	"description": "See listed services",
+	"latitude": 25.770282,
+	"longitude": -80.2548083,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-133-ponce-de-leon-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-133-ponce-de-leon-boulevard",
+	"address": {
+		"id": 2958,
+		"address_1": "133 Ponce de Leon Boulevard",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33135"
+	},
+	"organization": {
+		"id": 6797,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Love and Care Resources provides pregnancy test, educational and counseling during pregnancy and after child birth, parenting/baby classes. Assistance with application for Medicaid, food stamps, WIC, housing, etc. Expectant mothers/mothers are provided with love bags (cleaning, laundry and hygiene products), access to food pantry, maternity and baby items. Monopoly money given to mothers to purchase items from the baby mart from the donations received.\n\n**Counselors: Please call the alternate number first when performing warm transfer before calling the main number, that should be the secondary number.**",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LOVE AND CARE PREGNANCY RESOURCES",
+		"website": "http://www.loveandcarepr.org",
+		"slug": "love-and-care-pregnancy-resources",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/love-and-care-pregnancy-resources",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/love-and-care-pregnancy-resources/locations"
+	},
+	"phones": [{
+		"id": 6797,
+		"department": null,
+		"extension": null,
+		"number": "305-442-9448",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

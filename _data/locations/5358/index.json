@@ -1,0 +1,48 @@
+{
+	"id": 5358,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -82,
+	"name": "Fort Myers, FL",
+	"short_desc": null,
+	"slug": "fort-myers-fl-9981-south-healthpark-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/fort-myers-fl-9981-south-healthpark-drive",
+	"address": {
+		"id": 2289,
+		"address_1": "9981 South HealthPark Drive",
+		"address_2": null,
+		"city": "Fort Myers",
+		"state_province": "FL",
+		"postal_code": "33908"
+	},
+	"organization": {
+		"id": 5357,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Lee Memorial Health System (LMHS) is a public health care system. Lee Memorial Health System consists of four acute care hospitals: Lee Memorial Hospital, HealthPark Medical Center, Gulf Coast Medical Center and Cape Coral Hospital, and two specialty hospitals: Golisano Children's Hospital of Southwest Florida and The Rehabilitation Hospital. Lee Memorial Health System offers acute care, emergency care, rehabilitative and diagnostic services, health and wellness education, community outreach and advocacy programs throughout the five county region. \n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LEE MEMORIAL HEALTH SYSTEM",
+		"website": "http://www.leememorial.org",
+		"slug": "lee-memorial-health-system",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/lee-memorial-health-system",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/lee-memorial-health-system/locations"
+	},
+	"phones": [{
+		"id": 5358,
+		"department": null,
+		"extension": null,
+		"number": "239-343-5437",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

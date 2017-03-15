@@ -1,0 +1,48 @@
+{
+	"id": 396,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Doral, FL",
+	"short_desc": null,
+	"slug": "doral-fl-9101-nw-25th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/doral-fl-9101-nw-25th-street",
+	"address": {
+		"id": 197,
+		"address_1": "9101 NW 25th Street",
+		"address_2": null,
+		"city": "Doral",
+		"state_province": "FL",
+		"postal_code": "33172"
+	},
+	"organization": {
+		"id": 392,
+		"accreditations": [],
+		"alternate_name": "M-DC POLICE DEPARTMENT",
+		"date_incorporated": null,
+		"description": "Responsible for enforcing laws and ordinances, crime prevention, criminal investigations, apprehending, arresting and detaining suspects, presenting evidence, regulating traffic, and engaging in other activities that protect lives, property and peace in Miami-Dade County.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI-DADE POLICE DEPARTMENT",
+		"website": "http://www.miamidade.gov/Police/",
+		"slug": "miami-dade-police-department",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-police-department",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-police-department/locations"
+	},
+	"phones": [{
+		"id": 396,
+		"department": null,
+		"extension": null,
+		"number": "305-471-2800",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

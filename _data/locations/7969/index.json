@@ -1,0 +1,48 @@
+{
+	"id": 7969,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7465265,
+	26.1068884],
+	"description": "See listed services",
+	"latitude": 26.1068884,
+	"longitude": -81.7465265,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-5039-east-tamiami-trail",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-5039-east-tamiami-trail",
+	"address": {
+		"id": 3882,
+		"address_1": "5039 East Tamiami Trail",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34113"
+	},
+	"organization": {
+		"id": 7969,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "PANIRA is a non profit clinic offering medical services as a walk in clinic providing Express Care, Family Medicine, and Wellness Care in the following:\n\n* Common Illnesses - allergies/hay fever, sinus infections, cough, cold/flu/sore throat, ear infections, pink eye/stye, bladder infections\n* Minor Injuries - abrasions, sprains/strains, minor cuts/burns\n* Procedures - simple lacerations, ear wax removal, splinter removal, wart removal, staples/suture removal\n* Testing and Screening - strep throat, TB testing, urinalysis, pregnancy, mononucleosis\n* Wellness Services - setanus vaccine, smoking cessation, etc.\n* Physicals - pre-employment, sport, college, school, drug testing\n* Skin and Hair Conditions - simple, abcess, cold sores, skin infections, sunburn, shingles, itchy skin, impetigo, hives/rash, ringworm, head lice, athletes foot\n\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "PANIRA HEALTHCARE CLINIC, INC.",
+		"website": null,
+		"slug": "panira-healthcare-clinic-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/panira-healthcare-clinic-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/panira-healthcare-clinic-inc/locations"
+	},
+	"phones": [{
+		"id": 7969,
+		"department": null,
+		"extension": null,
+		"number": "239-529-5580",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

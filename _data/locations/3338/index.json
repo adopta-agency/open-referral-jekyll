@@ -1,0 +1,48 @@
+{
+	"id": 3338,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-a1ae0378-c0c8-4961-af92-770275ceb8d2",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-a1ae0378-c0c8-4961-af92-770275ceb8d2",
+	"address": {
+		"id": 1644,
+		"address_1": "1265 NW 12th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 3338,
+		"accreditations": [],
+		"alternate_name": "Orlowitz-Lee Child Advocacy Center",
+		"date_incorporated": null,
+		"description": "Kristi House, Inc. is a private, non-profit organization in Miami, Florida, dedicated to healing and eradicating child sexual abuse. Kristi House operates the Orlowitz-Lee ChildrenGu00c7u00d6s Advocacy Center responsible for sexual abuse cases.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "KRISTI HOUSE, INC.",
+		"website": "http://www.kristihouse.org",
+		"slug": "kristi-house-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/kristi-house-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/kristi-house-inc/locations"
+	},
+	"phones": [{
+		"id": 3338,
+		"department": null,
+		"extension": null,
+		"number": "305-547-6800",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

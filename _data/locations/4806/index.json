@@ -1,0 +1,48 @@
+{
+	"id": 4806,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2538724,
+	25.7422822],
+	"description": "See listed services",
+	"latitude": 25.7422822,
+	"longitude": -80.2538724,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2645-south-douglas-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-2645-south-douglas-road",
+	"address": {
+		"id": 2042,
+		"address_1": "2645 South Douglas Road",
+		"address_2": "Suite 502",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33133"
+	},
+	"organization": {
+		"id": 4806,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Miami Urgent Care Center is a state of the art walk in medical clinic that is staffed by board certified physicians. The clinic provides comprehensive medical care for children and adults. Also, the clinic provides the following services but not limited to: \n\n* Travel medical care\n* Motor vehicle accidents (minor injuries)\n* Immunizations\n* HIV/AIDS testing\n* House calls\n* Minor emergencies (injuries, wound care, lacerations, sprains, minor broken bones and infections)\n* School and camp physicals\n* Treatment of STD's \n* Workers compensation injuries",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI URGENT CARE CENTER, P.A.",
+		"website": "http://www.miamiurgentcare.com",
+		"slug": "miami-urgent-care-center-p-a",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-urgent-care-center-p-a",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-urgent-care-center-p-a/locations"
+	},
+	"phones": [{
+		"id": 4806,
+		"department": null,
+		"extension": null,
+		"number": "305-494-0536",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

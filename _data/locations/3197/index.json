@@ -1,0 +1,48 @@
+{
+	"id": 3197,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77.0211032,
+	38.8926389],
+	"description": "See listed services",
+	"latitude": 38.8926389,
+	"longitude": -77.0211032,
+	"name": "Washington, DC",
+	"short_desc": null,
+	"slug": "washington-dc-3b4aabd8-9e84-4505-a002-08be10d6ced7",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/washington-dc-3b4aabd8-9e84-4505-a002-08be10d6ced7",
+	"address": {
+		"id": 1577,
+		"address_1": "600 Pennsylvania Avenue, NW",
+		"address_2": null,
+		"city": "Washington",
+		"state_province": "DC",
+		"postal_code": "20580"
+	},
+	"organization": {
+		"id": 3196,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The FTC protects consumers by stopping unfair, deceptive or fraudulent practices in the marketplace. We conduct investigations, sue companies and people that violate the law, develop rules to ensure a vibrant marketplace, and educate consumers and businesses about their rights and responsibilities. We collect complaints about hundreds of issues from data security and deceptive advertising to identity theft and Do Not Call violations, and make them available to law enforcement agencies worldwide for follow-up.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FEDERAL TRADE COMMISSION",
+		"website": "http://www.ftc.gov",
+		"slug": "federal-trade-commission",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/federal-trade-commission",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/federal-trade-commission/locations"
+	},
+	"phones": [{
+		"id": 3197,
+		"department": null,
+		"extension": null,
+		"number": "877-438-4338",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

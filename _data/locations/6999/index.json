@@ -1,0 +1,48 @@
+{
+	"id": 6999,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-93d61c4a-e18d-44f0-8221-739a3889af1e",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-93d61c4a-e18d-44f0-8221-739a3889af1e",
+	"address": {
+		"id": 3100,
+		"address_1": "300 NE 80th Terrace",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33138"
+	},
+	"organization": {
+		"id": 1651,
+		"accreditations": [],
+		"alternate_name": "FL DOH M-DC, M-DC HEALTH DEPARTMENT",
+		"date_incorporated": null,
+		"description": "The Florida Department of Health in Miami-Dade County works to prevent disease and improve the health of the Miami-Dade County Community. Public Health Services are available to all residents and visitors of Florida Department of Health in Miami-Dade County. Citizenship is not a requirement. We do not deny services based on a personGu00c7u00d6s race, color, sex, disability, religion, sexual orientation or national origin.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA DEPARTMENT OF HEALTH IN MIAMI-DADE COUNTY",
+		"website": "http://www.dadehealth.org",
+		"slug": "florida-department-of-health-in-miami-dade-county",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-department-of-health-in-miami-dade-county",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-department-of-health-in-miami-dade-county/locations"
+	},
+	"phones": [{
+		"id": 6999,
+		"department": null,
+		"extension": null,
+		"number": "305-795-2100",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

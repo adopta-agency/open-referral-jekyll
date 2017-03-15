@@ -1,0 +1,48 @@
+{
+	"id": 1160,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-5711-south-dixie-highway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-5711-south-dixie-highway",
+	"address": {
+		"id": 601,
+		"address_1": "5711 South Dixie Highway",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33143"
+	},
+	"organization": {
+		"id": 1160,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Fellowship House provides comprehensive psychosocial rehabilitation services to adults that experience severe mental illness as well as individuals who experience a co-occurring substance abuse disaster. Services include: psychosocial rehabilitation, case management, employment, community housing and outpatient treatment.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FELLOWSHIP HOUSE, INC.",
+		"website": "http://www.fellowshiphouse.org",
+		"slug": "fellowship-house-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/fellowship-house-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/fellowship-house-inc/locations"
+	},
+	"phones": [{
+		"id": 1160,
+		"department": null,
+		"extension": null,
+		"number": "305-667-1036",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

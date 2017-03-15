@@ -1,0 +1,48 @@
+{
+	"id": 1494,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1321-nw-13th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-1321-nw-13th-street",
+	"address": {
+		"id": 780,
+		"address_1": "1321 NW 13th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33125"
+	},
+	"organization": {
+		"id": 1493,
+		"accreditations": [],
+		"alternate_name": "M-DC CORRECTIONS AND REHABILITATION DEPARTMENT",
+		"date_incorporated": null,
+		"description": "The Miami-Dade County Corrections and Rehabilitation Department is comprised of five correctional facilities. These facilities hold on average 5,000 inmates, who are awaiting trial or are serving sentences of 364 days or less. Programs such as Boot Camp Program and Community Corrections Programs (Monitored Release, Day Reporting Centers, Weekend Sentence Program and Work Release) are provided as alternatives to incarceration.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI-DADE COUNTY CORRECTIONS AND REHABILITATION",
+		"website": "http://www.miamidade.gov/corrections",
+		"slug": "miami-dade-county-corrections-and-rehabilitation",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-corrections-and-rehabilitation",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-corrections-and-rehabilitation/locations"
+	},
+	"phones": [{
+		"id": 1494,
+		"department": null,
+		"extension": null,
+		"number": "786-263-4110",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

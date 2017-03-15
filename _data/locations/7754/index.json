@@ -1,0 +1,41 @@
+{
+	"id": 7754,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1906444,
+	25.7745326],
+	"description": "See listed services",
+	"latitude": 25.7745326,
+	"longitude": -80.1906444,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-c61b43b9-ea9c-4418-aece-5ef970dcd0fd",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-c61b43b9-ea9c-4418-aece-5ef970dcd0fd",
+	"address": {
+		"id": 3691,
+		"address_1": "169 East Flagler Street",
+		"address_2": "Suite 1300",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33131"
+	},
+	"organization": {
+		"id": 668,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides a comprehensive treatment program for individuals suffering from the disease of chemical dependency. Services include medical detoxification, short, intermediate, and long-term residential care, traditional and intensive outpatient programs, recovery residences and Day Treatment programs offering supportive living environments after treatment.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE VILLAGE SOUTH, INC.",
+		"website": "http://www.villagesouth.com",
+		"slug": "the-village-south-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-village-south-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-village-south-inc/locations"
+	},
+	"phones": []
+}

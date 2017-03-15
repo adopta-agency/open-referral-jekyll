@@ -1,0 +1,48 @@
+{
+	"id": 2426,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-3725eee8-fe7c-4bb6-b239-43255e5d64c9",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-3725eee8-fe7c-4bb6-b239-43255e5d64c9",
+	"address": {
+		"id": 1193,
+		"address_1": "3525 NW 7th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33125"
+	},
+	"organization": {
+		"id": 2420,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Serves adults, recent immigrants, youth and children from families who may be unemployed or underemployed, economically disadvantaged, or face barriers to employment. The wide array of services available to meet these needs includes counseling, career exploration, community referrals, basic skills tutoring, English language classes, vocational training, leadership development, mentoring, work experience, life skills, internship, on-the-job training, apprenticeship, resume preparation and job placement assistance.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "YOUTH CO-OP, INC.",
+		"website": "http://www.ycoop.org",
+		"slug": "youth-co-op-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/youth-co-op-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/youth-co-op-inc/locations"
+	},
+	"phones": [{
+		"id": 2426,
+		"department": null,
+		"extension": null,
+		"number": "305-643-6730",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

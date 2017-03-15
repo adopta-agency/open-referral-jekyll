@@ -1,0 +1,48 @@
+{
+	"id": 6541,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-240a0c17-4a9a-4d3f-9e36-308a4c282ae1",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-240a0c17-4a9a-4d3f-9e36-308a4c282ae1",
+	"address": {
+		"id": 2799,
+		"address_1": "51 SW 1st Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33130"
+	},
+	"organization": {
+		"id": 3357,
+		"accreditations": [],
+		"alternate_name": "IRS",
+		"date_incorporated": null,
+		"description": "Provides tax information over the phone. The local IRS Taxpayer Assistance Center provides personal tax help when you believe your tax issue cannot be handled online or by phone, and you want face-to-face tax assistance.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "INTERNAL REVENUE SERVICE",
+		"website": "http://www.irs.gov",
+		"slug": "internal-revenue-service",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/internal-revenue-service",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/internal-revenue-service/locations"
+	},
+	"phones": [{
+		"id": 6541,
+		"department": null,
+		"extension": null,
+		"number": "305-982-5077",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

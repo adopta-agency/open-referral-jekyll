@@ -1,0 +1,48 @@
+{
+	"id": 3041,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.323114,
+	25.7833548],
+	"description": "See listed services",
+	"latitude": 25.7833548,
+	"longitude": -80.323114,
+	"name": "Doral, FL",
+	"short_desc": null,
+	"slug": "doral-fl-4219a21d-e221-4d02-9c5b-62f09e9ed80f",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/doral-fl-4219a21d-e221-4d02-9c5b-62f09e9ed80f",
+	"address": {
+		"id": 1529,
+		"address_1": "1200 NW 78th Avenue",
+		"address_2": "Suite 203",
+		"city": "Doral",
+		"state_province": "FL",
+		"postal_code": "33126"
+	},
+	"organization": {
+		"id": 3041,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Quality Counts Career Center assists practitioners to increase their knowledge, skills, and qualifications for teaching in early care and education settings or working in other capacities in the field. Career advisers are available to help practitioners develop a career plan and begin taking the next step to achieving their goals.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "QUALITY COUNTS CAREER CENTER",
+		"website": "http://www.qccareers.org",
+		"slug": "quality-counts-career-center",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/quality-counts-career-center",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/quality-counts-career-center/locations"
+	},
+	"phones": [{
+		"id": 3041,
+		"department": null,
+		"extension": null,
+		"number": "305-639-2726",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

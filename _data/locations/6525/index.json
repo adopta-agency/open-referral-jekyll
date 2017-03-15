@@ -1,0 +1,48 @@
+{
+	"id": 6525,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-70.6630755,
+	42.6140448],
+	"description": "See listed services",
+	"latitude": 42.6140448,
+	"longitude": -70.6630755,
+	"name": "Gloucester, MA",
+	"short_desc": null,
+	"slug": "gloucester-ma",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/gloucester-ma",
+	"address": {
+		"id": 2794,
+		"address_1": "P.O Box 219",
+		"address_2": null,
+		"city": "Gloucester",
+		"state_province": "MA",
+		"postal_code": "01931"
+	},
+	"organization": {
+		"id": 6525,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "NeedyMeds is a national non-profit information resource that helps people who are unable to afford medicine or health care costs find assistance programs at no cost to them. The website has information on pharmaceutical prescription assistance programs, medication coupons, programs that help people based on a diagnosis, free and low-cost clinics, government programs and other types of assistance programs.\n\n###COL###\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NEEDYMEDS, INC.",
+		"website": "http://www.needymeds.org/index.htm",
+		"slug": "needymeds-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/needymeds-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/needymeds-inc/locations"
+	},
+	"phones": [{
+		"id": 6525,
+		"department": null,
+		"extension": null,
+		"number": "800-503-6897",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

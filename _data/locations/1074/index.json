@@ -1,0 +1,48 @@
+{
+	"id": 1074,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-0e3eb35d-e405-4b53-b0ed-cf047d057b18",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-0e3eb35d-e405-4b53-b0ed-cf047d057b18",
+	"address": {
+		"id": 561,
+		"address_1": "8355 NW 53rd Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33166"
+	},
+	"organization": {
+		"id": 1072,
+		"accreditations": [],
+		"alternate_name": "AHCA",
+		"date_incorporated": null,
+		"description": "The Agency for Health Care Administration's mission is better health care for all Floridians and responsibility for the administration of the Medicaid program, for the licensure and regulation of health facilities and for providing information to Floridians about the quality of the health care they receive in Florida.\n\nResponsible for taking complaints against 43 types of licensed/certified health care facilities such as hospitals, nursing homes, assisted living facilities, home health agencies and laboratories. It also takes complaints against HMO's and sends out complaint forms to those who wish to file a complaint against a health practitioner. \n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AGENCY FOR HEALTH CARE ADMINISTRATION, INC.",
+		"website": "http://www.fdhc.state.fl.us",
+		"slug": "agency-for-health-care-administration-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/agency-for-health-care-administration-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/agency-for-health-care-administration-inc/locations"
+	},
+	"phones": [{
+		"id": 1074,
+		"department": null,
+		"extension": "3083.0",
+		"number": "305-593-3000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

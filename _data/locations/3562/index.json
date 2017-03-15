@@ -1,0 +1,48 @@
+{
+	"id": 3562,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-10212-sw-183rd-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-10212-sw-183rd-street",
+	"address": {
+		"id": 1743,
+		"address_1": "10212 SW 183rd Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 3562,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The SFBC is a chartered replication of the world renowned Boys Choir of Harlem, Inc., conducts a four (4) week Summer Music Program for children/youth (grades 2-10). SMI offers academic enrichment, artistic development (Dance/Theory/Keyboarding/Percussions) artistic performance, counseling, physical education, field trips and free lunch.\n\nSummer Music Institute for children/youth from under-served communities with no formal vocal training shares the joys, discipline and rewards of music to transform lives.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE SOUTH FLORIDA BOYS CHOIR, INC.",
+		"website": null,
+		"slug": "the-south-florida-boys-choir-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-south-florida-boys-choir-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-south-florida-boys-choir-inc/locations"
+	},
+	"phones": [{
+		"id": 3562,
+		"department": null,
+		"extension": null,
+		"number": "786-701-2780",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

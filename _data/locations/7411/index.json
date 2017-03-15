@@ -1,0 +1,48 @@
+{
+	"id": 7411,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.352886,
+	25.612782],
+	"description": "See listed services",
+	"latitude": 25.612782,
+	"longitude": -80.352886,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2e3868df-3b89-4523-915e-cfbc7a3424c7",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-2e3868df-3b89-4523-915e-cfbc7a3424c7",
+	"address": {
+		"id": 3393,
+		"address_1": "16905 SW 100th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 2259,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Carrie Brazer Center for Autism & Alternative Approaches is a nonprofit organization which provides one-on-one cognitive, speech, music occupational and physical therapies, as well as behavioral interventions for children with autism and other developmental delays. The program combines highly structured, consistent behavior-based instruction with opportunities to generalize new skills through participation in community-based outings. The Center offers a full day educational program, after school therapies and sports program, Saturday Camp and Summer Camp.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CARRIE BRAZER - CENTER FOR AUTISM AND ALTERNATIVE APPROACHES, INC.",
+		"website": "http://www.cbc4autism.org",
+		"slug": "carrie-brazer-center-for-autism-and-alternative-approaches-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/carrie-brazer-center-for-autism-and-alternative-approaches-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/carrie-brazer-center-for-autism-and-alternative-approaches-inc/locations"
+	},
+	"phones": [{
+		"id": 7411,
+		"department": null,
+		"extension": null,
+		"number": "305-234-0490",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

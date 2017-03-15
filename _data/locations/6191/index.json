@@ -1,0 +1,48 @@
+{
+	"id": 6191,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-500-nw-67th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-500-nw-67th-street",
+	"address": {
+		"id": 2632,
+		"address_1": "500 NW 67th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33127"
+	},
+	"organization": {
+		"id": 3413,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Tiger Cubs - For first grade youth and their adult partners. Cub Scouts - For 2nd-5th grade youth, designed to strengthen families. Boy Scouts - An outdoor youth program for youth that have completed 5th grade.- 18 years old. Learning for Life/Exploring - A co-ed program for youth ages 14-20, designed to provide career exploration opportunities for young people.\r\n\r\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BOY SCOUTS OF AMERICA - SOUTH FLORIDA COUNCIL",
+		"website": "http://sfcbsa.wordpress.com",
+		"slug": "boy-scouts-of-america-south-florida-council",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/boy-scouts-of-america-south-florida-council",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/boy-scouts-of-america-south-florida-council/locations"
+	},
+	"phones": [{
+		"id": 6191,
+		"department": null,
+		"extension": "212.0",
+		"number": "305-364-0020",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

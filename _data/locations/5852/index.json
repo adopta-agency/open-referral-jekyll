@@ -1,0 +1,48 @@
+{
+	"id": 5852,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7992606,
+	26.1954096],
+	"description": "See listed services",
+	"latitude": 26.1954096,
+	"longitude": -81.7992606,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-963-trail-terrace-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-963-trail-terrace-drive",
+	"address": {
+		"id": 2509,
+		"address_1": "963 Trail Terrace Drive",
+		"address_2": "The Livingston Firm",
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34103"
+	},
+	"organization": {
+		"id": 5852,
+		"accreditations": [],
+		"alternate_name": "ESON",
+		"date_incorporated": null,
+		"description": "Programs include: \n\n* Monthly educational program for members and guests on topics selected to help entrepreneurs succeed in their businesses, such as financing, marketing, IT \n* Monthly face-to-face networking meeting for members and guests with discussion groups\n* Online community for members designed to support entrepreneurs through education, networking and sharing of resources\n* One-to-one and support-team mentoring of members by volunteers who are seasoned entrepreneurs\n* ESON website designed for education, networking and sharing of resources for members and designed to educate the public on entrepreneurialism \n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ENTREPRENEUR SOCIETY OF AMERICA, INC.",
+		"website": "http://www.esoa.us",
+		"slug": "entrepreneur-society-of-america-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/entrepreneur-society-of-america-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/entrepreneur-society-of-america-inc/locations"
+	},
+	"phones": [{
+		"id": 5852,
+		"department": null,
+		"extension": null,
+		"number": "888-828-9740",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

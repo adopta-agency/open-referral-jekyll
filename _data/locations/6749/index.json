@@ -1,0 +1,48 @@
+{
+	"id": 6749,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1788-sans-souci-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-1788-sans-souci-boulevard",
+	"address": {
+		"id": 2921,
+		"address_1": "1788 Sans Souci Boulevard",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33181"
+	},
+	"organization": {
+		"id": 6749,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Live!'s integral mission is to cater to the individual, transgressing conventional music education into a more contemporary approach that involves communication of ideas, creativity, and expression. We are here to center a musical community that can freely teach and learn from one-another in our city, provide the tools needed for talent and growth to flourish into art, and introduce cognition and innovation into our lives and society. Our main focus with every student at Live! is to support their creative intent with the necessary means to help reach their musical and creative goals.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LIVE! MODERN SCHOOL OF MUSIC, INC.",
+		"website": "http://www.lmsom.com",
+		"slug": "live-modern-school-of-music-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/live-modern-school-of-music-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/live-modern-school-of-music-inc/locations"
+	},
+	"phones": [{
+		"id": 6749,
+		"department": null,
+		"extension": null,
+		"number": "305-893-0191",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

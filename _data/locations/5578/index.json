@@ -1,0 +1,48 @@
+{
+	"id": 5578,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Coral Gables, FL",
+	"short_desc": null,
+	"slug": "coral-gables-fl-1092-galiano-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/coral-gables-fl-1092-galiano-avenue",
+	"address": {
+		"id": 2388,
+		"address_1": "1092 Galiano Avenue",
+		"address_2": null,
+		"city": "Coral Gables",
+		"state_province": "FL",
+		"postal_code": "33134"
+	},
+	"organization": {
+		"id": 5577,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Coral Gables Woman's Club is a social and volunteer organization that represents a wide spectrum of women of all ages. Consists of a diverse group of women, professional and homemakers, whose mission is to support and maintain the Coral Gables Children Dental Clinic, to provide volunteer services in various projects within the national and international communities and participate in club activities that promote health, finances, civic welfare and the arts and sciences.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GFWC CORAL GABLES WOMAN'S CLUB, INC.",
+		"website": "http://www.gfwccoralgableswomansclub.org/",
+		"slug": "gfwc-coral-gables-woman-s-club-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/gfwc-coral-gables-woman-s-club-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/gfwc-coral-gables-woman-s-club-inc/locations"
+	},
+	"phones": [{
+		"id": 5578,
+		"department": null,
+		"extension": null,
+		"number": "305-448-6536",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

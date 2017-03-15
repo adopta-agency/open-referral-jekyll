@@ -1,0 +1,48 @@
+{
+	"id": 7581,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.8721033,
+	26.5411292],
+	"description": "See listed services",
+	"latitude": 26.5411292,
+	"longitude": -81.8721033,
+	"name": "Fort Myers, FL",
+	"short_desc": null,
+	"slug": "fort-myers-fl-7011-cypress-terrace",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/fort-myers-fl-7011-cypress-terrace",
+	"address": {
+		"id": 3541,
+		"address_1": "7011 Cypress Terrace",
+		"address_2": "Suite 103",
+		"city": "Fort Myers",
+		"state_province": "FL",
+		"postal_code": "33907"
+	},
+	"organization": {
+		"id": 4809,
+		"accreditations": [],
+		"alternate_name": "FTRI",
+		"date_incorporated": null,
+		"description": "Provides 24 hour telephone interpreting relay service for people who are deaf, hard of hearing or speech impaired. Allows the caller with the disability and a TTD phone to connect with a hearing person who has a regular telephone. 1-800-955-1478 Customer Service, both Voice and TTY/TDD; 1-800-955-8771 Relay Service for TTY/TDD users; 1-800-955-8770 Relay Service for Voice users.\n\n###COL###\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA TELECOMMUNICATIONS RELAY, INC.",
+		"website": "http://www.ftri.org",
+		"slug": "florida-telecommunications-relay-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-telecommunications-relay-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-telecommunications-relay-inc/locations"
+	},
+	"phones": [{
+		"id": 7581,
+		"department": null,
+		"extension": null,
+		"number": "239-260-4575",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

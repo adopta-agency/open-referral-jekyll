@@ -1,0 +1,48 @@
+{
+	"id": 7353,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.8732106,
+	26.6073739],
+	"description": "See listed services",
+	"latitude": 26.6073739,
+	"longitude": -81.8732106,
+	"name": "Fort Myers, FL",
+	"short_desc": null,
+	"slug": "fort-myers-fl-9b4cc513-9228-457d-a3b8-75846d8c119b",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/fort-myers-fl-9b4cc513-9228-457d-a3b8-75846d8c119b",
+	"address": {
+		"id": 3347,
+		"address_1": "1921 Jefferson Avenue",
+		"address_2": null,
+		"city": "Fort Myers",
+		"state_province": "FL",
+		"postal_code": "33901"
+	},
+	"organization": {
+		"id": 5325,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Healthy Start provides a variety of programs and services all aimed at helping pregnant women and families with young children up to the age of three access health care and community services that will help give their baby a chance at a Healthy Start in life. Services will include:\n\n* Prenatal care for the uninsured\n* Risk screening for all pregnant women and newborns.\n* Home visiting and care coordination\n* Telephone based maternity care advising \n* Gestational diabetes education and testing \n* Breastfeeding education\n* Childbirth education\n* FOCUS program for teen mothers\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HEALTHY START COALITION OF SOUTHWEST FLORIDA, INC.",
+		"website": "http://www.HealthyStartBaby.org",
+		"slug": "healthy-start-coalition-of-southwest-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/healthy-start-coalition-of-southwest-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/healthy-start-coalition-of-southwest-florida-inc/locations"
+	},
+	"phones": [{
+		"id": 7353,
+		"department": null,
+		"extension": "210.0",
+		"number": "239-425-6920",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

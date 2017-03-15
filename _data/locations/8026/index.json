@@ -1,0 +1,48 @@
+{
+	"id": 8026,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.235407,
+	25.837905],
+	"description": "See listed services",
+	"latitude": 25.837905,
+	"longitude": -80.235407,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-662bd2db-92f3-4247-949a-9fdc4ce9f510",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-662bd2db-92f3-4247-949a-9fdc4ce9f510",
+	"address": {
+		"id": 3938,
+		"address_1": "7090 NW 22nd Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33147"
+	},
+	"organization": {
+		"id": 8025,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Offers ongoing sports training programs to those who desire afternoon, evening and/or weekend hours. There is no cost to participate. Participants must register with Special Olympics or must be currently registered. Training's offered in bowling, tennis, basketball, and soccer.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SPECIAL OLYMPICS FLORIDA - MD-C - COMMUNITY SPORTS TRAINING PROGRAMS - NORTH SHORE PARK",
+		"website": "http://specialolympicsflorida.org/miami-dade/",
+		"slug": "special-olympics-florida-md-c-community-sports-training-programs-north-shore-park",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/special-olympics-florida-md-c-community-sports-training-programs-north-shore-park",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/special-olympics-florida-md-c-community-sports-training-programs-north-shore-park/locations"
+	},
+	"phones": [{
+		"id": 8026,
+		"department": null,
+		"extension": null,
+		"number": "305-406-9467",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

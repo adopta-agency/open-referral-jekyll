@@ -1,0 +1,48 @@
+{
+	"id": 3310,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-5665-ponce-de-leon-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-5665-ponce-de-leon-boulevard",
+	"address": {
+		"id": 1631,
+		"address_1": "5665 Ponce De Leon Boulevard",
+		"address_2": "2nd Floor",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33146"
+	},
+	"organization": {
+		"id": 3308,
+		"accreditations": [],
+		"alternate_name": "UM",
+		"date_incorporated": null,
+		"description": "Psychotherapy and Counseling services offered include individual therapy, family therapy, child/adolescent therapy, and group therapy. Psychological Assessment and Testing services offered involving behavior and school problems; learning disabilities in children and adults; intellectual assessment (developmental disabilities and gifted); personality assessment; and infant assessment.\n\nStaff includes doctoral students in clinical psychology working under the supervision of University of Miami faculty.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNIVERSITY OF MIAMI - PSYCHOLOGICAL SERVICES CENTER (PSC)",
+		"website": null,
+		"slug": "university-of-miami-psychological-services-center-psc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/university-of-miami-psychological-services-center-psc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/university-of-miami-psychological-services-center-psc/locations"
+	},
+	"phones": [{
+		"id": 3310,
+		"department": null,
+		"extension": null,
+		"number": "305-284-4265",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

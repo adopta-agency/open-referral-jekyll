@@ -1,0 +1,48 @@
+{
+	"id": 7753,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.350055,
+	25.60258],
+	"description": "See listed services",
+	"latitude": 25.60258,
+	"longitude": -80.350055,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-9780-east-indigo-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-9780-east-indigo-street",
+	"address": {
+		"id": 3690,
+		"address_1": "9780 East Indigo Street",
+		"address_2": "Suite 301",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 5249,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Recapturing the Vision provides case management, group, and individual counseling. Also provides prayers enforcing healthy marriages.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "RECAPTURING THE VISION INTERNATIONAL, INC.",
+		"website": "http://rtv.org/",
+		"slug": "recapturing-the-vision-international-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/recapturing-the-vision-international-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/recapturing-the-vision-international-inc/locations"
+	},
+	"phones": [{
+		"id": 7753,
+		"department": null,
+		"extension": null,
+		"number": "305-232-6003",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

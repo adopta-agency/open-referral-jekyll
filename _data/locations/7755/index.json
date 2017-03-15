@@ -1,0 +1,47 @@
+{
+	"id": 7755,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [],
+	"description": "See listed services",
+	"latitude": null,
+	"longitude": null,
+	"name": "Washington, DC",
+	"short_desc": null,
+	"slug": "washington-dc-90a40aa9-07d9-461b-9bea-7959d84ddd95",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/washington-dc-90a40aa9-07d9-461b-9bea-7959d84ddd95",
+	"address": {
+		"id": 3692,
+		"address_1": "601 East Street, NW",
+		"address_2": null,
+		"city": "Washington",
+		"state_province": "DC",
+		"postal_code": "20049"
+	},
+	"organization": {
+		"id": 315,
+		"accreditations": [],
+		"alternate_name": "AARP",
+		"date_incorporated": null,
+		"description": "AARP is a national, membership organization that advocates for individuals age 50 and older. Members need not be retired. Provides information on aging issues, educational material and courses, conducts research and offers a variety of volunteer opportunities and community services. They also sponsor the u0022Alive 55u0022 driver's education classes for older drivers and the Tax Aid program to assist with income tax preparation.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AMERICAN ASSOCIATION OF RETIRED PERSONS",
+		"website": "http://www.aarp.org",
+		"slug": "american-association-of-retired-persons",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-association-of-retired-persons",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-association-of-retired-persons/locations"
+	},
+	"phones": [{
+		"id": 7755,
+		"department": null,
+		"extension": null,
+		"number": "888-227-7669",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

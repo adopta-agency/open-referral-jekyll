@@ -1,0 +1,48 @@
+{
+	"id": 6472,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Opa Locka, FL",
+	"short_desc": null,
+	"slug": "opa-locka-fl-1841-nw-157th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/opa-locka-fl-1841-nw-157th-street",
+	"address": {
+		"id": 2758,
+		"address_1": "1841 NW 157th Street",
+		"address_2": null,
+		"city": "Opa Locka",
+		"state_province": "FL",
+		"postal_code": "33054"
+	},
+	"organization": {
+		"id": 2725,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "FIU-South Florida After-School All-Stars is a partnership program that comprises Miami-Dade County Public Schools/Middle School Enrichment, 21st Century Community Learning Centers, the Children's Trust and others to provide comprehensive after school and summer programs in selected middle schools throughout Miami-Dade County. A list of program locations can be obtained by calling 305-348-7904.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FIU AFTER SCHOOL ALL STARS",
+		"website": "http://sfasas.org",
+		"slug": "fiu-after-school-all-stars",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/fiu-after-school-all-stars",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/fiu-after-school-all-stars/locations"
+	},
+	"phones": [{
+		"id": 6472,
+		"department": null,
+		"extension": null,
+		"number": "305-348-7904",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

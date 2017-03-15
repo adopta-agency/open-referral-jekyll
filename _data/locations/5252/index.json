@@ -1,0 +1,48 @@
+{
+	"id": 5252,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.436042,
+	26.436155],
+	"description": "See listed services",
+	"latitude": 26.436155,
+	"longitude": -81.436042,
+	"name": "Immokalee, FL",
+	"short_desc": null,
+	"slug": "immokalee-fl-1255-north-15th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/immokalee-fl-1255-north-15th-street",
+	"address": {
+		"id": 2238,
+		"address_1": "1255 North 15th Street",
+		"address_2": "Suite 1",
+		"city": "Immokalee",
+		"state_province": "FL",
+		"postal_code": "34142"
+	},
+	"organization": {
+		"id": 5252,
+		"accreditations": [],
+		"alternate_name": "IMM-CAA",
+		"date_incorporated": null,
+		"description": "Immokalee Multicultural Multipurpose Community Action Agency provides emergency direct assistance to low income, residents of Collier County. Services include food, clothing, water bill assistance, rental assistance for past due notices , financial assistance for tuition, school text books, uniforms and tool kits. \n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "IMMOKALEE MULTICULTURAL MULTIPURPOSE COMMUNITY ACTION AGENCY, INC.",
+		"website": null,
+		"slug": "immokalee-multicultural-multipurpose-community-action-agency-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/immokalee-multicultural-multipurpose-community-action-agency-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/immokalee-multicultural-multipurpose-community-action-agency-inc/locations"
+	},
+	"phones": [{
+		"id": 5252,
+		"department": null,
+		"extension": null,
+		"number": "239-657-2213",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

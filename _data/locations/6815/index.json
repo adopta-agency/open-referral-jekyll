@@ -1,0 +1,48 @@
+{
+	"id": 6815,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -80,
+	"name": "Key Largo, FL",
+	"short_desc": null,
+	"slug": "key-largo-fl-100693-overseas-highway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/key-largo-fl-100693-overseas-highway",
+	"address": {
+		"id": 2968,
+		"address_1": "100693 Overseas Highway",
+		"address_2": null,
+		"city": "Key Largo",
+		"state_province": "FL",
+		"postal_code": "33037"
+	},
+	"organization": {
+		"id": 6801,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "A North Carolina Outward Bound School course is the beginning of a life-long journey. We offer courses for a broad range of groups, including individuals (teens and adults), school groups, educators, business professionals and veterans, that are both physically challenging and powerfully inspiring. From four to 72 days long, our wilderness expeditions take place in some of the premier outdoor education areas of the country, with activity options of mountaineering, backpacking, whitewater canoeing, rock climbing, coastal canoeing and sea kayaking. Participants going on an Outward Bound course will develop skills in leadership, wilderness travel, environmental stewardship, character development and compassion for others. \r\n\r\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NORTH CAROLINA OUTWARD BOUND SCHOOL, INC.",
+		"website": "http://www.ncobs.org/",
+		"slug": "north-carolina-outward-bound-school-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/north-carolina-outward-bound-school-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/north-carolina-outward-bound-school-inc/locations"
+	},
+	"phones": [{
+		"id": 6815,
+		"department": null,
+		"extension": null,
+		"number": "800-327-2995",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

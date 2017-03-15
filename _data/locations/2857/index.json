@@ -1,0 +1,48 @@
+{
+	"id": 2857,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-74,
+	41],
+	"description": "See listed services",
+	"latitude": 41,
+	"longitude": -74,
+	"name": "Short Hills, NJ",
+	"short_desc": null,
+	"slug": "short-hills-nj-636-morris-turnpike",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/short-hills-nj-636-morris-turnpike",
+	"address": {
+		"id": 1404,
+		"address_1": "636 Morris Turnpike",
+		"address_2": "Suite 3A",
+		"city": "Short Hills",
+		"state_province": "NJ",
+		"postal_code": "07078"
+	},
+	"organization": {
+		"id": 2856,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Christopher & Dana Reeve Foundation is committed to funding research that develops treatments and cures for paralysis caused by spinal cord injury and other central nervous system disorders. The Foundation also vigorously works to improve the quality of life for people living with disabilities through its grants program, paralysis resource center and advocacy efforts.\n\n####MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CHRISTOPHER AND DANA REEVE FOUNDATION",
+		"website": "http://www.christopherreeve.org",
+		"slug": "christopher-and-dana-reeve-foundation",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/christopher-and-dana-reeve-foundation",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/christopher-and-dana-reeve-foundation/locations"
+	},
+	"phones": [{
+		"id": 2857,
+		"department": null,
+		"extension": null,
+		"number": "800-539-7309",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

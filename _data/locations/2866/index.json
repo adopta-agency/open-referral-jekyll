@@ -1,0 +1,48 @@
+{
+	"id": 2866,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-118.3617443,
+	34.0900091],
+	"description": "See listed services",
+	"latitude": 34.0900091,
+	"longitude": -118.3617443,
+	"name": "West Hollywood, CA",
+	"short_desc": null,
+	"slug": "west-hollywood-ca",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/west-hollywood-ca",
+	"address": {
+		"id": 1411,
+		"address_1": "P.O. Box 69232",
+		"address_2": null,
+		"city": "West Hollywood",
+		"state_province": "CA",
+		"postal_code": "90069"
+	},
+	"organization": {
+		"id": 2866,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Trevor Project is a national organization providing crisis intervention and suicide prevention services to lesbian, gay, bisexual, transgender and questioning (LGBTQ) young people ages 13-24 years old.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE TREVOR PROJECT",
+		"website": "http://www.thetrevorproject.org",
+		"slug": "the-trevor-project",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-trevor-project",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-trevor-project/locations"
+	},
+	"phones": [{
+		"id": 2866,
+		"department": null,
+		"extension": null,
+		"number": "866-488-7386",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

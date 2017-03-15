@@ -1,0 +1,48 @@
+{
+	"id": 5156,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.8047379,
+	24.5545248],
+	"description": "See listed services",
+	"latitude": 24.5545248,
+	"longitude": -81.8047379,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-302-fleming-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/key-west-fl-302-fleming-street",
+	"address": {
+		"id": 2190,
+		"address_1": "302 Fleming Street",
+		"address_2": null,
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 5156,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The mission of the Florida judicial branch is to protect rights and liberties, uphold and interpret the law, and provide for the peaceful resolution of disputes.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SIXTEENTH JUDICIAL CIRCUIT OF FLORIDA",
+		"website": "http://www.keyscourts.net/",
+		"slug": "sixteenth-judicial-circuit-of-florida",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/sixteenth-judicial-circuit-of-florida",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/sixteenth-judicial-circuit-of-florida/locations"
+	},
+	"phones": [{
+		"id": 5156,
+		"department": null,
+		"extension": null,
+		"number": "305-292-3423",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

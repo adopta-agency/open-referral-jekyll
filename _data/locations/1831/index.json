@@ -1,0 +1,48 @@
+{
+	"id": 1831,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-714a3bff-da5f-4d83-9a88-eec4fe1a9f75",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-714a3bff-da5f-4d83-9a88-eec4fe1a9f75",
+	"address": {
+		"id": 965,
+		"address_1": "1550 North Miami Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 1830,
+		"accreditations": [],
+		"alternate_name": "Community Partnership for Homeless and/or Homeless Assistance Center (HAC)",
+		"date_incorporated": null,
+		"description": "Chapman Partnership empowers homeless men, women and children to build a positive future by providing the resources and assistance critical to growth and independence. Chapman Partnership provides a comprehensive support program that includes emergency housing, meals, health, dental and psychiatric care, day care, job training, job placement and assistance with securing stable housing.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CHAPMAN PARTNERSHIP, INC.",
+		"website": "http://www.chapmanpartnership.org",
+		"slug": "chapman-partnership-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/chapman-partnership-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/chapman-partnership-inc/locations"
+	},
+	"phones": [{
+		"id": 1831,
+		"department": null,
+		"extension": null,
+		"number": "305-329-3000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 26,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami Beach, FL",
+	"short_desc": null,
+	"slug": "miami-beach-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-beach-fl",
+	"address": {
+		"id": 7,
+		"address_1": "407 Lincoln Road",
+		"address_2": "Suite 6L",
+		"city": "Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33139"
+	},
+	"organization": {
+		"id": 26,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides positive psychology, neuropsychology, neuropsychoeducation evaluations, employee assistance programs, cognitive behavioral and gesalt psychotherapy. Services provided to individuals, families, couples, children, adolescents and elderly with autism, aspergers, developmental delays, learning disabilities, medical conditions, mood disorders, anxiety and depression. Outpatient services provided to those who have addictions, are part of NA or AA, and referrals to detox centers can also be made. Assists with the LGBTQI community.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SHERRY A. PALAMARA, PSYD, PA",
+		"website": null,
+		"slug": "sherry-a-palamara-psyd-pa",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/sherry-a-palamara-psyd-pa",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/sherry-a-palamara-psyd-pa/locations"
+	},
+	"phones": [{
+		"id": 26,
+		"department": null,
+		"extension": null,
+		"number": "305-450-1470",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

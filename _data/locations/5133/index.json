@@ -1,0 +1,48 @@
+{
+	"id": 5133,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.214243,
+	25.7901533],
+	"description": "See listed services",
+	"latitude": 25.7901533,
+	"longitude": -80.214243,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-a6bd5a7d-dbb5-4fed-8feb-ce6381d3b31a",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-a6bd5a7d-dbb5-4fed-8feb-ce6381d3b31a",
+	"address": {
+		"id": 2172,
+		"address_1": "1601 NW 12th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33101"
+	},
+	"organization": {
+		"id": 1837,
+		"accreditations": [],
+		"alternate_name": "UM",
+		"date_incorporated": null,
+		"description": "The Mailman Center conducts interdisciplinary screening and diagnostic evaluations of children who display delayed development, hyperactivity or learning disabilities, and provides counseling & treatment to children and their families. Graduate training and community education/technical assistance programs are also part of services.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNIVERSITY OF MIAMI - MAILMAN CENTER FOR CHILD DEVELOPMENT",
+		"website": "http://www.mailmancenter.org",
+		"slug": "university-of-miami-mailman-center-for-child-development",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/university-of-miami-mailman-center-for-child-development",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/university-of-miami-mailman-center-for-child-development/locations"
+	},
+	"phones": [{
+		"id": 5133,
+		"department": null,
+		"extension": null,
+		"number": "305-243-0234",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

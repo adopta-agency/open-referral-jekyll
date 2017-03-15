@@ -1,0 +1,48 @@
+{
+	"id": 8097,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3130419,
+	25.7817507],
+	"description": "See listed services",
+	"latitude": 25.7817507,
+	"longitude": -80.3130419,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2b35d382-d8fb-488c-bca0-5aa13f5e757f",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-2b35d382-d8fb-488c-bca0-5aa13f5e757f",
+	"address": {
+		"id": 4003,
+		"address_1": "1150 NW 72nd Avenue",
+		"address_2": "Suite 200",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33126"
+	},
+	"organization": {
+		"id": 2176,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides community service programs including counseling, probation, diversion, education and orientation for ex-offenders.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ADVOCATE PROGRAM, INC.",
+		"website": "http://advocateprogram.org",
+		"slug": "advocate-program-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/advocate-program-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/advocate-program-inc/locations"
+	},
+	"phones": [{
+		"id": 8097,
+		"department": null,
+		"extension": null,
+		"number": "786-227-5842",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

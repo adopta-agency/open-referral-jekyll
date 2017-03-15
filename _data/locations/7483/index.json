@@ -1,0 +1,48 @@
+{
+	"id": 7483,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3384545,
+	25.6333721],
+	"description": "See listed services",
+	"latitude": 25.6333721,
+	"longitude": -80.3384545,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-df88d26d-db69-4a9c-9447-f41afe07e71f",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-df88d26d-db69-4a9c-9447-f41afe07e71f",
+	"address": {
+		"id": 3454,
+		"address_1": "14707 South Dixie Highway",
+		"address_2": "Suite 211",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33176"
+	},
+	"organization": {
+		"id": 6527,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Clinical psychologist certified for eagala therapy (equestrian psychotherapy), provides support groups in Traumatic Brain Injury, Fibromyalgia, and other Auto Immune Disorders.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "RHONDA REES VIVAS, PSY. D.",
+		"website": null,
+		"slug": "rhonda-rees-vivas-psy-d",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/rhonda-rees-vivas-psy-d",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/rhonda-rees-vivas-psy-d/locations"
+	},
+	"phones": [{
+		"id": 7483,
+		"department": null,
+		"extension": null,
+		"number": "305-807-4975",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 6528,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-b3bbf0d8-2b8d-4866-b38f-251f6890da66",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-b3bbf0d8-2b8d-4866-b38f-251f6890da66",
+	"address": {
+		"id": 2796,
+		"address_1": "20601 Old Cutler Road",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33189"
+	},
+	"organization": {
+		"id": 6527,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Clinical psychologist certified for eagala therapy (equestrian psychotherapy), provides support groups in Traumatic Brain Injury, Fibromyalgia, and other Auto Immune Disorders.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "RHONDA REES VIVAS, PSY. D.",
+		"website": null,
+		"slug": "rhonda-rees-vivas-psy-d",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/rhonda-rees-vivas-psy-d",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/rhonda-rees-vivas-psy-d/locations"
+	},
+	"phones": [{
+		"id": 6528,
+		"department": null,
+		"extension": null,
+		"number": "305-251-3800",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

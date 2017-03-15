@@ -1,0 +1,47 @@
+{
+	"id": 7703,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [],
+	"description": "See listed services",
+	"latitude": null,
+	"longitude": null,
+	"name": "Miami Gardens, FL",
+	"short_desc": null,
+	"slug": "miami-gardens-fl-347-don-shula-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-gardens-fl-347-don-shula-drive",
+	"address": {
+		"id": 3649,
+		"address_1": "347 Don Shula Drive",
+		"address_2": null,
+		"city": "Miami Gardens",
+		"state_province": "FL",
+		"postal_code": "33056"
+	},
+	"organization": {
+		"id": 7703,
+		"accreditations": [],
+		"alternate_name": "DCC",
+		"date_incorporated": null,
+		"description": "The Dolphins Cancer Challenge (DCC) was founded in 2010 by the Miami Dolphins organization as the signature initiative of the Miami Dolphins FoundationGu00c7u00d6s health pillar. In part inspired by Dolphins alumnus and long-time radio voice Jim Mad Dog MandichGu00c7u00d6s courageous battle with cancer, the DCCGu00c7u00d6s mission is to improve peopleGu00c7u00d6s lives through financial support for innovative cancer research at South FloridaGu00c7u00d6s only academic-based cancer center at University of MiamiGu00c7u00d6s Sylvester Comprehensive Cancer Center. Since its inception, the DCC has raised over $16.5 million, donating 100% of participant-raised funds to Sylvester.\n\nSince everyone is affected by cancer, the Dolphins wanted to ensure everyone had an option to participate and fight back. DCC participants come from every neighborhood in South Florida, every economic background, gender, ethnicity and age. DCC has a kids ride, showing kids of all ages they can tackle cancer too! This past year, DCC had over 3000 participants. This includes cyclists, runners, walkers, volunteers, and virtual fundraisers. Our participants come from South FloridaGu00c7u00d6s largest companies, UM staff, faculty, students and alumni, Dolphins fans, avid cyclists and everyone in between.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "DOLPHINS CANCER CHALLENGE",
+		"website": "http://www.DolphinsCancerChallenge.com",
+		"slug": "dolphins-cancer-challenge",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/dolphins-cancer-challenge",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/dolphins-cancer-challenge/locations"
+	},
+	"phones": [{
+		"id": 7703,
+		"department": null,
+		"extension": null,
+		"number": "305-943-6799",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

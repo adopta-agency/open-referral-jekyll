@@ -1,0 +1,48 @@
+{
+	"id": 7852,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3814906,
+	25.7591629],
+	"description": "See listed services",
+	"latitude": 25.7591629,
+	"longitude": -80.3814906,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-851-sw-117th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-851-sw-117th-avenue",
+	"address": {
+		"id": 3776,
+		"address_1": "851 SW 117th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33184"
+	},
+	"organization": {
+		"id": 304,
+		"accreditations": [],
+		"alternate_name": "FIU",
+		"date_incorporated": null,
+		"description": "Florida International University is a student-centered public research university, offering bachelor's, master's, and doctoral degrees.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA INTERNATIONAL UNIVERSITY, INC.",
+		"website": "http://www.fiu.edu",
+		"slug": "florida-international-university-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-international-university-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-international-university-inc/locations"
+	},
+	"phones": [{
+		"id": 7852,
+		"department": null,
+		"extension": null,
+		"number": "305-348-7875",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

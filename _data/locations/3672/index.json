@@ -1,0 +1,48 @@
+{
+	"id": 3672,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -81,
+	"name": "Immokalee, FL",
+	"short_desc": null,
+	"slug": "immokalee-fl-508-north-9th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/immokalee-fl-508-north-9th-street",
+	"address": {
+		"id": 1780,
+		"address_1": "508 North 9th Street",
+		"address_2": "Suite 142",
+		"city": "Immokalee",
+		"state_province": "FL",
+		"postal_code": "34142"
+	},
+	"organization": {
+		"id": 3671,
+		"accreditations": [],
+		"alternate_name": "COLLIER HEALTH SERVICES, INC.",
+		"date_incorporated": null,
+		"description": "Health Care Network of Southwest Florida provides primary medical and dental care, including pediatrics. There are several offices located throughout Collier County, with one pediatric dental office that offers advanced services such as sedation and hospital based dentistry.\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HEALTH CARE NETWORK OF SOUTHWEST FLORIDA",
+		"website": "http://www.healthcareswfl.org",
+		"slug": "health-care-network-of-southwest-florida",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/health-care-network-of-southwest-florida",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/health-care-network-of-southwest-florida/locations"
+	},
+	"phones": [{
+		"id": 3672,
+		"department": null,
+		"extension": null,
+		"number": "239-658-6363",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

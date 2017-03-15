@@ -1,0 +1,48 @@
+{
+	"id": 2305,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.05,
+	26.5799999],
+	"description": "See listed services",
+	"latitude": 26.5799999,
+	"longitude": -80.05,
+	"name": "Lake Worth, FL",
+	"short_desc": null,
+	"slug": "lake-worth-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/lake-worth-fl",
+	"address": {
+		"id": 1151,
+		"address_1": "P.O. Box 3588",
+		"address_2": null,
+		"city": "Lake Worth",
+		"state_province": "FL",
+		"postal_code": "33465-3588"
+	},
+	"organization": {
+		"id": 2305,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides suicide prevention, information, assessment and referral to people in need, including the homeless. Services include telephone counseling, crisis intervention for individuals of all ages experiencing personal problems, emotional distress, thoughts of suicide and emergencies such as drug overdoses.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "2-1-1 PALM BEACH/TREASURE COAST",
+		"website": "http://www.211palmbeach.org",
+		"slug": "2-1-1-palm-beach-treasure-coast",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/2-1-1-palm-beach-treasure-coast",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/2-1-1-palm-beach-treasure-coast/locations"
+	},
+	"phones": [{
+		"id": 2305,
+		"department": null,
+		"extension": null,
+		"number": "561-383-1111",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

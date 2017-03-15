@@ -1,0 +1,48 @@
+{
+	"id": 6319,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.152735,
+	26.1033725],
+	"description": "See listed services",
+	"latitude": 26.1033725,
+	"longitude": -80.152735,
+	"name": "Fort Lauderdale, FL",
+	"short_desc": null,
+	"slug": "fort-lauderdale-fl-1480-sw-9th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/fort-lauderdale-fl-1480-sw-9th-avenue",
+	"address": {
+		"id": 2693,
+		"address_1": "1480 SW 9th Avenue",
+		"address_2": null,
+		"city": "Fort Lauderdale",
+		"state_province": "FL",
+		"postal_code": "33315"
+	},
+	"organization": {
+		"id": 6319,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Metaphysical Chapel is a church open to people from all religions and backgrounds, as well as the LGBT community. Healing services are offered before church on Sundays. Monthly Psychic Fair is held on the last Saturday, except December. The church hosts many psychics, mediums, healers, shamans and international speakers on numerous spiritual, scientific and metaphysical topics.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "METAPHYSICAL CHAPEL OF SOUTH FLORIDA, INC.",
+		"website": "http://metaphysicalchapel.com/",
+		"slug": "metaphysical-chapel-of-south-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/metaphysical-chapel-of-south-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/metaphysical-chapel-of-south-florida-inc/locations"
+	},
+	"phones": [{
+		"id": 6319,
+		"department": null,
+		"extension": null,
+		"number": "754-300-1428",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

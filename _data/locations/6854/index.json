@@ -1,0 +1,48 @@
+{
+	"id": 6854,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -82,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-cb95c22b-031c-4361-a716-5c5b4be66d25",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/key-west-fl-cb95c22b-031c-4361-a716-5c5b4be66d25",
+	"address": {
+		"id": 2994,
+		"address_1": "1304 Truman Avenue",
+		"address_2": null,
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 6853,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Healthy Families Florida is a nationally accredited home visiting program for expectant parents and parents of newborns experiencing stressful life situations. The program improves childhood outcomes and increases family self-sufficiency by empowering parents through education and community support. Parents voluntarily participate in Healthy Families so they can learn how to recognize and respond to their babies' changing developmental needs, use positive discipline techniques, cope with the day-to-day stress of parenting in healthy ways, and set and achieve short- and long-term goals.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HEALTHY FAMILIES FLORIDA",
+		"website": "http://www.healthyfamiliesfla.org",
+		"slug": "healthy-families-florida",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/healthy-families-florida",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/healthy-families-florida/locations"
+	},
+	"phones": [{
+		"id": 6854,
+		"department": null,
+		"extension": null,
+		"number": "305-809-5000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

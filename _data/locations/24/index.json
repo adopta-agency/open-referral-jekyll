@@ -1,0 +1,48 @@
+{
+	"id": 24,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2117055,
+	25.8979967],
+	"description": "See listed services",
+	"latitude": 25.8979967,
+	"longitude": -80.2117055,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-13490-nw-7th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-13490-nw-7th-avenue",
+	"address": {
+		"id": 6,
+		"address_1": "13490 NW 7th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33168"
+	},
+	"organization": {
+		"id": 24,
+		"accreditations": [],
+		"alternate_name": "(JA)",
+		"date_incorporated": null,
+		"description": "Junior Achievement empowers young people to own their economic success. Their volunteer-based K-12 programs foster work-readiness, entrepreneurship, and financial literacy skills, and use experiential learning to inspire kids to dream big and reach their potential.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "JUNIOR ACHIEVEMENT OF GREATER MIAMI, INC.",
+		"website": "http://www.jamiami.org",
+		"slug": "junior-achievement-of-greater-miami-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/junior-achievement-of-greater-miami-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/junior-achievement-of-greater-miami-inc/locations"
+	},
+	"phones": [{
+		"id": 24,
+		"department": null,
+		"extension": "226.0",
+		"number": "305-687-3977",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 7324,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.222573,
+	25.7871698],
+	"description": "See listed services",
+	"latitude": 25.7871698,
+	"longitude": -80.222573,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-a82d653a-6549-4e7b-81f4-251646b018cb",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-a82d653a-6549-4e7b-81f4-251646b018cb",
+	"address": {
+		"id": 3328,
+		"address_1": "1399 NW 17th Avenue",
+		"address_2": "2nd Floor",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33125"
+	},
+	"organization": {
+		"id": 2176,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides community service programs including counseling, probation, diversion, education and orientation for ex-offenders.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ADVOCATE PROGRAM, INC.",
+		"website": "http://advocateprogram.org",
+		"slug": "advocate-program-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/advocate-program-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/advocate-program-inc/locations"
+	},
+	"phones": [{
+		"id": 7324,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0200",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

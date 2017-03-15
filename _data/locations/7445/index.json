@@ -1,0 +1,48 @@
+{
+	"id": 7445,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.073224,
+	24.714784],
+	"description": "See listed services",
+	"latitude": 24.714784,
+	"longitude": -81.073224,
+	"name": "Marathon, FL",
+	"short_desc": null,
+	"slug": "marathon-fl-240-sombrero-beach-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/marathon-fl-240-sombrero-beach-road",
+	"address": {
+		"id": 3421,
+		"address_1": "240 Sombrero Beach Road",
+		"address_2": null,
+		"city": "Marathon",
+		"state_province": "FL",
+		"postal_code": "33050"
+	},
+	"organization": {
+		"id": 6234,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides housing to low and low-to-moderate income residents through Section 8 and public housing programs.\r\n\r\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HOUSING AUTHORITY OF THE CITY OF KEY WEST",
+		"website": "http://www.kwha.org/wordpress0/",
+		"slug": "housing-authority-of-the-city-of-key-west",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/housing-authority-of-the-city-of-key-west",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/housing-authority-of-the-city-of-key-west/locations"
+	},
+	"phones": [{
+		"id": 7445,
+		"department": null,
+		"extension": null,
+		"number": "305-296-5621",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

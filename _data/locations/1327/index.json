@@ -1,0 +1,48 @@
+{
+	"id": 1327,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-74.0364385,
+	41.739337],
+	"description": "See listed services",
+	"latitude": 41.739337,
+	"longitude": -74.0364385,
+	"name": "Highland, NY",
+	"short_desc": null,
+	"slug": "highland-ny",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/highland-ny",
+	"address": {
+		"id": 687,
+		"address_1": "21 North Eltings Corners Road",
+		"address_2": null,
+		"city": "Highland",
+		"state_province": "NY",
+		"postal_code": "12528"
+	},
+	"organization": {
+		"id": 1327,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The I AM LOST (Location) line is for parents who wish to report their children missing. Child Find brings missing children home through the use of in-house professional staff, national dissemination of photos of missing children to companies and corporations, the toll-free number, counseling for searching parents and nationwide networking efforts with law enforcement, state clearinghouse personnel, social service agencies and missing children agencies.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CHILD FIND OF AMERICA, INC.",
+		"website": "http://www.childfindofamerica.org",
+		"slug": "child-find-of-america-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/child-find-of-america-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/child-find-of-america-inc/locations"
+	},
+	"phones": [{
+		"id": 1327,
+		"department": null,
+		"extension": null,
+		"number": "800-426-5678",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

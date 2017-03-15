@@ -1,0 +1,48 @@
+{
+	"id": 7363,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2084441,
+	25.9225271],
+	"description": "See listed services",
+	"latitude": 25.9225271,
+	"longitude": -80.2084441,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-540-nw-165-street-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-540-nw-165-street-road",
+	"address": {
+		"id": 3355,
+		"address_1": "540 NW 165 Street Road",
+		"address_2": "Suite 110",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33169-7471"
+	},
+	"organization": {
+		"id": 7363,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides targeted case management services for adults.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "EMBRACING YOU COUNSELING SERVICES, INC.",
+		"website": "http://www.embraceycsi.com",
+		"slug": "embracing-you-counseling-services-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/embracing-you-counseling-services-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/embracing-you-counseling-services-inc/locations"
+	},
+	"phones": [{
+		"id": 7363,
+		"department": null,
+		"extension": null,
+		"number": "786-953-4612",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

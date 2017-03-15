@@ -1,0 +1,48 @@
+{
+	"id": 4935,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1444356,
+	25.9712419],
+	"description": "See listed services",
+	"latitude": 25.9712419,
+	"longitude": -80.1444356,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-21150-biscayne-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-21150-biscayne-boulevard",
+	"address": {
+		"id": 2074,
+		"address_1": "21150 Biscayne Boulevard",
+		"address_2": "Suite 408",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33180"
+	},
+	"organization": {
+		"id": 4935,
+		"accreditations": [],
+		"alternate_name": "FCAAC",
+		"date_incorporated": null,
+		"description": "Florida Center For Allergy & Asthma Care is the largest allergy and asthma center serving South Florida with the help of expert board-certified physicians, all who have extensive experience treating adults and children alike.\n\nServices offered in multiple offices throughout the tri-county area of Miami-Dade, Broward and Palm Beach. We concentrate in the testing and treatment of allergies, asthma and other immune system disorders that affect people of all ages. Among the most common allergies we treat are allergic skin diseases, food, drug and pet allergies.\n \nServices provided include:\n\n* Allergy Testing\n* Immunotherapy (Allergy Shots)\n* Pulmonary (Lung) Function Test\n* Patient Education\n* Food Allergies Diagnosis and Education\n* Clinical Research Studies",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA CENTER FOR ALLERGY AND ASTHMA CARE",
+		"website": "http://www.florida-allergy.com",
+		"slug": "florida-center-for-allergy-and-asthma-care",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-center-for-allergy-and-asthma-care",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-center-for-allergy-and-asthma-care/locations"
+	},
+	"phones": [{
+		"id": 4935,
+		"department": null,
+		"extension": null,
+		"number": "305-223-8808",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

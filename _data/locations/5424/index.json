@@ -1,0 +1,48 @@
+{
+	"id": 5424,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-95.36,
+	29.76],
+	"description": "See listed services",
+	"latitude": 29.76,
+	"longitude": -95.36,
+	"name": "Houston, TX",
+	"short_desc": null,
+	"slug": "houston-tx-po-box-70949",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/houston-tx-po-box-70949",
+	"address": {
+		"id": 2323,
+		"address_1": "PO Box 70949",
+		"address_2": null,
+		"city": "Houston",
+		"state_province": "TX",
+		"postal_code": "77270"
+	},
+	"organization": {
+		"id": 5424,
+		"accreditations": [],
+		"alternate_name": "SAA",
+		"date_incorporated": null,
+		"description": "The International Service Organization (ISO) of Sex Addicts Anonymous (SAA), Inc. offers referrals to 12-step recovery meetings for people who have a desire to recover from sexually compulsive or addictive behavior. Meetings are located all over the world with the majority being in North America. Meetings are held seven days a week at all times of the day. Meeting formats include face-to-face, telephone, and web-based options. The ISO does NOT offer telephone counseling nor is it a u0022hotline.u0022 Interested parties will be referred to a meeting in his/her area or a telephone/web-based meeting for assistance.\r\n\r\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SEX ADDICTS ANONYMOUS, INC.",
+		"website": "http://www.saa-recovery.org",
+		"slug": "sex-addicts-anonymous-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/sex-addicts-anonymous-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/sex-addicts-anonymous-inc/locations"
+	},
+	"phones": [{
+		"id": 5424,
+		"department": null,
+		"extension": null,
+		"number": "800-477-8191",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

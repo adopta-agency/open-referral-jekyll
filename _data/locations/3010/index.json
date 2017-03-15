@@ -1,0 +1,48 @@
+{
+	"id": 3010,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3075484,
+	25.9090727],
+	"description": "See listed services",
+	"latitude": 25.9090727,
+	"longitude": -80.3075484,
+	"name": "Hialeah, FL",
+	"short_desc": null,
+	"slug": "hialeah-fl-6625-miami-lakes-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/hialeah-fl-6625-miami-lakes-drive",
+	"address": {
+		"id": 1520,
+		"address_1": "6625 Miami Lakes Drive",
+		"address_2": "Suite 328",
+		"city": "Hialeah",
+		"state_province": "FL",
+		"postal_code": "33014"
+	},
+	"organization": {
+		"id": 3010,
+		"accreditations": [],
+		"alternate_name": "COMPREHENSIVE ASSESSMENT CENTER",
+		"date_incorporated": null,
+		"description": "Our professional team is compromised of bilingual licensed clinicians specialized in the areas of clinical and child psychology, assessment, and career counseling. Services include: adoption evaluations, disability evaluations, immigration evaluations, neuropsychological evaluations, bariatric evaluations, post operative evaluations, anxiety, depression, phobias, sexual abuse, ADHD, Relationship issues, learning disabilities, child & adolescent psychology, anger management, trauma, panic disorders, and weight management post operative support.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "TANIA DIAZ, PSY.D. & ASSOCIATES",
+		"website": "http://www.drtaniadiaz.com",
+		"slug": "tania-diaz-psy-d-associates",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/tania-diaz-psy-d-associates",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/tania-diaz-psy-d-associates/locations"
+	},
+	"phones": [{
+		"id": 3010,
+		"department": null,
+		"extension": null,
+		"number": "305-779-8565",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

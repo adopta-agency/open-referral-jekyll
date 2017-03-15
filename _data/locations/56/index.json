@@ -1,0 +1,48 @@
+{
+	"id": 56,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-74.0059883,
+	40.7047178],
+	"description": "See listed services",
+	"latitude": 40.7047178,
+	"longitude": -74.0059883,
+	"name": "New York, NY",
+	"short_desc": null,
+	"slug": "new-york-ny",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/new-york-ny",
+	"address": {
+		"id": 26,
+		"address_1": "120 Wall Street",
+		"address_2": "16th Floor",
+		"city": "New York",
+		"state_province": "NY",
+		"postal_code": "10005"
+	},
+	"organization": {
+		"id": 56,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Children's Tumor Foundation is dedicated to improving the health and well-being of individuals and families affected by neurofibromatosis (NF), the term for three distinct disorders: NF1, NF2 and schwannomatosis.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CHILDREN'S TUMOR FOUNDATION, INC.",
+		"website": "http://www.ctf.org",
+		"slug": "children-s-tumor-foundation-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/children-s-tumor-foundation-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/children-s-tumor-foundation-inc/locations"
+	},
+	"phones": [{
+		"id": 56,
+		"department": null,
+		"extension": null,
+		"number": "212-344-6633",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

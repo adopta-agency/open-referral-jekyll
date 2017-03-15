@@ -1,0 +1,48 @@
+{
+	"id": 8021,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.490233,
+	25.4480739],
+	"description": "See listed services",
+	"latitude": 25.4480739,
+	"longitude": -80.490233,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-824-west-palm-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/homestead-fl-824-west-palm-drive",
+	"address": {
+		"id": 3933,
+		"address_1": "824 West Palm Drive",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33034"
+	},
+	"organization": {
+		"id": 8021,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "We are offering a six week Summer School Program that includes breakfast, lunch and limited bus transportation.\n\nBegins: June 13 - July 22, 2016",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SHEPHERD OF GOD CHRISTIAN ACADEMY",
+		"website": "http://www.SOGCA.net",
+		"slug": "shepherd-of-god-christian-academy",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/shepherd-of-god-christian-academy",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/shepherd-of-god-christian-academy/locations"
+	},
+	"phones": [{
+		"id": 8021,
+		"department": null,
+		"extension": null,
+		"number": "786-306-9530",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

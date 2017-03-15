@@ -1,0 +1,48 @@
+{
+	"id": 3213,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-122,
+	38],
+	"description": "See listed services",
+	"latitude": 38,
+	"longitude": -122,
+	"name": "San Francisco, CA",
+	"short_desc": null,
+	"slug": "san-francisco-ca-fb664ef3-5726-4059-a2d0-dc6eaa15491b",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/san-francisco-ca-fb664ef3-5726-4059-a2d0-dc6eaa15491b",
+	"address": {
+		"id": 1584,
+		"address_1": "2261 Market Street",
+		"address_2": "PMB 296",
+		"city": "San Francisco",
+		"state_province": "CA",
+		"postal_code": "94114"
+	},
+	"organization": {
+		"id": 3212,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Gay & Lesbian National Hotline is a non-profit, tax-exempt organization dedicated to meeting the needs of the lesbian, gay, bisexual, transgender and questioning community by offering free and totally confidential information, referrals and peer-counseling. Callers speak directly to a trained volunteer who is able to access a national database of referrals specific to the LGBTQ community.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GLBT NATIONAL HELP CENTER, INC.",
+		"website": "http://www.glnh.org",
+		"slug": "glbt-national-help-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/glbt-national-help-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/glbt-national-help-center-inc/locations"
+	},
+	"phones": [{
+		"id": 3213,
+		"department": null,
+		"extension": null,
+		"number": "888-843-4564",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

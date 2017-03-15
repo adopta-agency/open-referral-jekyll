@@ -1,0 +1,48 @@
+{
+	"id": 1614,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-848d9d01-55d7-4fe1-9af2-aef496af3e39",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-848d9d01-55d7-4fe1-9af2-aef496af3e39",
+	"address": {
+		"id": 843,
+		"address_1": "735 NE 125th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33161"
+	},
+	"organization": {
+		"id": 1610,
+		"accreditations": [],
+		"alternate_name": "JCS",
+		"date_incorporated": null,
+		"description": "As the largest non-profit [501(c)(3)] Jewish social service agency in South Florida, JCS provides critical help in the community, such as care management for frail seniors; counseling for individual, children and families; and employment skills for developmentally disabled adults. Each year, more than 25,000 people of all ages, religions, culturally sensitive populations and ethnicities benefit from our information and referrals, diverse support initiatives and healthcare-related programs.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "JEWISH COMMUNITY SERVICES OF SOUTH FLORIDA, INC.",
+		"website": "http://www.jcsfl.org",
+		"slug": "jewish-community-services-of-south-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/jewish-community-services-of-south-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/jewish-community-services-of-south-florida-inc/locations"
+	},
+	"phones": [{
+		"id": 1614,
+		"department": null,
+		"extension": null,
+		"number": "305-576-6550",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

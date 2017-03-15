@@ -1,0 +1,48 @@
+{
+	"id": 2819,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1362849,
+	25.7928544],
+	"description": "See listed services",
+	"latitude": 25.7928544,
+	"longitude": -80.1362849,
+	"name": "Miami Beach, FL",
+	"short_desc": null,
+	"slug": "miami-beach-fl-1755-meridian-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-beach-fl-1755-meridian-avenue",
+	"address": {
+		"id": 1383,
+		"address_1": "1755 Meridian Avenue",
+		"address_2": null,
+		"city": "Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33139"
+	},
+	"organization": {
+		"id": 2818,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The city of Miami Beach, in Miami-Dade County.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CITY OF MIAMI BEACH",
+		"website": "http://www.miamibeachfl.gov",
+		"slug": "city-of-miami-beach",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-miami-beach",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-miami-beach/locations"
+	},
+	"phones": [{
+		"id": 2819,
+		"department": null,
+		"extension": "6116.0",
+		"number": "305-673-7400",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

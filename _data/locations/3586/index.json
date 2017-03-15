@@ -1,0 +1,48 @@
+{
+	"id": 3586,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.240128,
+	26.0788141],
+	"description": "See listed services",
+	"latitude": 26.0788141,
+	"longitude": -80.240128,
+	"name": "Fort Lauderdale, FL",
+	"short_desc": null,
+	"slug": "fort-lauderdale-fl-3301-college-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/fort-lauderdale-fl-3301-college-avenue",
+	"address": {
+		"id": 1750,
+		"address_1": "3301 College Avenue",
+		"address_2": null,
+		"city": "Fort Lauderdale",
+		"state_province": "FL",
+		"postal_code": "33314-7796"
+	},
+	"organization": {
+		"id": 3586,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Located on a 300-acre campus in Fort Lauderdale, NSU has more than 25,000 students and is the largest independent institution of higher education in Florida. Nova Southeastern University is the largest independent institution of higher education in the Southeast, and it is the 7th largest independent institution nationally. NSU awards associate's, bachelor's, master's, educational specialist, doctoral, and first-professional degrees in a wide range of fields. The university is comprised of undergraduate, graduate and professional schools of osteopathic medicine, pharmacy, optometry, allied health and nursing, medical sciences, dental medicine, law, marine biology and oceanography, business and entrepreneurship, computer and information sciences, humanities, conflict resolution, family therapy, interdisciplinary studies, education, psychology and counseling, and family programs.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NOVA SOUTHEASTERN UNIVERSITY, INC.",
+		"website": "http://www.nova.edu",
+		"slug": "nova-southeastern-university-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/nova-southeastern-university-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/nova-southeastern-university-inc/locations"
+	},
+	"phones": [{
+		"id": 3586,
+		"department": null,
+		"extension": null,
+		"number": "954-262-8350",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 7642,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7988727,
+	24.5514791],
+	"description": "See listed services",
+	"latitude": 24.5514791,
+	"longitude": -81.7988727,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-6f263070-785f-46cb-be98-8c98cfa595c5",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/key-west-fl-6f263070-785f-46cb-be98-8c98cfa595c5",
+	"address": {
+		"id": 3598,
+		"address_1": "513 Truman Avenue",
+		"address_2": null,
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 7642,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Key West Gay and Lesbian Community Center is more than a building, more than a collection of history, programs and people. As an organization, the Key West Gay & Lesbian Community Center is a symbol that represents a belief in civil rights, freedom of expression, and the tenant that All People Are Created Equal Member of One Human Family. These are fundamental Key West values, fundamental US American values, and, we believe, fundamental human values. As a community center, the Key West Gay and Lesbian Community Center provides social services, public policy, educational and cultural/recreational programs. We also serve as a facility for community groups to meet.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GLCC KEY WEST, INC.",
+		"website": "http://lgbtcenter.com/",
+		"slug": "glcc-key-west-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/glcc-key-west-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/glcc-key-west-inc/locations"
+	},
+	"phones": [{
+		"id": 7642,
+		"department": null,
+		"extension": null,
+		"number": "305-292-3223",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

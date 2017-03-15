@@ -1,0 +1,41 @@
+{
+	"id": 7125,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77.0841937,
+	38.9577581],
+	"description": "See listed services",
+	"latitude": 38.9577581,
+	"longitude": -77.0841937,
+	"name": "Washington, DC",
+	"short_desc": null,
+	"slug": "washington-dc-5221-wisconsin-avenue-nw",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/washington-dc-5221-wisconsin-avenue-nw",
+	"address": {
+		"id": 3185,
+		"address_1": "5221 Wisconsin Avenue NW",
+		"address_2": null,
+		"city": "Washington",
+		"state_province": "DC",
+		"postal_code": "20015"
+	},
+	"organization": {
+		"id": 7125,
+		"accreditations": [],
+		"alternate_name": "IASP",
+		"date_incorporated": null,
+		"description": "The IASP maintains a list of international suicide crisis centers.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "INTERNATIONAL ASSOCIATION FOR SUICIDE PREVENTION",
+		"website": "http://www.iasp.info/resources/Crisis_Centres/",
+		"slug": "international-association-for-suicide-prevention",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/international-association-for-suicide-prevention",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/international-association-for-suicide-prevention/locations"
+	},
+	"phones": []
+}

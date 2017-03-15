@@ -1,0 +1,48 @@
+{
+	"id": 904,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-4560-nw-4th-terrace",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-4560-nw-4th-terrace",
+	"address": {
+		"id": 464,
+		"address_1": "4560 NW 4th Terrace",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33126"
+	},
+	"organization": {
+		"id": 901,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Maintains over 120 parks and recreational facilities including ten pools, five pre-schools and day care centers, two golf courses, a beach and a cemetery. Offers activities at no or low cost, and special recreation programs for people with disabilities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CITY OF MIAMI PARKS AND RECREATION DEPARTMENT",
+		"website": "http://www.miamigov.com/parks/",
+		"slug": "city-of-miami-parks-and-recreation-department",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-miami-parks-and-recreation-department",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-miami-parks-and-recreation-department/locations"
+	},
+	"phones": [{
+		"id": 904,
+		"department": null,
+		"extension": "2.0",
+		"number": "305-960-4960",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 7541,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2075791,
+	25.9570648],
+	"description": "See listed services",
+	"latitude": 25.9570648,
+	"longitude": -80.2075791,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-285-nw-199th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-285-nw-199th-street",
+	"address": {
+		"id": 3507,
+		"address_1": "285 NW 199th Street",
+		"address_2": "Suite 102",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33169"
+	},
+	"organization": {
+		"id": 7541,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Good Shepherd Academy offers a nursery, childcare, preschool, after school, and summer camp programs for children.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GOOD SHEPHERD ACADEMY, INC.",
+		"website": "http://goodshepherdacademy.net/",
+		"slug": "good-shepherd-academy-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/good-shepherd-academy-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/good-shepherd-academy-inc/locations"
+	},
+	"phones": [{
+		"id": 7541,
+		"department": null,
+		"extension": null,
+		"number": "305-654-2825",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

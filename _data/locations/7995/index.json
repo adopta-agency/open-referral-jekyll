@@ -1,0 +1,48 @@
+{
+	"id": 7995,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7657785,
+	26.127873],
+	"description": "See listed services",
+	"latitude": 26.127873,
+	"longitude": -81.7657785,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-3295-tamiami-trail-east",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-3295-tamiami-trail-east",
+	"address": {
+		"id": 3907,
+		"address_1": "3295 Tamiami Trail East",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34112"
+	},
+	"organization": {
+		"id": 7995,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides all information related to Collier County Elections. This includes how to become a registered voter, help finding your local precinct, information on how to volunteer to work at the polls and how to vote by mail.\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COLLIER COUNTY ELECTIONS DEPARTMENT",
+		"website": "http://www.colliervotes.com/",
+		"slug": "collier-county-elections-department",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-county-elections-department",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-county-elections-department/locations"
+	},
+	"phones": [{
+		"id": 7995,
+		"department": null,
+		"extension": null,
+		"number": "239-252-8683",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

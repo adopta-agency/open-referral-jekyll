@@ -1,0 +1,48 @@
+{
+	"id": 7290,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1108754,
+	26.2067802],
+	"description": "See listed services",
+	"latitude": 26.2067802,
+	"longitude": -80.1108754,
+	"name": "Fort Lauderdale, FL",
+	"short_desc": null,
+	"slug": "fort-lauderdale-fl-6401-n-federal-highway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/fort-lauderdale-fl-6401-n-federal-highway",
+	"address": {
+		"id": 3302,
+		"address_1": "6401 N Federal Highway",
+		"address_2": null,
+		"city": "Fort Lauderdale",
+		"state_province": "FL",
+		"postal_code": "33308"
+	},
+	"organization": {
+		"id": 639,
+		"accreditations": [],
+		"alternate_name": "FISP",
+		"date_incorporated": null,
+		"description": "This agency works to prevent suicide through education, programing, support and advocacy. FISP offers support groups for survivors of suicide in Miami-Dade and Broward counties. FISP provides problem-solving and life skills programs to teens, seniors, and college students. Approved by Suicide Prevention Gatekeeper; trainings are presented to middle and high school students, civic organizations, law enforcement groups, Guardian-Ad-Litems, foster parents and staffs of corporations.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA INITIATIVE FOR SUICIDE PREVENTION, INC.",
+		"website": "http://www.fisponline.org",
+		"slug": "florida-initiative-for-suicide-prevention-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-initiative-for-suicide-prevention-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-initiative-for-suicide-prevention-inc/locations"
+	},
+	"phones": [{
+		"id": 7290,
+		"department": null,
+		"extension": null,
+		"number": "954-384-0344",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

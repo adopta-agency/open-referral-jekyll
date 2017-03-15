@@ -1,0 +1,48 @@
+{
+	"id": 8025,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1228886,
+	25.8573424],
+	"description": "See listed services",
+	"latitude": 25.8573424,
+	"longitude": -80.1228886,
+	"name": "Miami Beach, FL",
+	"short_desc": null,
+	"slug": "miami-beach-fl-89d8db5b-e6cd-4516-bfd1-803a17b3894e",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-beach-fl-89d8db5b-e6cd-4516-bfd1-803a17b3894e",
+	"address": {
+		"id": 3937,
+		"address_1": "501 72nd Street",
+		"address_2": null,
+		"city": "Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33141"
+	},
+	"organization": {
+		"id": 7425,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Offers ongoing sports training programs to those who desire afternoon, evening and/or weekend hours. There is no cost to participate. Participants must register with Special Olympics or must be currently registered.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SPECIAL OLYMPICS FLORIDA - MD-C - COMMUNITY SPORTS TRAINING PROGRAMS",
+		"website": "http://specialolympicsflorida.org/miami-dade/",
+		"slug": "special-olympics-florida-md-c-community-sports-training-programs",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/special-olympics-florida-md-c-community-sports-training-programs",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/special-olympics-florida-md-c-community-sports-training-programs/locations"
+	},
+	"phones": [{
+		"id": 8025,
+		"department": null,
+		"extension": null,
+		"number": "305-406-9467",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

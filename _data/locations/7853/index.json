@@ -1,0 +1,41 @@
+{
+	"id": 7853,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7703267,
+	26.1632283],
+	"description": "See listed services",
+	"latitude": 26.1632283,
+	"longitude": -81.7703267,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-f5511c36-267a-4da6-9880-9256cd2cf126",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-f5511c36-267a-4da6-9880-9256cd2cf126",
+	"address": {
+		"id": 3777,
+		"address_1": "3050 North Horseshoe Drive",
+		"address_2": "Unit 231",
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34104"
+	},
+	"organization": {
+		"id": 5304,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Early Learning Coalition of Southwest Florida serves the families of Collier, Glades Hendry and Lee Counties. It is our goal to make certain that children ages birth to five and beyond, have access to high quality early education experiences to cultivate their natural enthusiasm for learning. \r\n\r\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "EARLY LEARNING COALITION OF SOUTHWEST FLORIDA, INC.",
+		"website": "http://www.elcofswfl.org",
+		"slug": "early-learning-coalition-of-southwest-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/early-learning-coalition-of-southwest-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/early-learning-coalition-of-southwest-florida-inc/locations"
+	},
+	"phones": []
+}

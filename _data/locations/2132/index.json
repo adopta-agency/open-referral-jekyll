@@ -1,0 +1,48 @@
+{
+	"id": 2132,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-a76f7fbd-1a78-427b-915c-4c5c32f5bdbf",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-a76f7fbd-1a78-427b-915c-4c5c32f5bdbf",
+	"address": {
+		"id": 1074,
+		"address_1": "10190 SW 168th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 2131,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides early childhood education to children 2-5 years old and tutoring to children 3-12 years old in the South Miami area. Provides early childhood readiness for children entering K5 in public schools. Services include free tutoring, free music education and behavior modification strategies.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NEW TESTAMENT CHURCH OF GOD - LITTLE ANGELS ACADEMY",
+		"website": "http://www.littleangelsacd.com",
+		"slug": "new-testament-church-of-god-little-angels-academy",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/new-testament-church-of-god-little-angels-academy",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/new-testament-church-of-god-little-angels-academy/locations"
+	},
+	"phones": [{
+		"id": 2132,
+		"department": null,
+		"extension": null,
+		"number": "786-573-0061",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

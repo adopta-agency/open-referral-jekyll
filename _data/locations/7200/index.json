@@ -1,0 +1,48 @@
+{
+	"id": 7200,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-74,
+	41],
+	"description": "See listed services",
+	"latitude": 41,
+	"longitude": -74,
+	"name": "New York, NY",
+	"short_desc": null,
+	"slug": "new-york-ny-114-west-41st-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/new-york-ny-114-west-41st-street",
+	"address": {
+		"id": 3232,
+		"address_1": "114 West 41st Street",
+		"address_2": "19th Floor",
+		"city": "New York",
+		"state_province": "NY",
+		"postal_code": "10036"
+	},
+	"organization": {
+		"id": 7200,
+		"accreditations": [],
+		"alternate_name": "IAVA",
+		"date_incorporated": null,
+		"description": "Iraq and Afghanistan Veterans of America (IAVA) is for new veterans and their families, with nearly 300,000 members and supporters nationwide. IAVA is a veteran's organization dedicated to standing with the 2.8 million veterans of Iraq and Afghanistan from their first day home through the rest of their lives.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "IRAQ AND AFGHANISTAN VETERANS OF AMERICA",
+		"website": "http://www.iava.org",
+		"slug": "iraq-and-afghanistan-veterans-of-america",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/iraq-and-afghanistan-veterans-of-america",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/iraq-and-afghanistan-veterans-of-america/locations"
+	},
+	"phones": [{
+		"id": 7200,
+		"department": null,
+		"extension": null,
+		"number": "212-982-9699",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

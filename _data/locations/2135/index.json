@@ -1,0 +1,48 @@
+{
+	"id": 2135,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1052963,
+	26.8894852],
+	"description": "See listed services",
+	"latitude": 26.8894852,
+	"longitude": -80.1052963,
+	"name": "Jupiter, FL",
+	"short_desc": null,
+	"slug": "jupiter-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/jupiter-fl",
+	"address": {
+		"id": 1076,
+		"address_1": "601 Heritage Drive",
+		"address_2": "Suite 421",
+		"city": "Jupiter",
+		"state_province": "FL",
+		"postal_code": "33458"
+	},
+	"organization": {
+		"id": 2135,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "An educational foundation dedicated to making the world safe for at-risk children and teens by providing information and training on social and environmental issues to youngsters. Material provided by this foundation will educate elementary, middle and high school students about safety issues, including guns, drugs, strangers, parenting skills and anger and conflict resolution.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ARISE FOUNDATION, INC.",
+		"website": "http://www.ariselife-skills.org",
+		"slug": "arise-foundation-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/arise-foundation-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/arise-foundation-inc/locations"
+	},
+	"phones": [{
+		"id": 2135,
+		"department": null,
+		"extension": null,
+		"number": "888-680-6100",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

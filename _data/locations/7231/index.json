@@ -1,0 +1,48 @@
+{
+	"id": 7231,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-6261-coral-lake-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-6261-coral-lake-drive",
+	"address": {
+		"id": 3253,
+		"address_1": "6261 Coral Lake Drive",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33155"
+	},
+	"organization": {
+		"id": 7231,
+		"accreditations": [],
+		"alternate_name": "Nature Links",
+		"date_incorporated": null,
+		"description": "The prime mission of Nature Links is to serve young adults with intellectual disabilities (18 to 30 years old) who are able to engage in job training, volunteer activities, and gain independent life skills. By facilitating exposure to the natural world (through organic gardening, culinary, marine and weather studies, local cultural life, and other elements), by learning travel training and web/videography skills, and by enhancing social skills, our population can help become important local story tellers and programmers, empowering them as model stewards in sensitizing the broader population to simpler, healthier forms of community wellness.\n\nUrban Explorers:\nHeld at the Frost Museum of Science where students learn about the culture, history and environment of Miami. Program occurs on Mondays, Wednesdays, Fridays.\n\nCulinary Foundation:\nHeld at the Coral Gables Congregational Church students learn culinary skills with a chef. These skills will allow them to obtain the Food Handles Certification that will help them in any future employment opportunities. The food that students prepare is served to about 100 people on Wednesday nights at the church. Program occurs on Tuesdays and Thursdays.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NATURE LINKS FOR LIFELONG LEARNING",
+		"website": "http://www.naturelinks.net",
+		"slug": "nature-links-for-lifelong-learning",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/nature-links-for-lifelong-learning",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/nature-links-for-lifelong-learning/locations"
+	},
+	"phones": [{
+		"id": 7231,
+		"department": null,
+		"extension": null,
+		"number": "786-505-4657",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

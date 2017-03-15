@@ -1,0 +1,48 @@
+{
+	"id": 3835,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Hialeah, FL",
+	"short_desc": null,
+	"slug": "hialeah-fl-4225-west-20th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/hialeah-fl-4225-west-20th-avenue",
+	"address": {
+		"id": 1821,
+		"address_1": "4225 West 20th Avenue",
+		"address_2": null,
+		"city": "Hialeah",
+		"state_province": "FL",
+		"postal_code": "33012"
+	},
+	"organization": {
+		"id": 3835,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "This is a 72-bed free standing psychiatric hospital. The hospital is comprised of three adult inpatient units and offers a separate 18 bed unit for adolescents requiring short-term, acute care for psychiatric disorders. The treatment team of psychiatrists, psychologists, medical specialists, addiction counselors, psychiatric social workers, nurses, counselors and educational specialists provide a full range of services.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SOUTHERN WINDS HOSPITAL",
+		"website": "http://westchestergeneralhospital.com/southern-winds-hospital/",
+		"slug": "southern-winds-hospital",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/southern-winds-hospital",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/southern-winds-hospital/locations"
+	},
+	"phones": [{
+		"id": 3835,
+		"department": null,
+		"extension": null,
+		"number": "305-558-9700",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

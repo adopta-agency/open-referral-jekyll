@@ -1,0 +1,48 @@
+{
+	"id": 6992,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -82,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-52045b89-7c0c-463c-a885-df2931fe7170",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/key-west-fl-52045b89-7c0c-463c-a885-df2931fe7170",
+	"address": {
+		"id": 3093,
+		"address_1": "1100 Simonton Street",
+		"address_2": null,
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 3480,
+		"accreditations": [],
+		"alternate_name": "MONROE COUNTY HEALTH DEPARTMENT, FL DOH MONROE COUNTY",
+		"date_incorporated": null,
+		"description": "The Florida Department of Health in Monroe County oversees public health, immunization, vital statistics, and other activities for Monroe County, Florida.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA DEPARTMENT OF HEALTH IN MONROE COUNTY",
+		"website": "http://monroe.floridahealth.gov/",
+		"slug": "florida-department-of-health-in-monroe-county",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-department-of-health-in-monroe-county",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-department-of-health-in-monroe-county/locations"
+	},
+	"phones": [{
+		"id": 6992,
+		"department": null,
+		"extension": null,
+		"number": "305-293-7500",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

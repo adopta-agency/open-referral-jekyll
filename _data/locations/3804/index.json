@@ -1,0 +1,47 @@
+{
+	"id": 3804,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [],
+	"description": "See listed services",
+	"latitude": null,
+	"longitude": null,
+	"name": "Washington, DC",
+	"short_desc": null,
+	"slug": "washington-dc-u-s-department-of-homeland-security",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/washington-dc-u-s-department-of-homeland-security",
+	"address": {
+		"id": 1800,
+		"address_1": "U.S. Department of Homeland Security",
+		"address_2": null,
+		"city": "Washington",
+		"state_province": "DC",
+		"postal_code": "20528"
+	},
+	"organization": {
+		"id": 3804,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Department of Homeland Security has a vital mission: to secure the nation from the many threats we face. This requires the dedication of more than 240,000 employees in jobs that range from aviation and border security to emergency response, from cyber security analyst to chemical facility inspector. The goal is to keep America safe.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "U.S. DEPARTMENT OF HOMELAND SECURITY",
+		"website": "http://www.dhs.gov/",
+		"slug": "u-s-department-of-homeland-security",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-department-of-homeland-security",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-department-of-homeland-security/locations"
+	},
+	"phones": [{
+		"id": 3804,
+		"department": null,
+		"extension": null,
+		"number": "202-282-8000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

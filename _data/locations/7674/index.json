@@ -1,0 +1,48 @@
+{
+	"id": 7674,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3374936,
+	25.7685487],
+	"description": "See listed services",
+	"latitude": 25.7685487,
+	"longitude": -80.3374936,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-0a1752f7-5031-4d02-a2fe-cdd01743e1ef",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-0a1752f7-5031-4d02-a2fe-cdd01743e1ef",
+	"address": {
+		"id": 3623,
+		"address_1": "8700 West Flagler Street",
+		"address_2": "Suite 300",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33174"
+	},
+	"organization": {
+		"id": 7674,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "First Quality Home Care is a lead agency in partnership with the Alliance for Aging, Department of Children and Families, and the Department for Elder Affairs in home Skilled Nursing, Physical Therapy, Occupational Therapy, Personal Care, Homemaker, Respite, Chores, Companion, Escort, Meal Preparation and Home Delivered Meals. Direct Case Management for LTC through American Elder Care provided as well. In addition offers the LSP Manuel Piniero Diabetic program that offers a Nurse for insulin administration to those patients who are unable to administer the insulin themselves or have no family members to administer regardless of insurance status. \n\nServices through: Medicare, Medicaid, Long term Care, MMA, Medicaid/Long Term care, Community care for Elderly (CCE), Older Americans Act (OAA), Home care for the Elderly (HCE), Adult Persons with Disabilities (APD), Brain & Spinal cord injury Medicaid waiver, Private Pay",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FIRST QUALITY HOME CARE, INC.",
+		"website": "http://www.firstqualityhomecare.com",
+		"slug": "first-quality-home-care-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/first-quality-home-care-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/first-quality-home-care-inc/locations"
+	},
+	"phones": [{
+		"id": 7674,
+		"department": null,
+		"extension": null,
+		"number": "305-223-0150",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

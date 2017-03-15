@@ -1,0 +1,48 @@
+{
+	"id": 559,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.718958,
+	26.194731],
+	"description": "See listed services",
+	"latitude": 26.194731,
+	"longitude": -81.718958,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-1800-santa-barbara-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-1800-santa-barbara-boulevard",
+	"address": {
+		"id": 290,
+		"address_1": "1800 Santa Barbara Boulevard",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34116"
+	},
+	"organization": {
+		"id": 559,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Care Club of Collier County provides adult day care services for adults suffering from Alzheimer's Disease or other memory disorders. Care Club also provides respite care during the day for twenty-four hour caregivers.\r\n\r\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CARE CLUB OF COLLIER COUNTY, INC.",
+		"website": "http://www.colliercareclub.org",
+		"slug": "care-club-of-collier-county-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/care-club-of-collier-county-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/care-club-of-collier-county-inc/locations"
+	},
+	"phones": [{
+		"id": 559,
+		"department": null,
+		"extension": null,
+		"number": "239-353-1994",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

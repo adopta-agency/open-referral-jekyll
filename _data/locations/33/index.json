@@ -1,0 +1,48 @@
+{
+	"id": 33,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1265-nw-12th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-1265-nw-12th-avenue",
+	"address": {
+		"id": 11,
+		"address_1": "1265 NW 12th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 30,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Responsible for initiating charges and prosecuting individuals who have been accused of felony and misdemeanor offenses. Enforces child support orders and investigates allegations of major fraud, organized criminal activity, corruption and unlawful conduct by public officials.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI-DADE OFFICE OF THE STATE ATTORNEY",
+		"website": "http://www.miamisao.com",
+		"slug": "miami-dade-office-of-the-state-attorney",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-office-of-the-state-attorney",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-office-of-the-state-attorney/locations"
+	},
+	"phones": [{
+		"id": 33,
+		"department": null,
+		"extension": null,
+		"number": "305-547-0115",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

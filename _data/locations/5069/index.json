@@ -1,0 +1,48 @@
+{
+	"id": 5069,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -82,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-063d90d3-a9b7-4d27-9593-b0ef0193dd43",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-063d90d3-a9b7-4d27-9593-b0ef0193dd43",
+	"address": {
+		"id": 2128,
+		"address_1": "2001 Airport Road",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34112"
+	},
+	"organization": {
+		"id": 5065,
+		"accreditations": [],
+		"alternate_name": "ST. MATTHEW'S HOUSE",
+		"date_incorporated": null,
+		"description": "St. Matthew's House and Immokalee Friendship House offer emergency transitional housing with a mandatory recovery program (170 beds), Justin's Place substance-abuse recovery program, Wolfe Apartments affordable transitional apartment complex with two-year mandatory program, feeding ministry at Justin's Place building, two food pantries, three thrift stores, Direct Assistance program for the community in need, SMH Catering (full-service catering company as social enterprise and part of resident recovery).\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SAINT MATTHEW'S HOUSE, INC.",
+		"website": "http://www.stmatthewshouse.org",
+		"slug": "saint-matthew-s-house-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/saint-matthew-s-house-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/saint-matthew-s-house-inc/locations"
+	},
+	"phones": [{
+		"id": 5069,
+		"department": null,
+		"extension": "124.0",
+		"number": "239-774-0500",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

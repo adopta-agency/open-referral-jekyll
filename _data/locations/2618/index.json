@@ -1,0 +1,48 @@
+{
+	"id": 2618,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1855-nw-71st-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-1855-nw-71st-street",
+	"address": {
+		"id": 1300,
+		"address_1": "1855 NW 71st Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33147"
+	},
+	"organization": {
+		"id": 2617,
+		"accreditations": [],
+		"alternate_name": "MCM",
+		"date_incorporated": null,
+		"description": "The 56,500 square-foot facility includes 12 galleries, classrooms, parent/teacher resource center, Kid Smart educational gift shop, 200-seat auditorium and Subway restaurant. The museum offers hundreds of bilingual, interactive exhibits; programs and classes and learning materials related to arts, culture, community and communication.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI CHILDREN'S MUSEUM, INC.",
+		"website": "http://www.miamichildrensmuseum.org",
+		"slug": "miami-children-s-museum-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-children-s-museum-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-children-s-museum-inc/locations"
+	},
+	"phones": [{
+		"id": 2618,
+		"department": null,
+		"extension": "141.0",
+		"number": "305-373-5437",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

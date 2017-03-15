@@ -1,0 +1,48 @@
+{
+	"id": 631,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -80,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-107-sw-8th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/homestead-fl-107-sw-8th-street",
+	"address": {
+		"id": 324,
+		"address_1": "107 SW 8th Street",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33030"
+	},
+	"organization": {
+		"id": 628,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Le Jardin Community Center, Inc. is a nonprofit agency founded in 1986. Le Jardin has over 28 years of experience in providing childcare services to the southern regions of Miami-Dade County. When the agency began, we only served 20 children, currently we serve over 600 children annually from birth to five years of age. In addition to providing exceptional care to the children, we provide comprehensive services to the parents, such as case management, parental training, health services, and nutritional training. Our family workers assist the families by making referrals to educational, vocational, employment, housing, medical, dental and transportation providers. Le Jardin Community Center, Inc. also provides supplemental services to promote and support family and child health, and special education services to children with IEP/IFSPGu00c7u00d6s.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LE JARDIN COMMUNITY CENTER, INC.",
+		"website": "http://www.lejardinccinc.org/",
+		"slug": "le-jardin-community-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/le-jardin-community-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/le-jardin-community-center-inc/locations"
+	},
+	"phones": [{
+		"id": 631,
+		"department": null,
+		"extension": null,
+		"number": "305-248-3633",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

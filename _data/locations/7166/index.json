@@ -1,0 +1,48 @@
+{
+	"id": 7166,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1936018,
+	25.8500922],
+	"description": "See listed services",
+	"latitude": 25.8500922,
+	"longitude": -80.1936018,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-983c34d4-5067-4cf3-903f-64869b91f1dc",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-983c34d4-5067-4cf3-903f-64869b91f1dc",
+	"address": {
+		"id": 3212,
+		"address_1": "181 NE 82nd Street",
+		"address_2": "Suite 100",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33138"
+	},
+	"organization": {
+		"id": 7166,
+		"accreditations": [],
+		"alternate_name": "NE2P",
+		"date_incorporated": null,
+		"description": "The NE 2nd Avenue Partnership (NE2P) is a community initiated and collaborative effort composed of diverse stakeholders interested in a comprehensive revitalization of the key commercial corridors of NE 2nd Avenue and 54th Street in the Gu00c7u00a3Downtown Little HaitiGu00c7u00a5 of Miami, FL. NE2P is committed to creating and sustaining a vibrant commercial center in Little Haiti which increases economic opportunities and forges an indelible cultural identity for the area.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NORTHEAST SECOND AVENUE PARTNERSHIP, INC.",
+		"website": "http://ne2p.org",
+		"slug": "northeast-second-avenue-partnership-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/northeast-second-avenue-partnership-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/northeast-second-avenue-partnership-inc/locations"
+	},
+	"phones": [{
+		"id": 7166,
+		"department": null,
+		"extension": null,
+		"number": "786-908-3724",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

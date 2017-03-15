@@ -1,0 +1,48 @@
+{
+	"id": 7175,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -80,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-250-east-palm-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/homestead-fl-250-east-palm-drive",
+	"address": {
+		"id": 3217,
+		"address_1": "250 East Palm Drive",
+		"address_2": "Suite 360",
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33034"
+	},
+	"organization": {
+		"id": 7175,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Outside the Ring Champions Foundation supports youth development through the use of sports to improve the lives of children in the South Florida area.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "OUTSIDE THE RINGS CHAMPIONS FOUNDATION",
+		"website": "http://outsidetheringchampions.org",
+		"slug": "outside-the-rings-champions-foundation",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/outside-the-rings-champions-foundation",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/outside-the-rings-champions-foundation/locations"
+	},
+	"phones": [{
+		"id": 7175,
+		"department": null,
+		"extension": null,
+		"number": "786-366-2784",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

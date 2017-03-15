@@ -1,0 +1,48 @@
+{
+	"id": 2936,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Opa Locka, FL",
+	"short_desc": null,
+	"slug": "opa-locka-fl-a558c0f5-328a-4a86-9ffa-bdda20ce2fbf",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/opa-locka-fl-a558c0f5-328a-4a86-9ffa-bdda20ce2fbf",
+	"address": {
+		"id": 1456,
+		"address_1": "2341 NW 143rd Street",
+		"address_2": null,
+		"city": "Opa Locka",
+		"state_province": "FL",
+		"postal_code": "33054"
+	},
+	"organization": {
+		"id": 2935,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides services to the elderly residents of the Opa Locka/North Dade Community; services offered are: u0022KITu0022-u0022Keep In Touchu0022 Program, field trips, Grandparents Raising Grandchildren, counseling & coordination for respite care, social services, health referrals, health prevention & education seminars, and recreational activities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HOLY TEMPLE HUMAN SERVICES CORPORATION, INC.",
+		"website": null,
+		"slug": "holy-temple-human-services-corporation-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/holy-temple-human-services-corporation-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/holy-temple-human-services-corporation-inc/locations"
+	},
+	"phones": [{
+		"id": 2936,
+		"department": null,
+		"extension": null,
+		"number": "305-681-6048",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

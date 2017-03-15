@@ -1,0 +1,48 @@
+{
+	"id": 7108,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-8a7acc84-ee4a-401f-8faf-e606223e0158",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-8a7acc84-ee4a-401f-8faf-e606223e0158",
+	"address": {
+		"id": 3171,
+		"address_1": "3250 SW 3rd Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33129"
+	},
+	"organization": {
+		"id": 3101,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "To ensure that all children between birth and age 5 in Miami-Dade and Monroe Counties have the communities attention, commitment and resources - and, hence, the chance to develop intellectually, emotionally, socially and physically so that they are ready and eager to learn by the time they reach first grade.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "EARLY LEARNING COALITION OF MIAMI-DADE/MONROE, INC.",
+		"website": "http://www.elcmdm.org",
+		"slug": "early-learning-coalition-of-miami-dade-monroe-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/early-learning-coalition-of-miami-dade-monroe-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/early-learning-coalition-of-miami-dade-monroe-inc/locations"
+	},
+	"phones": [{
+		"id": 7108,
+		"department": null,
+		"extension": "2324.0",
+		"number": "305-646-7220",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

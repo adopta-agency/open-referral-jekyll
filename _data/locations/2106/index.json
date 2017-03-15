@@ -1,0 +1,48 @@
+{
+	"id": 2106,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-37272df9-a001-4606-9504-011e10a67011",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-37272df9-a001-4606-9504-011e10a67011",
+	"address": {
+		"id": 1063,
+		"address_1": "3000 Biscayne Boulevard",
+		"address_2": "Suite 400",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33137"
+	},
+	"organization": {
+		"id": 2104,
+		"accreditations": [],
+		"alternate_name": "AI Justice",
+		"date_incorporated": null,
+		"description": "Americans for Immigrant Justice (AI Justice) is a not-for-profit legal assistance organization dedicated to protecting and promoting the basic human rights of immigrants of all nationalities at the local, state and national levels.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AMERICANS FOR IMMIGRANT JUSTICE, INC.",
+		"website": "http://aijustice.org",
+		"slug": "americans-for-immigrant-justice-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/americans-for-immigrant-justice-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/americans-for-immigrant-justice-inc/locations"
+	},
+	"phones": [{
+		"id": 2106,
+		"department": null,
+		"extension": null,
+		"number": "305-573-1106",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

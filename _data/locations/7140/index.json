@@ -1,0 +1,48 @@
+{
+	"id": 7140,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-85,
+	42],
+	"description": "See listed services",
+	"latitude": 42,
+	"longitude": -85,
+	"name": "Eaton Rapids, MI",
+	"short_desc": null,
+	"slug": "eaton-rapids-mi-3573-south-waverly-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/eaton-rapids-mi-3573-south-waverly-road",
+	"address": {
+		"id": 3196,
+		"address_1": "3573 South Waverly Road",
+		"address_2": null,
+		"city": "Eaton Rapids",
+		"state_province": "MI",
+		"postal_code": "48827"
+	},
+	"organization": {
+		"id": 7138,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The VFW National Home for Children serves as a living memorial to America's veterans by helping our nation's veteran and military families. Through their Helpline and their on-campus programs, VFW helps families and children through times of crisis, both on campus and in their own communities nationwide.\n\n###COL###\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "VFW NATIONAL HOME FOR CHILDREN, INC.",
+		"website": "http://vfwnationalhome.org",
+		"slug": "vfw-national-home-for-children-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/vfw-national-home-for-children-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/vfw-national-home-for-children-inc/locations"
+	},
+	"phones": [{
+		"id": 7140,
+		"department": null,
+		"extension": null,
+		"number": "800-313-4200",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 778,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2113557,
+	25.9088827],
+	"description": "See listed services",
+	"latitude": 25.9088827,
+	"longitude": -80.2113557,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-14617-nw-7th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-14617-nw-7th-avenue",
+	"address": {
+		"id": 397,
+		"address_1": "14617 NW 7th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33168"
+	},
+	"organization": {
+		"id": 778,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Agency provides emergency food, clothing and networks with other agencies to help resolve problems.\n\nHelp is given on emergency basis, ONCE EVERY YEAR. If client has received help from them before, they must be in an extreme emergency situation to receive help again; if they receive help a second time, they will only receive a Care Package (bread and pastries).\n\nThanksgiving 2016:\nIf available will be providing turkeys to take home.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "PASS IT ON MINISTRIES - EMERGENCY FOOD PROGRAM",
+		"website": null,
+		"slug": "pass-it-on-ministries-emergency-food-program",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/pass-it-on-ministries-emergency-food-program",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/pass-it-on-ministries-emergency-food-program/locations"
+	},
+	"phones": [{
+		"id": 778,
+		"department": null,
+		"extension": null,
+		"number": "305-681-1594",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

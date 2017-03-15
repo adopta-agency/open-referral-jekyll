@@ -1,0 +1,48 @@
+{
+	"id": 7408,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.138018,
+	25.8520962],
+	"description": "See listed services",
+	"latitude": 25.8520962,
+	"longitude": -80.138018,
+	"name": "Miami Beach, FL",
+	"short_desc": null,
+	"slug": "miami-beach-fl-7030-trouville-esplanade",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-beach-fl-7030-trouville-esplanade",
+	"address": {
+		"id": 3391,
+		"address_1": "7030 Trouville Esplanade",
+		"address_2": null,
+		"city": "Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33141"
+	},
+	"organization": {
+		"id": 935,
+		"accreditations": [],
+		"alternate_name": "CITY OF MIAMI BEACH - PARKS AND REC -",
+		"date_incorporated": null,
+		"description": "Maintains public parks and recreational facilities in the City of Miami Beach. Offers specialized programs to citizens and visitors. Provides activities such as sports, instruction, leisure and hobby classes and cultural events to all age groups. Provides equal access and opportunity to all.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CITY OF MIAMI BEACH - PARKS AND RECREATION DEPARTMENT",
+		"website": "http://www.miamibeachfl.gov",
+		"slug": "city-of-miami-beach-parks-and-recreation-department",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-miami-beach-parks-and-recreation-department",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-miami-beach-parks-and-recreation-department/locations"
+	},
+	"phones": [{
+		"id": 7408,
+		"department": null,
+		"extension": "6820.0",
+		"number": "305-993-2021",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

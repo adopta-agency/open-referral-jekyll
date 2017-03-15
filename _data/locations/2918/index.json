@@ -1,0 +1,48 @@
+{
+	"id": 2918,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Hialeah, FL",
+	"short_desc": null,
+	"slug": "hialeah-fl-6051-w-2nd-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/hialeah-fl-6051-w-2nd-avenue",
+	"address": {
+		"id": 1447,
+		"address_1": "6051 W 2nd Avenue",
+		"address_2": null,
+		"city": "Hialeah",
+		"state_province": "FL",
+		"postal_code": "33012"
+	},
+	"organization": {
+		"id": 2907,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The City of Hialeah is committed to providing the highest quality of life and municipal services for our community and our residents, merchants, businesses, visitors and employees by setting the standard for public service in an All-America City through excellence, integrity and inclusion.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CITY OF HIALEAH",
+		"website": "http://www.hialeahfl.gov",
+		"slug": "city-of-hialeah",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-hialeah",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-hialeah/locations"
+	},
+	"phones": [{
+		"id": 2918,
+		"department": null,
+		"extension": null,
+		"number": "305-818-9143",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

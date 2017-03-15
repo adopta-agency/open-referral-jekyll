@@ -1,0 +1,48 @@
+{
+	"id": 1466,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-84.23562,
+	30.4736315],
+	"description": "See listed services",
+	"latitude": 30.4736315,
+	"longitude": -84.23562,
+	"name": "Tallahassee, FL",
+	"short_desc": null,
+	"slug": "tallahassee-fl-2473-care-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/tallahassee-fl-2473-care-drive",
+	"address": {
+		"id": 765,
+		"address_1": "2473 Care Drive",
+		"address_2": "Suite 200",
+		"city": "Tallahassee",
+		"state_province": "FL",
+		"postal_code": "32308"
+	},
+	"organization": {
+		"id": 1466,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Disability Rights Florida was founded in 1977 as the statewide designated protection and advocacy system for individuals with disabilities in the State of Florida. Disability Rights Florida is a not-for-profit corporation that has authority and responsibility under eight federal grants. Services are free and confidential. Services include:\n\n* Information and referrals\n* Self-advocacy support\n* Technical assistance\n* Investigations into complaints of abuse, neglect and rights violations\n* Dispute resolution support\n* Negotiation and mediation support\n* Advocacy services\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "DISABILITY RIGHTS FLORIDA, INC.",
+		"website": "http://www.disabilityrightsflorida.org",
+		"slug": "disability-rights-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/disability-rights-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/disability-rights-florida-inc/locations"
+	},
+	"phones": [{
+		"id": 1466,
+		"department": null,
+		"extension": null,
+		"number": "800-342-0823",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

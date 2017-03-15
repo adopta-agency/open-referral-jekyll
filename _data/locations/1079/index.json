@@ -1,0 +1,48 @@
+{
+	"id": 1079,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77,
+	39],
+	"description": "See listed services",
+	"latitude": 39,
+	"longitude": -77,
+	"name": "Alexandria, VA",
+	"short_desc": null,
+	"slug": "alexandria-va",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/alexandria-va",
+	"address": {
+		"id": 566,
+		"address_1": "699 Prince Street",
+		"address_2": null,
+		"city": "Alexandria",
+		"state_province": "VA",
+		"postal_code": "22314"
+	},
+	"organization": {
+		"id": 1079,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The National Center for Missing & Exploited Children, (NCMEC), is a private, (501)(c)(3) nonprofit organization which was created in 1984. The mission of the organization is to serve as the nationGu00c7u00d6s resource on the issues of missing and sexually exploited children. The organization operates a 24/7 hotline, disseminates information about missing children programs, services and legislation and provides information and resources to law enforcement, individuals, parents, children including child victims as well as other professionals.\n\nCall or use Cybertipline at: www.missingkids.com to report a missing child, report sighting a child, report child pornography, or to order free publications. Distributes missing children's photographs and descriptions nationwide.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NATIONAL CENTER FOR MISSING AND EXPLOITED CHILDREN",
+		"website": "http://www.missingkids.com",
+		"slug": "national-center-for-missing-and-exploited-children",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/national-center-for-missing-and-exploited-children",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/national-center-for-missing-and-exploited-children/locations"
+	},
+	"phones": [{
+		"id": 1079,
+		"department": null,
+		"extension": null,
+		"number": "800-843-5678",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

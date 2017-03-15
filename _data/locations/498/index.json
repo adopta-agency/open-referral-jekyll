@@ -1,0 +1,48 @@
+{
+	"id": 498,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7916042,
+	26.1492511],
+	"description": "See listed services",
+	"latitude": 26.1492511,
+	"longitude": -81.7916042,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-102-12th-street-north",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-102-12th-street-north",
+	"address": {
+		"id": 251,
+		"address_1": "102 12th Street North",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34102"
+	},
+	"organization": {
+		"id": 498,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The mission of Fun Time is to provide safe, quality, affordable education and care for children of low income working families and to prepare the children for kindergarten ready to read and ready to learn. Fun Time provides a year round education to 2-5 year old children using the Creative Curriculum. All children are screened, assessed, observed and provided an individualized program that meets and exceeds the Florida Performance Standards, Head Start and VPK Standards. Fun Time is a Head Start provider and Voluntary Prekindergarten provider. Free nutritious breakfast, lunch and snack provided. \r\n\r\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FUN TIME EARLY CHILDHOOD ACADEMY INC.",
+		"website": "http://www.funtimeacademy.org",
+		"slug": "fun-time-early-childhood-academy-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/fun-time-early-childhood-academy-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/fun-time-early-childhood-academy-inc/locations"
+	},
+	"phones": [{
+		"id": 498,
+		"department": null,
+		"extension": null,
+		"number": "239-261-8284",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

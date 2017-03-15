@@ -1,0 +1,48 @@
+{
+	"id": 6441,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -82,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-a45c589d-264f-4a01-af35-30baf15e2318",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/key-west-fl-a45c589d-264f-4a01-af35-30baf15e2318",
+	"address": {
+		"id": 2744,
+		"address_1": "1111 12th Street",
+		"address_2": "Suite 304",
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 3359,
+		"accreditations": [],
+		"alternate_name": "DCF SOUTHERN REGION",
+		"date_incorporated": null,
+		"description": "Protect the vulnerable, promote strong and economically self-sufficient families, and advance personal and family recovery and resiliency.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA DEPARTMENT OF CHILDREN AND FAMILIES",
+		"website": "http://www.myflfamilies.com",
+		"slug": "florida-department-of-children-and-families",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-department-of-children-and-families",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-department-of-children-and-families/locations"
+	},
+	"phones": [{
+		"id": 6441,
+		"department": null,
+		"extension": null,
+		"number": "305-292-6820",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

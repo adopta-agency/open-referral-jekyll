@@ -1,0 +1,48 @@
+{
+	"id": 3796,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3440417,
+	25.8070109],
+	"description": "See listed services",
+	"latitude": 25.8070109,
+	"longitude": -80.3440417,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-3511-nw-91st-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-3511-nw-91st-avenue",
+	"address": {
+		"id": 1798,
+		"address_1": "3511 NW 91st Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33172"
+	},
+	"organization": {
+		"id": 3796,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Miami Herald is a source of news, information and innovative marketing solutions in the community. Also publishes articles in Spanish in El Nuevo Herald. Services residents of Miami-Dade, Broward and Monroe counties in South Florida.\r\n\r\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI HERALD",
+		"website": "http://www.miamiherald.com",
+		"slug": "miami-herald",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-herald",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-herald/locations"
+	},
+	"phones": [{
+		"id": 3796,
+		"department": null,
+		"extension": null,
+		"number": "800-843-4372",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

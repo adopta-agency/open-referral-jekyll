@@ -1,0 +1,48 @@
+{
+	"id": 7141,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7146198,
+	26.1384084],
+	"description": "See listed services",
+	"latitude": 26.1384084,
+	"longitude": -81.7146198,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-7610-davis-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-7610-davis-boulevard",
+	"address": {
+		"id": 3197,
+		"address_1": "7610 Davis Boulevard",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34104"
+	},
+	"organization": {
+		"id": 7141,
+		"accreditations": [],
+		"alternate_name": "DAS",
+		"date_incorporated": null,
+		"description": "Domestic Animal Services ensures compliance with local and State animal-related laws; to return strays to their owners and promote the adoption of homeless animals to new families; and to work toward ending the community problem of pet overpopulation.\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COLLIER COUNTY DOMESTIC ANIMAL SERVICES",
+		"website": "http://colliergov.net/index.aspx?page=100",
+		"slug": "collier-county-domestic-animal-services",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-county-domestic-animal-services",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-county-domestic-animal-services/locations"
+	},
+	"phones": [{
+		"id": 7141,
+		"department": null,
+		"extension": null,
+		"number": "239-252-7387",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

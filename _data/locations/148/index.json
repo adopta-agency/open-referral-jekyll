@@ -1,0 +1,48 @@
+{
+	"id": 148,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2137847,
+	25.751946],
+	"description": "See listed services",
+	"latitude": 25.751946,
+	"longitude": -80.2137847,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-3250-sw-3rd-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-3250-sw-3rd-avenue",
+	"address": {
+		"id": 87,
+		"address_1": "3250 SW 3rd Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33129"
+	},
+	"organization": {
+		"id": 148,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "United Way brings us together as a community to focus on the human care issues that matter most. It is a powerful partnership that improves people's lives and strengthens our community. \n\nIn Miami Dade, we have a plan to achieve measurable outcomes in the areas of helping kids and families lead successful lives, improve health and independence, responding to emergency and basic needs, and encouraging neighborhood and civic involvement.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNITED WAY OF MIAMI-DADE, INC.",
+		"website": "http://unitedwaymiami.org",
+		"slug": "united-way-of-miami-dade-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-way-of-miami-dade-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-way-of-miami-dade-inc/locations"
+	},
+	"phones": [{
+		"id": 148,
+		"department": null,
+		"extension": null,
+		"number": "305-860-3000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

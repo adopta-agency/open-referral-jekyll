@@ -1,0 +1,48 @@
+{
+	"id": 7317,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.5199018,
+	25.0080659],
+	"description": "See listed services",
+	"latitude": 25.0080659,
+	"longitude": -80.5199018,
+	"name": "Tavernier, FL",
+	"short_desc": null,
+	"slug": "tavernier-fl-171-hood-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/tavernier-fl-171-hood-avenue",
+	"address": {
+		"id": 3322,
+		"address_1": "171 Hood Avenue",
+		"address_2": "Suite 10",
+		"city": "Tavernier",
+		"state_province": "FL",
+		"postal_code": "33070"
+	},
+	"organization": {
+		"id": 6509,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides a psychoeducational program that focuses on the treatment, education and prevention of substance abuse. Also offers a substance abuse treatment program which focuses on recovery from alcohol and drug abuse. Group counseling sessions focus on issues related to addiction, recovery, relapse prevention and ways to make positive lifestyle changes free from drug and alcohol. Both programs duration is a minimum of 16 weeks. They also offer an anger control (Domestic Violence) program based on power and control issues designed to stop violence and educate the adolescent in issues of conflict management and anger control. The program is a minimum of 12 sessions including an initial assessment and group treatment. Parents are encouraged to participate in family therapy sessions. Adults S.A. training and Domestic Violence treatment for victims and offenders, Anger Management and parent education. Assessments for immigration clients are also available.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ANAGA PSYCHOTHERAPY CENTER. INC.",
+		"website": "http://www.anagapsychotherapy.com",
+		"slug": "anaga-psychotherapy-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/anaga-psychotherapy-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/anaga-psychotherapy-center-inc/locations"
+	},
+	"phones": [{
+		"id": 7317,
+		"department": null,
+		"extension": null,
+		"number": "305-663-0013",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

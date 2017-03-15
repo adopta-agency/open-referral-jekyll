@@ -1,0 +1,48 @@
+{
+	"id": 3927,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.9302211,
+	26.5158488],
+	"description": "See listed services",
+	"latitude": 26.5158488,
+	"longitude": -81.9302211,
+	"name": "Fort Myers, FL",
+	"short_desc": null,
+	"slug": "fort-myers-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/fort-myers-fl",
+	"address": {
+		"id": 1826,
+		"address_1": "7273 Concourse Drive",
+		"address_2": null,
+		"city": "Fort Myers",
+		"state_province": "FL",
+		"postal_code": "33908"
+	},
+	"organization": {
+		"id": 3927,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The United Way of Lee, Hendry, and Glades Counties is a volunteer organization dedicated to improving the quality of life for all people in our community. This is accomplished through fundraising, fund distribution, community building, volunteer advancement, and information and referral.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNITED WAY OF LEE COUNTY",
+		"website": "http://www.unitedwaylee.org",
+		"slug": "united-way-of-lee-county",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-way-of-lee-county",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-way-of-lee-county/locations"
+	},
+	"phones": [{
+		"id": 3927,
+		"department": null,
+		"extension": "222.0",
+		"number": "239-433-3900",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 2609,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3409267,
+	25.6847504],
+	"description": "See listed services",
+	"latitude": 25.6847504,
+	"longitude": -80.3409267,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-8940-north-kendall-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-8940-north-kendall-drive",
+	"address": {
+		"id": 1295,
+		"address_1": "8940 North Kendall Drive",
+		"address_2": "Suite 903-E",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33176"
+	},
+	"organization": {
+		"id": 2609,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "This center for plastic surgery offers special surgical services for victims of domestic violence (both male and female). The initial consultation is $100 which goes towards the surgery, when booked. Fees for surgery will be determined during the initial visit, and in some cases surgery will be provided at no cost.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI PLASTIC SURGERY",
+		"website": "http://www.miamiplasticsurgery.com",
+		"slug": "miami-plastic-surgery",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-plastic-surgery",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-plastic-surgery/locations"
+	},
+	"phones": [{
+		"id": 2609,
+		"department": null,
+		"extension": null,
+		"number": "305-595-2969",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

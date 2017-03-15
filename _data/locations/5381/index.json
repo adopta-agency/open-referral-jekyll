@@ -1,0 +1,48 @@
+{
+	"id": 5381,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-e1970c6e-8f45-470b-9341-7d68268d9435",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-e1970c6e-8f45-470b-9341-7d68268d9435",
+	"address": {
+		"id": 2305,
+		"address_1": "761 NW 167th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33169"
+	},
+	"organization": {
+		"id": 5380,
+		"accreditations": [],
+		"alternate_name": "YOUTH VIOLENCE PREVENTION COALITION",
+		"date_incorporated": null,
+		"description": "The Youth Violence Prevention Coalition plans and coordinates and array of programs and activities that specifically target the more at risk population of youth and their families, including: Parenting classes, unintended pregnancy prevention, anti-theft/retail fraud diversion, information and referral services, and case management.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NORTH DADE YOUTH AND FAMILY COALITION, INC.",
+		"website": "http://www.ndyfc.org",
+		"slug": "north-dade-youth-and-family-coalition-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/north-dade-youth-and-family-coalition-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/north-dade-youth-and-family-coalition-inc/locations"
+	},
+	"phones": [{
+		"id": 5381,
+		"department": null,
+		"extension": null,
+		"number": "305-652-1732",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

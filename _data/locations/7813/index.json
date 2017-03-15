@@ -1,0 +1,41 @@
+{
+	"id": 7813,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2383314,
+	25.9202483],
+	"description": "See listed services",
+	"latitude": 25.9202483,
+	"longitude": -80.2383314,
+	"name": "Opa Locka, FL",
+	"short_desc": null,
+	"slug": "opa-locka-fl-16001-bunche-park-elementary-school-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/opa-locka-fl-16001-bunche-park-elementary-school-drive",
+	"address": {
+		"id": 3743,
+		"address_1": "16001 Bunche Park Elementary School Drive",
+		"address_2": null,
+		"city": "Opa Locka",
+		"state_province": "FL",
+		"postal_code": "33054"
+	},
+	"organization": {
+		"id": 2896,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Abriendo Puertas, has been serving our communities for 18 years providing human and social services in the following areas:\n\nChild and Youth Development After School and Summer Program in East Little Havana and in North Miami Beach offering academic reinforcement in reading/literacy,social skills, physical fitness, karate and dance\n\nAbriendo Puertas ha estado sirviendo a nuestras comunidades por 18 a+u00a6os proporcionando servicios humanos y sociales en las siguientes areas:\n\nChild and Youth Development After School and Summer Program( Programas de desarrollo de verano y despu+u00acs de clases para ni+u00a6os y j+u00a6venes) ofrece resfuerzo acad+u00acmico en el este de la Peque+u00a6a Havana y en North Miami Beach en lectura/alfabetizaci+u00a6n, habilidades sociales, aptitud f+u00a1sica, karate y dance.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ABRIENDO PUERTAS, INC.",
+		"website": "http://www.abriendopuertasfl.org",
+		"slug": "abriendo-puertas-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/abriendo-puertas-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/abriendo-puertas-inc/locations"
+	},
+	"phones": []
+}

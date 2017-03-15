@@ -1,0 +1,48 @@
+{
+	"id": 1184,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-82104e8e-7b9f-4fa8-9906-986f453b2df8",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-82104e8e-7b9f-4fa8-9906-986f453b2df8",
+	"address": {
+		"id": 610,
+		"address_1": "100 SE 2nd Street",
+		"address_2": "Suite 1500",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33131"
+	},
+	"organization": {
+		"id": 1184,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Enforces federal laws which establish that no one may be denied equal pay for equal work, passed over for promotion, denied training or fired on the basis of their age, sex, race or ethnic origin, nationality, religion or disability.\n\n###COL###\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION",
+		"website": "http://www.eeoc.gov",
+		"slug": "u-s-equal-employment-opportunity-commission",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-equal-employment-opportunity-commission",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-equal-employment-opportunity-commission/locations"
+	},
+	"phones": [{
+		"id": 1184,
+		"department": null,
+		"extension": null,
+		"number": "800-669-4000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

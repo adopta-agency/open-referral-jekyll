@@ -1,0 +1,48 @@
+{
+	"id": 3829,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2700-nw-87th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-2700-nw-87th-avenue",
+	"address": {
+		"id": 1818,
+		"address_1": "2700 NW 87th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33172"
+	},
+	"organization": {
+		"id": 3829,
+		"accreditations": [],
+		"alternate_name": "MD-C ED",
+		"date_incorporated": null,
+		"description": "The Elections Department, under the direction of the Supervisor of Elections, administers, prepares, conducts and tabulates in a correct, uniform and impartial manner all Federal, State, County and Municipal elections in accordance with Florida Statutes. The Department also provides election services and assistance to municipalities, School Districts, and Special Taxing Districts of Miami-Dade County.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI-DADE COUNTY ELECTIONS DEPARTMENT",
+		"website": "http://www.miamidade.gov/elections",
+		"slug": "miami-dade-county-elections-department",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-elections-department",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-elections-department/locations"
+	},
+	"phones": [{
+		"id": 3829,
+		"department": null,
+		"extension": null,
+		"number": "305-499-8683",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

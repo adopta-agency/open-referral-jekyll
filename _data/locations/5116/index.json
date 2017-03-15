@@ -1,0 +1,48 @@
+{
+	"id": 5116,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-83,
+	27],
+	"description": "See listed services",
+	"latitude": 27,
+	"longitude": -83,
+	"name": "Sarasota, FL",
+	"short_desc": null,
+	"slug": "sarasota-fl-1888-brother-geenan-way",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/sarasota-fl-1888-brother-geenan-way",
+	"address": {
+		"id": 2161,
+		"address_1": "1888 Brother Geenan Way",
+		"address_2": null,
+		"city": "Sarasota",
+		"state_province": "FL",
+		"postal_code": "34236"
+	},
+	"organization": {
+		"id": 5116,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Senior Friendship Centers offers a network of centers throughout Southwest Florida providing primary healthcare services, some specialty medical services include general dentistry assistance with medication, compassionate drug program applications, dining programs, wellness programs, support groups, and recreational activities.\n \n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SENIOR FRIENDSHIP CENTERS, INC.",
+		"website": "http://www.friendshipcenters.org",
+		"slug": "senior-friendship-centers-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/senior-friendship-centers-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/senior-friendship-centers-inc/locations"
+	},
+	"phones": [{
+		"id": 5116,
+		"department": null,
+		"extension": null,
+		"number": "941-955-2122",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

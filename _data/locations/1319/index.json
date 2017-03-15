@@ -1,0 +1,48 @@
+{
+	"id": 1319,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -81,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-19300-sw-376th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/homestead-fl-19300-sw-376th-street",
+	"address": {
+		"id": 680,
+		"address_1": "19300 SW 376th Street",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33034"
+	},
+	"organization": {
+		"id": 1311,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Community Health of South Florida, Inc. a non-profit health care organization providing affordable quality primary and behavioral health care services to the residents of rapidly growing South Florida. Dental, Laboratory Radiology and Low Cost Pharmacy services on site.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CHI COMMUNITY HEALTH OF SOUTH FLORIDA, INC.",
+		"website": "http://chisouthfl.org",
+		"slug": "chi-community-health-of-south-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/chi-community-health-of-south-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/chi-community-health-of-south-florida-inc/locations"
+	},
+	"phones": [{
+		"id": 1319,
+		"department": null,
+		"extension": null,
+		"number": "305-246-4607",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

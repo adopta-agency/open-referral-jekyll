@@ -1,0 +1,48 @@
+{
+	"id": 4863,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-74,
+	41],
+	"description": "See listed services",
+	"latitude": 41,
+	"longitude": -74,
+	"name": "New York, NY",
+	"short_desc": null,
+	"slug": "new-york-ny-673d0904-d7cb-4c53-96da-00e1e8ed15fe",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/new-york-ny-673d0904-d7cb-4c53-96da-00e1e8ed15fe",
+	"address": {
+		"id": 2053,
+		"address_1": "2 Penn Plaza",
+		"address_2": "Suite 1102",
+		"city": "New York",
+		"state_province": "NY",
+		"postal_code": "10121"
+	},
+	"organization": {
+		"id": 4815,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "American Foundation for the Blind (AFB) is a national nonprofit that expands possibilities for the more than 25 million people with vision loss in the U.S. \n\nAFB's priorities include broadening access to technology; elevating the quality of information and tools for the professionals who serve people with vision loss; and promoting independent and healthy living for people with vision loss by providing them and their families with relevant and timely resources.\n\nAFB is based in New York, and maintains the Public Policy Center in Washington, DC; the AFB Center on Vision Loss in Dallas, TX; AFB TECH in Huntington, WV; and offices in Atlanta and San Francisco. AFB is also proud to house the Helen Keller Archives and honor the more than forty years that Helen Keller dedicated to working with AFB. \n\n###COL###\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AMERICAN FOUNDATION FOR THE BLIND",
+		"website": "http://www.afb.org",
+		"slug": "american-foundation-for-the-blind",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-foundation-for-the-blind",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-foundation-for-the-blind/locations"
+	},
+	"phones": [{
+		"id": 4863,
+		"department": null,
+		"extension": null,
+		"number": "800-232-5463",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

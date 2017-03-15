@@ -1,0 +1,48 @@
+{
+	"id": 1395,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-0ebfdb89-e27a-4b03-9994-cfcf59cb5420",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-0ebfdb89-e27a-4b03-9994-cfcf59cb5420",
+	"address": {
+		"id": 731,
+		"address_1": "800 NW 28th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33127"
+	},
+	"organization": {
+		"id": 1392,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Licensed treatment programs provide residential, day/night and out-patient treatment and permanent housing with supportive services for homeless, adult male substance abusers. Inability to pay does not preclude admission.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BETTER WAY OF MIAMI, INC.",
+		"website": "http://www.betterwaymiami.org",
+		"slug": "better-way-of-miami-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/better-way-of-miami-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/better-way-of-miami-inc/locations"
+	},
+	"phones": [{
+		"id": 1395,
+		"department": null,
+		"extension": "144.0",
+		"number": "305-634-3409",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

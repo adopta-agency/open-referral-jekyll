@@ -1,0 +1,48 @@
+{
+	"id": 691,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-8928a023-efae-4b4c-a33d-9d0afe7d7ce4",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-8928a023-efae-4b4c-a33d-9d0afe7d7ce4",
+	"address": {
+		"id": 352,
+		"address_1": "8500 NW 25th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33147"
+	},
+	"organization": {
+		"id": 686,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Urban League of Greater Miami provides services in our community in employment, childcare, senior citizen services, housing, economic development, training, community service, political advocacy and education. All activities are aimed at family preservation and child development.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "URBAN LEAGUE OF GREATER MIAMI, INC.",
+		"website": "http://www.miamiurbanleague.org",
+		"slug": "urban-league-of-greater-miami-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/urban-league-of-greater-miami-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/urban-league-of-greater-miami-inc/locations"
+	},
+	"phones": [{
+		"id": 691,
+		"department": null,
+		"extension": null,
+		"number": "305-696-4450",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 6732,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-e740ee08-54e6-4fc0-9154-e8b6edf0bb09",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-e740ee08-54e6-4fc0-9154-e8b6edf0bb09",
+	"address": {
+		"id": 2908,
+		"address_1": "701 NW 1st Court",
+		"address_2": "10th Floor",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 6721,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Community Action and Human Services delivers an integrated, holistic approach to meet the unique needs of victims through the provision of comprehensive services to victims of domestic violence and human trafficking in Miami-Dade County. \n\nProvides non-residential programs such as the Coordinated Victims Assistance Center and residential programs such as Safespace and the Inn Transition.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "M-DC CAHS - VIOLENCE PREVENTION AND INTERVENTION DIVISION",
+		"website": "http://www.miamidade.gov/socialservices/counseling-rehabilitation.asp",
+		"slug": "m-dc-cahs-violence-prevention-and-intervention-division",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/m-dc-cahs-violence-prevention-and-intervention-division",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/m-dc-cahs-violence-prevention-and-intervention-division/locations"
+	},
+	"phones": [{
+		"id": 6732,
+		"department": null,
+		"extension": null,
+		"number": "305-899-4600",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

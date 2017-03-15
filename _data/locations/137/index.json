@@ -1,0 +1,48 @@
+{
+	"id": 137,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3752309,
+	25.6201866],
+	"description": "See listed services",
+	"latitude": 25.6201866,
+	"longitude": -80.3752309,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-11347-sw-160th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-11347-sw-160th-street",
+	"address": {
+		"id": 81,
+		"address_1": "11347 SW 160th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 137,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Girl Scout Council of Tropical Florida, Inc. is the preeminent local organization dedicated solely to all girls. Where, in an accepting and nurturing environment,girls build courage, confidence, and character. In partnership with committed adult volunteers, girls develop qualities that will serve them all their lives, such as, leadership, strong values, social conscience, and conviction about their own potential and self-worth.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GIRL SCOUTS COUNCIL OF TROPICAL FLORIDA, INC.",
+		"website": "http://www.girlscoutsfl.org",
+		"slug": "girl-scouts-council-of-tropical-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/girl-scouts-council-of-tropical-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/girl-scouts-council-of-tropical-florida-inc/locations"
+	},
+	"phones": [{
+		"id": 137,
+		"department": null,
+		"extension": "234.0",
+		"number": "305-253-4841",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

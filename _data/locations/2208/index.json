@@ -1,0 +1,48 @@
+{
+	"id": 2208,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1501-biscayne-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-1501-biscayne-boulevard",
+	"address": {
+		"id": 1111,
+		"address_1": "1501 Biscayne Boulevard",
+		"address_2": "Suite 210",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33132"
+	},
+	"organization": {
+		"id": 2206,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Oversees the Bureau of Diplomatic Security and the U.S. Passport Agency.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "U.S. DEPARTMENT OF STATE",
+		"website": "http://www.state.gov/ofm/ro/mi/",
+		"slug": "u-s-department-of-state",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-department-of-state",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-department-of-state/locations"
+	},
+	"phones": [{
+		"id": 2208,
+		"department": null,
+		"extension": null,
+		"number": "877-487-2778",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

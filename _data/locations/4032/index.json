@@ -1,0 +1,48 @@
+{
+	"id": 4032,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-118.475058,
+	34.2011137],
+	"description": "See listed services",
+	"latitude": 34.2011137,
+	"longitude": -118.475058,
+	"name": "Van Nuys, CA",
+	"short_desc": null,
+	"slug": "van-nuys-ca",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/van-nuys-ca",
+	"address": {
+		"id": 1857,
+		"address_1": "P.O. Box 9999",
+		"address_2": null,
+		"city": "Van Nuys",
+		"state_province": "CA",
+		"postal_code": "91409"
+	},
+	"organization": {
+		"id": 4032,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Narcotics Anonymous works to ensure that every addict in the world has the chance to experience our message in his or her own language and culture and find the opportunity for a new way of life. \r\n\r\n###MON###\r\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NARCOTICS ANONYMOUS",
+		"website": "https://www.na.org/",
+		"slug": "narcotics-anonymous",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/narcotics-anonymous",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/narcotics-anonymous/locations"
+	},
+	"phones": [{
+		"id": 4032,
+		"department": null,
+		"extension": null,
+		"number": "818-773-9999",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

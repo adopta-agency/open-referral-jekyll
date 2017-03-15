@@ -1,0 +1,48 @@
+{
+	"id": 3640,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -82,
+	"name": "Key Largo, FL",
+	"short_desc": null,
+	"slug": "key-largo-fl-b07df01b-3a02-4c99-9485-32124b509b21",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/key-largo-fl-b07df01b-3a02-4c99-9485-32124b509b21",
+	"address": {
+		"id": 1768,
+		"address_1": "99198 Overseas Highway",
+		"address_2": "Suite 5",
+		"city": "Key Largo",
+		"state_province": "FL",
+		"postal_code": "33037"
+	},
+	"organization": {
+		"id": 3627,
+		"accreditations": [],
+		"alternate_name": "GUIDANCE CLINIC",
+		"date_incorporated": null,
+		"description": "Guidance/Care-Center, Inc. (GCC) provides behavioral health services, education, and support to benefit people from all incomes and walks of life.\nGCC works collaboratively with other agencies, schools, private providers, law enforcement, hospitals and other behavioral health providers to support and enhance the benefits to our clients, consumers and other stake holders.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GUIDANCE/CARE-CENTER, INC.",
+		"website": "http://www.gcmk.org/",
+		"slug": "guidance-care-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/guidance-care-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/guidance-care-center-inc/locations"
+	},
+	"phones": [{
+		"id": 3640,
+		"department": null,
+		"extension": "31221.0",
+		"number": "305-434-7660",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 959,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-27b69445-3885-443c-97f5-de7e1ca5a79f",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-27b69445-3885-443c-97f5-de7e1ca5a79f",
+	"address": {
+		"id": 504,
+		"address_1": "12871 SW 42nd Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33175"
+	},
+	"organization": {
+		"id": 953,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Lago Mar Preschools I & II offer quality preschool, after-school and an enriched summer camp program to youth in West Kendall. Activities include art, music, literature, karate, dance, cooking classes and fun theme weeks just to name a few. We currently serve 162 students with 150 children of Hispanic/Latino heritage and employ 27 staff members at our two sites. Our facilities also care for two mentally disabled young children. We receive our children within the surrounding area of each center.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SANRAU CORPORATION",
+		"website": null,
+		"slug": "sanrau-corporation",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/sanrau-corporation",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/sanrau-corporation/locations"
+	},
+	"phones": [{
+		"id": 959,
+		"department": null,
+		"extension": null,
+		"number": "305-559-0004",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

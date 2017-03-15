@@ -1,0 +1,48 @@
+{
+	"id": 3546,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77,
+	39],
+	"description": "See listed services",
+	"latitude": 39,
+	"longitude": -77,
+	"name": "Washington, DC",
+	"short_desc": null,
+	"slug": "washington-dc-1849-c-street-nw",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/washington-dc-1849-c-street-nw",
+	"address": {
+		"id": 1736,
+		"address_1": "1849 C Street, NW",
+		"address_2": null,
+		"city": "Washington",
+		"state_province": "DC",
+		"postal_code": "20240"
+	},
+	"organization": {
+		"id": 3546,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The U.S. Fish & Wildlife Services works with others to conserve, protect and enhance fish, wildlife and plants and their habitats for the continuing benefit of the American people.\n\n###COL###\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "U.S. FISH AND WILDLIFE SERVICES",
+		"website": "http://www.fws.gov",
+		"slug": "u-s-fish-and-wildlife-services",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-fish-and-wildlife-services",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-fish-and-wildlife-services/locations"
+	},
+	"phones": [{
+		"id": 3546,
+		"department": null,
+		"extension": null,
+		"number": "800-344-9453",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

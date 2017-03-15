@@ -1,0 +1,48 @@
+{
+	"id": 2362,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.4385959,
+	25.6398432],
+	"description": "See listed services",
+	"latitude": 25.6398432,
+	"longitude": -80.4385959,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-15190-sw-136-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-15190-sw-136-street",
+	"address": {
+		"id": 1172,
+		"address_1": "15190 SW 136 Street",
+		"address_2": "Suite 6, 7, 8 & 9",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33196"
+	},
+	"organization": {
+		"id": 2362,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Program provides exercise, music, pet therapy, educational classes, arts & crafts, etc. Caregivers can go about their day knowing that their loved one's needs are being met. Transportation, breakfast, lunch, and snacks (low-fat, low-sodium, low-fat) included.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE JOY OF LIFE ADULT DAY CARE, INC.",
+		"website": "http://www.joylifecenter.com",
+		"slug": "the-joy-of-life-adult-day-care-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-joy-of-life-adult-day-care-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-joy-of-life-adult-day-care-inc/locations"
+	},
+	"phones": [{
+		"id": 2362,
+		"department": null,
+		"extension": null,
+		"number": "786-293-3310",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

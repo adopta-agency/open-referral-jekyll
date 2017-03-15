@@ -1,0 +1,48 @@
+{
+	"id": 5533,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.782467,
+	26.165188],
+	"description": "See listed services",
+	"latitude": 26.165188,
+	"longitude": -81.782467,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-1843-gordon-river-lane",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-1843-gordon-river-lane",
+	"address": {
+		"id": 2357,
+		"address_1": "1843 Gordon River Lane",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34104"
+	},
+	"organization": {
+		"id": 5533,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Seniors Blue Book publishes the only comprehensive resource directory for seniors that covers Lee and Collier Counties in Florida.\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SENIORS BLUE BOOK",
+		"website": "http://www.seniorsbluebook.com",
+		"slug": "seniors-blue-book",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/seniors-blue-book",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/seniors-blue-book/locations"
+	},
+	"phones": [{
+		"id": 5533,
+		"department": null,
+		"extension": null,
+		"number": "239-776-7353",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

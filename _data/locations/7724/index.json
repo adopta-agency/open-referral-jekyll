@@ -1,0 +1,48 @@
+{
+	"id": 7724,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2191098,
+	25.8802324],
+	"description": "See listed services",
+	"latitude": 25.8802324,
+	"longitude": -80.2191098,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-11500-nw-12th-ave",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-11500-nw-12th-ave",
+	"address": {
+		"id": 3663,
+		"address_1": "11500 NW 12th Ave",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33168"
+	},
+	"organization": {
+		"id": 7724,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Climb Youth Development program serves middle and high school students focusing on the development of their individual assets in order to maximize opportunities to become better students and better people. Through the guidance and support of caring staff and volunteers, Branches youth are able to participate in: Life Skills, Service Projects, College Readiness, OASIS Spring Break Camp, Academic Tutoring, Retreats, selective employment as Summer Guides, and our Branching Out College Scholarships.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BRANCHES - CLIMB YOUTH DEVELOPMENT PROGRAM - LAKEVIEW",
+		"website": "http://www.branchesfl.org",
+		"slug": "branches-climb-youth-development-program-lakeview",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/branches-climb-youth-development-program-lakeview",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/branches-climb-youth-development-program-lakeview/locations"
+	},
+	"phones": [{
+		"id": 7724,
+		"department": null,
+		"extension": "2018.0",
+		"number": "305-442-8306",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

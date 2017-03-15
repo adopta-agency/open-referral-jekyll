@@ -1,0 +1,48 @@
+{
+	"id": 7915,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.196991,
+	25.777416],
+	"description": "See listed services",
+	"latitude": 25.777416,
+	"longitude": -80.196991,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1d07d861-3c90-45c5-874a-5d4f7a401858",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-1d07d861-3c90-45c5-874a-5d4f7a401858",
+	"address": {
+		"id": 3836,
+		"address_1": "112 NW 3rd Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33128"
+	},
+	"organization": {
+		"id": 2410,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The YWCA of Greater Miami-Dade, Inc. provides an after school and full day programming, including summer winter, and spring break camps for youth from various areas including South Dade, Brownsville, Opa Locka, Carol City, Overtown, Allapattah, Hialeah, and Miami Gardens. Program activities include arts & crafts, nutrition, reading, sports, social skills, field trips, and cultural arts. The program is designed to build nutritional, health and academic skills.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "YWCA OF GREATER MIAMI DADE, INC.",
+		"website": "http://www.ywca-miami.org",
+		"slug": "ywca-of-greater-miami-dade-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/ywca-of-greater-miami-dade-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/ywca-of-greater-miami-dade-inc/locations"
+	},
+	"phones": [{
+		"id": 7915,
+		"department": null,
+		"extension": null,
+		"number": "305-375-3222",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

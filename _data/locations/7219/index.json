@@ -1,0 +1,48 @@
+{
+	"id": 7219,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-22f34aca-542b-41a2-802b-6f7622fc5a8b",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-22f34aca-542b-41a2-802b-6f7622fc5a8b",
+	"address": {
+		"id": 3241,
+		"address_1": "3250 SW 3rd Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33129"
+	},
+	"organization": {
+		"id": 3145,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "An innovative learning, teaching, research, and training facility dedicated to elevating the quality of early care and education nationally. The United Way Center for Excellence works with the Children's Trust to administer the MAESTRO Program, an initiative to improve early literacy in a pre-selected group of pre-kindergarten classrooms as well as the Early Childhood Program Administrators Institute-ECPAI to improve centers administrative practices. The center also works with business leaders and lawmakers to raise the standards of early learning.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNITED WAY CENTER FOR EXCELLENCE",
+		"website": "http://www.unitedwaycfe.org",
+		"slug": "united-way-center-for-excellence",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-way-center-for-excellence",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-way-center-for-excellence/locations"
+	},
+	"phones": [{
+		"id": 7219,
+		"department": null,
+		"extension": null,
+		"number": "305-631-7614",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

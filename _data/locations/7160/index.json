@@ -1,0 +1,48 @@
+{
+	"id": 7160,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami Gardens, FL",
+	"short_desc": null,
+	"slug": "miami-gardens-fl-761-nw-167th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-gardens-fl-761-nw-167th-street",
+	"address": {
+		"id": 3210,
+		"address_1": "761 NW 167th Street",
+		"address_2": null,
+		"city": "Miami Gardens",
+		"state_province": "FL",
+		"postal_code": "33169"
+	},
+	"organization": {
+		"id": 5780,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The City of Miami Gardens was incorporated on May 13, 2003, as the 33rd city in Miami-Dade County. At a population of 105,457, it is the third largest city in Miami-Dade County (after Miami and Hialeah). Miami Gardens is a solid, working and middle class community of unique diversity. It is the largest predominantly African-American municipality in the State of Florida and boasts many Caribbean residents.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CITY OF MIAMI GARDENS",
+		"website": "http://miamigardens-fl.gov",
+		"slug": "city-of-miami-gardens",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-miami-gardens",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-miami-gardens/locations"
+	},
+	"phones": [{
+		"id": 7160,
+		"department": null,
+		"extension": null,
+		"number": "786-520-4136",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

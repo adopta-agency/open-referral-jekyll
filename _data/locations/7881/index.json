@@ -1,0 +1,48 @@
+{
+	"id": 7881,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.368651,
+	25.714808],
+	"description": "See listed services",
+	"latitude": 25.714808,
+	"longitude": -80.368651,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-10780-sw-56th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-10780-sw-56th-street",
+	"address": {
+		"id": 3804,
+		"address_1": "10780 SW 56th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33165"
+	},
+	"organization": {
+		"id": 2602,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The mission of Branches, Inc. is to serve, educate and inspire people through student, family and financial stability services in partnership with our community. We provide after-school programming, youth development and multiple financial stability services. Branches' vision/objective is to lead through deeply rooted and impactful programs and centers that empower people to pursue life changing opportunities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BRANCHES, INC.",
+		"website": "http://www.branchesfl.org",
+		"slug": "branches-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/branches-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/branches-inc/locations"
+	},
+	"phones": [{
+		"id": 7881,
+		"department": null,
+		"extension": "1008.0",
+		"number": "305-442-8306",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

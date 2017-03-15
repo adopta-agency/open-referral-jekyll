@@ -1,0 +1,48 @@
+{
+	"id": 7491,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7368121,
+	24.5725317],
+	"description": "See listed services",
+	"latitude": 24.5725317,
+	"longitude": -81.7368121,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-5640-maloney-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/key-west-fl-5640-maloney-avenue",
+	"address": {
+		"id": 3459,
+		"address_1": "5640 Maloney Avenue",
+		"address_2": null,
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 6895,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Saint Mary Star of the Sea provides religious and various social services outreach programs to surrounding communities and Monroe County.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE BASILICA OF SAINT MARY STAR OF THE SEA",
+		"website": "http://keywestcatholicparish.org",
+		"slug": "the-basilica-of-saint-mary-star-of-the-sea",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-basilica-of-saint-mary-star-of-the-sea",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-basilica-of-saint-mary-star-of-the-sea/locations"
+	},
+	"phones": [{
+		"id": 7491,
+		"department": null,
+		"extension": null,
+		"number": "305-292-3013",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

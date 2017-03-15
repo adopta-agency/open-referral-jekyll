@@ -1,0 +1,48 @@
+{
+	"id": 4443,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Fort Lauderdale, FL",
+	"short_desc": null,
+	"slug": "fort-lauderdale-fl-1000-south-pine-island-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/fort-lauderdale-fl-1000-south-pine-island-road",
+	"address": {
+		"id": 2029,
+		"address_1": "1000 South Pine Island Road",
+		"address_2": "Suite 100",
+		"city": "Fort Lauderdale",
+		"state_province": "FL",
+		"postal_code": "33324"
+	},
+	"organization": {
+		"id": 2194,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Our mission is to foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "U.S. DEPARTMENT OF LABOR",
+		"website": "http://www.dol.gov",
+		"slug": "u-s-department-of-labor",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-department-of-labor",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-department-of-labor/locations"
+	},
+	"phones": [{
+		"id": 4443,
+		"department": null,
+		"extension": null,
+		"number": "954-424-0242",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

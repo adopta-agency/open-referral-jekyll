@@ -1,0 +1,48 @@
+{
+	"id": 3190,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-74,
+	41],
+	"description": "See listed services",
+	"latitude": 41,
+	"longitude": -74,
+	"name": "New York, NY",
+	"short_desc": null,
+	"slug": "new-york-ny-275-7th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/new-york-ny-275-7th-avenue",
+	"address": {
+		"id": 1573,
+		"address_1": "275 7th Avenue",
+		"address_2": "22nd Floor",
+		"city": "New York",
+		"state_province": "NY",
+		"postal_code": "10001"
+	},
+	"organization": {
+		"id": 3190,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Cancer Care has been dedicated to providing emotional support, information, and practical help to people with cancer and their loved ones. Services include telephone, online and face-to-face counseling, support groups, education, publications and financial and co-payment assistance. Professional oncology social workers offer personalized care.\r\n\r\n###MON###\r\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CANCERCARE, INC.",
+		"website": "http://www.cancercare.org",
+		"slug": "cancercare-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/cancercare-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/cancercare-inc/locations"
+	},
+	"phones": [{
+		"id": 3190,
+		"department": null,
+		"extension": null,
+		"number": "800-813-4673",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

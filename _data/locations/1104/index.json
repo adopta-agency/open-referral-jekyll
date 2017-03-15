@@ -1,0 +1,48 @@
+{
+	"id": 1104,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-13861-south-dixie-highway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-13861-south-dixie-highway",
+	"address": {
+		"id": 580,
+		"address_1": "13861 South Dixie Highway",
+		"address_2": "2nd Floor",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33176"
+	},
+	"organization": {
+		"id": 1096,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides individualized vocational rehabilitation services for people with disabilities to develop the confidence, self esteem, skills and habits to enable them to become competitively employed, pursue other goals and become more self-reliant and independent. Programs include Vocational Evaluation, Work Activities, Vocational Training, Extended Training, Supported Employment, Job Development and Placement.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GOODWILL INDUSTRIES OF SOUTH FLORIDA, INC.",
+		"website": "http://www.goodwillsouthflorida.org",
+		"slug": "goodwill-industries-of-south-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/goodwill-industries-of-south-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/goodwill-industries-of-south-florida-inc/locations"
+	},
+	"phones": [{
+		"id": 1104,
+		"department": null,
+		"extension": null,
+		"number": "305-326-4166",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

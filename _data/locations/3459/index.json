@@ -1,0 +1,48 @@
+{
+	"id": 3459,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3100323,
+	25.9138907],
+	"description": "See listed services",
+	"latitude": 25.9138907,
+	"longitude": -80.3100323,
+	"name": "Miami Lakes, FL",
+	"short_desc": null,
+	"slug": "miami-lakes-fl-6713-main-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-lakes-fl-6713-main-street",
+	"address": {
+		"id": 1693,
+		"address_1": "6713 Main Street",
+		"address_2": "Suite 240",
+		"city": "Miami Lakes",
+		"state_province": "FL",
+		"postal_code": "33014"
+	},
+	"organization": {
+		"id": 3459,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides grants and coordinates programs that support innovative classroom curriculum by teachers; provides material resources to classrooms; improves libraries/media centers; promotes information and computer literacy among students and families; and fosters teacher leadership in schools. No students loans.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE EDUCATION FUND, INC.",
+		"website": "http://www.educationfund.org",
+		"slug": "the-education-fund-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-education-fund-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-education-fund-inc/locations"
+	},
+	"phones": [{
+		"id": 3459,
+		"department": null,
+		"extension": "103.0",
+		"number": "305-558-4544",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 6887,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-f6d88087-056c-4301-a5fe-460fff0cf8b2",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-f6d88087-056c-4301-a5fe-460fff0cf8b2",
+	"address": {
+		"id": 3022,
+		"address_1": "181 NE 82nd Street",
+		"address_2": "Suite 101",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33138"
+	},
+	"organization": {
+		"id": 2660,
+		"accreditations": [],
+		"alternate_name": "HAITIAN WOMEN OF MIAMI, Inc.",
+		"date_incorporated": null,
+		"description": "Fanm Ayisyen Nan Miyami, Inc. is an award-winning 501(c)(3)comprehensive social service and advocacy agency serving the Haitian residents of Greater Miami. Our Current Core Programs include:\r\n\r\nFamily Intervention and Empowerment (FIEP):\r\nThe Family Intervention and Empowerment program focuses on transitional and cultural adjustment needs of Haitian families. Services include case management, psycho-social assessment, development of a treatment plan, crisis intervention, mental health counseling, domestic violence support and anger management groups and parenting and early childhood parenting classes. Three additional support programs focus on outreach, prevention, education and referral: 1) Health Access for the uninsured or under-insured; 2) Breast Health, which seeks to prevent breast cancer through outreach, education, dissemination of information, cancer screenings and follow up; and 3) After School Tutoring, which provides homework help, FCAT preparation, and identity and character building through self-expression and sports. In response to a great and growing need in our community, last summer FANM created a Legal Services Clinic, that provides legal assistance and referrals to clients in the Haitian community in the areas of immigration law, family law including guardianship and domestic violence, public benefits law and landlord/tenant and housing law. The Clinic also conducts -u00f4know your rights-u00f6 educational sessions as well as self-help divorce and landlord/tenant clinics. \r\n\r\nImmigration Advocacy and Citizenship:\r\nThe Immigration Advocacy and Citizenship program focuses on public policy issues surrounding Haitian detainees, entrants, refugees and asylees. It works to meet with the media, elected officials, INS staff and other ethnic groups and organizations concerned with the unfair treatment of Haitian entrants into the United States. It conducts forums to educate the community at large about the current state of immigration, assists individuals with completing INS forms, and holds workshops and presentations on immigration matters and citizenship procedures. It also has established citizenship classes with an English literacy component for Haitian Creole speakers. \r\n\r\nCommunity Economic Development (CED):\r\nThe Community Economic Development program creates income and benefits opportunities for the unemployed or underemployed. Individuals are trained in business operation skills (inventory, marketing, customer service, sales, money management, etc.). The CED program also advocates for a living wage, and assists neighborhood businesses with fa+u00baade renovation, code compliance and job creation matters.\r\n\r\nWhenever funding is available, FANM implements culturally and linguistically sensitive outreach and education programs that focus on cancer and HIV/AIDS and prevention. FANM developed the first HIV/AIDS educational tool - a videotape on AIDS Prevention with subtitles that is used by the Florida Department of Children and Families and the Haitian media in the USA and Haiti. FANM is also finalizing a Haitian Creole copy of the Susan G. Komen Breast Health Basics video.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FANM AYISYEN NAN MIYAMI, INC.",
+		"website": "http://www.fanm.org",
+		"slug": "fanm-ayisyen-nan-miyami-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/fanm-ayisyen-nan-miyami-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/fanm-ayisyen-nan-miyami-inc/locations"
+	},
+	"phones": [{
+		"id": 6887,
+		"department": null,
+		"extension": null,
+		"number": "305-756-8050",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

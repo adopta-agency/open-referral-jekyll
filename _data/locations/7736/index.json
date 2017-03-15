@@ -1,0 +1,48 @@
+{
+	"id": 7736,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.343207,
+	25.7012569],
+	"description": "See listed services",
+	"latitude": 25.7012569,
+	"longitude": -80.343207,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-9240-sunset-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-9240-sunset-drive",
+	"address": {
+		"id": 3674,
+		"address_1": "9240 Sunset Drive",
+		"address_2": "Suite 202",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33173"
+	},
+	"organization": {
+		"id": 7736,
+		"accreditations": [],
+		"alternate_name": "SPEECH AND OCCUPATIONAL THERAPY INSTITUE CORP.",
+		"date_incorporated": null,
+		"description": "Magic Learning Center offers Speech and Occupational Therapy and Tutoring services. We provided services from the ages of 0 to 18. Therapists travel to daycares and schools throughout the community.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MAGIC LEARNING CENTER, INC.",
+		"website": "http://www.magiclearningcentermiami.com",
+		"slug": "magic-learning-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/magic-learning-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/magic-learning-center-inc/locations"
+	},
+	"phones": [{
+		"id": 7736,
+		"department": null,
+		"extension": null,
+		"number": "786-502-2843",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

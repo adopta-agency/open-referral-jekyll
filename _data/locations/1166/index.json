@@ -1,0 +1,48 @@
+{
+	"id": 1166,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-84,
+	30],
+	"description": "See listed services",
+	"latitude": 30,
+	"longitude": -84,
+	"name": "Tallahassee, FL",
+	"short_desc": null,
+	"slug": "tallahassee-fl-2331-phillips-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/tallahassee-fl-2331-phillips-road",
+	"address": {
+		"id": 606,
+		"address_1": "2331 Phillips Road",
+		"address_2": null,
+		"city": "Tallahassee",
+		"state_province": "FL",
+		"postal_code": "32308"
+	},
+	"organization": {
+		"id": 1166,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "FDLE is funded through the Florida legislature and operates the statewide Missing Endangered Persons Information Clearinghouse which collects, stores and disseminates information to help locate missing children.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA DEPT OF LAW ENFORCEMENT (FDLE)",
+		"website": "http://www.fdle.state.fl.us",
+		"slug": "florida-dept-of-law-enforcement-fdle",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-dept-of-law-enforcement-fdle",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-dept-of-law-enforcement-fdle/locations"
+	},
+	"phones": [{
+		"id": 1166,
+		"department": null,
+		"extension": null,
+		"number": "850-410-7000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

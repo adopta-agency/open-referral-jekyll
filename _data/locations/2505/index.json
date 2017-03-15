@@ -1,0 +1,48 @@
+{
+	"id": 2505,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-c2c590eb-9039-4862-b9ab-5e64b4bb1043",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-c2c590eb-9039-4862-b9ab-5e64b4bb1043",
+	"address": {
+		"id": 1230,
+		"address_1": "14701 NW 7th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33168"
+	},
+	"organization": {
+		"id": 2504,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "This non-profit, social and human services, community based-membership organization that emphasizes self-determination, strong families, Christian values and community economic development. Provides after school child care, early childhood education, sports and camping programs, career development and family activities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE FAMILY CHRISTIAN ASSOCIATION OF AMERICA, INC.",
+		"website": "http://www.fcaafamily.org",
+		"slug": "the-family-christian-association-of-america-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-family-christian-association-of-america-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-family-christian-association-of-america-inc/locations"
+	},
+	"phones": [{
+		"id": 2505,
+		"department": null,
+		"extension": null,
+		"number": "305-685-4881",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

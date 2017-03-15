@@ -1,0 +1,48 @@
+{
+	"id": 1521,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Bay Harbor Islands, FL",
+	"short_desc": null,
+	"slug": "bay-harbor-islands-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/bay-harbor-islands-fl",
+	"address": {
+		"id": 795,
+		"address_1": "9665 Bay Harbor Terrace",
+		"address_2": null,
+		"city": "Bay Harbor Islands",
+		"state_province": "FL",
+		"postal_code": "33154"
+	},
+	"organization": {
+		"id": 1504,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Please look at separate profiles for information on each department.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "POLICE DEPARTMENTS",
+		"website": null,
+		"slug": "police-departments",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/police-departments",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/police-departments/locations"
+	},
+	"phones": [{
+		"id": 1521,
+		"department": null,
+		"extension": null,
+		"number": "305-866-6242",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

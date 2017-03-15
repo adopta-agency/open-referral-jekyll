@@ -1,0 +1,48 @@
+{
+	"id": 183,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-f5416f99-7d07-4c09-87e1-828e8fe57af8",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-f5416f99-7d07-4c09-87e1-828e8fe57af8",
+	"address": {
+		"id": 110,
+		"address_1": "8400 NW 33rd Street",
+		"address_2": "Suite 400",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33122"
+	},
+	"organization": {
+		"id": 182,
+		"accreditations": [],
+		"alternate_name": "UHCS, United HomeCare Services, Inc.",
+		"date_incorporated": null,
+		"description": "Provides personalized quality care and in-home services to assist adults over 60, disabled adults 18-59, and their caregivers to live at home independently.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNITED HOMECARE, INC.",
+		"website": "http://www.unitedhomecare.com",
+		"slug": "united-homecare-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-homecare-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-homecare-inc/locations"
+	},
+	"phones": [{
+		"id": 183,
+		"department": null,
+		"extension": null,
+		"number": "305-716-0710",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

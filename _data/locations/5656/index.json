@@ -1,0 +1,48 @@
+{
+	"id": 5656,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -80,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-3ea8b130-df50-466d-aa33-ca04af1a6dae",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/homestead-fl-3ea8b130-df50-466d-aa33-ca04af1a6dae",
+	"address": {
+		"id": 2433,
+		"address_1": "756 West Palm Drive",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33034"
+	},
+	"organization": {
+		"id": 2872,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Arc of South Florida is a non-profit organization with a two-folded purpose: To ensure the rights of all persons with intellectual and developmental disabilities through effective advocacy, and to provide specialized programs and services to help clients lead meaningful and fulfilling lives.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE ARC OF SOUTH FLORIDA, INC.",
+		"website": "http://www.arcsofla.org/",
+		"slug": "the-arc-of-south-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-arc-of-south-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-arc-of-south-florida-inc/locations"
+	},
+	"phones": [{
+		"id": 5656,
+		"department": null,
+		"extension": null,
+		"number": "305-246-3530",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 447,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-9350-sw-79th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-9350-sw-79th-avenue",
+	"address": {
+		"id": 224,
+		"address_1": "9350 SW 79th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33156"
+	},
+	"organization": {
+		"id": 447,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Greater Miami Youth for Christ provides an after school program for students in kindergarten through fifth grade. The program offers homework help, literature activities, physical education, social skills, character building, Bible club, and special family nights. GMYC helps kids improve their educational skills in reading, writing, math, social skills, and physical fitness.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GREATER MIAMI YOUTH FOR CHRIST, INC.",
+		"website": "http://www.miamiyfc.com",
+		"slug": "greater-miami-youth-for-christ-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/greater-miami-youth-for-christ-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/greater-miami-youth-for-christ-inc/locations"
+	},
+	"phones": [{
+		"id": 447,
+		"department": null,
+		"extension": null,
+		"number": "305-271-2442",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

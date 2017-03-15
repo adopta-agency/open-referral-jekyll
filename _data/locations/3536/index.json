@@ -1,0 +1,48 @@
+{
+	"id": 3536,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -82,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-fa59211a-adda-4852-af2a-03501c978c49",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/key-west-fl-fa59211a-adda-4852-af2a-03501c978c49",
+	"address": {
+		"id": 1731,
+		"address_1": "1100 Simonton Street",
+		"address_2": "Suite 2-256",
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 3536,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Monroe County Social Services are mostly for elderly, disabled, and indigent clients, with information and referrals given to other agencies. Some emergency assistance is available on a very limited basis to those who meet the requirements. \n\nThis department also:\n* Coordinates all meetings of the Florida Keys Council for People with Disabilities. \n* Was instrumental in extending the Lower Keys Shuttle bus route from Key West to Marathon.\n* Was instrumental in extending the Dade-Monroe Express bus route from Florida City to Marathon \n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MONROE COUNTY SOCIAL SERVICES",
+		"website": "http://www.monroecounty-fl.gov/index.aspx?NID=140",
+		"slug": "monroe-county-social-services",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/monroe-county-social-services",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/monroe-county-social-services/locations"
+	},
+	"phones": [{
+		"id": 3536,
+		"department": null,
+		"extension": null,
+		"number": "305-292-4511",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

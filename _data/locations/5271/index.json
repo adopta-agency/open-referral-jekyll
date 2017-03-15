@@ -1,0 +1,48 @@
+{
+	"id": 5271,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.7125173,
+	26.1762747],
+	"description": "See listed services",
+	"latitude": 26.1762747,
+	"longitude": -81.7125173,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-5251-golden-gate-parkway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-5251-golden-gate-parkway",
+	"address": {
+		"id": 2244,
+		"address_1": "5251 Golden Gate Parkway",
+		"address_2": "Suite E",
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34116"
+	},
+	"organization": {
+		"id": 5271,
+		"accreditations": [],
+		"alternate_name": "Hunger & Homeless Coalition of Collier County",
+		"date_incorporated": null,
+		"description": "The mission of the Hunger and Homeless Coalition is to facilitate solutions to prevent and end hunger and homelessness by coordinating services in Collier County. The Hunger & Homeless Coalition was created in 1989 to support the planning, delivery, and coordination of high quality services to the hungry, the homeless, and those at risk of homelessness in Collier County. Incorporated in 2002 as a 501(c)3, the Coalition works collaboratively with local social service agencies, consumer advocates, and volunteers to identify gaps in services and coordinate the development of programs to address unmet needs.\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COLLIER COUNTY HUNGER AND HOMELESS COALITION, INC.",
+		"website": "http://www.collierhomelesscoalition.org",
+		"slug": "collier-county-hunger-and-homeless-coalition-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-county-hunger-and-homeless-coalition-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-county-hunger-and-homeless-coalition-inc/locations"
+	},
+	"phones": [{
+		"id": 5271,
+		"department": null,
+		"extension": null,
+		"number": "239-263-9363",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

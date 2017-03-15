@@ -1,0 +1,48 @@
+{
+	"id": 5009,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	27],
+	"description": "See listed services",
+	"latitude": 27,
+	"longitude": -80,
+	"name": "West Palm Beach, FL",
+	"short_desc": null,
+	"slug": "west-palm-beach-fl-4441-beacon-circle",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/west-palm-beach-fl-4441-beacon-circle",
+	"address": {
+		"id": 2094,
+		"address_1": "4441 Beacon Circle",
+		"address_2": "Suite 4",
+		"city": "West Palm Beach",
+		"state_province": "FL",
+		"postal_code": "33407"
+	},
+	"organization": {
+		"id": 5008,
+		"accreditations": [],
+		"alternate_name": "BBB",
+		"date_incorporated": null,
+		"description": "The Council of Better Business Bureaus (CBBB) is the network hub for BBBs in the US and Canada. Like BBBs, CBBB is dedicated to fostering honest and responsive relationships between businesses and consumers, instilling consumer confidence and advancing a trustworthy marketplace for all. The BBB Standards for Trust are a comprehensive set of best practices for how businesses should treat the public in a fair and honest manner.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COUNCIL OF BETTER BUSINESS BUREAUS",
+		"website": "http://www.bbb.org/council",
+		"slug": "council-of-better-business-bureaus",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/council-of-better-business-bureaus",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/council-of-better-business-bureaus/locations"
+	},
+	"phones": [{
+		"id": 5009,
+		"department": null,
+		"extension": null,
+		"number": "561-842-1918",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

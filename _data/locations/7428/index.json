@@ -1,0 +1,48 @@
+{
+	"id": 7428,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2294228,
+	25.9445263],
+	"description": "See listed services",
+	"latitude": 25.9445263,
+	"longitude": -80.2294228,
+	"name": "Miami Gardens, FL",
+	"short_desc": null,
+	"slug": "miami-gardens-fl-18601-nw-17th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-gardens-fl-18601-nw-17th-avenue",
+	"address": {
+		"id": 3406,
+		"address_1": "18601 NW 17th Avenue",
+		"address_2": null,
+		"city": "Miami Gardens",
+		"state_province": "FL",
+		"postal_code": "33056"
+	},
+	"organization": {
+		"id": 7425,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Offers ongoing sports training programs to those who desire afternoon, evening and/or weekend hours. There is no cost to participate. Participants must register with Special Olympics or must be currently registered.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SPECIAL OLYMPICS FLORIDA - MD-C - COMMUNITY SPORTS TRAINING PROGRAMS",
+		"website": "http://specialolympicsflorida.org/miami-dade/",
+		"slug": "special-olympics-florida-md-c-community-sports-training-programs",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/special-olympics-florida-md-c-community-sports-training-programs",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/special-olympics-florida-md-c-community-sports-training-programs/locations"
+	},
+	"phones": [{
+		"id": 7428,
+		"department": null,
+		"extension": null,
+		"number": "305-406-9467",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

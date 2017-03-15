@@ -1,0 +1,48 @@
+{
+	"id": 7611,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.370677,
+	25.613945],
+	"description": "See listed services",
+	"latitude": 25.613945,
+	"longitude": -80.370677,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-16700-sw-109th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-16700-sw-109th-avenue",
+	"address": {
+		"id": 3569,
+		"address_1": "16700 SW 109th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 138,
+		"accreditations": [],
+		"alternate_name": "G.S. Academic Tutoring/Mentoring Program",
+		"date_incorporated": null,
+		"description": "The Daily Academic Afterschool Program provides tutoring and mentoring programs during the school year to approximately 180 girls and their siblings, from ages 5 to 10, or in grades K to 5th, from low income migrant/farm worker families living in South Miami Dade. The program, delivered at West Homestead Elementary, Pine Lake Elementary, and Florida City Elementary provides daily academic enhancement to foster literacy, math, science and communication skills, along with family interactive experiences which enables children to successfully complete their school grade. The children are also able to participate in a spring break camp.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GIRL SCOUTS - ACADEMIC AFTER SCHOOL PROGRAM",
+		"website": "http://girlscoutsfl.org",
+		"slug": "girl-scouts-academic-after-school-program",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/girl-scouts-academic-after-school-program",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/girl-scouts-academic-after-school-program/locations"
+	},
+	"phones": [{
+		"id": 7611,
+		"department": null,
+		"extension": "256.0",
+		"number": "305-253-4841",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

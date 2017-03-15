@@ -1,0 +1,48 @@
+{
+	"id": 7817,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.200856,
+	25.790592],
+	"description": "See listed services",
+	"latitude": 25.790592,
+	"longitude": -80.200856,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-82573715-d1cc-46ab-b784-7b7fc12b5dd6",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-82573715-d1cc-46ab-b784-7b7fc12b5dd6",
+	"address": {
+		"id": 3746,
+		"address_1": "1600 NW 3rd Avenue",
+		"address_2": "Suite 100",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 2816,
+		"accreditations": [],
+		"alternate_name": "GIRL POWER",
+		"date_incorporated": null,
+		"description": "World Literacy Crusade of Florida, Inc. is a 501-u00ac3 non-profit founded in 1997 as a result of the growing rate of crime, poverty, illiteracy and hopelessness that is prevalent in inner-city and underserved communities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GIRL POWER/WORLD LITERACY CRUSADE OF FLORIDA INC.",
+		"website": "http://www.girlpowerrocks.org",
+		"slug": "girl-power-world-literacy-crusade-of-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/girl-power-world-literacy-crusade-of-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/girl-power-world-literacy-crusade-of-florida-inc/locations"
+	},
+	"phones": [{
+		"id": 7817,
+		"department": null,
+		"extension": null,
+		"number": "305-756-5502",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 1397,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Pompano Beach, FL",
+	"short_desc": null,
+	"slug": "pompano-beach-fl-e9271924-bf9d-4c33-8d8a-30a8db021b60",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/pompano-beach-fl-e9271924-bf9d-4c33-8d8a-30a8db021b60",
+	"address": {
+		"id": 733,
+		"address_1": "1280 SW 36th Avenue",
+		"address_2": "Suite 205",
+		"city": "Pompano Beach",
+		"state_province": "FL",
+		"postal_code": "33069"
+	},
+	"organization": {
+		"id": 1396,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Father Focus, Inc. is a company that focuses on fathers. Through F.E.D.S. we will address those arenas that will empower men and fathers of all ages; to become the backbone of the revitalization of the family unit. \n\nAssistance is provided to teen and adult fathers in the areas of education, employment, legal, finance, mental health and teen education. Also assist teen mothers in the same areas as the men and assist adult women in search of child support recovery from the DOR.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FATHER FOCUS, INC.",
+		"website": "http://www.fatherfocus.net",
+		"slug": "father-focus-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/father-focus-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/father-focus-inc/locations"
+	},
+	"phones": [{
+		"id": 1397,
+		"department": null,
+		"extension": null,
+		"number": "754-200-1689",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

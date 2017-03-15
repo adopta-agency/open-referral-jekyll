@@ -1,0 +1,48 @@
+{
+	"id": 3242,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77,
+	39],
+	"description": "See listed services",
+	"latitude": 39,
+	"longitude": -77,
+	"name": "Washington, DC",
+	"short_desc": null,
+	"slug": "washington-dc-c8865905-beac-4756-af5d-dd79881f09d2",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/washington-dc-c8865905-beac-4756-af5d-dd79881f09d2",
+	"address": {
+		"id": 1598,
+		"address_1": "1730 Rhode Island Avenue, NW",
+		"address_2": "Suite 1200",
+		"city": "Washington",
+		"state_province": "DC",
+		"postal_code": "20036"
+	},
+	"organization": {
+		"id": 3241,
+		"accreditations": [],
+		"alternate_name": "N4A",
+		"date_incorporated": null,
+		"description": "The National Association of Area Agencies on Aging (n4a) is the umbrella organization for the 655 area agencies on aging (AAAs) and more than 230 Title VI Native American aging programs in the U.S. Through its presence in Washington, D.C., n4a advocates on behalf of the local aging agencies to ensure that needed resources and support services are available to older Americans. Offers training and educational events, or working to drive excellence in the fields of I&R/A, transportation, livable communities and volunteerism, n4a is dedicated to supporting the success of its members.\r\n\r\n###MON###\r\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NATIONAL ASSOCIATION OF AREA AGENCIES FOR AGING, INC.",
+		"website": "http://www.n4a.org",
+		"slug": "national-association-of-area-agencies-for-aging-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/national-association-of-area-agencies-for-aging-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/national-association-of-area-agencies-for-aging-inc/locations"
+	},
+	"phones": [{
+		"id": 3242,
+		"department": null,
+		"extension": null,
+		"number": "800-677-1116",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

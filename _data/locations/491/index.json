@@ -1,0 +1,48 @@
+{
+	"id": 491,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami Beach, FL",
+	"short_desc": null,
+	"slug": "miami-beach-fl-e2078375-62dd-4f18-af4b-5048d218fbbe",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-beach-fl-e2078375-62dd-4f18-af4b-5048d218fbbe",
+	"address": {
+		"id": 249,
+		"address_1": "1680 Meridian Avenue",
+		"address_2": "Suite 501",
+		"city": "Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33139"
+	},
+	"organization": {
+		"id": 486,
+		"accreditations": [],
+		"alternate_name": "DOUGLAS GARDENS CMHC",
+		"date_incorporated": null,
+		"description": "The Douglas Gardens Community Mental Health Center provides comprehensive mental health services to people living in the Greater Miami Beach area.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "DOUGLAS GARDENS COMMUNITY MENTAL HEALTH CENTER, INC.",
+		"website": "http://www.dgcmhc.org/",
+		"slug": "douglas-gardens-community-mental-health-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/douglas-gardens-community-mental-health-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/douglas-gardens-community-mental-health-center-inc/locations"
+	},
+	"phones": [{
+		"id": 491,
+		"department": null,
+		"extension": null,
+		"number": "305-531-5341",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

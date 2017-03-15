@@ -1,0 +1,48 @@
+{
+	"id": 2894,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-13300-memorial-highway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-13300-memorial-highway",
+	"address": {
+		"id": 1426,
+		"address_1": "13300 Memorial Highway",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33132"
+	},
+	"organization": {
+		"id": 2891,
+		"accreditations": [],
+		"alternate_name": "ASPIRA",
+		"date_incorporated": null,
+		"description": "ASPIRA is dedicated to developing educated and community-conscious Puerto Rican, Latino and other minority youth. Leadership development services include counseling, tutoring, academic and career advisement, advocacy and drug awareness education, as well as charter education schools and youth sanctuary centers.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ASPIRA OF FLORIDA, INC.",
+		"website": "http://www.aspirafl.org",
+		"slug": "aspira-of-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/aspira-of-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/aspira-of-florida-inc/locations"
+	},
+	"phones": [{
+		"id": 2894,
+		"department": null,
+		"extension": null,
+		"number": "305-893-8050",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

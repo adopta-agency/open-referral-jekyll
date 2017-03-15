@@ -1,0 +1,48 @@
+{
+	"id": 2634,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2253065,
+	26.2872039],
+	"description": "See listed services",
+	"latitude": 26.2872039,
+	"longitude": -80.2253065,
+	"name": "Coral Springs, FL",
+	"short_desc": null,
+	"slug": "coral-springs-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/coral-springs-fl",
+	"address": {
+		"id": 1305,
+		"address_1": "7401 Wiles Road",
+		"address_2": null,
+		"city": "Coral Springs",
+		"state_province": "FL",
+		"postal_code": "33071"
+	},
+	"organization": {
+		"id": 2634,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Adult Senior Placement provides free placement services for seniors and adults in search for independent assisted living communities. Living communities include assisted living, retirement communities, Alzheimer's communities, adult family care homes, home health care and adult day care.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ADULT SENIOR PLACEMENT, INC.",
+		"website": "http://www.adultseniorplacement.com",
+		"slug": "adult-senior-placement-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/adult-senior-placement-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/adult-senior-placement-inc/locations"
+	},
+	"phones": [{
+		"id": 2634,
+		"department": null,
+		"extension": null,
+		"number": "305-593-5343",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

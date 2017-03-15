@@ -1,0 +1,48 @@
+{
+	"id": 4195,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1111-park-centre-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-1111-park-centre-boulevard",
+	"address": {
+		"id": 1925,
+		"address_1": "1111 Park Centre Boulevard",
+		"address_2": "Suite 210",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33169"
+	},
+	"organization": {
+		"id": 4194,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Best Care is a private, state-licensed Nurses Registry that refers high-quality, personalized home-health caregivers. Best CareGu00c7u00d6s mission is to refer caregivers who provide comprehensive, quality health care, to individuals in their own homes.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BEST CARE NURSES REGISTRY, INC.",
+		"website": "http://www.bestcare.net",
+		"slug": "best-care-nurses-registry-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/best-care-nurses-registry-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/best-care-nurses-registry-inc/locations"
+	},
+	"phones": [{
+		"id": 4195,
+		"department": null,
+		"extension": null,
+		"number": "305-652-3311",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

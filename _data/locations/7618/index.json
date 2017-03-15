@@ -1,0 +1,48 @@
+{
+	"id": 7618,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3399029,
+	25.628965],
+	"description": "See listed services",
+	"latitude": 25.628965,
+	"longitude": -80.3399029,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-9000-sw-152nd-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-9000-sw-152nd-street",
+	"address": {
+		"id": 3576,
+		"address_1": "9000 SW 152nd Street",
+		"address_2": "Suite 105",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 7618,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "EveGu00c7u00d6s Hope is a place where a woman in an unplanned pregnancy can find free pregnancy testing, limited ultrasound, options counseling on parenting, adoption counseling, parenting classes, and an abortion recovery program (Forgiven and Set Free) for women who have experienced loss of life through abortion.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "EVE'S HOPE, INC.",
+		"website": "http://www.EvesHope.Info",
+		"slug": "eve-s-hope-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/eve-s-hope-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/eve-s-hope-inc/locations"
+	},
+	"phones": [{
+		"id": 7618,
+		"department": null,
+		"extension": null,
+		"number": "786-732-7911",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

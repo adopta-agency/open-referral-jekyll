@@ -1,0 +1,48 @@
+{
+	"id": 1193,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1150-campo-sano-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-1150-campo-sano-avenue",
+	"address": {
+		"id": 615,
+		"address_1": "1150 Campo Sano Avenue",
+		"address_2": "Suite 200",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33146"
+	},
+	"organization": {
+		"id": 1192,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Doctor's Hospital is a 281 bed acute care facility delivering the highest standard of medical care. The hospital provides orthopedics/sports medicine, technologically advanced operating suites, state-of-the-art radiology imaging services and obstetrics.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "DOCTOR'S HOSPITAL",
+		"website": "http://baptisthealth.net/en/facilities/doctors-hospital/pages/default.aspx",
+		"slug": "doctor-s-hospital",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/doctor-s-hospital",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/doctor-s-hospital/locations"
+	},
+	"phones": [{
+		"id": 1193,
+		"department": null,
+		"extension": null,
+		"number": "305-669-3320",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

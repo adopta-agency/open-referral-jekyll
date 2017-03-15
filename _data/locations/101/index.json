@@ -1,0 +1,48 @@
+{
+	"id": 101,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-5607-nw-27th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-5607-nw-27th-avenue",
+	"address": {
+		"id": 57,
+		"address_1": "5607 NW 27th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33142"
+	},
+	"organization": {
+		"id": 101,
+		"accreditations": [],
+		"alternate_name": "JTCHC",
+		"date_incorporated": null,
+		"description": "The Jessie Trice Community Health Center, Inc. (JTCHC), is a Florida 501 (c) 3, not-for-profit, Federally Qualified Health Center, which has been serving Miami-Dade County since 1967. The target population is the uninsured,underinsured, 95% of which live at or below the Federal Poverty Level of 200%.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "JESSIE TRICE COMMUNITY HEALTH CENTER, INC.",
+		"website": "http://www.jtchc.org",
+		"slug": "jessie-trice-community-health-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/jessie-trice-community-health-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/jessie-trice-community-health-center-inc/locations"
+	},
+	"phones": [{
+		"id": 101,
+		"department": null,
+		"extension": null,
+		"number": "305-805-1700",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

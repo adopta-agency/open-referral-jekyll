@@ -1,0 +1,48 @@
+{
+	"id": 1563,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77,
+	39],
+	"description": "See listed services",
+	"latitude": 39,
+	"longitude": -77,
+	"name": "Bethesda, MD",
+	"short_desc": null,
+	"slug": "bethesda-md-6931-arlington-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/bethesda-md-6931-arlington-road",
+	"address": {
+		"id": 823,
+		"address_1": "6931 Arlington Road",
+		"address_2": "2nd Floor",
+		"city": "Bethesda",
+		"state_province": "MD",
+		"postal_code": "20814"
+	},
+	"organization": {
+		"id": 1533,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "No description provided",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "I & R HOTLINES OUTSIDE MIAMI-DADE",
+		"website": null,
+		"slug": "i-r-hotlines-outside-miami-dade",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/i-r-hotlines-outside-miami-dade",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/i-r-hotlines-outside-miami-dade/locations"
+	},
+	"phones": [{
+		"id": 1563,
+		"department": null,
+		"extension": null,
+		"number": "800-344-4823",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

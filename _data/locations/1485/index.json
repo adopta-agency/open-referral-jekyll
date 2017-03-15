@@ -1,0 +1,48 @@
+{
+	"id": 1485,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-93,
+	45],
+	"description": "See listed services",
+	"latitude": 45,
+	"longitude": -93,
+	"name": "Minneapolis, MN",
+	"short_desc": null,
+	"slug": "minneapolis-mn-7645-lyndale-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/minneapolis-mn-7645-lyndale-avenue",
+	"address": {
+		"id": 777,
+		"address_1": "7645 Lyndale Avenue",
+		"address_2": "Suite 250",
+		"city": "Minneapolis",
+		"state_province": "MN",
+		"postal_code": "55423"
+	},
+	"organization": {
+		"id": 1484,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Homeownership Preservation Foundation partners with local governments, other nonprofit organizations, borrowers and mortgage lenders/servicers to deliver innovative homeownership preservation opportunities. \n\nThe Homeownership Preservation Foundation's national homeowner hotline (888-995-HOPE) provides homeowners who are in debt with a specific, actionable plan that can help them avoid foreclosure, or explore alternatives to foreclosure if homeownership cannot be maintained. Assistance is provided through counseling sessions over the phone and referrals to local agencies. \n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HOMEOWNERSHIP PRESERVATION FOUNDATION, INC",
+		"website": "http://www.hpfonline.org",
+		"slug": "homeownership-preservation-foundation-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/homeownership-preservation-foundation-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/homeownership-preservation-foundation-inc/locations"
+	},
+	"phones": [{
+		"id": 1485,
+		"department": null,
+		"extension": null,
+		"number": "888-995-4673",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

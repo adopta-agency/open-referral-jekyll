@@ -1,0 +1,48 @@
+{
+	"id": 1753,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-b11e1686-45e5-44a5-afdc-f82b5103c25f",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-b11e1686-45e5-44a5-afdc-f82b5103c25f",
+	"address": {
+		"id": 905,
+		"address_1": "8180 NW 36th Street",
+		"address_2": "Suite 215",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33166"
+	},
+	"organization": {
+		"id": 1751,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Compassion in Action offers support groups and recovery programs for addictions (alcohol, drug, compulsive gambling) and for their family (co-dependents). As well as individual addiction counseling, family counseling, relapse prevention, 12-step program, life skill classes, referrals, and education on addiction. All services are provided in Spanish.\n\nPrograms offered include: Refugio de Amor (substance abuse program), Esperanza (gambling addiction program), M.A.S (reentry and recovery classes).",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COMPASSION IN ACTION MINISTRIES, INC.",
+		"website": "http://www.ciaministries.com",
+		"slug": "compassion-in-action-ministries-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/compassion-in-action-ministries-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/compassion-in-action-ministries-inc/locations"
+	},
+	"phones": [{
+		"id": 1753,
+		"department": null,
+		"extension": null,
+		"number": "786-942-9836",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

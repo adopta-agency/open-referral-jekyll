@@ -1,0 +1,41 @@
+{
+	"id": 7841,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-74.0124507,
+	40.7062417],
+	"description": "See listed services",
+	"latitude": 40.7062417,
+	"longitude": -74.0124507,
+	"name": "New York, NY",
+	"short_desc": null,
+	"slug": "new-york-ny-54a60789-43f2-4c61-bd7a-b9b6397b18fc",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/new-york-ny-54a60789-43f2-4c61-bd7a-b9b6397b18fc",
+	"address": {
+		"id": 3766,
+		"address_1": "50 Broadway",
+		"address_2": "19th Floor",
+		"city": "New York",
+		"state_province": "NY",
+		"postal_code": "10004"
+	},
+	"organization": {
+		"id": 7840,
+		"accreditations": [],
+		"alternate_name": "VCL",
+		"date_incorporated": null,
+		"description": "The Veterans Crisis Line connects Veterans in crisis and their families and friends with qualified, caring Department of Veterans Affairs responders through a confidential toll-free hotline, online chat, or text. Veterans and their loved ones can call, chat online, or send a text message to 838255 to receive confidential support 24 hours a day, 7 days a week, 365 days a year. Support for deaf and hard of hearing individuals is available. \n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "VETERANS CRISIS LINE",
+		"website": "https://www.veteranscrisisline.net/",
+		"slug": "veterans-crisis-line",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/veterans-crisis-line",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/veterans-crisis-line/locations"
+	},
+	"phones": []
+}

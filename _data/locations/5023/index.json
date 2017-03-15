@@ -1,0 +1,48 @@
+{
+	"id": 5023,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	27],
+	"description": "See listed services",
+	"latitude": 27,
+	"longitude": -82,
+	"name": "Fort Myers, FL",
+	"short_desc": null,
+	"slug": "fort-myers-fl-7401-winkler-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/fort-myers-fl-7401-winkler-road",
+	"address": {
+		"id": 2102,
+		"address_1": "7401 Winkler Road",
+		"address_2": null,
+		"city": "Fort Myers",
+		"state_province": "FL",
+		"postal_code": "33919"
+	},
+	"organization": {
+		"id": 5023,
+		"accreditations": [],
+		"alternate_name": "Amigos en Cristo",
+		"date_incorporated": null,
+		"description": "Amigos Center provides family based immigration services (Naples, Bonita Springs and Fort Myers), emergency food bank (Immokalee), clothing distribution (Immokalee), and ESOL (Immokalee). \n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AMIGOS CENTER, INC.",
+		"website": "http://www.amigoscenter.org",
+		"slug": "amigos-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/amigos-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/amigos-center-inc/locations"
+	},
+	"phones": [{
+		"id": 5023,
+		"department": null,
+		"extension": null,
+		"number": "239-437-6727",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

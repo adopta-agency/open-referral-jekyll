@@ -1,0 +1,48 @@
+{
+	"id": 2547,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.749296,
+	24.5763839],
+	"description": "See listed services",
+	"latitude": 24.5763839,
+	"longitude": -81.749296,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-5525-college-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/key-west-fl-5525-college-road",
+	"address": {
+		"id": 1254,
+		"address_1": "5525 College Road",
+		"address_2": null,
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 2547,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Crime Stoppers of the Florida Keys is a community-based program designed to help law enforcement solve crimes by rewarding anonymous tipster who supply criminal information that lead to arrests.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CRIMESTOPPERS OF THE KEYS",
+		"website": "http://www.keysso.net/commrelations/stoppers/stoppers.htm",
+		"slug": "crimestoppers-of-the-keys",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/crimestoppers-of-the-keys",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/crimestoppers-of-the-keys/locations"
+	},
+	"phones": [{
+		"id": 2547,
+		"department": null,
+		"extension": null,
+		"number": "800-346-8477",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

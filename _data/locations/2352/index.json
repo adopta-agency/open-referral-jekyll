@@ -1,0 +1,48 @@
+{
+	"id": 2352,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Hialeah, FL",
+	"short_desc": null,
+	"slug": "hialeah-fl-8461be88-0ba1-4326-9eac-d8f029334584",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/hialeah-fl-8461be88-0ba1-4326-9eac-d8f029334584",
+	"address": {
+		"id": 1169,
+		"address_1": "3920 East 8th Avenue",
+		"address_2": null,
+		"city": "Hialeah",
+		"state_province": "FL",
+		"postal_code": "33013"
+	},
+	"organization": {
+		"id": 2351,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Kidz City Learning Center provides after programs, spring winter and summer camps, as well as assistance with homework, and private tutoring.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "KIDZ CITY LEARNING CENTER, INC.",
+		"website": "http://www.freewebs.com/kidzcity2008",
+		"slug": "kidz-city-learning-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/kidz-city-learning-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/kidz-city-learning-center-inc/locations"
+	},
+	"phones": [{
+		"id": 2352,
+		"department": null,
+		"extension": null,
+		"number": "786-255-4490",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

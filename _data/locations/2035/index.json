@@ -1,0 +1,48 @@
+{
+	"id": 2035,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Fort Lauderdale, FL",
+	"short_desc": null,
+	"slug": "fort-lauderdale-fl-2699-stirling-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/fort-lauderdale-fl-2699-stirling-road",
+	"address": {
+		"id": 1031,
+		"address_1": "2699 Stirling Road",
+		"address_2": "Suite B-303",
+		"city": "Fort Lauderdale",
+		"state_province": "FL",
+		"postal_code": "33312"
+	},
+	"organization": {
+		"id": 2034,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Chai Lifeline provides crucial emotional, social and financial help that enables families to cope with the diagnosis, treatment and repercussions of life-threatening or lifelong pediatric illness.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CHAI LIFELINE",
+		"website": "http://www.chailifeline.org",
+		"slug": "chai-lifeline",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/chai-lifeline",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/chai-lifeline/locations"
+	},
+	"phones": [{
+		"id": 2035,
+		"department": null,
+		"extension": null,
+		"number": "305-956-9990",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

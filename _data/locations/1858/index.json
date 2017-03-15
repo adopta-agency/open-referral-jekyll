@@ -1,0 +1,48 @@
+{
+	"id": 1858,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-122,
+	38],
+	"description": "See listed services",
+	"latitude": 38,
+	"longitude": -122,
+	"name": "San Francisco, CA",
+	"short_desc": null,
+	"slug": "san-francisco-ca-655-beach-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/san-francisco-ca-655-beach-street",
+	"address": {
+		"id": 978,
+		"address_1": "655 Beach Street",
+		"address_2": null,
+		"city": "San Francisco",
+		"state_province": "CA",
+		"postal_code": "94109"
+	},
+	"organization": {
+		"id": 1858,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "EyeCare America's mission is to reduce avoidable blindness and severe visual impairment by raising awareness, educating and facilitating eye care for the public.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "EYECARE AMERICA",
+		"website": "http://www.eyecareamerica.org",
+		"slug": "eyecare-america",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/eyecare-america",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/eyecare-america/locations"
+	},
+	"phones": [{
+		"id": 1858,
+		"department": null,
+		"extension": null,
+		"number": "800-222-3937",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

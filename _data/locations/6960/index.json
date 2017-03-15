@@ -1,0 +1,48 @@
+{
+	"id": 6960,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-62c8858d-40cb-4906-99ec-55029ef2532f",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-62c8858d-40cb-4906-99ec-55029ef2532f",
+	"address": {
+		"id": 3069,
+		"address_1": "1600 NW 10th Avenue",
+		"address_2": "Room 1143A (R699)",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 2759,
+		"accreditations": [],
+		"alternate_name": "UM",
+		"date_incorporated": null,
+		"description": "The University of Miami Leonard M. Miller School of Medicine, an academic medical center founded in 1952, is proud to serve South Florida, South America and the Caribbean in education, research, patient care and community service. Our vision is to develop the highest quality medical care, research and education in meaningful, sustainable ways while being culturally sensitive to our communityGu00c7u00d6s needs.\n\n###COL###\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNIVERSITY OF MIAMI - MILLER SCHOOL OF MEDICINE",
+		"website": "http://www.med.miami.edu/",
+		"slug": "university-of-miami-miller-school-of-medicine",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/university-of-miami-miller-school-of-medicine",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/university-of-miami-miller-school-of-medicine/locations"
+	},
+	"phones": [{
+		"id": 6960,
+		"department": null,
+		"extension": null,
+		"number": "305-243-6545",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

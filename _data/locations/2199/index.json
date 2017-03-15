@@ -1,0 +1,48 @@
+{
+	"id": 2199,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82.7117388,
+	27.9004204],
+	"description": "See listed services",
+	"latitude": 27.9004204,
+	"longitude": -82.7117388,
+	"name": "Clearwater, FL",
+	"short_desc": null,
+	"slug": "clearwater-fl-14155-58th-street-north",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/clearwater-fl-14155-58th-street-north",
+	"address": {
+		"id": 1109,
+		"address_1": "14155 58th Street North",
+		"address_2": "Suite 211",
+		"city": "Clearwater",
+		"state_province": "FL",
+		"postal_code": "33760"
+	},
+	"organization": {
+		"id": 2199,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "A 24-hour program that provides information and referrals on local health and human services, counseling, suicide prevention, volunteer opportunities, donation referrals, and crisis intervention/problem-solving counseling for individuals.\n\nLimited direct assistance for individuals and families with minor children in the household who meet eligibility criteria.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "2-1-1 TAMPA BAY CARES, INC.",
+		"website": "http://www.211tampabay.org",
+		"slug": "2-1-1-tampa-bay-cares-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/2-1-1-tampa-bay-cares-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/2-1-1-tampa-bay-cares-inc/locations"
+	},
+	"phones": [{
+		"id": 2199,
+		"department": null,
+		"extension": null,
+		"number": "727-210-4211",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

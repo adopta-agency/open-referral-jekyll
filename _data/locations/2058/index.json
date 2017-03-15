@@ -1,0 +1,48 @@
+{
+	"id": 2058,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-118.3192515,
+	34.0620554],
+	"description": "See listed services",
+	"latitude": 34.0620554,
+	"longitude": -118.3192515,
+	"name": "Los Angeles, CA",
+	"short_desc": null,
+	"slug": "los-angeles-ca",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/los-angeles-ca",
+	"address": {
+		"id": 1041,
+		"address_1": "4201 Wilshire Blvd.",
+		"address_2": "Suite 200",
+		"city": "Los Angeles",
+		"state_province": "CA",
+		"postal_code": "90010"
+	},
+	"organization": {
+		"id": 2058,
+		"accreditations": [],
+		"alternate_name": "BBA",
+		"date_incorporated": null,
+		"description": "An advocacy group whose primary function is to positively impact the disparity of wealth and resources available to black businesses. The Association is comprised of business owners, aspiring entrepreneurs and professionals dedicated to enhancing their businesses as well as the economic future of the Black community. Membership benefits include group medical insurance plans, quarterly newsletters, legislative representation, job opportunities, an information clearinghouse, workshops and seminars.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BLACK BUSINESS ASSOCIATION",
+		"website": "http://www.bbala.org/",
+		"slug": "black-business-association",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/black-business-association",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/black-business-association/locations"
+	},
+	"phones": [{
+		"id": 2058,
+		"department": null,
+		"extension": null,
+		"number": "323-291-9334",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 6596,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-7500-sw-87th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-7500-sw-87th-avenue",
+	"address": {
+		"id": 2826,
+		"address_1": "7500 SW 87th Avenue",
+		"address_2": "Suite 200",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33173"
+	},
+	"organization": {
+		"id": 510,
+		"accreditations": [],
+		"alternate_name": "CCFA",
+		"date_incorporated": null,
+		"description": "CCFA is dedicated to finding a cure for Crohn's disease and ulcerative colitis and to improving the quality of life for those afflicted with these illnesses. Maintains a coordinated national program of research and education, and helps patients and their families by offering mutual support programs.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CROHN'S & COLITIS FOUNDATION OF AMERICA, INC.",
+		"website": "http://www.ccfa.org",
+		"slug": "crohn-s-colitis-foundation-of-america-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/crohn-s-colitis-foundation-of-america-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/crohn-s-colitis-foundation-of-america-inc/locations"
+	},
+	"phones": [{
+		"id": 6596,
+		"department": null,
+		"extension": null,
+		"number": "305-913-0690",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 1835,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.5888922,
+	30.2547473],
+	"description": "See listed services",
+	"latitude": 30.2547473,
+	"longitude": -81.5888922,
+	"name": "Jacksonville, FL",
+	"short_desc": null,
+	"slug": "jacksonville-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/jacksonville-fl",
+	"address": {
+		"id": 967,
+		"address_1": "4203 Southpoint Boulevard",
+		"address_2": null,
+		"city": "Jacksonville",
+		"state_province": "FL",
+		"postal_code": "32216"
+	},
+	"organization": {
+		"id": 1835,
+		"accreditations": [],
+		"alternate_name": "Daniel Kids",
+		"date_incorporated": null,
+		"description": "This is a statewide information and referral service funded by DCF and administered by Daniel Memorial in Jacksonville. The line provides information to callers with concerns regarding adoption, such as couples interested in adopting a child and women interested in placing an infant for adoption. Operators will mail requested printed materials. This center also provides registration applications for DCF' Adoption Reunion Registry program, which assists parents wanting to locate the now-adult child they placed for adoption. Also registers adult adoptees who are searching for their birth parents.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA ADOPTION INFORMATION CENTER, INC.",
+		"website": "http://www.adoptflorida.com",
+		"slug": "florida-adoption-information-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-adoption-information-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-adoption-information-center-inc/locations"
+	},
+	"phones": [{
+		"id": 1835,
+		"department": null,
+		"extension": null,
+		"number": "800-962-3678",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

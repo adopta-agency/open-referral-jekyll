@@ -1,0 +1,48 @@
+{
+	"id": 7663,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.234252,
+	25.83607],
+	"description": "See listed services",
+	"latitude": 25.83607,
+	"longitude": -80.234252,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-6745-nw-23rd-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-6745-nw-23rd-avenue",
+	"address": {
+		"id": 3618,
+		"address_1": "6745 NW 23rd Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33147"
+	},
+	"organization": {
+		"id": 555,
+		"accreditations": [],
+		"alternate_name": "CIS",
+		"date_incorporated": null,
+		"description": "The Communities In Schools of Miami (CIS) Miami Reads! Program is a literacy tutoring program for children in grades K-5. It is provided on-site at targeted Miami-Dade County Public Elementary Schools. It is offered during the school day and throughout the academic year. The program serves at-risk children and schools that are unable to provide literacy tutoring due to limited budgets and available volunteers.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COMMUNITIES IN SCHOOLS - AMERICORPS MIAMI READS",
+		"website": "http://www.cismiami.org",
+		"slug": "communities-in-schools-americorps-miami-reads",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/communities-in-schools-americorps-miami-reads",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/communities-in-schools-americorps-miami-reads/locations"
+	},
+	"phones": [{
+		"id": 7663,
+		"department": null,
+		"extension": null,
+		"number": "305-694-4170",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

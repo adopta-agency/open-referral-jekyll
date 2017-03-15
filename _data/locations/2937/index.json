@@ -1,0 +1,48 @@
+{
+	"id": 2937,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.252078,
+	25.727431],
+	"description": "See listed services",
+	"latitude": 25.727431,
+	"longitude": -80.252078,
+	"name": "Coconut Grove, FL",
+	"short_desc": null,
+	"slug": "coconut-grove-fl-3634-grand-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/coconut-grove-fl-3634-grand-avenue",
+	"address": {
+		"id": 1457,
+		"address_1": "3634 Grand Avenue",
+		"address_2": null,
+		"city": "Coconut Grove",
+		"state_province": "FL",
+		"postal_code": "33133"
+	},
+	"organization": {
+		"id": 2937,
+		"accreditations": [],
+		"alternate_name": "TGHI",
+		"date_incorporated": null,
+		"description": "Thelma Gibson Health Initiative provides health related care to diverse and underserved groups within Coconut Grove, Coral Gables, South Miami and the wider Miami-Dade community. Services include HIV/AIDS prevention and testing, substance abuse prevention, counseling, treatment and follow up, elderly case management and the TGHI Youth Prevention Intervention Program offering youth and their families Gu00c7u00a3wrap-aroundGu00c7u00a5 services including individual, family, and group counseling, targeted case management, prevocational skills training, and personal as well as cultural enrichment experiences.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THELMA GIBSON HEALTH INITIATIVE, INC.",
+		"website": "http://www.tghimiami.org",
+		"slug": "thelma-gibson-health-initiative-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/thelma-gibson-health-initiative-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/thelma-gibson-health-initiative-inc/locations"
+	},
+	"phones": [{
+		"id": 2937,
+		"department": null,
+		"extension": null,
+		"number": "305-446-1543",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

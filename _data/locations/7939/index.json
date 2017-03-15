@@ -1,0 +1,48 @@
+{
+	"id": 7939,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.295959,
+	25.7826613],
+	"description": "See listed services",
+	"latitude": 25.7826613,
+	"longitude": -80.295959,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-9a25b1c6-6457-4d8e-bfb2-45cf0d32a9a8",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-9a25b1c6-6457-4d8e-bfb2-45cf0d32a9a8",
+	"address": {
+		"id": 3859,
+		"address_1": "6100 Blue Lagoon Drive",
+		"address_2": "Suite 460",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33126"
+	},
+	"organization": {
+		"id": 2894,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "ASPIRA of Florida oversees three charter charter schools within Miami-Dade County. Services include counseling, tutoring and after school programs.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ASPIRA - CHARTER MIDDLE SCHOOLS",
+		"website": "http://www.aspirafl.org",
+		"slug": "aspira-charter-middle-schools",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/aspira-charter-middle-schools",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/aspira-charter-middle-schools/locations"
+	},
+	"phones": [{
+		"id": 7939,
+		"department": null,
+		"extension": null,
+		"number": "305-276-6767",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

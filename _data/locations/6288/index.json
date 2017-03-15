@@ -1,0 +1,48 @@
+{
+	"id": 6288,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2071337,
+	25.9246087],
+	"description": "See listed services",
+	"latitude": 25.9246087,
+	"longitude": -80.2071337,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-444-nw-165th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-444-nw-165th-street",
+	"address": {
+		"id": 2680,
+		"address_1": "444 NW 165th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33169"
+	},
+	"organization": {
+		"id": 6288,
+		"accreditations": [],
+		"alternate_name": "MVP",
+		"date_incorporated": null,
+		"description": "Provides youth athletic development, academic responsibility, career development, health and wellness education, and leadership skills through mentoring, coaching, and educating, kids develop habits that become the building blocks of life's success.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MENTORING VALUABLE PROTEGES, INC.",
+		"website": "http://mvpinc.org",
+		"slug": "mentoring-valuable-proteges-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/mentoring-valuable-proteges-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/mentoring-valuable-proteges-inc/locations"
+	},
+	"phones": [{
+		"id": 6288,
+		"department": null,
+		"extension": null,
+		"number": "305-749-6090",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

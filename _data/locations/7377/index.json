@@ -1,0 +1,41 @@
+{
+	"id": 7377,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3145704,
+	25.7030836],
+	"description": "See listed services",
+	"latitude": 25.7030836,
+	"longitude": -80.3145704,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-fd89f906-0603-493f-b4e9-52efde19252b",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-fd89f906-0603-493f-b4e9-52efde19252b",
+	"address": {
+		"id": 3364,
+		"address_1": "7412 Sunset Drive",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33143"
+	},
+	"organization": {
+		"id": 6368,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Switchboard of Miami's Family Counseling Services Division provides an array of specialized mental health services in areas including Infant Mental Health, Sexual Violence Intervention, Violence Prevention Education, Care Coordination, and Family Therapy. Family Counseling Services also offers individual, group and/or family therapy, children's case management services, outreach education, as well as psychological testing and evaluation.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SWITCHBOARD OF MIAMI - FAMILY COUNSELING SERVICES DIVISION",
+		"website": "http://www.familycounseling.org",
+		"slug": "switchboard-of-miami-family-counseling-services-division",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/switchboard-of-miami-family-counseling-services-division",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/switchboard-of-miami-family-counseling-services-division/locations"
+	},
+	"phones": []
+}

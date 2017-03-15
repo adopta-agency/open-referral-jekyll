@@ -1,0 +1,48 @@
+{
+	"id": 5860,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-6a69f02a-aca2-4381-849a-3c28dfb5937d",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-6a69f02a-aca2-4381-849a-3c28dfb5937d",
+	"address": {
+		"id": 2515,
+		"address_1": "17400 SW 97th Avenue",
+		"address_2": "Suite 110",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 5858,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Offers a variety of programs for children, adults, and families on a sliding scale basis, in areas ranging from social skills, behavioral workshops, anger management, career enrichment, H.O.T.T.I.- adolescent program promoting positive values and community service, social activities, OA-Over Eaters Anonymous, and other support groups.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BANYAN STREET COMMUNITY CENTER, INC.",
+		"website": "http://www.banyanstreetcommunitycenter.com/",
+		"slug": "banyan-street-community-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/banyan-street-community-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/banyan-street-community-center-inc/locations"
+	},
+	"phones": [{
+		"id": 5860,
+		"department": null,
+		"extension": null,
+		"number": "305-926-8331",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

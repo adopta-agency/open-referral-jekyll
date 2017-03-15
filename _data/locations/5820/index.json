@@ -1,0 +1,48 @@
+{
+	"id": 5820,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2077043,
+	25.7950569],
+	"description": "See listed services",
+	"latitude": 25.7950569,
+	"longitude": -80.2077043,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-ff7370e8-3945-49b8-bb2f-599c09609bfa",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-ff7370e8-3945-49b8-bb2f-599c09609bfa",
+	"address": {
+		"id": 2497,
+		"address_1": "750 NW 20th Street",
+		"address_2": "Building G-150",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33127"
+	},
+	"organization": {
+		"id": 5820,
+		"accreditations": [],
+		"alternate_name": "DADE COUNTY DENTAL RESEARCH CLINIC",
+		"date_incorporated": null,
+		"description": "Community Smiles provides cleanings, diagnostic x-rays, and encourages regular hygiene and maintenance. Also specializes in Pediatric Dental Care, Removable Prosthetics, Crown and Bridge, Endodontics, Periodontics, Orthodontics, Implants, and Oral Surgery. Community Smiles is a nonprofit organization that also hosts a residency program for doctors (Florida Institute for Advanced Dental Education).",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COMMUNITY SMILES",
+		"website": "http://www.community-smiles.org",
+		"slug": "community-smiles",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/community-smiles",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/community-smiles/locations"
+	},
+	"phones": [{
+		"id": 5820,
+		"department": null,
+		"extension": null,
+		"number": "786-350-2682",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

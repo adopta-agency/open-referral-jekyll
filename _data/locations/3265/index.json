@@ -1,0 +1,48 @@
+{
+	"id": 3265,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-b3d93fb5-3997-4d5a-a9be-535af84e8feb",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-b3d93fb5-3997-4d5a-a9be-535af84e8feb",
+	"address": {
+		"id": 1613,
+		"address_1": "730 NW 107th Avenue",
+		"address_2": "Suite 100",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33172"
+	},
+	"organization": {
+		"id": 3263,
+		"accreditations": [],
+		"alternate_name": "IRC",
+		"date_incorporated": null,
+		"description": "The International Rescue Committee (IRC) responds to the worldGu00c7u00d6s worst humanitarian crises and helps people to survive and rebuild their lives. At work in over 40 countries and 22 U.S. cities to restore safety, dignity and hope, the IRC leads the way from harm to home.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "INTERNATIONAL RESCUE COMMITTEE, INC.",
+		"website": "http://www.rescue.org/miami",
+		"slug": "international-rescue-committee-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/international-rescue-committee-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/international-rescue-committee-inc/locations"
+	},
+	"phones": [{
+		"id": 3265,
+		"department": null,
+		"extension": null,
+		"number": "305-640-9881",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

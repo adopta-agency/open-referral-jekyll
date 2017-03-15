@@ -1,0 +1,48 @@
+{
+	"id": 7573,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1851334,
+	25.8489195],
+	"description": "See listed services",
+	"latitude": 25.8489195,
+	"longitude": -80.1851334,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-8000-biscayne-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-8000-biscayne-boulevard",
+	"address": {
+		"id": 3535,
+		"address_1": "8000 Biscayne Boulevard",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33138"
+	},
+	"organization": {
+		"id": 3311,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Clinic offering general medicine, family practice, pediatrics (2 years and older), internal medicine, preventive medicine, women's health, gynecology, podiatry, general surgery, geriatric medicine, orthopedics, gynecology, podiatry, cardiology, neurology, urology, endocrinology, ophthalmology, skin care, psychiatry, pulmonology, allergy, general radiology, mammography, optical.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CENTROS MEDICOS LAS AMERICAS, INC.",
+		"website": "http://www.cmaclinic.com",
+		"slug": "centros-medicos-las-americas-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/centros-medicos-las-americas-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/centros-medicos-las-americas-inc/locations"
+	},
+	"phones": [{
+		"id": 7573,
+		"department": null,
+		"extension": null,
+		"number": "305-759-4778",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

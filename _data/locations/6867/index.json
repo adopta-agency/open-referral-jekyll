@@ -1,0 +1,48 @@
+{
+	"id": 6867,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "South Miami, FL",
+	"short_desc": null,
+	"slug": "south-miami-fl-6350-sunset-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/south-miami-fl-6350-sunset-drive",
+	"address": {
+		"id": 3005,
+		"address_1": "6350 Sunset Drive",
+		"address_2": null,
+		"city": "South Miami",
+		"state_province": "FL",
+		"postal_code": "33143"
+	},
+	"organization": {
+		"id": 1311,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Community Health of South Florida, Inc. a non-profit health care organization providing affordable quality primary and behavioral health care services to the residents of rapidly growing South Florida. Dental, Laboratory Radiology and Low Cost Pharmacy services on site.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CHI COMMUNITY HEALTH OF SOUTH FLORIDA, INC.",
+		"website": "http://chisouthfl.org",
+		"slug": "chi-community-health-of-south-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/chi-community-health-of-south-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/chi-community-health-of-south-florida-inc/locations"
+	},
+	"phones": [{
+		"id": 6867,
+		"department": null,
+		"extension": "5528.0",
+		"number": "786-293-5500",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

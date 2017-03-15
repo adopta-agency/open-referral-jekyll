@@ -1,0 +1,48 @@
+{
+	"id": 998,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-74,
+	41],
+	"description": "See listed services",
+	"latitude": 41,
+	"longitude": -74,
+	"name": "White Plains, NY",
+	"short_desc": null,
+	"slug": "white-plains-ny",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/white-plains-ny",
+	"address": {
+		"id": 521,
+		"address_1": "1275 Mamaroneck Avenue",
+		"address_2": null,
+		"city": "White Plains",
+		"state_province": "NY",
+		"postal_code": "10605"
+	},
+	"organization": {
+		"id": 998,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "March of Dimes is a volunteer health agency that works to prevent birth defects through research, professional/public education and coalition, advocacy and fund-raising. Helps moms have full-term pregnancies and research the problems that threaten the health of babies.\r\n\r\n###MON###\r\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MARCH OF DIMES FOUNDATION, INC.",
+		"website": "http://www.marchofdimes.com",
+		"slug": "march-of-dimes-foundation-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/march-of-dimes-foundation-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/march-of-dimes-foundation-inc/locations"
+	},
+	"phones": [{
+		"id": 998,
+		"department": null,
+		"extension": null,
+		"number": "914-997-4488",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

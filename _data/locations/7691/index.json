@@ -1,0 +1,48 @@
+{
+	"id": 7691,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3353426,
+	25.6653934],
+	"description": "See listed services",
+	"latitude": 25.6653934,
+	"longitude": -80.3353426,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-8700-sw-112th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-8700-sw-112th-street",
+	"address": {
+		"id": 3637,
+		"address_1": "8700 SW 112th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33176"
+	},
+	"organization": {
+		"id": 7691,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Friendship Circle provides Sunday Circle, a monthly Sunday drop off program with various therapies, Mom's Night Out program, after school activities, winter, and summer camp programs, sports programs, and holiday programs. In addition an array of services available to those with disabilities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FRIENDSHIP CIRCLE PROJECT OF CHABAD OF KENDALL/PINECREST",
+		"website": "http://www.fcmiami.org/",
+		"slug": "friendship-circle-project-of-chabad-of-kendall-pinecrest",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/friendship-circle-project-of-chabad-of-kendall-pinecrest",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/friendship-circle-project-of-chabad-of-kendall-pinecrest/locations"
+	},
+	"phones": [{
+		"id": 7691,
+		"department": null,
+		"extension": "11.0",
+		"number": "305-234-5654",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

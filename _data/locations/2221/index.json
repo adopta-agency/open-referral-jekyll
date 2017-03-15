@@ -1,0 +1,48 @@
+{
+	"id": 2221,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-87.9086557,
+	43.0334411],
+	"description": "See listed services",
+	"latitude": 43.0334411,
+	"longitude": -87.9086557,
+	"name": "Milwaukee, WI",
+	"short_desc": null,
+	"slug": "milwaukee-wi",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/milwaukee-wi",
+	"address": {
+		"id": 1116,
+		"address_1": "207 East Buffalo Street",
+		"address_2": "Suite 211",
+		"city": "Milwaukee",
+		"state_province": "WI",
+		"postal_code": "53202"
+	},
+	"organization": {
+		"id": 2221,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "9to5 is one of the largest, most respected national membership organizations of working women in the U.S., dedicated to putting working womenGu00c7u00d6s issues on the public agenda. Most members are women, many who are working two jobs or more to make ends meet their families. Support, counseling and referral services provided for victims of workplace issues and workplace violations for everyone nationwide.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "9 TO 5 NATIONAL ASSOCIATION OF WORKING WOMEN, INC.",
+		"website": "http://www.9to5.org",
+		"slug": "9-to-5-national-association-of-working-women-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/9-to-5-national-association-of-working-women-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/9-to-5-national-association-of-working-women-inc/locations"
+	},
+	"phones": [{
+		"id": 2221,
+		"department": null,
+		"extension": null,
+		"number": "800-522-0925",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

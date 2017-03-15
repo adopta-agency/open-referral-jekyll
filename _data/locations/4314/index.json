@@ -1,0 +1,41 @@
+{
+	"id": 4314,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "North Miami Beach, FL",
+	"short_desc": null,
+	"slug": "north-miami-beach-fl-1247-ne-167th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/north-miami-beach-fl-1247-ne-167th-street",
+	"address": {
+		"id": 1973,
+		"address_1": "1247 NE 167th Street",
+		"address_2": null,
+		"city": "North Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33162"
+	},
+	"organization": {
+		"id": 548,
+		"accreditations": [],
+		"alternate_name": "CIS",
+		"date_incorporated": null,
+		"description": "Communities in Schools is dedicated to creating public/private partnerships for the benefit of Miami-Dade County Public Schools and community centers. Services offered include a mentorship program which is targeted to youth who are at-risk of dropping out of school.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COMMUNITIES IN SCHOOLS OF MIAMI, INC.",
+		"website": "http://www.cismiami.org",
+		"slug": "communities-in-schools-of-miami-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/communities-in-schools-of-miami-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/communities-in-schools-of-miami-inc/locations"
+	},
+	"phones": []
+}

@@ -1,0 +1,48 @@
+{
+	"id": 3788,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Sweetwater, FL",
+	"short_desc": null,
+	"slug": "sweetwater-fl-10600-sw-4th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/sweetwater-fl-10600-sw-4th-street",
+	"address": {
+		"id": 1795,
+		"address_1": "10600 SW 4th Street",
+		"address_2": null,
+		"city": "Sweetwater",
+		"state_province": "FL",
+		"postal_code": "33174"
+	},
+	"organization": {
+		"id": 3787,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The City of Sweetwater City Hall provides many services to its residents and others in need.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CITY OF SWEETWATER",
+		"website": "http://cityofsweetwater.fl.gov/",
+		"slug": "city-of-sweetwater",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-sweetwater",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-sweetwater/locations"
+	},
+	"phones": [{
+		"id": 3788,
+		"department": null,
+		"extension": null,
+		"number": "305-552-1319",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

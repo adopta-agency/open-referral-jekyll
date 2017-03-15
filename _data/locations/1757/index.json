@@ -1,0 +1,48 @@
+{
+	"id": 1757,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2d5d2b5c-909f-4e1f-aa28-995798e73dfe",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-2d5d2b5c-909f-4e1f-aa28-995798e73dfe",
+	"address": {
+		"id": 908,
+		"address_1": "1601 NW 12th Avenue",
+		"address_2": "Room 3036A",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 1756,
+		"accreditations": [],
+		"alternate_name": "SCDAA",
+		"date_incorporated": null,
+		"description": "SCDAA provides information an referral, publications, and various other services depending on chapter location regarding sickle cell disease.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SICKLE CELL DISEASE ASSOCIATION OF AMERICA, INC.",
+		"website": "http://www.sicklecelldisease.org",
+		"slug": "sickle-cell-disease-association-of-america-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/sickle-cell-disease-association-of-america-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/sickle-cell-disease-association-of-america-inc/locations"
+	},
+	"phones": [{
+		"id": 1757,
+		"department": null,
+		"extension": null,
+		"number": "305-324-6219",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

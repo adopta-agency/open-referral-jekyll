@@ -1,0 +1,48 @@
+{
+	"id": 3584,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82.53373,
+	27.3377868],
+	"description": "See listed services",
+	"latitude": 27.3377868,
+	"longitude": -82.53373,
+	"name": "Sarasota, FL",
+	"short_desc": null,
+	"slug": "sarasota-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/sarasota-fl",
+	"address": {
+		"id": 1749,
+		"address_1": "1800 2nd Street",
+		"address_2": "Suite #102",
+		"city": "Sarasota",
+		"state_province": "FL",
+		"postal_code": "34236"
+	},
+	"organization": {
+		"id": 3584,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "United Way 2-1-1 of Manasota provides information and referral for DeSoto, Manatee & Sarasota Counties.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNITED WAY 2-1-1 OF MANASOTA, INC.",
+		"website": "http://www.uw211manasota.net",
+		"slug": "united-way-2-1-1-of-manasota-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-way-2-1-1-of-manasota-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-way-2-1-1-of-manasota-inc/locations"
+	},
+	"phones": [{
+		"id": 3584,
+		"department": null,
+		"extension": null,
+		"number": "877-211-0444",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

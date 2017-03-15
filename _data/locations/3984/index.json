@@ -1,0 +1,48 @@
+{
+	"id": 3984,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.406856,
+	25.6964219],
+	"description": "See listed services",
+	"latitude": 25.6964219,
+	"longitude": -80.406856,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-7800-sw-132nd-court",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-7800-sw-132nd-court",
+	"address": {
+		"id": 1847,
+		"address_1": "7800 SW 132nd Court",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33183"
+	},
+	"organization": {
+		"id": 3984,
+		"accreditations": [],
+		"alternate_name": "Anolan D Arias Family Day Care Home",
+		"date_incorporated": null,
+		"description": "Provides before and after school care, full day care, night care, and weekend care on a case by case basis.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NICE KIDS LLC.",
+		"website": null,
+		"slug": "nice-kids-llc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/nice-kids-llc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/nice-kids-llc/locations"
+	},
+	"phones": [{
+		"id": 3984,
+		"department": null,
+		"extension": null,
+		"number": "786-351-7377",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

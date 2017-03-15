@@ -1,0 +1,48 @@
+{
+	"id": 6417,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-71.059572,
+	42.3586079],
+	"description": "See listed services",
+	"latitude": 42.3586079,
+	"longitude": -71.059572,
+	"name": "Boston, MA",
+	"short_desc": null,
+	"slug": "boston-ma",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/boston-ma",
+	"address": {
+		"id": 2728,
+		"address_1": "18 Tremont Street",
+		"address_2": "Suite 3038",
+		"city": "Boston",
+		"state_province": "MA",
+		"postal_code": "02108"
+	},
+	"organization": {
+		"id": 6417,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The mission of the International OCD Foundation is to help individuals with obsessive compulsive disorder (OCD) and related disorders to live full and productive lives. Our aim is to increase access to effective treatment, end the stigma associated with mental health issues, and foster a community for those affected by OCD and the professionals who treat them.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "INTERNATIONAL OCD FOUNDATION, INC.",
+		"website": "http://www.ocfoundation.org",
+		"slug": "international-ocd-foundation-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/international-ocd-foundation-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/international-ocd-foundation-inc/locations"
+	},
+	"phones": [{
+		"id": 6417,
+		"department": null,
+		"extension": null,
+		"number": "617-973-5801",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

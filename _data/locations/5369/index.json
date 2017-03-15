@@ -1,0 +1,48 @@
+{
+	"id": 5369,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -82,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-701-5th-avenue-south",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-701-5th-avenue-south",
+	"address": {
+		"id": 2294,
+		"address_1": "701 5th Avenue South",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34102"
+	},
+	"organization": {
+		"id": 5369,
+		"accreditations": [],
+		"alternate_name": "TNP, The Players, The Sugden",
+		"date_incorporated": null,
+		"description": "The Naples Players is a 60+ year old community theatre based in the Sugden Community Theatre. Performs 10 productions annually in two indoor performance spaces, Blackburn Hall (326 seats) and the Tobye Studio (100 seats). Volunteers are the backbone of the organization as actors, backstage crew, costumers, set builders and painters. Over 400 active volunteers contribute 60,000-65,000 hour annually.\r\n\r\nThe Naples Players also offers educational classes and workshops for adults Sept.-May and for children, KidzAct, is a skills based program operating year round. Financial assistance is provided with the completion of an application.\r\n\r\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE NAPLES PLAYERS, INC.",
+		"website": "http://naplesplayers.org",
+		"slug": "the-naples-players-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-naples-players-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-naples-players-inc/locations"
+	},
+	"phones": [{
+		"id": 5369,
+		"department": null,
+		"extension": "15.0",
+		"number": "239-434-7340",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

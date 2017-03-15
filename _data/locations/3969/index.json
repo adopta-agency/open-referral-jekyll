@@ -1,0 +1,48 @@
+{
+	"id": 3969,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.4181097,
+	26.4173183],
+	"description": "See listed services",
+	"latitude": 26.4173183,
+	"longitude": -81.4181097,
+	"name": "Immokalee, FL",
+	"short_desc": null,
+	"slug": "immokalee-fl-110-south-2nd-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/immokalee-fl-110-south-2nd-street",
+	"address": {
+		"id": 1837,
+		"address_1": "110 South 2nd Street",
+		"address_2": null,
+		"city": "Immokalee",
+		"state_province": "FL",
+		"postal_code": "34142"
+	},
+	"organization": {
+		"id": 3969,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Coalition of Immokalee Workers provide community organizing for fair wages and working conditions for farmworkers; workers' rights education; recovery of back wages, peer counseling and assistance for survivors of human trafficking; referrals to agencies and assistance navigating agencies; cooperative staple food store at cost and community radio station broadcasting community service information.\r\n\r\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE COALITION OF IMMOKALEE WORKERS, INC.",
+		"website": "http://www.ciw-online.org",
+		"slug": "the-coalition-of-immokalee-workers-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-coalition-of-immokalee-workers-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-coalition-of-immokalee-workers-inc/locations"
+	},
+	"phones": [{
+		"id": 3969,
+		"department": null,
+		"extension": null,
+		"number": "239-657-8311",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

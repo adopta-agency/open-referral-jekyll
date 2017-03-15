@@ -1,0 +1,48 @@
+{
+	"id": 1593,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-bd205493-861e-4ade-ad6c-5c4db3c68034",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-bd205493-861e-4ade-ad6c-5c4db3c68034",
+	"address": {
+		"id": 829,
+		"address_1": "7990 SW 117th Avenue",
+		"address_2": "Suite 200",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33183"
+	},
+	"organization": {
+		"id": 1589,
+		"accreditations": [],
+		"alternate_name": "PtoP, Padre a Padre de Miami, Parent to Parent",
+		"date_incorporated": null,
+		"description": "The mission of Parent to Parent of Miami is to empower and support a network of parents of children and adults with disabilities. The agency envisions that all parents of children and adults with disabilities will have universal access to information, training, support and advocacy skills to ensure children achieve their fullest potential, while also leading the community on the rights of all children. As families have access to this vital process, they emerge confident and with a sense of cohesiveness that allows them to effectively access the services needed.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "PARENT TO PARENT, INC.",
+		"website": "http://www.ptopmiami.org",
+		"slug": "parent-to-parent-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/parent-to-parent-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/parent-to-parent-inc/locations"
+	},
+	"phones": [{
+		"id": 1593,
+		"department": null,
+		"extension": null,
+		"number": "305-271-9797",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

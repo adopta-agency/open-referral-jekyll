@@ -1,0 +1,48 @@
+{
+	"id": 4445,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-12350-sw-285th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/homestead-fl-12350-sw-285th-street",
+	"address": {
+		"id": 2031,
+		"address_1": "12350 SW 285th Street",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33033"
+	},
+	"organization": {
+		"id": 2194,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Our mission is to foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "U.S. DEPARTMENT OF LABOR",
+		"website": "http://www.dol.gov",
+		"slug": "u-s-department-of-labor",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-department-of-labor",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-department-of-labor/locations"
+	},
+	"phones": [{
+		"id": 4445,
+		"department": null,
+		"extension": null,
+		"number": "305-257-4800",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

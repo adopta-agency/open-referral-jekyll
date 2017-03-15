@@ -1,0 +1,48 @@
+{
+	"id": 213,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Opa Locka, FL",
+	"short_desc": null,
+	"slug": "opa-locka-fl-e8776f52-504d-4394-8250-602280a1c67b",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/opa-locka-fl-e8776f52-504d-4394-8250-602280a1c67b",
+	"address": {
+		"id": 127,
+		"address_1": "15055 NW 27th Avenue",
+		"address_2": null,
+		"city": "Opa Locka",
+		"state_province": "FL",
+		"postal_code": "33054"
+	},
+	"organization": {
+		"id": 207,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Jackson North Community Mental Health Center (Jackson North CMHC) is a community-based, multi-service that provides comprehensive behavioral healthcare services for co-occurring adults and children with severe persistent mental illness and substance abuse problems. These services are provided for residents in the north and northwestern sections of Miami-Dade County. \n\nThe Center specializes in the provision of:\n \n* Adult Mental Health and Substance Abuse Services\n* Adult Case Management\n* Psychosocial Rehabilitation Services \n* Children's Mental Health and Substance Abuse Services\n* Children's Case Management Services\n* Individual and Group Therapy \n* Crisis Stabilization and Detoxification Services\n* Anger and Stress Management \n* Adult and Child Medication Management\n* Temporary Assistance for Needy Families (TANF)",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "JACKSON COMMUNITY MENTAL HEALTH CENTER",
+		"website": "http://www.jhsmiami.org",
+		"slug": "jackson-community-mental-health-center",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/jackson-community-mental-health-center",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/jackson-community-mental-health-center/locations"
+	},
+	"phones": [{
+		"id": 213,
+		"department": null,
+		"extension": null,
+		"number": "786-466-2800",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

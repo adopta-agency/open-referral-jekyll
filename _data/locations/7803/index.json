@@ -1,0 +1,48 @@
+{
+	"id": 7803,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.0975106,
+	26.2722358],
+	"description": "See listed services",
+	"latitude": 26.2722358,
+	"longitude": -80.0975106,
+	"name": "Pompano Beach, FL",
+	"short_desc": null,
+	"slug": "pompano-beach-fl-3310-north-federal-highway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/pompano-beach-fl-3310-north-federal-highway",
+	"address": {
+		"id": 3734,
+		"address_1": "3310 North Federal Highway",
+		"address_2": null,
+		"city": "Pompano Beach",
+		"state_province": "FL",
+		"postal_code": "33064"
+	},
+	"organization": {
+		"id": 7803,
+		"accreditations": [],
+		"alternate_name": "DMCC",
+		"date_incorporated": null,
+		"description": "Program assists South West Floridians with debt relief/management services, budget counseling, mortgage payment assistance, housing services (including foreclosure prevention and loan modifications, home buying education, reverse mortgage counseling), student loan counseling, and consumer assistance to eliminate payday loans and check cashing debt. Free financial education available to all consumers.\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "DEBT MANAGEMENT CREDIT COUNSELING CORP.",
+		"website": "http://www.dmcconline.org",
+		"slug": "debt-management-credit-counseling-corp",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/debt-management-credit-counseling-corp",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/debt-management-credit-counseling-corp/locations"
+	},
+	"phones": [{
+		"id": 7803,
+		"department": null,
+		"extension": null,
+		"number": "866-724-3328",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

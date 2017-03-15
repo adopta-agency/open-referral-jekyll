@@ -1,0 +1,48 @@
+{
+	"id": 7061,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.126796,
+	25.887263],
+	"description": "See listed services",
+	"latitude": 25.887263,
+	"longitude": -80.126796,
+	"name": "Bal Harbour, FL",
+	"short_desc": null,
+	"slug": "bal-harbour-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/bal-harbour-fl",
+	"address": {
+		"id": 3137,
+		"address_1": "655 96th Street",
+		"address_2": null,
+		"city": "Bal Harbour",
+		"state_province": "FL",
+		"postal_code": "33154"
+	},
+	"organization": {
+		"id": 7061,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Bal Harbour Police department is dedicated to serving and protecting the residents and visitors of Bal Harbour Village, Florida.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BAL HARBOUR POLICE DEPARTMENT",
+		"website": "http://balharbourpolice.org",
+		"slug": "bal-harbour-police-department",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/bal-harbour-police-department",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/bal-harbour-police-department/locations"
+	},
+	"phones": [{
+		"id": 7061,
+		"department": null,
+		"extension": null,
+		"number": "305-866-5000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

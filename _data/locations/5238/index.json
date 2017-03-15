@@ -1,0 +1,48 @@
+{
+	"id": 5238,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.234135,
+	25.929389],
+	"description": "See listed services",
+	"latitude": 25.929389,
+	"longitude": -80.234135,
+	"name": "Miami Gardens, FL",
+	"short_desc": null,
+	"slug": "miami-gardens-fl-17001-nw-20th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-gardens-fl-17001-nw-20th-avenue",
+	"address": {
+		"id": 2232,
+		"address_1": "17001 NW 20th Avenue",
+		"address_2": null,
+		"city": "Miami Gardens",
+		"state_province": "FL",
+		"postal_code": "33056"
+	},
+	"organization": {
+		"id": 5238,
+		"accreditations": [],
+		"alternate_name": "HOLY FAITH OUTREACH",
+		"date_incorporated": null,
+		"description": "Holy Faith Missionary Baptist Church provides food to low income families. They provide a stable religious environment to assist individuals with their needs as well as individual and family faith-based counseling. During the Christmas season, they provide gifts and food to low income families.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HOLY FAITH MISSIONARY BAPTIST CHURCH, INC.",
+		"website": "http://www.holyfaithmbc.org/",
+		"slug": "holy-faith-missionary-baptist-church-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/holy-faith-missionary-baptist-church-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/holy-faith-missionary-baptist-church-inc/locations"
+	},
+	"phones": [{
+		"id": 5238,
+		"department": null,
+		"extension": null,
+		"number": "305-621-5187",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

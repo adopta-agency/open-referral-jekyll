@@ -1,0 +1,48 @@
+{
+	"id": 2599,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-aac12e27-9765-42fe-958f-a9c773bea2ef",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-aac12e27-9765-42fe-958f-a9c773bea2ef",
+	"address": {
+		"id": 1287,
+		"address_1": "7765 SW 87th Avenue",
+		"address_2": "Suite 104",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33173"
+	},
+	"organization": {
+		"id": 2597,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides individual, couple, family and group psychotherapy. Registered psychotherapists with emphasis in parenting skills training, hypnotherapy, DUI providers for Miami-Dade county. Some insurance accepted. Sliding scale and VISA/MC.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "RESOLUTION COUNSELING CENTER, PA.",
+		"website": "http://resolutioncounselingctr.com",
+		"slug": "resolution-counseling-center-pa",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/resolution-counseling-center-pa",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/resolution-counseling-center-pa/locations"
+	},
+	"phones": [{
+		"id": 2599,
+		"department": null,
+		"extension": null,
+		"number": "305-412-8440",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

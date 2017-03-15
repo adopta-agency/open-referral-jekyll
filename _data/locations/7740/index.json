@@ -1,0 +1,48 @@
+{
+	"id": 7740,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2267854,
+	25.7436678],
+	"description": "See listed services",
+	"latitude": 25.7436678,
+	"longitude": -80.2267854,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-c3622932-fde7-412a-b60f-380a65582dcd",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-c3622932-fde7-412a-b60f-380a65582dcd",
+	"address": {
+		"id": 3678,
+		"address_1": "2000 South Dixie Highway",
+		"address_2": "Suite 104",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33133"
+	},
+	"organization": {
+		"id": 7740,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides individual counseling services for children, adolescents, and adults. Areas of specialization include career counseling, anxiety, depression, self-esteem issues, relationship issues, family conflict, divorce or break-up, womenGu00c7u00d6s issues, anger management, caregiver concerns and behavioral issues.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MICHELLE INGROSSO, M.S.ED.",
+		"website": "http://www.michelleingrosso.com",
+		"slug": "michelle-ingrosso-m-s-ed",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/michelle-ingrosso-m-s-ed",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/michelle-ingrosso-m-s-ed/locations"
+	},
+	"phones": [{
+		"id": 7740,
+		"department": null,
+		"extension": null,
+		"number": "305-707-7907",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

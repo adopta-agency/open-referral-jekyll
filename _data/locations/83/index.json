@@ -1,0 +1,48 @@
+{
+	"id": 83,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-962e2362-09d2-4b4c-920a-1d63693206f4",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-962e2362-09d2-4b4c-920a-1d63693206f4",
+	"address": {
+		"id": 47,
+		"address_1": "3510 Biscayne Boulevard",
+		"address_2": "3rd Floor",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33137"
+	},
+	"organization": {
+		"id": 82,
+		"accreditations": [],
+		"alternate_name": "COMMUNITY AIDS RESOURCE, INC.",
+		"date_incorporated": null,
+		"description": "Care Resource is one of the areas newest Federally Qualified Healthcare Centers serving clients in both Miami-Dade and Broward Counties. The agency provides easy, efficient access to a wide variety of quality health, prevention, education and psychosocial support services. Specific services offered include primary outpatient medical care, dental health care, case management, testing and counseling, women's programs, youth programs, food services, pharmacy and housing case management.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CARE RESOURCE, INC.",
+		"website": "http://www.careresource.org",
+		"slug": "care-resource-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/care-resource-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/care-resource-inc/locations"
+	},
+	"phones": [{
+		"id": 83,
+		"department": null,
+		"extension": "287.0",
+		"number": "305-576-1234",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

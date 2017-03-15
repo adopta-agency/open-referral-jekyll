@@ -1,0 +1,48 @@
+{
+	"id": 1279,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Opa Locka, FL",
+	"short_desc": null,
+	"slug": "opa-locka-fl-3926-nw-167th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/opa-locka-fl-3926-nw-167th-street",
+	"address": {
+		"id": 659,
+		"address_1": "3926 NW 167th Street",
+		"address_2": null,
+		"city": "Opa Locka",
+		"state_province": "FL",
+		"postal_code": "33054"
+	},
+	"organization": {
+		"id": 1277,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Dade Family Counseling, Inc. is a community-based non profit agency that provides comprehensive outpatient counseling services. We allow the clients to effectively address emotional, psychological and behavioral issues in a safe and stable environment.\n\nServices Provided:\n\n- Out-Patient Substance Abuse Treatment\n- Substance Abuse Evaluations and Treatment, if needed\n- Batterer's Intervention (DIP) / Domestic Violence\n- Anger Management Program\n- Parenting Skills Program\n- Individual, couples and Family counseling",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "DADE FAMILY COUNSELING, INC.",
+		"website": "http://www.dadefamilycounseling.com",
+		"slug": "dade-family-counseling-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/dade-family-counseling-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/dade-family-counseling-inc/locations"
+	},
+	"phones": [{
+		"id": 1279,
+		"department": null,
+		"extension": null,
+		"number": "305-621-6160",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

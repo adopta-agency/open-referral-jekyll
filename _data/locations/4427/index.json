@@ -1,0 +1,48 @@
+{
+	"id": 4427,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Hollywood, FL",
+	"short_desc": null,
+	"slug": "hollywood-fl-2321-hollywood-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/hollywood-fl-2321-hollywood-boulevard",
+	"address": {
+		"id": 2020,
+		"address_1": "2321 Hollywood Boulevard",
+		"address_2": "Suite B",
+		"city": "Hollywood",
+		"state_province": "FL",
+		"postal_code": "33020"
+	},
+	"organization": {
+		"id": 4427,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "United Financial Counselors strives to assist individuals in breaking their dependency on debt and in enriching their lives through financial independence. Our goal is to provide people with the necessary financial education and tools, regardless of their background or ability to pay.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNITED FINANCIAL COUNSELORS, INC.",
+		"website": "http://www.unitedcounselors.org",
+		"slug": "united-financial-counselors-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-financial-counselors-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-financial-counselors-inc/locations"
+	},
+	"phones": [{
+		"id": 4427,
+		"department": null,
+		"extension": null,
+		"number": "786-288-5320",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

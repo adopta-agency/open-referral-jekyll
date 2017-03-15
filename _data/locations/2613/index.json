@@ -1,0 +1,48 @@
+{
+	"id": 2613,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-87.931751,
+	43.122189],
+	"description": "See listed services",
+	"latitude": 43.122189,
+	"longitude": -87.931751,
+	"name": "Milwaukee, WI",
+	"short_desc": null,
+	"slug": "milwaukee-wi-5775-north-glen-park-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/milwaukee-wi-5775-north-glen-park-road",
+	"address": {
+		"id": 1296,
+		"address_1": "5775 North Glen Park Road",
+		"address_2": "Suite 201",
+		"city": "Milwaukee",
+		"state_province": "WI",
+		"postal_code": "53209"
+	},
+	"organization": {
+		"id": 2613,
+		"accreditations": [],
+		"alternate_name": "ABCD",
+		"date_incorporated": null,
+		"description": "ABCD offers one-to-one support provided by people who have first-hand experience with similar breast cancer diagnosis, treatment history and similar life circumstances is a fundamental element of personalized support. Regardless of ethnic background, gender, religion or sexual orientation, everyone diagnosed with breast cancer, and their family and friends, has a right to ABCDGu00c7u00d6s help without cost.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AFTER BREAST CANCER DIAGNOSIS",
+		"website": "http://www.abcdbreastcancersupport.org/",
+		"slug": "after-breast-cancer-diagnosis",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/after-breast-cancer-diagnosis",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/after-breast-cancer-diagnosis/locations"
+	},
+	"phones": [{
+		"id": 2613,
+		"department": null,
+		"extension": null,
+		"number": "800-221-2141",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

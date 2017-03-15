@@ -1,0 +1,48 @@
+{
+	"id": 77,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Hialeah, FL",
+	"short_desc": null,
+	"slug": "hialeah-fl-75-east-6th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/hialeah-fl-75-east-6th-street",
+	"address": {
+		"id": 43,
+		"address_1": "75 East 6th Street",
+		"address_2": null,
+		"city": "Hialeah",
+		"state_province": "FL",
+		"postal_code": "33010"
+	},
+	"organization": {
+		"id": 76,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Hialeah Housing Authority is dedicated to providing this community with quality, affordable housing that is decent and safe to eligible families. Assistance for low income families is made possible through the Affordable Housing Program, Housing Choice Voucher (Section 8) Program, Palm Centre, and Public Housing Program.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HIALEAH HOUSING AUTHORITY, INC.",
+		"website": "http://www.hialeahhousing.org",
+		"slug": "hialeah-housing-authority-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/hialeah-housing-authority-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/hialeah-housing-authority-inc/locations"
+	},
+	"phones": [{
+		"id": 77,
+		"department": null,
+		"extension": "1032.0",
+		"number": "305-888-9744",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

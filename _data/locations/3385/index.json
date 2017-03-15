@@ -1,0 +1,48 @@
+{
+	"id": 3385,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Pompano Beach, FL",
+	"short_desc": null,
+	"slug": "pompano-beach-fl-800-nw-33rd-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/pompano-beach-fl-800-nw-33rd-street",
+	"address": {
+		"id": 1667,
+		"address_1": "800 NW 33rd Street",
+		"address_2": null,
+		"city": "Pompano Beach",
+		"state_province": "FL",
+		"postal_code": "33064"
+	},
+	"organization": {
+		"id": 3385,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "South Florida Regional Transportation Authority (SFRTA.) was created with a vision to provide greater mobility in South Florida, thereby improving the economic viability and quality of life of the community, region and state. The Authority's mission is to coordinate, develop and implement a viable regional transportation system in South Florida that endeavors to meet the desires and needs for the movement of people, goods and services.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SOUTH FLORIDA REGIONAL TRANSPORTATION AUTHORITY",
+		"website": "http://www.sfrta.fl.gov",
+		"slug": "south-florida-regional-transportation-authority",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/south-florida-regional-transportation-authority",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/south-florida-regional-transportation-authority/locations"
+	},
+	"phones": [{
+		"id": 3385,
+		"department": null,
+		"extension": null,
+		"number": "888-467-3782",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

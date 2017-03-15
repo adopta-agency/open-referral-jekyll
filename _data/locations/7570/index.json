@@ -1,0 +1,48 @@
+{
+	"id": 7570,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2861804,
+	25.9282136],
+	"description": "See listed services",
+	"latitude": 25.9282136,
+	"longitude": -80.2861804,
+	"name": "Opa Locka, FL",
+	"short_desc": null,
+	"slug": "opa-locka-fl-2933-nw-170th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/opa-locka-fl-2933-nw-170th-street",
+	"address": {
+		"id": 3532,
+		"address_1": "2933 NW 170th Street",
+		"address_2": null,
+		"city": "Opa Locka",
+		"state_province": "FL",
+		"postal_code": "33055"
+	},
+	"organization": {
+		"id": 7570,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "At Blue-Fields Restoration Counseling Services, the specialization is in Faith-based/Christian counseling, as well as traditional counseling. In order to encourage change, a variety of methods are offered: Individual, Marriage, Couples/Family and Mental Health counseling for the following issues:\n\n* Family Counseling\n* Youth Counseling \n* Life problem-solving \n* Depression\n* Addiction\n* Fear\n* Anger\n* Grief\n* Bereavement\n* Pregnancy\n* Post Divorce\n* Financial",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BLUE-FIELDS RESTORATION SERVICES",
+		"website": null,
+		"slug": "blue-fields-restoration-services",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/blue-fields-restoration-services",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/blue-fields-restoration-services/locations"
+	},
+	"phones": [{
+		"id": 7570,
+		"department": null,
+		"extension": null,
+		"number": "954-254-9982",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

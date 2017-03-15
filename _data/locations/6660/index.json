@@ -1,0 +1,48 @@
+{
+	"id": 6660,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami Beach, FL",
+	"short_desc": null,
+	"slug": "miami-beach-fl-de79c0ff-9dfd-4be6-8c45-eba1761548d3",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-beach-fl-de79c0ff-9dfd-4be6-8c45-eba1761548d3",
+	"address": {
+		"id": 2860,
+		"address_1": "833 6th Street",
+		"address_2": null,
+		"city": "Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33139"
+	},
+	"organization": {
+		"id": 6659,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Community Resource Centers provide a variety of social services to economically disadvantaged individuals and families interested in achieving self-sufficiency. These services are provided through Community Action and Human Services' Self Help Institute and are offered at various service centers throughout Miami-Dade County.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "M-DC CAHS - SOUTH BEACH COMMUNITY RESOURCE CENTER",
+		"website": "http://www.miamidade.gov/socialservices/center-miami-beach.asp",
+		"slug": "m-dc-cahs-south-beach-community-resource-center",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/m-dc-cahs-south-beach-community-resource-center",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/m-dc-cahs-south-beach-community-resource-center/locations"
+	},
+	"phones": [{
+		"id": 6660,
+		"department": null,
+		"extension": null,
+		"number": "305-672-1705",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

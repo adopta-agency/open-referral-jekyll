@@ -1,0 +1,48 @@
+{
+	"id": 4121,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-3747-main-highway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-3747-main-highway",
+	"address": {
+		"id": 1902,
+		"address_1": "3747 Main Highway",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33133"
+	},
+	"organization": {
+		"id": 4120,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Breakthrough Miami is an eight-year academic enrichment program. During the eight years, student attend an academic six-week program over the summer. Throughout the school year, services include a Saturday program and field trips. Students must apply for the program as a fourth or fifth grade student.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BREAKTHROUGH MIAMI, INC.",
+		"website": "http://www.breakthroughmiami.org",
+		"slug": "breakthrough-miami-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/breakthrough-miami-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/breakthrough-miami-inc/locations"
+	},
+	"phones": [{
+		"id": 4121,
+		"department": null,
+		"extension": null,
+		"number": "305-446-8209",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

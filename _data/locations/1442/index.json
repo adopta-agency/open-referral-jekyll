@@ -1,0 +1,41 @@
+{
+	"id": 1442,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-af20d7c3-d453-4c33-816b-fc38c2aa434c",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-af20d7c3-d453-4c33-816b-fc38c2aa434c",
+	"address": {
+		"id": 751,
+		"address_1": "760 NW 107 Avenue",
+		"address_2": "Suite 201 & 214",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33172"
+	},
+	"organization": {
+		"id": 1438,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Alliance for Aging is a private not-for-profit, agency that provides a wide range of services that include congregate and home delivered meals, recreation, adult day care, personal care, legal assistance and transportation. Through its service network, the Alliance also provides, support, training, education, counseling and respite for caregivers including grandparents raising grandchildren.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ALLIANCE FOR AGING, INC.",
+		"website": "http://www.allianceforaging.org",
+		"slug": "alliance-for-aging-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/alliance-for-aging-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/alliance-for-aging-inc/locations"
+	},
+	"phones": []
+}

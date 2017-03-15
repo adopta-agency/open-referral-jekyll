@@ -1,0 +1,48 @@
+{
+	"id": 2159,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3142793,
+	25.7816161],
+	"description": "See listed services",
+	"latitude": 25.7816161,
+	"longitude": -80.3142793,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-5507037d-5bde-4389-bdf7-03ef1ef8172b",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-5507037d-5bde-4389-bdf7-03ef1ef8172b",
+	"address": {
+		"id": 1085,
+		"address_1": "7270 NW 12th Street",
+		"address_2": "Penthouse 6",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33126"
+	},
+	"organization": {
+		"id": 2159,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides supportive care to the terminally ill and their family through a multidisciplinary team which provides symptom management, pain control and emotional support. Offers nursing care, home health aides, homemaker services, social worker, bereavement services, chaplaincy, volunteers, medication, medical supplies and medical equipment related to terminal illness. Services offered on a patient per patient basis and their individual needs.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HOSPICE CARE OF SOUTH FLORIDA, INC.",
+		"website": "http://www.hospicesouthflorida.org",
+		"slug": "hospice-care-of-south-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/hospice-care-of-south-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/hospice-care-of-south-florida-inc/locations"
+	},
+	"phones": [{
+		"id": 2159,
+		"department": null,
+		"extension": null,
+		"number": "305-591-1606",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

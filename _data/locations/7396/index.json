@@ -1,0 +1,48 @@
+{
+	"id": 7396,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.8130526,
+	26.3063111],
+	"description": "See listed services",
+	"latitude": 26.3063111,
+	"longitude": -81.8130526,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-850-retreat-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-850-retreat-drive",
+	"address": {
+		"id": 3380,
+		"address_1": "850 Retreat Drive",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34110"
+	},
+	"organization": {
+		"id": 7393,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "To assist adults and children in acquiring the literacy skills necessary to improve their quality of life. We offer classes throughout Lee, Hendry, and Glades. \r\n\r\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LITERACY COUNCIL GULF COAST, INC.",
+		"website": "http://www.literacygulfcoast.com",
+		"slug": "literacy-council-gulf-coast-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/literacy-council-gulf-coast-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/literacy-council-gulf-coast-inc/locations"
+	},
+	"phones": [{
+		"id": 7396,
+		"department": null,
+		"extension": null,
+		"number": "239-676-5202",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

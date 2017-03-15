@@ -1,0 +1,48 @@
+{
+	"id": 2686,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-48b2e16a-22a6-4972-94f9-73452b98fe0e",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-48b2e16a-22a6-4972-94f9-73452b98fe0e",
+	"address": {
+		"id": 1333,
+		"address_1": "1951 NW 17th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33125"
+	},
+	"organization": {
+		"id": 2685,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Dade Family Counseling Community Mental Health Center is committed to providing quality behavioral health services to the community of South Florida. Our goal has always been to meet the physical, spiritual, social and emotional needs of the client. To that end, Dade Family Counseling has created an environment of healing and growth for patients and their families.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "DADE FAMILY COUNSELING COMMUNITY MENTAL HEALTH CENTER, INC.",
+		"website": "http://www.dadefamily.com",
+		"slug": "dade-family-counseling-community-mental-health-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/dade-family-counseling-community-mental-health-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/dade-family-counseling-community-mental-health-center-inc/locations"
+	},
+	"phones": [{
+		"id": 2686,
+		"department": null,
+		"extension": null,
+		"number": "305-774-9570",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

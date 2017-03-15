@@ -1,0 +1,48 @@
+{
+	"id": 237,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-100-south-biscayne-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-100-south-biscayne-boulevard",
+	"address": {
+		"id": 139,
+		"address_1": "100 South Biscayne Boulevard",
+		"address_2": "7th Floor",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33131"
+	},
+	"organization": {
+		"id": 236,
+		"accreditations": [],
+		"alternate_name": "SBA",
+		"date_incorporated": null,
+		"description": "The SBA promotes the interests of small businesses by providing technical and financial assistance. Information package available to anyone interested in starting a business. While SBA does not make loans directly, you can find a local lender who can help you with your loan application.\r\n\r\nBrevard, Broward, Charlotte, Collier, Desoto, Glades, Hardee, Hendry, Highlands, Hillsborough, Indian River, Lee, Manatee, Martin, Miami-Dade, Monroe, Okeechobee, Osceola, Palm Beach, Pasco, Pinellas, Polk, Saint Lucie, Sarasota.\r\n\r\n###MON###\r\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "U.S. SMALL BUSINESS ADMINISTRATION",
+		"website": "http://www.sba.gov/about-offices-content/2/3109",
+		"slug": "u-s-small-business-administration",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-small-business-administration",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-small-business-administration/locations"
+	},
+	"phones": [{
+		"id": 237,
+		"department": null,
+		"extension": "118.0",
+		"number": "305-536-5521",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 6972,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -82,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-f0901ed0-ee84-4939-af24-b9db75b3c4cc",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-f0901ed0-ee84-4939-af24-b9db75b3c4cc",
+	"address": {
+		"id": 3078,
+		"address_1": "3275 Pine Ridge Road",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34109"
+	},
+	"organization": {
+		"id": 6971,
+		"accreditations": [],
+		"alternate_name": "SPORTS CLUB",
+		"date_incorporated": null,
+		"description": "The mission of Sports Camp, Inc. (Sports CLUB) is to provide children a safe and inspiring after-school, summer camp and youth sports environment through educational, physical, and creative activities.\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SPORTS CAMP, INC.",
+		"website": "http://sportsclubnaples.org/",
+		"slug": "sports-camp-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/sports-camp-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/sports-camp-inc/locations"
+	},
+	"phones": [{
+		"id": 6972,
+		"department": null,
+		"extension": null,
+		"number": "239-537-1004",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

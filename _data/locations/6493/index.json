@@ -1,0 +1,41 @@
+{
+	"id": 6493,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -82,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-1144288e-9d22-4864-bfbd-4b288700dcbf",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/key-west-fl-1144288e-9d22-4864-bfbd-4b288700dcbf",
+	"address": {
+		"id": 2774,
+		"address_1": "1614 Truesdell Court",
+		"address_2": "Unit No. 2",
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 6491,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Samuel's House provides housing to homeless women, women and men with children and intact families in Monroe County, FL. Services are provided in a compassionate environment while assisting individuals and families in developing the necessary tools and confidence to manage their own lives fully, responsibly and independently. \n\nCase management services are provided to each client in all programs using evidence-based practices. There is zero tolerance for any act of violence or substance abuse and residents must all maintain their sobriety. It is a clean and sober house/shelter ONLY.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SAMUEL'S HOUSE, INC.",
+		"website": "http://www.samuelshouse.org",
+		"slug": "samuel-s-house-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/samuel-s-house-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/samuel-s-house-inc/locations"
+	},
+	"phones": []
+}

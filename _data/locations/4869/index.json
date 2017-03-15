@@ -1,0 +1,48 @@
+{
+	"id": 4869,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77.1206449,
+	39.0503293],
+	"description": "See listed services",
+	"latitude": 39.0503293,
+	"longitude": -77.1206449,
+	"name": "Bethesda, MD",
+	"short_desc": null,
+	"slug": "bethesda-md-6001-executive-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/bethesda-md-6001-executive-boulevard",
+	"address": {
+		"id": 2054,
+		"address_1": "6001 Executive Boulevard",
+		"address_2": null,
+		"city": "Bethesda",
+		"state_province": "MD",
+		"postal_code": "20892"
+	},
+	"organization": {
+		"id": 4869,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "NIMH'S VISION:\nNIMH envisions a world in which mental illnesses are prevented and cured.\n\nNIMH'S MISSION:\nThe mission of NIMH is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure.\n\nFor the Institute to continue fulfilling this vital public health mission, it must foster innovative thinking and ensure that a full array of novel scientific perspectives are used to further discovery in the evolving science of brain, behavior, and experience. In this way, breakthroughs in science can become breakthroughs for all people with mental illnesses.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NATIONAL INSTITUTE OF MENTAL HEALTH",
+		"website": "http://www.nimh.nih.gov/index.shtml",
+		"slug": "national-institute-of-mental-health",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/national-institute-of-mental-health",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/national-institute-of-mental-health/locations"
+	},
+	"phones": [{
+		"id": 4869,
+		"department": null,
+		"extension": null,
+		"number": "866-615-6464",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

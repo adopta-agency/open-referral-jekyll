@@ -1,0 +1,48 @@
+{
+	"id": 5223,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.770013,
+	26.270125],
+	"description": "See listed services",
+	"latitude": 26.270125,
+	"longitude": -81.770013,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-10681-airport-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-10681-airport-road",
+	"address": {
+		"id": 2222,
+		"address_1": "10681 Airport Road",
+		"address_2": "Suite 23",
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34108"
+	},
+	"organization": {
+		"id": 5223,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Charity for Change School u0022Giveru0022 Program is a character-building initiative for elementary school children that emphasizes a charity theme and supports anti-bullying efforts in the schools.\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CHARITY FOR CHANGE, LLC.",
+		"website": "http://www.charityforchange.org",
+		"slug": "charity-for-change-llc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/charity-for-change-llc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/charity-for-change-llc/locations"
+	},
+	"phones": [{
+		"id": 5223,
+		"department": null,
+		"extension": null,
+		"number": "239-592-6787",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 7078,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "North Miami Beach, FL",
+	"short_desc": null,
+	"slug": "north-miami-beach-fl-160-nw-170th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/north-miami-beach-fl-160-nw-170th-street",
+	"address": {
+		"id": 3150,
+		"address_1": "160 NW 170th Street",
+		"address_2": null,
+		"city": "North Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33169"
+	},
+	"organization": {
+		"id": 3069,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Jackson Health System is a nonprofit academic medical system offering care to any person who walks through its doors. Jackson Health System ensures that all residents of Miami-Dade County receive a single high standard of care regardless of their ability to pay.\n\nAn integrated healthcare delivery system, Jackson Health System consists of its centerpiece, Jackson Memorial Hospital; multiple primary care and specialty care centers; a variety of school-based clinics serving many elementary, middle and high schools; two long-term care nursing facilities; six Corrections Health Services clinics; a network of mental health facilities; Holtz ChildrenGu00c7u00d6s Hospital, Jackson Rehabilitation Hospital, Jackson Behavioral Health Hospital, Jackson North Medical Center and Jackson South Community Hospital.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "JACKSON HEALTH SYSTEM",
+		"website": "http://www.jhsmiami.org",
+		"slug": "jackson-health-system",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/jackson-health-system",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/jackson-health-system/locations"
+	},
+	"phones": [{
+		"id": 7078,
+		"department": null,
+		"extension": null,
+		"number": "305-651-1100",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

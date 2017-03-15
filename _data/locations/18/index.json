@@ -1,0 +1,48 @@
+{
+	"id": 18,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.371517,
+	25.891308],
+	"description": "See listed services",
+	"latitude": 25.891308,
+	"longitude": -80.371517,
+	"name": "Hialeah Gardens, FL",
+	"short_desc": null,
+	"slug": "hialeah-gardens-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/hialeah-gardens-fl",
+	"address": {
+		"id": 3,
+		"address_1": "12975 West Okeechobee Road",
+		"address_2": "Unit 4",
+		"city": "Hialeah Gardens",
+		"state_province": "FL",
+		"postal_code": "33018"
+	},
+	"organization": {
+		"id": 18,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Xclusive Senior Day Care Center provides day care services for the elderly community. The program activities provide a mix of therapeutic programs, daily physical exercise, life enrichment programs (art, music and horticulture) and leisure activities (hobbies, crafts and outings). A hot noon meal (USDA Approved) along with morning and afternoon snacks is also provided. Transportation provided.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "XCLUSIVE SENIOR DAY CARE CENTER, INC.",
+		"website": "http://www.xclusiveseniorcenter.com",
+		"slug": "xclusive-senior-day-care-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/xclusive-senior-day-care-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/xclusive-senior-day-care-center-inc/locations"
+	},
+	"phones": [{
+		"id": 18,
+		"department": null,
+		"extension": null,
+		"number": "305-820-0805",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

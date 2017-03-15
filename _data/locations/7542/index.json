@@ -1,0 +1,48 @@
+{
+	"id": 7542,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3465587,
+	25.6184841],
+	"description": "See listed services",
+	"latitude": 25.6184841,
+	"longitude": -80.3465587,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-44c8b54d-b46c-44dd-901d-f5cdd4191697",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-44c8b54d-b46c-44dd-901d-f5cdd4191697",
+	"address": {
+		"id": 3508,
+		"address_1": "16201 SW 95th Avenue",
+		"address_2": "Suite 301",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 3348,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "PsychSolutions uses an on-site model to provide a full range of therapeutic services to children in various settings: Biological homes, foster homes, shelters, schools, day cares, juvenile justice facilities, detention centers, residential programs, and in the office. \n\nServices provided include:\n\n* Cooperative agreement with Miami-Dade Public Schools \n* Provides individual and family therapy \n* Psychiatric evaluation and medication management \n* Mental Health Targeted Case Management \n* On-site therapeutic services provided in school sites\n* Substance abuse and testing\n* Trauma specialists/clinicians and Problematic Sexual Behaviors",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "PSYCHSOLUTIONS, INC.",
+		"website": "http://www.psychsolutionsinc.net",
+		"slug": "psychsolutions-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/psychsolutions-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/psychsolutions-inc/locations"
+	},
+	"phones": [{
+		"id": 7542,
+		"department": null,
+		"extension": "410.0",
+		"number": "786-231-5888",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

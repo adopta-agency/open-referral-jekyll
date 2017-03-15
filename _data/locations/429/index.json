@@ -1,0 +1,48 @@
+{
+	"id": 429,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-6300-ne-2nd-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-6300-ne-2nd-avenue",
+	"address": {
+		"id": 215,
+		"address_1": "6300 NE 2nd Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33138"
+	},
+	"organization": {
+		"id": 425,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides a variety of services to developmentally disabled individuals and assist them to reach their performance potential in daily living and vocational skills. \n\nProporciona una variedad de servicios a las personas con discapacidades de desarrollo y ayudarles a alcanzar su potencial de rendimiento en la vida diaria y la formaci+u00a6n profesional .",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MACTOWN, INC.",
+		"website": "http://www.mactown.org",
+		"slug": "mactown-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/mactown-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/mactown-inc/locations"
+	},
+	"phones": [{
+		"id": 429,
+		"department": null,
+		"extension": null,
+		"number": "305-758-4485",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

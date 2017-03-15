@@ -1,0 +1,48 @@
+{
+	"id": 7113,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-1f120391-8ccc-4224-ae47-2c1d3e8b76a6",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-1f120391-8ccc-4224-ae47-2c1d3e8b76a6",
+	"address": {
+		"id": 3176,
+		"address_1": "123 NW 1st Avenue",
+		"address_2": "Suite 214",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33128"
+	},
+	"organization": {
+		"id": 7113,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Dade County Bar Association provides support to its members, as well as services for the community.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE DADE COUNTY BAR ASSOCIATION",
+		"website": "http://www.dadecountybar.org",
+		"slug": "the-dade-county-bar-association",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-dade-county-bar-association",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-dade-county-bar-association/locations"
+	},
+	"phones": [{
+		"id": 7113,
+		"department": null,
+		"extension": null,
+		"number": "305-371-2220",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 7450,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1593108,
+	25.9018924],
+	"description": "See listed services",
+	"latitude": 25.9018924,
+	"longitude": -80.1593108,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-13665-biscayne-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-13665-biscayne-boulevard",
+	"address": {
+		"id": 3426,
+		"address_1": "13665 Biscayne Boulevard",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33181"
+	},
+	"organization": {
+		"id": 7450,
+		"accreditations": [],
+		"alternate_name": "BLUE CROSS BLUE SHIELD OF FLORIDA",
+		"date_incorporated": null,
+		"description": "Florida Blue provides: Health Insurance Education, Affordable healthcare solutions such as Life, Dental, Accident, Critical Illness, Hospital Indemnity insurance sales. Personal support for health and wellness, and community support through outreach and education in the communities we serve.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA BLUE, INC.",
+		"website": "http://www.floridablue.com",
+		"slug": "florida-blue-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-blue-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-blue-inc/locations"
+	},
+	"phones": [{
+		"id": 7450,
+		"department": null,
+		"extension": null,
+		"number": "786-541-0602",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

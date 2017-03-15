@@ -1,0 +1,48 @@
+{
+	"id": 6299,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -82,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-1718-n-roosevelt-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/key-west-fl-1718-n-roosevelt-boulevard",
+	"address": {
+		"id": 2686,
+		"address_1": "1718 N Roosevelt Boulevard",
+		"address_2": null,
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 6299,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides services for clients who are qualified for Medicare/Medicaid by visiting their home to offer home health aide, and physical and occupational therapy.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ISLAND HOME CARE AGENCY, INC.",
+		"website": "http://careinthekeys.com",
+		"slug": "island-home-care-agency-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/island-home-care-agency-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/island-home-care-agency-inc/locations"
+	},
+	"phones": [{
+		"id": 6299,
+		"department": null,
+		"extension": null,
+		"number": "305-735-4460",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

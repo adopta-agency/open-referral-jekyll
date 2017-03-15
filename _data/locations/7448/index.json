@@ -1,0 +1,48 @@
+{
+	"id": 7448,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3912554,
+	25.505805],
+	"description": "See listed services",
+	"latitude": 25.505805,
+	"longitude": -80.3912554,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-28205-sw-125th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/homestead-fl-28205-sw-125th-avenue",
+	"address": {
+		"id": 3424,
+		"address_1": "28205 SW 125th Avenue",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33033"
+	},
+	"organization": {
+		"id": 123,
+		"accreditations": [],
+		"alternate_name": "CPC- Children Psychiatric Center",
+		"date_incorporated": null,
+		"description": "The All-Aboard Family Literacy Program offers a comprehensive literacy based Home Visiting program for families with children ages 0-5 residing at the Community Partnership for the Homeless: Downtown Chapman Center and South Dade Center in Homestead as well as families living within the Comstock Elementary School neighborhoods. The program focuses on improving the childrenGu00c7u00d6s school readiness and success, while simultaneously supporting and guiding the parents through a childGu00c7u00d6s early development.\n\nPrimary Services:\n1) Home Visits\n2) Group Meetings\n3) Screenings\n4) Access to community resources",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ICFH - LITERACY AND EDUCATIONAL DEVELOPMENT - ALL-ABOARD FAMILY LITERACY PROGRAM",
+		"website": "http://www.icfhinc.org/default.asp",
+		"slug": "icfh-literacy-and-educational-development-all-aboard-family-literacy-program",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/icfh-literacy-and-educational-development-all-aboard-family-literacy-program",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/icfh-literacy-and-educational-development-all-aboard-family-literacy-program/locations"
+	},
+	"phones": [{
+		"id": 7448,
+		"department": null,
+		"extension": null,
+		"number": "305-687-2227",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

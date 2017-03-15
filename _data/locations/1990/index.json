@@ -1,0 +1,48 @@
+{
+	"id": 1990,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -80,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-5ed12ce3-ece0-450e-86b1-b586d2118393",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/homestead-fl-5ed12ce3-ece0-450e-86b1-b586d2118393",
+	"address": {
+		"id": 1011,
+		"address_1": "230 North Krome Avenue",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33033"
+	},
+	"organization": {
+		"id": 1989,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "United Martial Arts Academy, Inc. offers martial art classes, after school program, summer camp and winter/spring break camps to students aged 5 through 18 along with their families with the scope including form, kickboxing, kung-fu, llama, Philippine cali sticks, aerobic martial arts, self-defense, chi breathing, meditation and relaxation. We are an inclusive program with a literacy component. We serve the local community of Homestead and Florida City with emphasis on family, how to overcome adversity, cooperation and hard work.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNITED MARTIAL ARTS ACADEMY, INC.",
+		"website": "http://h2oboxing.com",
+		"slug": "united-martial-arts-academy-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-martial-arts-academy-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-martial-arts-academy-inc/locations"
+	},
+	"phones": [{
+		"id": 1990,
+		"department": null,
+		"extension": null,
+		"number": "786-357-4255",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

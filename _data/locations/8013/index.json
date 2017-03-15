@@ -1,0 +1,47 @@
+{
+	"id": 8013,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [],
+	"description": "See listed services",
+	"latitude": null,
+	"longitude": null,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-grizzlie-bears-childcare-center",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-grizzlie-bears-childcare-center",
+	"address": {
+		"id": 3925,
+		"address_1": "Grizzlie Bears Childcare Center",
+		"address_2": "4405 Outer Drive",
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34112"
+	},
+	"organization": {
+		"id": 561,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "When kids are hurting, we help them heal. When kids need a safe place to call u0022home,u0022 we find them loving families. When parents want to provide stable, nurturing homes for their babies, we help. When families are in crisis, we help them rebuild trust. Create stronger bonds. We create brighter futures for kids, for families, for communities. Kids need us. They need you. Together, we'll make an even bigger difference.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CHILDREN'S HOME SOCIETY OF FLORIDA, INC.",
+		"website": "http://www.chsfl.org",
+		"slug": "children-s-home-society-of-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/children-s-home-society-of-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/children-s-home-society-of-florida-inc/locations"
+	},
+	"phones": [{
+		"id": 8013,
+		"department": null,
+		"extension": null,
+		"number": "239-417-6265",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

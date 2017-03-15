@@ -1,0 +1,48 @@
+{
+	"id": 4419,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "North Miami Beach, FL",
+	"short_desc": null,
+	"slug": "north-miami-beach-fl-16800-nw-2nd-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/north-miami-beach-fl-16800-nw-2nd-avenue",
+	"address": {
+		"id": 2013,
+		"address_1": "16800 NW 2nd Avenue",
+		"address_2": "Suite 203",
+		"city": "North Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33169"
+	},
+	"organization": {
+		"id": 3791,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Rozalyn H. Paschal Community Health Trust provides pediatric services for children ages 0-18 including preventative care, vaccinations and sick care services.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ROZALYN H. PASCHAL, M.D., P.A.",
+		"website": "http://www.rhpaschalmd.com/home.html",
+		"slug": "rozalyn-h-paschal-m-d-p-a",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/rozalyn-h-paschal-m-d-p-a",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/rozalyn-h-paschal-m-d-p-a/locations"
+	},
+	"phones": [{
+		"id": 4419,
+		"department": null,
+		"extension": null,
+		"number": "305-652-6095",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

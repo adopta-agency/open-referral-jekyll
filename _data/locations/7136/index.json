@@ -1,0 +1,48 @@
+{
+	"id": 7136,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-82ac5955-73e5-4663-ae81-bdb867f978fe",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-82ac5955-73e5-4663-ae81-bdb867f978fe",
+	"address": {
+		"id": 3192,
+		"address_1": "2990 SW 35th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33133"
+	},
+	"organization": {
+		"id": 622,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Casa Valentina is a program that provides safe and affordable housing, support services, life-skills training and crisis intervention to young adults ages 18 - 23 years old who have aged out of the foster care system (including young mothers with one child).",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CASA VALENTINA, INC.",
+		"website": "http://casavalentina.org",
+		"slug": "casa-valentina-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/casa-valentina-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/casa-valentina-inc/locations"
+	},
+	"phones": [{
+		"id": 7136,
+		"department": null,
+		"extension": null,
+		"number": "305-444-0740",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

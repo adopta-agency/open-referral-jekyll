@@ -1,0 +1,48 @@
+{
+	"id": 7659,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3134539,
+	25.883883],
+	"description": "See listed services",
+	"latitude": 25.883883,
+	"longitude": -80.3134539,
+	"name": "Hialeah, FL",
+	"short_desc": null,
+	"slug": "hialeah-fl-1490-west-68th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/hialeah-fl-1490-west-68th-street",
+	"address": {
+		"id": 3614,
+		"address_1": "1490 West 68th Street",
+		"address_2": "Suite 101",
+		"city": "Hialeah",
+		"state_province": "FL",
+		"postal_code": "33014"
+	},
+	"organization": {
+		"id": 7646,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Miami-Dade Board of County Commissioners is the governing body of unincorporated Miami-Dade County and has broad, regional powers to establish policies for Miami-Dade County services. The government provides major metropolitan services countywide and city-type services for residents of unincorporated areas.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI-DADE COUNTY BOARD OF COMMISSIONERS",
+		"website": "http://www.miamidade.gov/commission/home.asp",
+		"slug": "miami-dade-county-board-of-commissioners",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-board-of-commissioners",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-board-of-commissioners/locations"
+	},
+	"phones": [{
+		"id": 7659,
+		"department": null,
+		"extension": null,
+		"number": "305-820-8424",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

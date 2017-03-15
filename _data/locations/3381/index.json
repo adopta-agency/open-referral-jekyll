@@ -1,0 +1,48 @@
+{
+	"id": 3381,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-ed8924d7-a0a0-4e72-885f-3d680d8d44a4",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-ed8924d7-a0a0-4e72-885f-3d680d8d44a4",
+	"address": {
+		"id": 1663,
+		"address_1": "401 NW 2nd Avenue",
+		"address_2": "Suite N-1007",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33128"
+	},
+	"organization": {
+		"id": 3359,
+		"accreditations": [],
+		"alternate_name": "DCF SOUTHERN REGION",
+		"date_incorporated": null,
+		"description": "Protect the vulnerable, promote strong and economically self-sufficient families, and advance personal and family recovery and resiliency.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA DEPARTMENT OF CHILDREN AND FAMILIES",
+		"website": "http://www.myflfamilies.com",
+		"slug": "florida-department-of-children-and-families",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-department-of-children-and-families",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-department-of-children-and-families/locations"
+	},
+	"phones": [{
+		"id": 3381,
+		"department": null,
+		"extension": null,
+		"number": "305-377-5068",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

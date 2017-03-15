@@ -1,0 +1,48 @@
+{
+	"id": 6274,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-ce402886-c4d0-43ac-8abc-7173e7969ef4",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-ce402886-c4d0-43ac-8abc-7173e7969ef4",
+	"address": {
+		"id": 2673,
+		"address_1": "140 West Flagler Street",
+		"address_2": "Suite 105",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33130"
+	},
+	"organization": {
+		"id": 3192,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Miami Homes for All concentrates its efforts in three main areas: advocating for the rights of the homeless population; coordinating available resources so as to maximize utilization and promote efficiency; developing and supporting prevention initiatives on the local, state and federal levels leading to the elimination of homelessness. Provides information to the general public on topics related to homelessness. Provides funding to organizations who work to prevent homelessness.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI HOMES FOR ALL, INC.",
+		"website": "http://www.miamihomeless.org",
+		"slug": "miami-homes-for-all-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-homes-for-all-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-homes-for-all-inc/locations"
+	},
+	"phones": [{
+		"id": 6274,
+		"department": null,
+		"extension": null,
+		"number": "786-469-2060",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 1530,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami Springs, FL",
+	"short_desc": null,
+	"slug": "miami-springs-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-springs-fl",
+	"address": {
+		"id": 802,
+		"address_1": "201 Westward Drive",
+		"address_2": null,
+		"city": "Miami Springs",
+		"state_province": "FL",
+		"postal_code": "33166"
+	},
+	"organization": {
+		"id": 1504,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Please look at separate profiles for information on each department.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "POLICE DEPARTMENTS",
+		"website": null,
+		"slug": "police-departments",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/police-departments",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/police-departments/locations"
+	},
+	"phones": [{
+		"id": 1530,
+		"department": null,
+		"extension": null,
+		"number": "305-888-9711",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

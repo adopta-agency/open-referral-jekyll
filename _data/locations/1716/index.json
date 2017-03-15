@@ -1,0 +1,48 @@
+{
+	"id": 1716,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.482158,
+	25.469088],
+	"description": "See listed services",
+	"latitude": 25.469088,
+	"longitude": -80.482158,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-105-sw-3rd-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/homestead-fl-105-sw-3rd-avenue",
+	"address": {
+		"id": 888,
+		"address_1": "105 SW 3rd Avenue",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33030"
+	},
+	"organization": {
+		"id": 1716,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Homestead Soup Kitchen is a fully volunteer staffed agency that feeds anyone who comes to eat, serving approximately 300 hot lunches on each of the three weekdays the kitchen is open.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HOMESTEAD SOUP KITCHEN",
+		"website": "http://homesteadsoupkitchen.com",
+		"slug": "homestead-soup-kitchen",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/homestead-soup-kitchen",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/homestead-soup-kitchen/locations"
+	},
+	"phones": [{
+		"id": 1716,
+		"department": null,
+		"extension": null,
+		"number": "305-245-7448",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 4414,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -81,
+	"name": "Marathon, FL",
+	"short_desc": null,
+	"slug": "marathon-fl-10015-overseas-highway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/marathon-fl-10015-overseas-highway",
+	"address": {
+		"id": 2008,
+		"address_1": "10015 Overseas Highway",
+		"address_2": "100th Street Center",
+		"city": "Marathon",
+		"state_province": "FL",
+		"postal_code": "33050"
+	},
+	"organization": {
+		"id": 3229,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Through Florida KidCare, the state of Florida offers health insurance for children from birth through age 18, even if one or both parents are working. It includes four different parts. When you apply for the insurance, Florida KidCare will check which part your child may qualify for based on age and family income.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA KIDCARE",
+		"website": "http://www.floridakidcare.org/",
+		"slug": "florida-kidcare",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-kidcare",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-kidcare/locations"
+	},
+	"phones": [{
+		"id": 4414,
+		"department": null,
+		"extension": null,
+		"number": "305-289-2779",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

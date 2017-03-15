@@ -1,0 +1,48 @@
+{
+	"id": 3210,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-78.9175088,
+	35.890231],
+	"description": "See listed services",
+	"latitude": 35.890231,
+	"longitude": -78.9175088,
+	"name": "Durham, NC",
+	"short_desc": null,
+	"slug": "durham-nc",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/durham-nc",
+	"address": {
+		"id": 1582,
+		"address_1": "PO Box 13827",
+		"address_2": null,
+		"city": "Durham",
+		"state_province": "NC",
+		"postal_code": "27713"
+	},
+	"organization": {
+		"id": 3210,
+		"accreditations": [],
+		"alternate_name": "ASHA",
+		"date_incorporated": null,
+		"description": "The American Sexual Health Association promotes the sexual health of individuals, families and communities by advocating sound policies and practices and educating the public, professionals and policy makers, in order to foster healthy sexual behaviors and relationships and prevent adverse health outcomes.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AMERICAN SEXUAL HEALTH ASSOCIATION, INC.",
+		"website": "http://www.ashastd.org",
+		"slug": "american-sexual-health-association-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-sexual-health-association-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-sexual-health-association-inc/locations"
+	},
+	"phones": [{
+		"id": 3210,
+		"department": null,
+		"extension": null,
+		"number": "919-361-8400",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

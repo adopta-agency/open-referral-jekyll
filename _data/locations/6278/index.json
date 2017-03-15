@@ -1,0 +1,48 @@
+{
+	"id": 6278,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82.3593328,
+	28.072182],
+	"description": "See listed services",
+	"latitude": 28.072182,
+	"longitude": -82.3593328,
+	"name": "Tampa, FL",
+	"short_desc": null,
+	"slug": "tampa-fl-8875-hidden-river-parkway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/tampa-fl-8875-hidden-river-parkway",
+	"address": {
+		"id": 2676,
+		"address_1": "8875 Hidden River Parkway",
+		"address_2": "Suite 300",
+		"city": "Tampa",
+		"state_province": "FL",
+		"postal_code": "33637"
+	},
+	"organization": {
+		"id": 6278,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Credit counseling agency that provides financial education, services, and coaching to financially challenged individuals.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GENESIS FINANACIAL MANAGEMENT, INC.",
+		"website": "http://www.yourgfm.com",
+		"slug": "genesis-finanacial-management-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/genesis-finanacial-management-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/genesis-finanacial-management-inc/locations"
+	},
+	"phones": [{
+		"id": 6278,
+		"department": null,
+		"extension": null,
+		"number": "866-467-1259",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 2023,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-6f2715fc-146f-410d-9bf3-42ae6c1931f6",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-6f2715fc-146f-410d-9bf3-42ae6c1931f6",
+	"address": {
+		"id": 1024,
+		"address_1": "11155 SW 112th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33176"
+	},
+	"organization": {
+		"id": 2019,
+		"accreditations": [],
+		"alternate_name": "DAVE AND MARY ALPER JCC",
+		"date_incorporated": null,
+		"description": "The Alper JCC provides social, educational, cultural and recreational programs for children, adults and the elderly. Also offers programs for the special needs population.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE DAVE AND MARY ALPER JEWISH COMMUNITY CENTER, INC.",
+		"website": "http://www.alperjcc.org",
+		"slug": "the-dave-and-mary-alper-jewish-community-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-dave-and-mary-alper-jewish-community-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-dave-and-mary-alper-jewish-community-center-inc/locations"
+	},
+	"phones": [{
+		"id": 2023,
+		"department": null,
+		"extension": "263.0",
+		"number": "305-271-9000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

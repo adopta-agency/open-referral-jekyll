@@ -1,0 +1,48 @@
+{
+	"id": 5856,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Coral Gables, FL",
+	"short_desc": null,
+	"slug": "coral-gables-fl-6c543e25-2401-4a16-b128-230b8c64dcf1",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/coral-gables-fl-6c543e25-2401-4a16-b128-230b8c64dcf1",
+	"address": {
+		"id": 2512,
+		"address_1": "5556 SW 8th Street",
+		"address_2": null,
+		"city": "Coral Gables",
+		"state_province": "FL",
+		"postal_code": "33134"
+	},
+	"organization": {
+		"id": 5855,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Open Arms Community Center is a non-profit organization that provides access to: Emergency Food Pantry, Immigration and Naturalization Legal Service, Access Partners for SNAP, Medicaid and TANF application, Senior Citizens Program Medicare Extra-Help, and Homemaker and Companion Services.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "OPEN ARMS COMMUNITY CENTER, INC.",
+		"website": "http://www.openarmscommunitycenter.org",
+		"slug": "open-arms-community-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/open-arms-community-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/open-arms-community-center-inc/locations"
+	},
+	"phones": [{
+		"id": 5856,
+		"department": null,
+		"extension": null,
+		"number": "305-263-3259",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 3170,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.4807798,
+	25.4813998],
+	"description": "See listed services",
+	"latitude": 25.4813998,
+	"longitude": -80.4807798,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-151-nw-11th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/homestead-fl-151-nw-11th-street",
+	"address": {
+		"id": 1566,
+		"address_1": "151 NW 11th Street",
+		"address_2": "Suite W201",
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33030"
+	},
+	"organization": {
+		"id": 3170,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Open Door Health Center is a primary healthcare center dedicated to serving the uninsured of South Dade at no cost to them. The services provided include: Adult Care, Women's Care, Pediatric Care, Podiatric Care, Diagnostic Services such as lab work, x-rays, pap smears, and mammograms are available. Educational Services for adults, children, and teens; treatments such as medications for chronic illnesses and immunizations are also available. Support groups for people with Type 2 Diabetes and their relatives are open to the community.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "OPEN DOOR HEALTH CENTER, INC.",
+		"website": "http://www.opendoorhc.org",
+		"slug": "open-door-health-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/open-door-health-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/open-door-health-center-inc/locations"
+	},
+	"phones": [{
+		"id": 3170,
+		"department": null,
+		"extension": null,
+		"number": "305-246-2400",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

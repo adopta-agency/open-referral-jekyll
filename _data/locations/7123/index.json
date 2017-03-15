@@ -1,0 +1,48 @@
+{
+	"id": 7123,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82.4249618,
+	28.0675062],
+	"description": "See listed services",
+	"latitude": 28.0675062,
+	"longitude": -82.4249618,
+	"name": "Tampa, FL",
+	"short_desc": null,
+	"slug": "tampa-fl-13301-bruce-b-downs-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/tampa-fl-13301-bruce-b-downs-boulevard",
+	"address": {
+		"id": 3184,
+		"address_1": "13301 Bruce B. Downs Boulevard",
+		"address_2": "MHC 2113A",
+		"city": "Tampa",
+		"state_province": "FL",
+		"postal_code": "33612"
+	},
+	"organization": {
+		"id": 7123,
+		"accreditations": [],
+		"alternate_name": "CARD-USF",
+		"date_incorporated": null,
+		"description": "The Center for Autism & Related Disabilities at USF is a community-based project that provides information and consultation to individuals diagnosed with autism spectrum disorders and related disabilities. CARD-USF offers instruction and coaching to families and professionals through a training and assistance model.\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CENTER FOR AUTISM AND RELATED DISABILITIES AT USF",
+		"website": "http://card-usf.fmhi.usf.edu/",
+		"slug": "center-for-autism-and-related-disabilities-at-usf",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/center-for-autism-and-related-disabilities-at-usf",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/center-for-autism-and-related-disabilities-at-usf/locations"
+	},
+	"phones": [{
+		"id": 7123,
+		"department": null,
+		"extension": null,
+		"number": "813-974-2532",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

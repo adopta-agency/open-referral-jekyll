@@ -1,0 +1,41 @@
+{
+	"id": 531,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-162-ne-49th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-162-ne-49th-street",
+	"address": {
+		"id": 271,
+		"address_1": "162 NE 49th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33137-3118"
+	},
+	"organization": {
+		"id": 531,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Concept House is a not for profit social service agency licensed by the State of Florida Department of Children and Families. Serves the residents of Miami-Dade County in need of substance abuse treatment.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CONCEPT HEALTH SYSTEMS, INC.",
+		"website": "http://www.concepthouse.org/",
+		"slug": "concept-health-systems-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/concept-health-systems-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/concept-health-systems-inc/locations"
+	},
+	"phones": []
+}

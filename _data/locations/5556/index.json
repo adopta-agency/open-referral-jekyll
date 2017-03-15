@@ -1,0 +1,48 @@
+{
+	"id": 5556,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -82,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-9850-immokalee-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-9850-immokalee-road",
+	"address": {
+		"id": 2372,
+		"address_1": "9850 Immokalee Road",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34120"
+	},
+	"organization": {
+		"id": 5556,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "PEACE provides services to infants through VPK, a summer program, and a preschool program.\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "PEACE LUTHERAN EARLY LEARNING CENTER, INC.",
+		"website": "http://peacekidsnaples.org/",
+		"slug": "peace-lutheran-early-learning-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/peace-lutheran-early-learning-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/peace-lutheran-early-learning-center-inc/locations"
+	},
+	"phones": [{
+		"id": 5556,
+		"department": null,
+		"extension": null,
+		"number": "239-354-9140",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

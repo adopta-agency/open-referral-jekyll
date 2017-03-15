@@ -1,0 +1,48 @@
+{
+	"id": 3431,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -82,
+	"name": "Key West, FL",
+	"short_desc": null,
+	"slug": "key-west-fl-5503-college-road",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/key-west-fl-5503-college-road",
+	"address": {
+		"id": 1682,
+		"address_1": "5503 College Road",
+		"address_2": "Suite 206",
+		"city": "Key West",
+		"state_province": "FL",
+		"postal_code": "33040"
+	},
+	"organization": {
+		"id": 3430,
+		"accreditations": [],
+		"alternate_name": "GAL",
+		"date_incorporated": null,
+		"description": "Guardians appointed by Circuit Judge/Juvenile Division to represent best interests of abused/neglected children from juvenile/civil court. A court order is given authorizing examination of records relating to charges without parental consent. All information is confidential, except in reporting to court or other parties involved in advocating child's best interest, consults with DCF, medical personnel, school, law enforcement, and Mental Health counselor. Volunteers must be interviewed and completed an application with 2 letters of reference; there are criminal and child abuse background checks made, 24 hours of training.\r\n\r\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GUARDIAN AD LITEM, INC.",
+		"website": "http://www.guardianadlitem.org",
+		"slug": "guardian-ad-litem-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/guardian-ad-litem-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/guardian-ad-litem-inc/locations"
+	},
+	"phones": [{
+		"id": 3431,
+		"department": null,
+		"extension": null,
+		"number": "305-292-3485",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

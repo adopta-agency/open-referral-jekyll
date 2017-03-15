@@ -1,0 +1,48 @@
+{
+	"id": 5724,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.256893,
+	25.9712315],
+	"description": "See listed services",
+	"latitude": 25.9712315,
+	"longitude": -80.256893,
+	"name": "Miami Gardens, FL",
+	"short_desc": null,
+	"slug": "miami-gardens-fl-3340-nw-215th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-gardens-fl-3340-nw-215th-street",
+	"address": {
+		"id": 2464,
+		"address_1": "3340 NW 215th Street",
+		"address_2": "Suite 50",
+		"city": "Miami Gardens",
+		"state_province": "FL",
+		"postal_code": "33056"
+	},
+	"organization": {
+		"id": 5694,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides emergency food to families in need.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SEVENTH-DAY ADVENTIST CHURCH",
+		"website": "http://www.agapehaitian22.adventistchurchconnect.org/",
+		"slug": "seventh-day-adventist-church",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/seventh-day-adventist-church",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/seventh-day-adventist-church/locations"
+	},
+	"phones": [{
+		"id": 5724,
+		"department": null,
+		"extension": null,
+		"number": "305-624-0679",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

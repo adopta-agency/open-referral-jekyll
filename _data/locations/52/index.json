@@ -1,0 +1,48 @@
+{
+	"id": 52,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-84,
+	32],
+	"description": "See listed services",
+	"latitude": 32,
+	"longitude": -84,
+	"name": "Atlanta, GA",
+	"short_desc": null,
+	"slug": "atlanta-ga",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/atlanta-ga",
+	"address": {
+		"id": 23,
+		"address_1": "270 Peachtree Street NW",
+		"address_2": "Suite 1300",
+		"city": "Atlanta",
+		"state_province": "GA",
+		"postal_code": "30303"
+	},
+	"organization": {
+		"id": 52,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "A national Christian organization whose mission is to provide adequate, affordable homes to low income families.\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HABITAT FOR HUMANITY, INC.",
+		"website": "http://www.habitat.org",
+		"slug": "habitat-for-humanity-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/habitat-for-humanity-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/habitat-for-humanity-inc/locations"
+	},
+	"phones": [{
+		"id": 52,
+		"department": null,
+		"extension": null,
+		"number": "800-422-4828",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

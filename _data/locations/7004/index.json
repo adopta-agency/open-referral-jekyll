@@ -1,0 +1,48 @@
+{
+	"id": 7004,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3515296,
+	25.6050956],
+	"description": "See listed services",
+	"latitude": 25.6050956,
+	"longitude": -80.3515296,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-15321-south-dixie-highway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-15321-south-dixie-highway",
+	"address": {
+		"id": 3105,
+		"address_1": "15321 South Dixie Highway",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33157"
+	},
+	"organization": {
+		"id": 7004,
+		"accreditations": [],
+		"alternate_name": "TRGS Foundation",
+		"date_incorporated": null,
+		"description": "TRGS Foundation is a 501-3c non-profit organization assisting families who have have lost a love one to a drunk driver by providing support, financial assistance to families and education/awareness to local schools about the dangerous affects of drinking and driving.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "TROOPER ROBERT GLENN SMITH FOUNDATION, INC.",
+		"website": "http://trgsfoundation.org/",
+		"slug": "trooper-robert-glenn-smith-foundation-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/trooper-robert-glenn-smith-foundation-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/trooper-robert-glenn-smith-foundation-inc/locations"
+	},
+	"phones": [{
+		"id": 7004,
+		"department": null,
+		"extension": null,
+		"number": "786-255-1828",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

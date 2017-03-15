@@ -1,0 +1,48 @@
+{
+	"id": 4235,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.207181,
+	26.0236349],
+	"description": "See listed services",
+	"latitude": 26.0236349,
+	"longitude": -80.207181,
+	"name": "Hollywood, FL",
+	"short_desc": null,
+	"slug": "hollywood-fl-5925-mckinley-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/hollywood-fl-5925-mckinley-street",
+	"address": {
+		"id": 1940,
+		"address_1": "5925 McKinley Street",
+		"address_2": null,
+		"city": "Hollywood",
+		"state_province": "FL",
+		"postal_code": "33020"
+	},
+	"organization": {
+		"id": 4235,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Florida Palms Academy is a Statewide Inpatient Psychiatric Program (SIPP) that provides treatment for youth 6-14 years of age who will benefit from intensive residential psychiatric treatment. Youth receive an individualized education curriculum while receiving therapeutic services.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA PALMS ACADEMY, INC.",
+		"website": "http://floridapalmsacademy.com",
+		"slug": "florida-palms-academy-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-palms-academy-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-palms-academy-inc/locations"
+	},
+	"phones": [{
+		"id": 4235,
+		"department": null,
+		"extension": null,
+		"number": "954-963-0991",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

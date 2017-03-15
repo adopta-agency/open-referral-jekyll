@@ -1,0 +1,48 @@
+{
+	"id": 5301,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	27],
+	"description": "See listed services",
+	"latitude": 27,
+	"longitude": -82,
+	"name": "Fort Myers, FL",
+	"short_desc": null,
+	"slug": "fort-myers-fl-6c3a1efe-e4d3-4afb-a7bc-0e78a40c1028",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/fort-myers-fl-6c3a1efe-e4d3-4afb-a7bc-0e78a40c1028",
+	"address": {
+		"id": 2259,
+		"address_1": "2607 Dr. Ella Piper Way",
+		"address_2": null,
+		"city": "Fort Myers",
+		"state_province": "FL",
+		"postal_code": "33916"
+	},
+	"organization": {
+		"id": 5300,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "We are a center that brings the community together with programs that meet the needs of those that want to be of service with those that need to be served. Our Foster Grandparent Program, Senior Employment Program and Senior Companion Program provide the seniors in our area with much needed attention, love, care, kindness and service. We continue to follow in the footsteps of our founder, Dr. Ella Piper who gave of herself in a selfless manner for the greater good of those most in need; the elderly and the youth.\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "DR. PIPER CENTER FOR SOCIAL SERVICES, INC.",
+		"website": "http://drpipercenter.org",
+		"slug": "dr-piper-center-for-social-services-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/dr-piper-center-for-social-services-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/dr-piper-center-for-social-services-inc/locations"
+	},
+	"phones": [{
+		"id": 5301,
+		"department": null,
+		"extension": null,
+		"number": "239-332-5346",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 2807,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-e6197bda-df5c-4198-854e-e1903058d542",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-e6197bda-df5c-4198-854e-e1903058d542",
+	"address": {
+		"id": 1374,
+		"address_1": "275 NW 2nd Street",
+		"address_2": "2nd Floor",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33128"
+	},
+	"organization": {
+		"id": 2806,
+		"accreditations": [],
+		"alternate_name": "Juvenile Assessment Center",
+		"date_incorporated": null,
+		"description": "JSD allows representatives from law enforcement and social services to work together under one roof to provide a complete range of services for both at-risk youth and youth involved with the Juvenile Justice System.\n\nThe Juvenile Assessment CenterGu00c7u00d6s portion of the JSD is open to accept arrested juveniles. The JAC is charged with managing the entire process for arrested juveniles for Miami-Dade County. This includes providing the infrastructure for all juvenile justice stakeholders to comply with their respective mandates/requirements and to perform their respective duties; providing daily coordination for juvenile justice system compliance between stakeholders; processing 100% of the arrested juvenile population brought to the JAC according to law; utilizing JAC data systems to organize the arrest population, and applying u0022best practicesu0022 to strategically reduce the number of children processed at the JAC. The JAC must process arrested juveniles in strict compliance with requirements mandated by Florida State Statutes.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI-DADE COUNTY JUVENILE SERVICES",
+		"website": "http://www.miamidade.gov/juvenileservices/",
+		"slug": "miami-dade-county-juvenile-services",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-juvenile-services",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-juvenile-services/locations"
+	},
+	"phones": [{
+		"id": 2807,
+		"department": null,
+		"extension": null,
+		"number": "305-755-6200",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

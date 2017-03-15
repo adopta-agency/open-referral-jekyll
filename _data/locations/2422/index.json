@@ -1,0 +1,48 @@
+{
+	"id": 2422,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -80,
+	"name": "Naranja, FL",
+	"short_desc": null,
+	"slug": "naranja-fl-28951-south-dixie-highway",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naranja-fl-28951-south-dixie-highway",
+	"address": {
+		"id": 1190,
+		"address_1": "28951 South Dixie Highway",
+		"address_2": null,
+		"city": "Naranja",
+		"state_province": "FL",
+		"postal_code": "33033"
+	},
+	"organization": {
+		"id": 2420,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Serves adults, recent immigrants, youth and children from families who may be unemployed or underemployed, economically disadvantaged, or face barriers to employment. The wide array of services available to meet these needs includes counseling, career exploration, community referrals, basic skills tutoring, English language classes, vocational training, leadership development, mentoring, work experience, life skills, internship, on-the-job training, apprenticeship, resume preparation and job placement assistance.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "YOUTH CO-OP, INC.",
+		"website": "http://www.ycoop.org",
+		"slug": "youth-co-op-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/youth-co-op-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/youth-co-op-inc/locations"
+	},
+	"phones": [{
+		"id": 2422,
+		"department": null,
+		"extension": null,
+		"number": "305-246-6350",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

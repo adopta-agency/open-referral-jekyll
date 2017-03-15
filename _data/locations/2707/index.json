@@ -1,0 +1,48 @@
+{
+	"id": 2707,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-118,
+	34],
+	"description": "See listed services",
+	"latitude": 34,
+	"longitude": -118,
+	"name": "Los Angeles, CA",
+	"short_desc": null,
+	"slug": "los-angeles-ca-4470-west-sunset-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/los-angeles-ca-4470-west-sunset-boulevard",
+	"address": {
+		"id": 1343,
+		"address_1": "4470 West Sunset Boulevard",
+		"address_2": "Suite 107, PMB 555",
+		"city": "Los Angeles",
+		"state_province": "CA",
+		"postal_code": "90027"
+	},
+	"organization": {
+		"id": 2707,
+		"accreditations": [],
+		"alternate_name": "CMA",
+		"date_incorporated": null,
+		"description": "Crystal Meth Anonymous is a fellowship of people for whom crystal meth has become a serious problem. The members of Crystal Meth Anonymous meet regularly, share support and fellowship, and create a safe environment in which to stay clean. Crystal Meth Anonymous is a 12 step fellowship for those in recovery from addiction to crystal meth. There are no dues or fees for membership. Membership in crystal meth anonymous is open to anyone with a desire to stop using crystal meth.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CRYSTAL METH ANONYMOUS",
+		"website": "http://www.crystalmeth.org",
+		"slug": "crystal-meth-anonymous",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/crystal-meth-anonymous",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/crystal-meth-anonymous/locations"
+	},
+	"phones": [{
+		"id": 2707,
+		"department": null,
+		"extension": null,
+		"number": "213-488-4455",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

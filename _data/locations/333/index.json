@@ -1,0 +1,48 @@
+{
+	"id": 333,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -80,
+	"name": "Homestead, FL",
+	"short_desc": null,
+	"slug": "homestead-fl-4-south-krome-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/homestead-fl-4-south-krome-avenue",
+	"address": {
+		"id": 172,
+		"address_1": "4 South Krome Avenue",
+		"address_2": null,
+		"city": "Homestead",
+		"state_province": "FL",
+		"postal_code": "33030"
+	},
+	"organization": {
+		"id": 332,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Responsible for enforcing all laws and ordinances of Homestead, preventing crime, investigating criminal activity, apprehending, arresting and detaining suspects, presenting evidence, regulating traffic and investigating accidents. Also provides a police athletic league and community building services.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "HOMESTEAD POLICE DEPARTMENT",
+		"website": "http://www.homesteadpolice.com",
+		"slug": "homestead-police-department",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/homestead-police-department",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/homestead-police-department/locations"
+	},
+	"phones": [{
+		"id": 333,
+		"department": null,
+		"extension": null,
+		"number": "305-224-5585",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 7394,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.8111029,
+	26.2749285],
+	"description": "See listed services",
+	"latitude": 26.2749285,
+	"longitude": -81.8111029,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-ad69c5df-0774-4690-8f59-92dff945c680",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-ad69c5df-0774-4690-8f59-92dff945c680",
+	"address": {
+		"id": 3378,
+		"address_1": "685 111th Avenue North",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34108"
+	},
+	"organization": {
+		"id": 7393,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "To assist adults and children in acquiring the literacy skills necessary to improve their quality of life. We offer classes throughout Lee, Hendry, and Glades. \r\n\r\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LITERACY COUNCIL GULF COAST, INC.",
+		"website": "http://www.literacygulfcoast.com",
+		"slug": "literacy-council-gulf-coast-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/literacy-council-gulf-coast-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/literacy-council-gulf-coast-inc/locations"
+	},
+	"phones": [{
+		"id": 7394,
+		"department": null,
+		"extension": null,
+		"number": "239-676-5202",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

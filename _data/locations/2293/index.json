@@ -1,0 +1,48 @@
+{
+	"id": 2293,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-777-nw-85th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-777-nw-85th-street",
+	"address": {
+		"id": 1141,
+		"address_1": "777 NW 85th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33150"
+	},
+	"organization": {
+		"id": 2293,
+		"accreditations": [],
+		"alternate_name": "NJCDC",
+		"date_incorporated": null,
+		"description": "New Jerusalem Community Development Corporation provides a year round out-of school program and summer camp program to youth who reside in Miami-Dade County. Activities provided include academic support and social skill development.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE NEW JERUSALEM COMMUNITY DEVELOPMENT CORPORATION",
+		"website": "http://www.newjerusalemcdc.org",
+		"slug": "the-new-jerusalem-community-development-corporation",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-new-jerusalem-community-development-corporation",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-new-jerusalem-community-development-corporation/locations"
+	},
+	"phones": [{
+		"id": 2293,
+		"department": null,
+		"extension": null,
+		"number": "305-693-8323",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

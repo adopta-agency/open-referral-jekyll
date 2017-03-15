@@ -1,0 +1,48 @@
+{
+	"id": 7531,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.5220346,
+	25.0059575],
+	"description": "See listed services",
+	"latitude": 25.0059575,
+	"longitude": -80.5220346,
+	"name": "Tavernier, FL",
+	"short_desc": null,
+	"slug": "tavernier-fl-4c70218b-101d-4926-81df-951d3e9a2e25",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/tavernier-fl-4c70218b-101d-4926-81df-951d3e9a2e25",
+	"address": {
+		"id": 3497,
+		"address_1": "91500 Overseas Highway",
+		"address_2": "Suite 102 (MM 92.3 Bayside)",
+		"city": "Tavernier",
+		"state_province": "FL",
+		"postal_code": "33070"
+	},
+	"organization": {
+		"id": 7531,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "CHM is a program of the Pastoral Care Department of Baptist Health South Florida, which works with the Upper Keys Faith Community, business community and not for profits to equip Upper Keys residents to live healthier lifestyles. This program collaborates with over 80 Upper Keys organizations and residents. Some of the programs include: Neighbor 2 Neighbor where members provide practical services and resource referrals to neighbors asking for help. \n\nThe Living Waters Rx Project provides funding for qualifying residents to be able to fill their prescriptions as well as follow up assistance to find appropriate resources for ongoing prescription/health needs. CHM also offers a 9-week parenting class, ACT Raising Safe Kids, which is court approved, educational workshops and speakers to address faith-based responses to health issues upon request and pastoral counseling.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "COMMUNITY HEALTH MINISTRIES IN THE UPPER KEYS",
+		"website": "http://www.baptisthealth.net",
+		"slug": "community-health-ministries-in-the-upper-keys",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/community-health-ministries-in-the-upper-keys",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/community-health-ministries-in-the-upper-keys/locations"
+	},
+	"phones": [{
+		"id": 7531,
+		"department": null,
+		"extension": null,
+		"number": "305-852-1612",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

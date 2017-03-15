@@ -1,0 +1,48 @@
+{
+	"id": 5930,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1417787,
+	25.9526478],
+	"description": "See listed services",
+	"latitude": 25.9526478,
+	"longitude": -80.1417787,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2999-ne-191st-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-2999-ne-191st-street",
+	"address": {
+		"id": 2534,
+		"address_1": "2999 NE 191st Street",
+		"address_2": "Suite 703",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33180"
+	},
+	"organization": {
+		"id": 5930,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides individual psychotherapy, play therapy, family therapy, marital counseling available, couples counseling, GLBTQ counseling, workplace issues, divorce counseling, mood disorders (anxiety, bipolar, depression, panic disorders).",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ROBIN WEINBERGER, LCSW",
+		"website": "http://www.themarriage-saver.com",
+		"slug": "robin-weinberger-lcsw",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/robin-weinberger-lcsw",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/robin-weinberger-lcsw/locations"
+	},
+	"phones": [{
+		"id": 5930,
+		"department": null,
+		"extension": null,
+		"number": "305-931-5151",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

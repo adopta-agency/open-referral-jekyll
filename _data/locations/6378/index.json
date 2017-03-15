@@ -1,0 +1,48 @@
+{
+	"id": 6378,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-c8399f1f-2f3a-4d9f-8be3-104e696a9867",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-c8399f1f-2f3a-4d9f-8be3-104e696a9867",
+	"address": {
+		"id": 2719,
+		"address_1": "5757 SW 45th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33155"
+	},
+	"organization": {
+		"id": 2429,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The YMCA of South Florida is a part of the YMCA of the USA, the largest not-for-profit community service organization and second largest charity in America. \n\nYMCA programs and services focus on youth and families with our major activities being afterschool child care (over 6,000 students per day), preschool programs, youth sports (basketball, soccer, flag football, and swimming), summer day camps and holiday camps, as well as recreational and educational programs for teens.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "YMCA OF SOUTH FLORIDA, INC.",
+		"website": "http://ymcasouthflorida.org",
+		"slug": "ymca-of-south-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/ymca-of-south-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/ymca-of-south-florida-inc/locations"
+	},
+	"phones": [{
+		"id": 6378,
+		"department": null,
+		"extension": null,
+		"number": "305-357-6622",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

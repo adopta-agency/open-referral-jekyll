@@ -1,0 +1,48 @@
+{
+	"id": 6579,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2513517,
+	25.7355784],
+	"description": "See listed services",
+	"latitude": 25.7355784,
+	"longitude": -80.2513517,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-ee515f8a-9134-433f-b303-19070fbaa64b",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-ee515f8a-9134-433f-b303-19070fbaa64b",
+	"address": {
+		"id": 2815,
+		"address_1": "2990 SW 35th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33133"
+	},
+	"organization": {
+		"id": 6579,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Disability Independence Group, Inc. (DIG) is a 501(c)(3) non-profit organization that promotes recruitment, education and employment of persons with disabilities thereby improving their lives through competitive employment and financial stability; and through the changing of societyGu00c7u00d6s perception of persons with disabilities.\r\n\r\nDIG is a resource center for persons with disabilities, their families, lawyers, and other professionals regarding an individualGu00c7u00d6s rights in the legal system, the education system, and employment. \r\n\t\r\nThe philosophy of DIG is to empower people with disabilities to become self-advocates by giving them access to the tools they need to be educated on their legal rights.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "DISABILITY INDEPENDENCE GROUP, INC.",
+		"website": "http://www.justdigit.org",
+		"slug": "disability-independence-group-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/disability-independence-group-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/disability-independence-group-inc/locations"
+	},
+	"phones": [{
+		"id": 6579,
+		"department": null,
+		"extension": null,
+		"number": "305-669-2822",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

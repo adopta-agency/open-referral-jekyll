@@ -1,0 +1,48 @@
+{
+	"id": 8050,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3444558,
+	25.7018292],
+	"description": "See listed services",
+	"latitude": 25.7018292,
+	"longitude": -80.3444558,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-9300-sunset-drive",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-9300-sunset-drive",
+	"address": {
+		"id": 3958,
+		"address_1": "9300 Sunset Drive",
+		"address_2": "1st Floor",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33173"
+	},
+	"organization": {
+		"id": 8050,
+		"accreditations": [],
+		"alternate_name": "Prescribed Pediatric Extended Care",
+		"date_incorporated": null,
+		"description": "(PPEC) stands for Prescribed Pediatric Extended Care. Big Bear Academy offers an alternative healthcare choice to families of children with special needs who need childcare.\n\nServices Include: Pediatric Nursing, Nutritional Assessment, Physical Therapy, Occupational Therapy, Respiratory Therapy, Speech Therapy, Special Education and Recreation. \n\nTransportation is available to those who qualify. These services provide a less restrictive, cost-effective alternative to expensive hospitalization or home health care. It reduces the isolation of home-bound programs, helping each child to achieve the highest quality of life possible. \n\nIndividual care is provided by qualified professionals - multi-lingual and multi-cultural pediatric nurses and aides- working together on-site with Physical, Speech and Occupational Therapists.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BIG BEAR ACADEMY, INC.",
+		"website": "http://www.bigbearacademyppec.com",
+		"slug": "big-bear-academy-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/big-bear-academy-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/big-bear-academy-inc/locations"
+	},
+	"phones": [{
+		"id": 8050,
+		"department": null,
+		"extension": null,
+		"number": "786-641-6858",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

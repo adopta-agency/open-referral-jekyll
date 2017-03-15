@@ -1,0 +1,48 @@
+{
+	"id": 7601,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1401152,
+	25.8131597],
+	"description": "See listed services",
+	"latitude": 25.8131597,
+	"longitude": -80.1401152,
+	"name": "Miami Beach, FL",
+	"short_desc": null,
+	"slug": "miami-beach-fl-3003bd71-48d5-4c24-8f83-0675334ad23b",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-beach-fl-3003bd71-48d5-4c24-8f83-0675334ad23b",
+	"address": {
+		"id": 3560,
+		"address_1": "4300 Alton Road",
+		"address_2": null,
+		"city": "Miami Beach",
+		"state_province": "FL",
+		"postal_code": "33140"
+	},
+	"organization": {
+		"id": 850,
+		"accreditations": [],
+		"alternate_name": "MT. SINAI",
+		"date_incorporated": null,
+		"description": "This 935-bed private, not-for-profit teaching hospital provides comprehensive care in an array of specialties including cardiology, cardiac surgery, geriatric medicine, oncology, diagnostic imaging, Alzheimer's disease and memory disorders, orthopedics, pulmonary medicine, obstetrics/gynecology, addiction treatment and in house patient case management. Accredited by JCAHO.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MOUNT SINAI MEDICAL CENTER",
+		"website": "http://www.msmc.com",
+		"slug": "mount-sinai-medical-center",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/mount-sinai-medical-center",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/mount-sinai-medical-center/locations"
+	},
+	"phones": [{
+		"id": 7601,
+		"department": null,
+		"extension": null,
+		"number": "305-674-2229",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

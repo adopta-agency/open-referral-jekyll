@@ -1,0 +1,48 @@
+{
+	"id": 2460,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1965122,
+	25.7759558],
+	"description": "See listed services",
+	"latitude": 25.7759558,
+	"longitude": -80.1965122,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-03d4304f-949f-4f7e-8cb5-0ca6c9a33e52",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-03d4304f-949f-4f7e-8cb5-0ca6c9a33e52",
+	"address": {
+		"id": 1206,
+		"address_1": "111 NW 1st Street",
+		"address_2": "Suite 625",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33128"
+	},
+	"organization": {
+		"id": 2460,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Miami-Dade County Deptartment of Cultural Affairs and the Cultural Affairs Council develop cultural excellence, diversity and participation throughout Miami-Dade County by strategically creating and promoting opportunities for artists and cultural organizations, and out residents and visitors who are their audiences. The Department directs the Art in Public Places program and its board, the Art in Public Trust, commissioning, curating, maintaining and promoting the County's art collection. The Department, council and the Trust promote, coordinate and support Miami-Dade County's more than 1,000 not-for-profit cultural organizations as well as thousands of resident artists through grants, technical assistance, public information and interactive community planning.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MIAMI-DADE COUNTY DEPARTMENT OF CULTURAL AFFAIRS",
+		"website": "http://www.miamidadearts.org",
+		"slug": "miami-dade-county-department-of-cultural-affairs",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-department-of-cultural-affairs",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-department-of-cultural-affairs/locations"
+	},
+	"phones": [{
+		"id": 2460,
+		"department": null,
+		"extension": null,
+		"number": "305-375-4634",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

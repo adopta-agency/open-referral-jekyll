@@ -1,0 +1,48 @@
+{
+	"id": 2723,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.380783,
+	25.8627035],
+	"description": "See listed services",
+	"latitude": 25.8627035,
+	"longitude": -80.380783,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-9700-nw-112th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-9700-nw-112th-avenue",
+	"address": {
+		"id": 1352,
+		"address_1": "9700 NW 112th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33178"
+	},
+	"organization": {
+		"id": 2723,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Safelink Wireless service is a program for Income eligible households provided by TracFone Wireless, Inc. In order to participate in the Safelink Wireless service, persons must meet certain eligibility requirements set by each state where the service is to be provided. These requirements are based on a personGu00c7u00d6s participation in a state or Federal support programs or by meeting the Income Poverty Guidelines as defined by the U.S. Government. Safelink Wireless service is limited to one person per household.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SAFELINK WIRELESS",
+		"website": "http://safelinkwireless.com",
+		"slug": "safelink-wireless",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/safelink-wireless",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/safelink-wireless/locations"
+	},
+	"phones": [{
+		"id": 2723,
+		"department": null,
+		"extension": null,
+		"number": "800-723-3546",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

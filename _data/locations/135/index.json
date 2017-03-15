@@ -1,0 +1,48 @@
+{
+	"id": 135,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77,
+	39],
+	"description": "See listed services",
+	"latitude": 39,
+	"longitude": -77,
+	"name": "Baltimore, MD",
+	"short_desc": null,
+	"slug": "baltimore-md",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/baltimore-md",
+	"address": {
+		"id": 79,
+		"address_1": "4805 Mount Hope Drive",
+		"address_2": null,
+		"city": "Baltimore",
+		"state_province": "MD",
+		"postal_code": "21215"
+	},
+	"organization": {
+		"id": 135,
+		"accreditations": [],
+		"alternate_name": "NAACP",
+		"date_incorporated": null,
+		"description": "The mission of the National Association for the Advancement of Colored People is to ensure the political, educational, social, and economic equality of rights of all persons and to eliminate race-based discrimination. \n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE, INC.",
+		"website": "http://www.naacp.org",
+		"slug": "national-association-for-the-advancement-of-colored-people-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/national-association-for-the-advancement-of-colored-people-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/national-association-for-the-advancement-of-colored-people-inc/locations"
+	},
+	"phones": [{
+		"id": 135,
+		"department": null,
+		"extension": null,
+		"number": "410-580-5777",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

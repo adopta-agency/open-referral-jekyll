@@ -1,0 +1,48 @@
+{
+	"id": 5350,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-68766755-d40f-433d-a8c5-53b915cc031c",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-68766755-d40f-433d-a8c5-53b915cc031c",
+	"address": {
+		"id": 2282,
+		"address_1": "6620 North Miami Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33150"
+	},
+	"organization": {
+		"id": 4915,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Gang Alternative, Inc. is tailored to provide a safe and positive environment for young men and women to learn new skills, enhance their social knowledge, emotionally, behaviorally and spiritually.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GANG ALTERNATIVE, INC",
+		"website": "http://www.myga.org",
+		"slug": "gang-alternative-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/gang-alternative-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/gang-alternative-inc/locations"
+	},
+	"phones": [{
+		"id": 5350,
+		"department": null,
+		"extension": null,
+		"number": "305-398-5985",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

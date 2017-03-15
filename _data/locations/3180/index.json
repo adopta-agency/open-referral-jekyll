@@ -1,0 +1,48 @@
+{
+	"id": 3180,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1850752,
+	25.8905723],
+	"description": "See listed services",
+	"latitude": 25.8905723,
+	"longitude": -80.1850752,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-659-ne-125th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-659-ne-125th-street",
+	"address": {
+		"id": 1572,
+		"address_1": "659 NE 125th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33161"
+	},
+	"organization": {
+		"id": 3180,
+		"accreditations": [],
+		"alternate_name": "NATIONAL ALLIANCE TO NUTURE THE AGED AND THE YOUTH",
+		"date_incorporated": null,
+		"description": "NANAY provides recreational activities, counseling sessions, educational seminars, conversational English classes, computer classes, exercise classes, arts and crafts activities, caregiver training and support, housing education, housing services referrals, and foreclosure prevention counseling.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NANAY, INC.",
+		"website": "http://www.nanay.com",
+		"slug": "nanay-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/nanay-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/nanay-inc/locations"
+	},
+	"phones": [{
+		"id": 3180,
+		"department": null,
+		"extension": null,
+		"number": "305-981-3232",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

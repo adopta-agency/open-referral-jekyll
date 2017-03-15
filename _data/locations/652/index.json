@@ -1,0 +1,48 @@
+{
+	"id": 652,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3152067,
+	25.6876538],
+	"description": "See listed services",
+	"latitude": 25.6876538,
+	"longitude": -80.3152067,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-7400-sw-88th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-7400-sw-88th-street",
+	"address": {
+		"id": 333,
+		"address_1": "7400 SW 88th Street",
+		"address_2": "Suite 307-B",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33156"
+	},
+	"organization": {
+		"id": 652,
+		"accreditations": [],
+		"alternate_name": "WEN",
+		"date_incorporated": null,
+		"description": "WomenGu00c7u00d6s Emergency Network (WEN) subsidizes abortion care for South Florida low-income women and girls who canGu00c7u00d6t afford a safe, legal procedure without financial assistance. WEN provides initial screening and then refers clients directly to abortion clinics.\r\n\r\n**THEY ARE NOT AN ABORTION CLINIC. WE DO NOT DO ABORTION PROCEDURES** \r\n\r\n**Please listen to the recordings as it will direct you to the nearest clinic**",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "WOMEN'S EMERGENCY NETWORK, INC.",
+		"website": "http://www.wen-online.org",
+		"slug": "women-s-emergency-network-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/women-s-emergency-network-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/women-s-emergency-network-inc/locations"
+	},
+	"phones": [{
+		"id": 652,
+		"department": null,
+		"extension": null,
+		"number": "305-670-2266",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

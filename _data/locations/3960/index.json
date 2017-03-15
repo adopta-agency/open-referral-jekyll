@@ -1,0 +1,48 @@
+{
+	"id": 3960,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -82,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-2210-santa-barbara-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-2210-santa-barbara-boulevard",
+	"address": {
+		"id": 1832,
+		"address_1": "2210 Santa Barbara Boulevard",
+		"address_2": null,
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34116"
+	},
+	"organization": {
+		"id": 3960,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Since 1968 Catholic Charities of Collier County has been providing effective social services to men, women and children in need in our community. Our mission is to fight poverty, strengthen families and build communities. We do so through a myriad of programs which are intended to ensure human dignity and enhance the quality of life for all persons regardless of race, creed, color or religious affiliation. Catholic Charities of Collier County provides services to individuals, couples, children, families, single parents, non-custodial families, refugees, migrant farm workers, and many others in need of specific assistance. Assistance includes counseling, disaster response, food pantries, Haitian and Hispanic outreach, immigration services, migrant assistance, mentoring and after-school tutoring, refugee services, and School on Wheels.\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CATHOLIC CHARITIES OF COLLIER COUNTY, INC.",
+		"website": "http://www.catholiccharitiescc.org",
+		"slug": "catholic-charities-of-collier-county-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/catholic-charities-of-collier-county-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/catholic-charities-of-collier-county-inc/locations"
+	},
+	"phones": [{
+		"id": 3960,
+		"department": null,
+		"extension": "100.0",
+		"number": "239-455-2655",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,41 @@
+{
+	"id": 1021,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-426a35cb-bf7f-42cf-832b-faa77d0803ec",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-426a35cb-bf7f-42cf-832b-faa77d0803ec",
+	"address": {
+		"id": 539,
+		"address_1": "700 SW 8th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33130"
+	},
+	"organization": {
+		"id": 1015,
+		"accreditations": [],
+		"alternate_name": "LHANC",
+		"date_incorporated": null,
+		"description": "Serves multi-ethnic, economically or socially needy elderly at 16 centers. Provides health support, transportation, adult day care, education, counseling, recreational activities, employment placement and information and referral. Serves hot meals at congregate sites and in homes and administers two intergenerational child day care centers.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "LITTLE HAVANA ACTIVITIES AND NUTRITION CENTERS OF DADE COUNTY, INC.",
+		"website": "http://www.lhanc.org",
+		"slug": "little-havana-activities-and-nutrition-centers-of-dade-county-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/little-havana-activities-and-nutrition-centers-of-dade-county-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/little-havana-activities-and-nutrition-centers-of-dade-county-inc/locations"
+	},
+	"phones": []
+}

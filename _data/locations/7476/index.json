@@ -1,0 +1,48 @@
+{
+	"id": 7476,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2039994,
+	25.9293347],
+	"description": "See listed services",
+	"latitude": 25.9293347,
+	"longitude": -80.2039994,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-6a0bf1cd-0a03-4c60-ac2e-18284af404ee",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-6a0bf1cd-0a03-4c60-ac2e-18284af404ee",
+	"address": {
+		"id": 3447,
+		"address_1": "16800 NW 2nd Avenue",
+		"address_2": "4th Floor",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33169"
+	},
+	"organization": {
+		"id": 217,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "VITAS is headquartered in Miami, Florida, and operates 49 hospice programs in 16 states and the District of Columbia. VITAS employs 11,773 professionals who care for terminally ill patients daily-primarily in the patientsGu00c7u00d6 homes, but also in the companyGu00c7u00d6s 34 inpatient hospice units as well as in hospitals, nursing homes and assisted living communities/residential care facilities. VITAS team members include registered nurses, licensed practical nurses, home health aides, physicians, social workers, chaplains and other caregiving professionals.\n\n###COL###\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "VITAS HEALTHCARE CORPORATION",
+		"website": "http://www.vitas.com",
+		"slug": "vitas-healthcare-corporation",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/vitas-healthcare-corporation",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/vitas-healthcare-corporation/locations"
+	},
+	"phones": [{
+		"id": 7476,
+		"department": null,
+		"extension": null,
+		"number": "786-399-3992",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 5873,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-700-ne-137th-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-700-ne-137th-street",
+	"address": {
+		"id": 2524,
+		"address_1": "700 NE 137th Street",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33161"
+	},
+	"organization": {
+		"id": 2300,
+		"accreditations": [],
+		"alternate_name": "John T. Macdonald Foundation - FAMILY MEDICINE AND COMMUNITY HEALTH",
+		"date_incorporated": null,
+		"description": "Dr. John T. Macdonald Foundation School Health Initiative: School-based primary care, nursing and social worker services in five public schools associated with the North Miami Beach feeder pattern.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UM - FAMILY MEDICINE AND COMMUNITY HEALTH",
+		"website": "http://familymedicine.med.miami.edu/",
+		"slug": "um-family-medicine-and-community-health",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/um-family-medicine-and-community-health",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/um-family-medicine-and-community-health/locations"
+	},
+	"phones": [{
+		"id": 5873,
+		"department": null,
+		"extension": null,
+		"number": "305-891-5611",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

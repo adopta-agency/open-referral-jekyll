@@ -1,0 +1,48 @@
+{
+	"id": 5251,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-82,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -82,
+	"name": "Naples, FL",
+	"short_desc": null,
+	"slug": "naples-fl-b4c21ffd-4133-409e-9e12-35b8d9948c46",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/naples-fl-b4c21ffd-4133-409e-9e12-35b8d9948c46",
+	"address": {
+		"id": 2237,
+		"address_1": "852 1st Avenue South",
+		"address_2": "Suite 201",
+		"city": "Naples",
+		"state_province": "FL",
+		"postal_code": "34102"
+	},
+	"organization": {
+		"id": 5216,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides medical assistance and case management to individuals, 18-64, who have epilepsy and who do not have insurance. Also, to provide in-service training and epilepsy awareness presentations to the community at-large.\r\n\r\nServices include:\r\n\r\n* Access to initial medical services, including initial neurological evaluation, diagnostic testing, blood work.\r\n* Assistance in obtaining medications.\r\n* Case management including coordination of resources and referrals.\r\n* Prevention and Education offered to schools, medical professionals, caregivers, first responders, and other members of the community.\r\n\r\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "EPILEPSY SERVICES OF SOUTHWEST FLORIDA, INC.",
+		"website": "http://www.epilepsy-services.org/",
+		"slug": "epilepsy-services-of-southwest-florida-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/epilepsy-services-of-southwest-florida-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/epilepsy-services-of-southwest-florida-inc/locations"
+	},
+	"phones": [{
+		"id": 5251,
+		"department": null,
+		"extension": null,
+		"number": "239-649-7430",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

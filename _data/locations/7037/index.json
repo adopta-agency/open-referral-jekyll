@@ -1,0 +1,48 @@
+{
+	"id": 7037,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81,
+	25],
+	"description": "See listed services",
+	"latitude": 25,
+	"longitude": -81,
+	"name": "Tavernier, FL",
+	"short_desc": null,
+	"slug": "tavernier-fl-4182d841-632d-4d17-ba1c-33194c7860cb",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/tavernier-fl-4182d841-632d-4d17-ba1c-33194c7860cb",
+	"address": {
+		"id": 3124,
+		"address_1": "93001 Overseas Highway",
+		"address_2": null,
+		"city": "Tavernier",
+		"state_province": "FL",
+		"postal_code": "33070"
+	},
+	"organization": {
+		"id": 7036,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "A Community of Christians that welcomes and engages everyone in a spiritual journey dedicated to making disciples of Jesus Christ, which offers social services to the general community.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "BURTON MEMORIAL UNITED METHODIST CHURCH, INC.",
+		"website": "http://www.bmumc.net/",
+		"slug": "burton-memorial-united-methodist-church-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/burton-memorial-united-methodist-church-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/burton-memorial-united-methodist-church-inc/locations"
+	},
+	"phones": [{
+		"id": 7037,
+		"department": null,
+		"extension": null,
+		"number": "305-852-2581",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

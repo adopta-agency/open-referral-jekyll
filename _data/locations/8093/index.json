@@ -1,0 +1,48 @@
+{
+	"id": 8093,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1433628,
+	25.9614866],
+	"description": "See listed services",
+	"latitude": 25.9614866,
+	"longitude": -80.1433628,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2925-aventura-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-2925-aventura-boulevard",
+	"address": {
+		"id": 3999,
+		"address_1": "2925 Aventura Boulevard",
+		"address_2": "Suite 300",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33180"
+	},
+	"organization": {
+		"id": 6417,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The mission of the International OCD Foundation is to help individuals with obsessive compulsive disorder (OCD) and related disorders to live full and productive lives. Our aim is to increase access to effective treatment, end the stigma associated with mental health issues, and foster a community for those affected by OCD and the professionals who treat them.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "INTERNATIONAL OCD FOUNDATION, INC.",
+		"website": "http://www.ocfoundation.org",
+		"slug": "international-ocd-foundation-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/international-ocd-foundation-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/international-ocd-foundation-inc/locations"
+	},
+	"phones": [{
+		"id": 8093,
+		"department": null,
+		"extension": null,
+		"number": "305-936-1002",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

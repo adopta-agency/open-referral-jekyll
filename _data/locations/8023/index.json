@@ -1,0 +1,48 @@
+{
+	"id": 8023,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.0689324,
+	24.7166817],
+	"description": "See listed services",
+	"latitude": 24.7166817,
+	"longitude": -81.0689324,
+	"name": "Marathon, FL",
+	"short_desc": null,
+	"slug": "marathon-fl-490-63rd-street-ocean",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/marathon-fl-490-63rd-street-ocean",
+	"address": {
+		"id": 3935,
+		"address_1": "490 63rd Street Ocean",
+		"address_2": "Suite 100",
+		"city": "Marathon",
+		"state_province": "FL",
+		"postal_code": "33050"
+	},
+	"organization": {
+		"id": 3500,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The mission of the Veterans Affairs Department is to enhance the quality of life for veterans, dependents, and survivors by assisting them in the application and prosecution of claims for benefits and entitlements from federal, state, and local levels of government.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "MONROE COUNTY DEPARTMENT OF VETERANS AFFAIRS",
+		"website": "http://www.monroecounty-fl.gov",
+		"slug": "monroe-county-department-of-veterans-affairs",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/monroe-county-department-of-veterans-affairs",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/monroe-county-department-of-veterans-affairs/locations"
+	},
+	"phones": [{
+		"id": 8023,
+		"department": null,
+		"extension": null,
+		"number": "305-289-6009",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

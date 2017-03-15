@@ -1,0 +1,48 @@
+{
+	"id": 1186,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-83,
+	28],
+	"description": "See listed services",
+	"latitude": 28,
+	"longitude": -83,
+	"name": "Clearwater, FL",
+	"short_desc": null,
+	"slug": "clearwater-fl",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/clearwater-fl",
+	"address": {
+		"id": 611,
+		"address_1": "100 Starcrest Drive",
+		"address_2": "Suite 201",
+		"city": "Clearwater",
+		"state_province": "FL",
+		"postal_code": "33765"
+	},
+	"organization": {
+		"id": 1186,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Eckerd Kids provides life-changing child welfare, juvenile justice, behavioral health, and workforce development programs to over 25,000 children and families annually. Our mission to provide and share solutions that promote the well-being of children and families in need of a second chance. Eckerd Kids assists both public and private organizations by sharing its best practices and advocating for system reform across the nation.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ECKERD KIDS, INC.",
+		"website": "http://www.eckerd.org",
+		"slug": "eckerd-kids-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/eckerd-kids-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/eckerd-kids-inc/locations"
+	},
+	"phones": [{
+		"id": 1186,
+		"department": null,
+		"extension": null,
+		"number": "727-461-2990",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

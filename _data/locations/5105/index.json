@@ -1,0 +1,48 @@
+{
+	"id": 5105,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -81,
+	"name": "Immokalee, FL",
+	"short_desc": null,
+	"slug": "immokalee-fl-cfd9e744-61b9-460b-a729-579030696527",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/immokalee-fl-cfd9e744-61b9-460b-a729-579030696527",
+	"address": {
+		"id": 2153,
+		"address_1": "509 Hope Circle",
+		"address_2": null,
+		"city": "Immokalee",
+		"state_province": "FL",
+		"postal_code": "34142"
+	},
+	"organization": {
+		"id": 5102,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Guadalupe Center has been offering the children of Immokalee a pipeline to prosperity through educational and special support programs strategically designed to start from six weeks of age and continue through college graduation.\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GUADALUPE CENTER, INC.",
+		"website": "http://www.guadalupecenter.org",
+		"slug": "guadalupe-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/guadalupe-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/guadalupe-center-inc/locations"
+	},
+	"phones": [{
+		"id": 5105,
+		"department": null,
+		"extension": null,
+		"number": "239-657-7711",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

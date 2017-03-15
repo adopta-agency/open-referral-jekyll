@@ -1,0 +1,48 @@
+{
+	"id": 7511,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81.0724957,
+	24.7179803],
+	"description": "See listed services",
+	"latitude": 24.7179803,
+	"longitude": -81.0724957,
+	"name": "Marathon, FL",
+	"short_desc": null,
+	"slug": "marathon-fl-d8755b29-a91e-4faf-9038-71482cdfbc5a",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/marathon-fl-d8755b29-a91e-4faf-9038-71482cdfbc5a",
+	"address": {
+		"id": 3479,
+		"address_1": "5800 Overseas Highway",
+		"address_2": "Suite 41",
+		"city": "Marathon",
+		"state_province": "FL",
+		"postal_code": "33050"
+	},
+	"organization": {
+		"id": 7511,
+		"accreditations": [],
+		"alternate_name": "FKAHEC",
+		"date_incorporated": null,
+		"description": "The Mission of the Florida keys AHEC is to effectively promote health and wellness through education, health assessments, and professional development using partnerships and other contract-funded services, resulting in a healthier, better educated community.\n\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FLORIDA KEYS AREA HEALTH EDUCATION CENTER, INC.",
+		"website": "http://www.fkahec.org",
+		"slug": "florida-keys-area-health-education-center-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-keys-area-health-education-center-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-keys-area-health-education-center-inc/locations"
+	},
+	"phones": [{
+		"id": 7511,
+		"department": null,
+		"extension": "202.0",
+		"number": "305-743-7111",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

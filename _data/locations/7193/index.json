@@ -1,0 +1,48 @@
+{
+	"id": 7193,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.1879671,
+	25.7738091],
+	"description": "See listed services",
+	"latitude": 25.7738091,
+	"longitude": -80.1879671,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-2-south-biscayne-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-2-south-biscayne-boulevard",
+	"address": {
+		"id": 3229,
+		"address_1": "2 South Biscayne Boulevard",
+		"address_2": "Suite 3760",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33131"
+	},
+	"organization": {
+		"id": 7193,
+		"accreditations": [],
+		"alternate_name": "FIG",
+		"date_incorporated": null,
+		"description": "Foreclosure International Group is a nationwide service that assists with loss mitigation by working with the banks to stop foreclosure and assist individuals with obtaining their homes back after a foreclosure. Also assists with land trust, mortgage debt and personal debt.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FORECLOSURE INTERNATIONAL GROUP, INC.",
+		"website": "http://figww.com",
+		"slug": "foreclosure-international-group-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/foreclosure-international-group-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/foreclosure-international-group-inc/locations"
+	},
+	"phones": [{
+		"id": 7193,
+		"department": null,
+		"extension": null,
+		"number": "770-256-7881",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

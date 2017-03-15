@@ -1,0 +1,48 @@
+{
+	"id": 516,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-caed8cf4-62a0-42e6-b6ad-317be3654e91",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-caed8cf4-62a0-42e6-b6ad-317be3654e91",
+	"address": {
+		"id": 266,
+		"address_1": "1611 NW 12th Avenue",
+		"address_2": "North Wing, Room 109",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33136"
+	},
+	"organization": {
+		"id": 514,
+		"accreditations": [],
+		"alternate_name": "UM",
+		"date_incorporated": null,
+		"description": "The Department of Pediatrics at the University of Miami School of Medicine is nationally and internationally acclaimed for education, research, patient care, and biomedical innovation.\n\nYoung patients come to UM from all over the world to receive quality care delivered with compassion by outstanding pediatric specialists and other skilled medical professionals. As part of the University of Miami School of Medicine, the Department of Pediatrics is integrated into a dynamic research environment where innovative and effective treatments and cures are under development.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "UNIVERSITY OF MIAMI - DEPARTMENT OF PEDIATRICS",
+		"website": "http://www.pediatrics.med.miami.edu",
+		"slug": "university-of-miami-department-of-pediatrics",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/university-of-miami-department-of-pediatrics",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/university-of-miami-department-of-pediatrics/locations"
+	},
+	"phones": [{
+		"id": 516,
+		"department": null,
+		"extension": null,
+		"number": "305-585-6683",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

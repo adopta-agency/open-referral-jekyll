@@ -1,0 +1,48 @@
+{
+	"id": 7524,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2426745,
+	25.9417584],
+	"description": "See listed services",
+	"latitude": 25.9417584,
+	"longitude": -80.2426745,
+	"name": "Miami Gardens, FL",
+	"short_desc": null,
+	"slug": "miami-gardens-fl-2455-nw-183rd-street",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-gardens-fl-2455-nw-183rd-street",
+	"address": {
+		"id": 3491,
+		"address_1": "2455 NW 183rd Street",
+		"address_2": null,
+		"city": "Miami Gardens",
+		"state_province": "FL",
+		"postal_code": "33056"
+	},
+	"organization": {
+		"id": 7524,
+		"accreditations": [],
+		"alternate_name": "SCHOLARSHIP READY",
+		"date_incorporated": null,
+		"description": "Get Scholarship Ready (GSR) is a nonprofit 501 (c) (3) organization designed to conduct community outreach programs to enhance self-sufficiency amongst youth by promoting post educational achievement and providing entrepreneurship training to at risk youth in low income areas. Get Scholarship Ready engages the support of the community and other agencies to further the organizationGu00c7u00d6s goal in assisting local government with youth crime prevention initiatives by promoting an alternative lifestyle throughout Miami Dade and Broward County areas.\n\nThe board members of GSR has a primary focus on students whose families are deemed low income, students raised in a single parent household, and/or students who reside with a household member who has been incarcerated.\n\nThe 2016-2017 Plan of Action for GSR focuses on (5) segments:\n* Youth Enrichment Program (YEP)\n* Annual 8th Grade Forum\n* Free ACT/SAT Exam Prep Course\n* 2016 Leadership Summer Camp \n* Scholarship Awards",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "GET SCHOLARSHIP READY",
+		"website": "http://www.scholarshipready.com",
+		"slug": "get-scholarship-ready",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/get-scholarship-ready",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/get-scholarship-ready/locations"
+	},
+	"phones": [{
+		"id": 7524,
+		"department": null,
+		"extension": null,
+		"number": "305-985-0135",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 2126,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-09618b27-d8c8-43e0-a977-554ec2acad32",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-09618b27-d8c8-43e0-a977-554ec2acad32",
+	"address": {
+		"id": 1070,
+		"address_1": "155 South Miami Avenue",
+		"address_2": "Suite 200",
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33130"
+	},
+	"organization": {
+		"id": 2126,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "Provides year round training and competition in 17 Olympic style sports for intellectually disabled people. Training takes place at local schools, parks and other public access areas. Competition is held seasonally on local and state levels. Participants in the games are required to have eight weeks of training in order to compete.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "SPECIAL OLYMPICS FLORIDA - MIAMI-DADE COUNTY",
+		"website": "http://specialolympicsflorida.org/miami-dade/",
+		"slug": "special-olympics-florida-miami-dade-county",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/special-olympics-florida-miami-dade-county",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/special-olympics-florida-miami-dade-county/locations"
+	},
+	"phones": [{
+		"id": 2126,
+		"department": null,
+		"extension": null,
+		"number": "305-406-9467",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

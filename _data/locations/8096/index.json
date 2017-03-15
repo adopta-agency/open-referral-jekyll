@@ -1,0 +1,48 @@
+{
+	"id": 8096,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.260557,
+	25.7523266],
+	"description": "See listed services",
+	"latitude": 25.7523266,
+	"longitude": -80.260557,
+	"name": "Coral Gables, FL",
+	"short_desc": null,
+	"slug": "coral-gables-fl-af35cad2-fd73-46a5-bbce-b4250a81b918",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/coral-gables-fl-af35cad2-fd73-46a5-bbce-b4250a81b918",
+	"address": {
+		"id": 4002,
+		"address_1": "299 Alhambra Circle",
+		"address_2": null,
+		"city": "Coral Gables",
+		"state_province": "FL",
+		"postal_code": "33134"
+	},
+	"organization": {
+		"id": 534,
+		"accreditations": [],
+		"alternate_name": "NAMI",
+		"date_incorporated": null,
+		"description": "This volunteer organization advocates for treatment and services for the recovery of mentally ill persons, advocates for legislative initiatives, provides comfort and support to affected families and disseminates information in the community.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "NAMI OF MIAMI, INC.",
+		"website": "http://www.namiofmiami.org",
+		"slug": "nami-of-miami-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/nami-of-miami-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/nami-of-miami-inc/locations"
+	},
+	"phones": [{
+		"id": 8096,
+		"department": null,
+		"extension": null,
+		"number": "305-608-2881",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

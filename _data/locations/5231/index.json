@@ -1,0 +1,48 @@
+{
+	"id": 5231,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-81,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -81,
+	"name": "Immokalee, FL",
+	"short_desc": null,
+	"slug": "immokalee-fl-85466661-a6ad-4f82-823f-37f9789b48ad",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/immokalee-fl-85466661-a6ad-4f82-823f-37f9789b48ad",
+	"address": {
+		"id": 2225,
+		"address_1": "2449 Sanders Pines Circle",
+		"address_2": null,
+		"city": "Immokalee",
+		"state_province": "FL",
+		"postal_code": "34142"
+	},
+	"organization": {
+		"id": 5230,
+		"accreditations": [],
+		"alternate_name": "IMMOKALEE HOUSING AND FAMILY SERVICES",
+		"date_incorporated": null,
+		"description": "IHFS owns and operates three properties and provides 125 affordable rental units to low-income families in Immokalee to best meet the critical housing needs of farm workers and other low-income families. The three unites are: Sanders Pines, Timber Ridge, and Esperanza Place.\n\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "IMMOKALEE NON-PROFIT HOUSING, INC.",
+		"website": "http://www.ihfservices.org",
+		"slug": "immokalee-non-profit-housing-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/immokalee-non-profit-housing-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/immokalee-non-profit-housing-inc/locations"
+	},
+	"phones": [{
+		"id": 5231,
+		"department": null,
+		"extension": null,
+		"number": "239-657-8333",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 6426,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-77.0425648,
+	38.8969637],
+	"description": "See listed services",
+	"latitude": 38.8969637,
+	"longitude": -77.0425648,
+	"name": "Washington, DC",
+	"short_desc": null,
+	"slug": "washington-dc-bd51a3a1-3c4d-4c9b-bd29-16f033bb6866",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/washington-dc-bd51a3a1-3c4d-4c9b-bd29-16f033bb6866",
+	"address": {
+		"id": 2734,
+		"address_1": "1800 F Street, NW",
+		"address_2": null,
+		"city": "Washington",
+		"state_province": "DC",
+		"postal_code": "20405"
+	},
+	"organization": {
+		"id": 6425,
+		"accreditations": [],
+		"alternate_name": "GSA",
+		"date_incorporated": null,
+		"description": "GSA is responsible for improving the governmentGu00c7u00d6s workplace by managing assets, delivering maximum value in acquisitions, preserving historic property and implementing technology solutions.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "U.S. GENERAL SERVICES ADMINISTRATION",
+		"website": "http://gsa.gov",
+		"slug": "u-s-general-services-administration",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-general-services-administration",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-general-services-administration/locations"
+	},
+	"phones": [{
+		"id": 6426,
+		"department": null,
+		"extension": null,
+		"number": "800-333-4636",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

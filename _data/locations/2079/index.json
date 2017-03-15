@@ -1,0 +1,48 @@
+{
+	"id": 2079,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.2503271,
+	25.9023168],
+	"description": "See listed services",
+	"latitude": 25.9023168,
+	"longitude": -80.2503271,
+	"name": "Opa Locka, FL",
+	"short_desc": null,
+	"slug": "opa-locka-fl-3f777b70-52f7-49b0-9ade-16e1357480b2",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/opa-locka-fl-3f777b70-52f7-49b0-9ade-16e1357480b2",
+	"address": {
+		"id": 1054,
+		"address_1": "P.O. Box 540947",
+		"address_2": null,
+		"city": "Opa Locka",
+		"state_province": "FL",
+		"postal_code": "33054"
+	},
+	"organization": {
+		"id": 2072,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "We travel to your facility or home to train and certify your staff and families in CPR, First-aid, A.E.D., HIV, Blood borne Pathogens (OSHA), and Water Safety for parents and caregivers. We offer needed products for the health care industry such as Gloves, First-Aid Kits and CPR Masks.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "FIRST STEP MOBILE SERVICES",
+		"website": "http://firststepmobileservices.com",
+		"slug": "first-step-mobile-services",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/first-step-mobile-services",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/first-step-mobile-services/locations"
+	},
+	"phones": [{
+		"id": 2079,
+		"department": null,
+		"extension": null,
+		"number": "786-201-7621",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,41 @@
+{
+	"id": 1748,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-20b09261-f934-4c26-a1d1-b3067394e055",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-20b09261-f934-4c26-a1d1-b3067394e055",
+	"address": {
+		"id": 902,
+		"address_1": "335 SW 27th Avenue",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33135"
+	},
+	"organization": {
+		"id": 1743,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The American Red Cross prevents and alleviates human suffering in the face of emergencies by mobilizing the power of volunteers and the generosity of donors. The Red Cross offers hurricane preparedness, disaster relief, international services and comprehensive health and safety programs nationwide.\n\n###MON###\n###COL###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "AMERICAN RED CROSS",
+		"website": "http://www.redcross.org",
+		"slug": "american-red-cross",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-red-cross",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-red-cross/locations"
+	},
+	"phones": []
+}

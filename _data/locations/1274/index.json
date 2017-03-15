@@ -1,0 +1,48 @@
+{
+	"id": 1274,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-66476eb8-cb32-4c97-9bd7-3b3da8128259",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-66476eb8-cb32-4c97-9bd7-3b3da8128259",
+	"address": {
+		"id": 655,
+		"address_1": "1501 NW North River Drive",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33125"
+	},
+	"organization": {
+		"id": 1273,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "The Dade County Medical Association works hard on behalf of Miami-Dade County physicians. Founded in 1903, the DCMA is proud and honored to be the largest association representing physicians in Miami-Dade County.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "THE DADE COUNTY MEDICAL ASSOCIATION, INC.",
+		"website": "http://www.miamimed.com",
+		"slug": "the-dade-county-medical-association-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-dade-county-medical-association-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-dade-county-medical-association-inc/locations"
+	},
+	"phones": [{
+		"id": 1274,
+		"department": null,
+		"extension": null,
+		"number": "305-324-8717",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

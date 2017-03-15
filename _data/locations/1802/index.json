@@ -1,0 +1,48 @@
+{
+	"id": 1802,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80,
+	26],
+	"description": "See listed services",
+	"latitude": 26,
+	"longitude": -80,
+	"name": "Coral Gables, FL",
+	"short_desc": null,
+	"slug": "coral-gables-fl-2333-ponce-de-leon-boulevard",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/coral-gables-fl-2333-ponce-de-leon-boulevard",
+	"address": {
+		"id": 945,
+		"address_1": "2333 Ponce De Leon Boulevard",
+		"address_2": "Suite 610",
+		"city": "Coral Gables",
+		"state_province": "FL",
+		"postal_code": "33134"
+	},
+	"organization": {
+		"id": 1763,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "View individual consulate profiles for information.\r\n\r\n###COL###\r\n###MON###",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "CONSULATES",
+		"website": null,
+		"slug": "consulates",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/consulates",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/consulates/locations"
+	},
+	"phones": [{
+		"id": 1802,
+		"department": null,
+		"extension": null,
+		"number": "305-443-8917",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

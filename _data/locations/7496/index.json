@@ -1,0 +1,48 @@
+{
+	"id": 7496,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.3069916,
+	25.9415294],
+	"description": "See listed services",
+	"latitude": 25.9415294,
+	"longitude": -80.3069916,
+	"name": "Miami Gardens, FL",
+	"short_desc": null,
+	"slug": "miami-gardens-fl-18516-nw-67th-avenue",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-gardens-fl-18516-nw-67th-avenue",
+	"address": {
+		"id": 3464,
+		"address_1": "18516 NW 67th Avenue",
+		"address_2": "Suite 27",
+		"city": "Miami Gardens",
+		"state_province": "FL",
+		"postal_code": "33015"
+	},
+	"organization": {
+		"id": 3971,
+		"accreditations": [],
+		"alternate_name": "Formerly COMMUNITY BLOOD CENTERS OF SOUTH FLORIDA, INC.",
+		"date_incorporated": null,
+		"description": "On January 27, 2012 three of FloridaGu00c7u00d6s independent, not-for-profit blood centers, Community Blood Centers of Florida, Inc. (CBCF), FloridaGu00c7u00d6s Blood Centers, Inc. (FBC) and Florida Blood Services, Inc. (FBS) came together in a merger of equals and OneBlood, Inc. was established.\n\nA blood center that provides safe, available and affordable blood to hospital partners and their patients.\n\nThe service area of OneBlood includes the Tampa Bay area, South and Southeast Florida, the Orlando-metro area and surrounding Central Florida counties, parts of Southwest Florida, Pensacola and Tallahassee and some parts of Southern Georgia and Alabama.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ONE BLOOD, INC.",
+		"website": "http://www.oneblood.org",
+		"slug": "one-blood-inc",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/one-blood-inc",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/one-blood-inc/locations"
+	},
+	"phones": [{
+		"id": 7496,
+		"department": null,
+		"extension": null,
+		"number": "305-351-2782",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

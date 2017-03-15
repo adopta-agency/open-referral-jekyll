@@ -1,0 +1,48 @@
+{
+	"id": 7801,
+	"active": true,
+	"admin_emails": [],
+	"alternate_name": null,
+	"coordinates": [-80.4310179,
+	25.7177999],
+	"description": "See listed services",
+	"latitude": 25.7177999,
+	"longitude": -80.4310179,
+	"name": "Miami, FL",
+	"short_desc": null,
+	"slug": "miami-fl-14682-sw-50th-terrace",
+	"website": null,
+	"updated_at": "2017-01-09T10:15:05.860-08:00",
+	"url": "https://miamiopen211-api.herokuapp.com/api/locations/miami-fl-14682-sw-50th-terrace",
+	"address": {
+		"id": 3732,
+		"address_1": "14682 SW 50th Terrace",
+		"address_2": null,
+		"city": "Miami",
+		"state_province": "FL",
+		"postal_code": "33175"
+	},
+	"organization": {
+		"id": 7801,
+		"accreditations": [],
+		"alternate_name": null,
+		"date_incorporated": null,
+		"description": "All Florida Senior Services provides free referral services for assisted living facilities.",
+		"email": null,
+		"funding_sources": [],
+		"licenses": [],
+		"name": "ALL FLORIDA SENIOR SERVICES, CORP.",
+		"website": null,
+		"slug": "all-florida-senior-services-corp",
+		"url": "https://miamiopen211-api.herokuapp.com/api/organizations/all-florida-senior-services-corp",
+		"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/all-florida-senior-services-corp/locations"
+	},
+	"phones": [{
+		"id": 7801,
+		"department": null,
+		"extension": null,
+		"number": "786-340-3556",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}
