@@ -32,6 +32,16 @@ td {
         {% endfor %}
         </ul>
      </div>
+     <div class="col-lg-4">
+       <h4>Locations</h4>
+       <ul>
+         {% for location in site.data.locations %}
+          {% if location.organization.id == id %}
+             <li>{{ location.organization.name | capitalize }} - {{ location.address.address_1 }} {{ location.address.city }}, {{ location.address.state_province }} {{ location.address.postal_code }}</li>
+           {% endif %}
+         {% endfor %}
+       </ul>
+    </div>
     </div>
 
     {% assign show = 1 %}
