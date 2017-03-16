@@ -1,0 +1,38 @@
+{
+	"id": 451,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Hearing and Speech Center of Florida offers comprehensive therapy services including hearing testing and the dispensing of hearing aids. Services can be provided in the schools or in the office. Services offered are:\n\n* Speech Therapy\n* Occupational Therapy\n* Physical Therapy (must be enrolled in Early Steps first)",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HEARING AND SPEECH CENTER OF FLORIDA, INC.",
+	"website": "http://www.hearingandspeechcenter.org",
+	"slug": "hearing-and-speech-center-of-florida-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/hearing-and-speech-center-of-florida-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/hearing-and-speech-center-of-florida-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "bleon@hearingandspeechcenter.org",
+		"id": 451,
+		"name": "Beatrice Leon",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 451,
+			"department": null,
+			"extension": null,
+			"number": "305-271-7343",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 451,
+		"department": null,
+		"extension": null,
+		"number": "305-271-7343",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

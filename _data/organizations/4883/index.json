@@ -1,0 +1,84 @@
+{
+	"id": 4883,
+	"accreditations": [],
+	"alternate_name": "SFWMD",
+	"date_incorporated": null,
+	"description": "The mission of The South Florida Water Management District is to manage and protect water resources of the region by balancing and improving water quality, flood control, natural systems and water supply. It is a regional governmental agency that oversees the water resources in the southern half of the state, covering 16 counties from Orlando to the Florida Keys.\n\n###MON### \n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SOUTH FLORIDA WATER MANAGEMENT DISTRICT",
+	"website": "http://my.sfwmd.gov",
+	"slug": "south-florida-water-management-district",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/south-florida-water-management-district",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/south-florida-water-management-district/locations",
+	"contacts": [{
+		"department": null,
+		"email": "sbathcel@sfwmd.gov",
+		"id": 4883,
+		"name": "Sandy Batchelor",
+		"title": "Governing Board Member",
+		"phones": [{
+			"id": 4883,
+			"department": null,
+			"extension": null,
+			"number": "561-686-8800",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sbatchel@sfwmd.gov",
+		"id": 4884,
+		"name": "Sandy Batchelor",
+		"title": "Governing Board Member",
+		"phones": [{
+			"id": 4884,
+			"department": null,
+			"extension": null,
+			"number": "305-513-3420",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "fbarber@sfwmd.gov",
+		"id": 7685,
+		"name": "Rick Barber",
+		"title": "Governing Board Member",
+		"phones": [{
+			"id": 7685,
+			"department": null,
+			"extension": null,
+			"number": "239-338-2929",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4883,
+		"department": null,
+		"extension": null,
+		"number": "561-686-8800",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4884,
+		"department": null,
+		"extension": null,
+		"number": "305-513-3420",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7685,
+		"department": null,
+		"extension": null,
+		"number": "239-338-2929",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

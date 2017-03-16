@@ -1,0 +1,61 @@
+{
+	"id": 947,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Mercy Hospital strives to improve the well-being of those served through a healthcare delivery system designed to promote wellness and cure illness. As a ministry of the Roman Catholic Church, we are committed to being a transforming, healing presence within our community.\n\nServices include:\nBehavioral Health, Cancer Care, Cardiac and Vascular Care, Diagnostic Services, Emergency Care, Endoscopic Ultrasound Imaging, Gastroenterological Services, Hyperbaric and Wound Care, Maternity Care, Minimally Invasive and Robotic Surgery, Orthopedics and Spine, Pastoral Care Department, Pharmacy, Primary Stroke Center, Rehabilitation, Sleep Laboratory, Surgical Weight Loss Center, and Women's Health.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MERCY HOSPITAL, INC.",
+	"website": "http://www.mercymiami.org",
+	"slug": "mercy-hospital-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/mercy-hospital-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/mercy-hospital-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 947,
+		"name": "Dale F. Alward",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 947,
+			"department": null,
+			"extension": null,
+			"number": "305-854-4400",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 951,
+		"name": "Dale F. Alward",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 951,
+			"department": null,
+			"extension": null,
+			"number": "305-285-2929",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 947,
+		"department": null,
+		"extension": null,
+		"number": "305-854-4400",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 951,
+		"department": null,
+		"extension": null,
+		"number": "305-285-2929",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

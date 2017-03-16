@@ -1,0 +1,84 @@
+{
+	"id": 1006,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "This 407-bed acute care medical/surgical facility provides award-winning inpatient and outpatient diagnostic, medical, surgical and cancer services to the community of northeast Miami-Dade and southeast Broward Counties since 1965. Staffed by more than 785 physicians representing over 50 specialties and 1,200 employees, the hospital meets the healthcare needs of its neighboring communities through continuous program enhancement and service excellence. Aventura Hospital and Medical Center offers inpatient and outpatient services including Breast Diagnostic Center, Cardiac Catheterization Lab, 24-hour Emergency Department/Chest Pain Center, Comprehensive Cancer Center, Critical Care Units, Diabetes Program recognized by the American Diabetes Association, Pain Care Center, Sleep Disorders Center and the Wound Healing Center.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "AVENTURA HOSPITAL AND MEDICAL CENTER",
+	"website": "http://www.aventurahospital.com",
+	"slug": "aventura-hospital-and-medical-center",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/aventura-hospital-and-medical-center",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/aventura-hospital-and-medical-center/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 1006,
+		"name": "Dianne Goldenberg",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 1006,
+			"department": null,
+			"extension": null,
+			"number": "305-682-7000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 1007,
+		"name": "Intake Nurse",
+		"title": null,
+		"phones": [{
+			"id": 1007,
+			"department": null,
+			"extension": null,
+			"number": "305-682-5245",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "judy.newman@hcahealthcare.com",
+		"id": 1008,
+		"name": "Judy Newman",
+		"title": "Director of Outpatient",
+		"phones": [{
+			"id": 1008,
+			"department": null,
+			"extension": null,
+			"number": "305-682-7266",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1006,
+		"department": null,
+		"extension": null,
+		"number": "305-682-7000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1007,
+		"department": null,
+		"extension": null,
+		"number": "305-682-5245",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1008,
+		"department": null,
+		"extension": null,
+		"number": "305-682-7266",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 4386,
+	"accreditations": [],
+	"alternate_name": "PROJECT ACTION MINISTRIES",
+	"date_incorporated": null,
+	"description": "Provides fatherhood support group where training and mentoring takes place. Provides marriage/family counseling, community activism/organizing, adult/youth crime prevention, adult/youth substance abuse counseling, child abuse prevention and parenting skills.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "WORLD'S GREATEST DADS, INC.",
+	"website": null,
+	"slug": "world-s-greatest-dads-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/world-s-greatest-dads-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/world-s-greatest-dads-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mkbur293@bellsouth.net",
+		"id": 4386,
+		"name": "Dr. Michael D. Burnett",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 4386,
+			"department": null,
+			"extension": null,
+			"number": "786-385-9509",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4386,
+		"department": null,
+		"extension": null,
+		"number": "786-385-9509",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

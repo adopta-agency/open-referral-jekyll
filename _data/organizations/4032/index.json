@@ -1,0 +1,107 @@
+{
+	"id": 4032,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Narcotics Anonymous works to ensure that every addict in the world has the chance to experience our message in his or her own language and culture and find the opportunity for a new way of life. \r\n\r\n###MON###\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NARCOTICS ANONYMOUS",
+	"website": "https://www.na.org/",
+	"slug": "narcotics-anonymous",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/narcotics-anonymous",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/narcotics-anonymous/locations",
+	"contacts": [{
+		"department": null,
+		"email": "fsmail@na.org",
+		"id": 4032,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 4032,
+			"department": null,
+			"extension": null,
+			"number": "818-773-9999",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 4033,
+		"name": "Cameka J.",
+		"title": "Helpline/Public Information",
+		"phones": [{
+			"id": 4033,
+			"department": null,
+			"extension": null,
+			"number": "866-935-8811",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7405,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 7405,
+			"department": null,
+			"extension": null,
+			"number": "305-265-9555",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "webservant@floridakeysna.org",
+		"id": 7758,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 7758,
+			"department": null,
+			"extension": null,
+			"number": "866-584-2411",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4032,
+		"department": null,
+		"extension": null,
+		"number": "818-773-9999",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4033,
+		"department": null,
+		"extension": null,
+		"number": "866-935-8811",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7405,
+		"department": null,
+		"extension": null,
+		"number": "305-265-9555",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7758,
+		"department": null,
+		"extension": null,
+		"number": "866-584-2411",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

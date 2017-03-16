@@ -1,0 +1,61 @@
+{
+	"id": 3470,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Assistance to the Elderly, Inc. is a senior living community that offers Assisted Living services.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ASSISTANCE TO THE ELDERLY, INC.",
+	"website": "http://www.residentialplaza.com",
+	"slug": "assistance-to-the-elderly-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/assistance-to-the-elderly-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/assistance-to-the-elderly-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "cvilla@residentialplaza.com",
+		"id": 3470,
+		"name": "Clara Villa",
+		"title": "Community Outreach Representative",
+		"phones": [{
+			"id": 3470,
+			"department": null,
+			"extension": "227.0",
+			"number": "305-267-2700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cvilla@residentialplaza.com",
+		"id": 3471,
+		"name": "Clara Villa",
+		"title": "Community Outreach Representative",
+		"phones": [{
+			"id": 3471,
+			"department": null,
+			"extension": "227.0",
+			"number": "305-267-2700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3470,
+		"department": null,
+		"extension": "227.0",
+		"number": "305-267-2700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3471,
+		"department": null,
+		"extension": "227.0",
+		"number": "305-267-2700",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

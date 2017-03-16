@@ -1,0 +1,38 @@
+{
+	"id": 2391,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Collier Spay Neuter Clinic provides targeted, high quality, high volume, affordable spay neuter services as a non-lethal solution to the pet overpopulation crisis for residents of Southwest Florida.\r\n\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "COLLIER SPAY NEUTER CLINIC, INC.",
+	"website": "http://www.collierspayneuter.org",
+	"slug": "collier-spay-neuter-clinic-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-spay-neuter-clinic-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-spay-neuter-clinic-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@collierspayneuter.org",
+		"id": 2391,
+		"name": "Pallas Diaz",
+		"title": "Founder and Executive Director",
+		"phones": [{
+			"id": 2391,
+			"department": null,
+			"extension": null,
+			"number": "239-514-7647",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2391,
+		"department": null,
+		"extension": null,
+		"number": "239-514-7647",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

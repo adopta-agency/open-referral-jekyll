@@ -1,0 +1,38 @@
+{
+	"id": 8195,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Empower Gu00c7u00a3UGu00c7u00a5, Inc. Community Health Center is a comprehensive primary health care center that addresses the complete health care needs of our communityGu00c7u00d6s adult, adolescent, pediatric and specialty needs populations.\n\nServices include:\n\n* Primary Medical Care\n* Diagnostic Laboratory\n* Screenings\n* Immunizations\n* Voluntary Family Planning\n* Child Wellness Visits\n* Obstetric Care\n* Ultrasounds\n* Dental Care\n* Case Management\n* Mental Health and Substance Abuse Counseling\n* HIV/STI Testing\n* PreP and nPEP \n* Outreach Assistance\n* Nutritional Counseling\n* Housing Assistance for those with HIV/AIDS",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "EMPOWER U",
+	"website": "http://www.euchc.org",
+	"slug": "empower-u",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/empower-u",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/empower-u/locations",
+	"contacts": [{
+		"department": null,
+		"email": "vmills@empower-u-miami.org",
+		"id": 8195,
+		"name": "Vanessa Mills",
+		"title": "CEO",
+		"phones": [{
+			"id": 8195,
+			"department": null,
+			"extension": "125.0",
+			"number": "786-318-2337",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8195,
+		"department": null,
+		"extension": "125.0",
+		"number": "786-318-2337",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

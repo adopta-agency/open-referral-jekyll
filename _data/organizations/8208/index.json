@@ -1,0 +1,61 @@
+{
+	"id": 8208,
+	"accreditations": [],
+	"alternate_name": "Family Recovery Specialists",
+	"date_incorporated": null,
+	"description": "FRSMiami provides a drug and alcohol intensive outpatient program for adolescents and adults who are struggling with substance abuse and addiction. Treatment is individualized and tailored to the person based on a thorough evaluation and mutually agreed upon goals. Our program consists of education, individual counseling, group therapy, family therapy and random drug screening for all participants. We provide highly individualized and comprehensive services for addiction and recovery and utilize best practices to serve all our clients and families.\n\nThis program includes education about the physical, emotional and social risks associated with substance use. Clients are taught refusal skills and other coping mechanisms in order to make better choices related to living a physically and emotionally healthy lifestyle free from substance use. Families are educated about substance abuse and the addictive disease process and taught how to best support their loved one in recovery. Patients and their families attend a weekly multi-family group counseling session where issues of communication, conflict resolution and recovery are processed. Families are provided direction and supported in order to learn new, more effective ways of communicating and relating to one another.\n\nEach patient undergoes a thorough bio-psycho-social assessment and specific substance abuse evaluation with a licensed professional counselor and addiction specialist. In our outpatient rehab we assess the level of substance involvement and examine all consequences related to use. In addition, we explore the family situation to determine what other support may be necessary for recovery. Other co-occurring mental health issues are also examined and a referral to a consulting psychologist/psychiatrist is made when necessary.\n\nOur outpatient program meets four times per week. Individual and family therapy appointments are scheduled at a time that is convenient for the client and family.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FRSMIAMI: A RECOVERY BOUTIQUE",
+	"website": "http://www.familyrecoveryspecialists.com",
+	"slug": "frsmiami-a-recovery-boutique",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/frsmiami-a-recovery-boutique",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/frsmiami-a-recovery-boutique/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@familyrecoveryspecislists.com",
+		"id": 8208,
+		"name": "Ray Estefania",
+		"title": "Co-Founder & Executive Director",
+		"phones": [{
+			"id": 8208,
+			"department": null,
+			"extension": null,
+			"number": "305-595-7378",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@familyrecoveryspecislists.com",
+		"id": 8209,
+		"name": "Ray Estefania",
+		"title": "Co-Founder & Executive Director",
+		"phones": [{
+			"id": 8209,
+			"department": null,
+			"extension": null,
+			"number": "305-345-8278",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8208,
+		"department": null,
+		"extension": null,
+		"number": "305-595-7378",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8209,
+		"department": null,
+		"extension": null,
+		"number": "305-345-8278",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

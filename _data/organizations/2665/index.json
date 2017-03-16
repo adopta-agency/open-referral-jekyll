@@ -1,0 +1,268 @@
+{
+	"id": 2665,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Easter Seals provides exceptional services, education, outreach, and advocacy so that people living with autism and other disabilities can live, learn, work and play in our communities.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "EASTER SEALS SOUTH FLORIDA, INC.",
+	"website": "http://www.southflorida.easterseals.com",
+	"slug": "easter-seals-south-florida-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/easter-seals-south-florida-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/easter-seals-south-florida-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "lchant@sfl.easterseals.com",
+		"id": 2665,
+		"name": "Loreen Chant",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 2665,
+			"department": null,
+			"extension": null,
+			"number": "305-325-0470",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "aaracena@sfl.easterseals.com",
+		"id": 2667,
+		"name": "Angela Aracena",
+		"title": "Vice President of Adult Day Services",
+		"phones": [{
+			"id": 2667,
+			"department": null,
+			"extension": null,
+			"number": "305-325-0470",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Aaracena@sfl.easterseals.com",
+		"id": 2668,
+		"name": "Angela Aracena",
+		"title": "Vice President of Adult Day Services",
+		"phones": [{
+			"id": 2668,
+			"department": null,
+			"extension": null,
+			"number": "305-325-0470",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Aaracena@easterseals.com",
+		"id": 2669,
+		"name": "Angela Aracena",
+		"title": "Vice President of Adult Day Services",
+		"phones": [{
+			"id": 2669,
+			"department": null,
+			"extension": null,
+			"number": "305-325-0470",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "svelez@sfl.easterseals.com",
+		"id": 2670,
+		"name": "Susana Velez",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 2670,
+			"department": null,
+			"extension": null,
+			"number": "305-325-0470",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "psandinovalle@sfl.easterseals.com",
+		"id": 2671,
+		"name": "Patricia Sandino Valle",
+		"title": "Executive Assistant",
+		"phones": [{
+			"id": 2671,
+			"department": null,
+			"extension": null,
+			"number": "305-547-4745",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "aaracena@sfl.easterseals.com",
+		"id": 2672,
+		"name": "Angela Aracena",
+		"title": "Director",
+		"phones": [{
+			"id": 2672,
+			"department": null,
+			"extension": null,
+			"number": "305-887-7370",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 2673,
+		"name": "Camila Rocha",
+		"title": "Education Services Director",
+		"phones": [{
+			"id": 2673,
+			"department": null,
+			"extension": null,
+			"number": "305-325-0470",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ganzellotti@sfl.easterseals.com",
+		"id": 2676,
+		"name": "Georgina Anzellotti",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 2676,
+			"department": null,
+			"extension": null,
+			"number": "305-325-0470",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Aaracena@sfl.easterseals.com",
+		"id": 2677,
+		"name": "Angela Aracena",
+		"title": "Vice President of Adult Day Services",
+		"phones": [{
+			"id": 2677,
+			"department": null,
+			"extension": null,
+			"number": "305-325-0470",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "crocha@sfl.easterseals.com",
+		"id": 7721,
+		"name": "Camila Rocha",
+		"title": "Educational Services Director",
+		"phones": [{
+			"id": 7721,
+			"department": null,
+			"extension": null,
+			"number": "305-325-0470",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2665,
+		"department": null,
+		"extension": null,
+		"number": "305-325-0470",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2667,
+		"department": null,
+		"extension": null,
+		"number": "305-325-0470",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2668,
+		"department": null,
+		"extension": null,
+		"number": "305-325-0470",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2669,
+		"department": null,
+		"extension": null,
+		"number": "305-325-0470",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2670,
+		"department": null,
+		"extension": null,
+		"number": "305-325-0470",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2671,
+		"department": null,
+		"extension": null,
+		"number": "305-547-4745",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2672,
+		"department": null,
+		"extension": null,
+		"number": "305-887-7370",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2673,
+		"department": null,
+		"extension": null,
+		"number": "305-325-0470",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2676,
+		"department": null,
+		"extension": null,
+		"number": "305-325-0470",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2677,
+		"department": null,
+		"extension": null,
+		"number": "305-325-0470",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7721,
+		"department": null,
+		"extension": null,
+		"number": "305-325-0470",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

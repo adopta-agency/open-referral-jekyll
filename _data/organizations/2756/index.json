@@ -1,0 +1,61 @@
+{
+	"id": 2756,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Thinking Child Academy offers a private school grades K-8th and VPK. The after-school and summer programs are offered for school age children in Kindergarten-6th grade. Also assists parents with the Step Up For Students scholarship application.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE THINKING CHILD ACADEMY, INC.",
+	"website": "http://www.thethinkingchildacademy.com/",
+	"slug": "the-thinking-child-academy-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-thinking-child-academy-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-thinking-child-academy-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "lerin@tccaschool.com",
+		"id": 2756,
+		"name": "Christine Lerin",
+		"title": "Project Administrator",
+		"phones": [{
+			"id": 2756,
+			"department": null,
+			"extension": null,
+			"number": "305-247-3036",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mendez@tccaschool.com",
+		"id": 2758,
+		"name": "Analy Mendez",
+		"title": "Program Director",
+		"phones": [{
+			"id": 2758,
+			"department": null,
+			"extension": null,
+			"number": "305-247-5719",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2756,
+		"department": null,
+		"extension": null,
+		"number": "305-247-3036",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2758,
+		"department": null,
+		"extension": null,
+		"number": "305-247-5719",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

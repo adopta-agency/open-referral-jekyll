@@ -1,0 +1,61 @@
+{
+	"id": 6789,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Tourette Syndrome Association of Florida is a volunteer organization dedicated to helping individuals and families living with Tourette Syndrome. Provides information and referral, educational materials, and support services.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "TOURETTE SYNDROME ASSOCIATION OF FLORIDA, INC.",
+	"website": "http://www.tsa-fl.org",
+	"slug": "tourette-syndrome-association-of-florida-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/tourette-syndrome-association-of-florida-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/tourette-syndrome-association-of-florida-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "support@tsa-fl.org",
+		"id": 6789,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 6789,
+			"department": null,
+			"extension": null,
+			"number": "727-418-0240",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "support.miami@tsa-fl.org",
+		"id": 6790,
+		"name": "Marcela Diaz",
+		"title": "Coordinator",
+		"phones": [{
+			"id": 6790,
+			"department": null,
+			"extension": null,
+			"number": "305-725-6518",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6789,
+		"department": null,
+		"extension": null,
+		"number": "727-418-0240",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6790,
+		"department": null,
+		"extension": null,
+		"number": "305-725-6518",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 8101,
+	"accreditations": [],
+	"alternate_name": "Act4Me",
+	"date_incorporated": null,
+	"description": "Act4Me's mission is to provide funding to children with neurological disabilities for speech, occupational, and physical therapy as well as grants for special needs' equipment such as, wheelchairs, standers, walkers, and speaking equipment.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "A CHANCE FOR THERAPY, INC.",
+	"website": "http://www.act4me.org",
+	"slug": "a-chance-for-therapy-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/a-chance-for-therapy-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/a-chance-for-therapy-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "maida@act4me.org",
+		"id": 8101,
+		"name": "Maida Berberian-Bignon",
+		"title": "President",
+		"phones": [{
+			"id": 8101,
+			"department": null,
+			"extension": null,
+			"number": "305-918-2265",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8101,
+		"department": null,
+		"extension": null,
+		"number": "305-918-2265",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

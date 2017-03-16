@@ -1,0 +1,222 @@
+{
+	"id": 6252,
+	"accreditations": [],
+	"alternate_name": "MIAMI-DADE COUNTY COMMUNITY ACTION AND HUMAN SERVICES",
+	"date_incorporated": null,
+	"description": "Community Resource Centers provide a variety of social services to economically disadvantaged individuals and families interested in achieving self-sufficiency. These services are provided through Community Action and Human Services' Self Help Institute and are offered at various service centers throughout Miami-Dade County.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "M-DC CAHS - WYNWOOD COMMUNITY RESOURCE CENTER",
+	"website": "http://www.miamidade.gov/socialservices/center-wynwood.asp",
+	"slug": "m-dc-cahs-wynwood-community-resource-center",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/m-dc-cahs-wynwood-community-resource-center",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/m-dc-cahs-wynwood-community-resource-center/locations",
+	"contacts": [{
+		"department": null,
+		"email": "davisra@miamidade.gov",
+		"id": 6693,
+		"name": "Lucia Davis-Raiford",
+		"title": "Director",
+		"phones": [{
+			"id": 6693,
+			"department": null,
+			"extension": null,
+			"number": "305-547-7661",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "davisra@miamidade.gov",
+		"id": 6694,
+		"name": "Lucia Davis-Raiford",
+		"title": "Director",
+		"phones": [{
+			"id": 6694,
+			"department": null,
+			"extension": null,
+			"number": "305-547-7661",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "davisra@miamidade.gov",
+		"id": 6695,
+		"name": "Lucia Davis-Raiford",
+		"title": "Director",
+		"phones": [{
+			"id": 6695,
+			"department": null,
+			"extension": null,
+			"number": "305-547-7661",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "davisra@miamidade.gov",
+		"id": 6696,
+		"name": "Lucia Davis-Raiford",
+		"title": "Director",
+		"phones": [{
+			"id": 6696,
+			"department": null,
+			"extension": null,
+			"number": "305-547-7661",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "davisra@miamidade.gov",
+		"id": 6699,
+		"name": "Lucia Davis-Raiford",
+		"title": "Director",
+		"phones": [{
+			"id": 6699,
+			"department": null,
+			"extension": null,
+			"number": "305-547-7661",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "davisra@miamidade.gov",
+		"id": 8070,
+		"name": "Lucia Davis-Raiford",
+		"title": "Director",
+		"phones": [{
+			"id": 8070,
+			"department": null,
+			"extension": null,
+			"number": "305-547-7661",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "davisra@miamidade.gov",
+		"id": 8071,
+		"name": "Lucia Davis-Raiford",
+		"title": "Director",
+		"phones": [{
+			"id": 8071,
+			"department": null,
+			"extension": null,
+			"number": "305-547-7661",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "davisra@miamidade.gov",
+		"id": 8072,
+		"name": "Lucia Davis-Raiford",
+		"title": "Director",
+		"phones": [{
+			"id": 8072,
+			"department": null,
+			"extension": null,
+			"number": "305-547-7661",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "davisra@miamidade.gov",
+		"id": 8089,
+		"name": "Lucia Davis-Raiford",
+		"title": "Director",
+		"phones": [{
+			"id": 8089,
+			"department": null,
+			"extension": null,
+			"number": "305-547-7661",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6693,
+		"department": null,
+		"extension": null,
+		"number": "305-547-7661",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6694,
+		"department": null,
+		"extension": null,
+		"number": "305-547-7661",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6695,
+		"department": null,
+		"extension": null,
+		"number": "305-547-7661",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6696,
+		"department": null,
+		"extension": null,
+		"number": "305-547-7661",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6699,
+		"department": null,
+		"extension": null,
+		"number": "305-547-7661",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8070,
+		"department": null,
+		"extension": null,
+		"number": "305-547-7661",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8071,
+		"department": null,
+		"extension": null,
+		"number": "305-547-7661",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8072,
+		"department": null,
+		"extension": null,
+		"number": "305-547-7661",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8089,
+		"department": null,
+		"extension": null,
+		"number": "305-547-7661",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

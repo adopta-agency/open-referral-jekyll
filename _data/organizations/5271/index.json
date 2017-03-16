@@ -1,0 +1,38 @@
+{
+	"id": 5271,
+	"accreditations": [],
+	"alternate_name": "Hunger & Homeless Coalition of Collier County",
+	"date_incorporated": null,
+	"description": "The mission of the Hunger and Homeless Coalition is to facilitate solutions to prevent and end hunger and homelessness by coordinating services in Collier County. The Hunger & Homeless Coalition was created in 1989 to support the planning, delivery, and coordination of high quality services to the hungry, the homeless, and those at risk of homelessness in Collier County. Incorporated in 2002 as a 501(c)3, the Coalition works collaboratively with local social service agencies, consumer advocates, and volunteers to identify gaps in services and coordinate the development of programs to address unmet needs.\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "COLLIER COUNTY HUNGER AND HOMELESS COALITION, INC.",
+	"website": "http://www.collierhomelesscoalition.org",
+	"slug": "collier-county-hunger-and-homeless-coalition-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-county-hunger-and-homeless-coalition-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-county-hunger-and-homeless-coalition-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "executivedirector@collierhomelesscoalition.org",
+		"id": 5271,
+		"name": "Rene Givens",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5271,
+			"department": null,
+			"extension": null,
+			"number": "239-263-9363",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5271,
+		"department": null,
+		"extension": null,
+		"number": "239-263-9363",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

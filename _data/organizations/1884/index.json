@@ -1,0 +1,61 @@
+{
+	"id": 1884,
+	"accreditations": [],
+	"alternate_name": "SFYS",
+	"date_incorporated": null,
+	"description": "South Florida Youth Symphony provides students with Sunday classes and satellite weekly classes, plus summer music camps. High school students in 11th and 12th grade who qualify can take the orchestra programs for dual enrollment credit, college students take it for 1 ensemble credit each semester. Orchestra includes all orchestral strings, piano, classical acoustic guitar, all advanced winds and percussion.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SOUTH FLORIDA YOUTH SYMPHONY, INC.",
+	"website": "http://www.sfys.net",
+	"slug": "south-florida-youth-symphony-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/south-florida-youth-symphony-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/south-florida-youth-symphony-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "marjihahn@bellsouth.net",
+		"id": 1884,
+		"name": "Marjorie Hahn",
+		"title": "Executive & Musical Director",
+		"phones": [{
+			"id": 1884,
+			"department": null,
+			"extension": null,
+			"number": "305-238-2729",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "marjihahn@bellsouth.net",
+		"id": 7930,
+		"name": "Marjorie Hahn",
+		"title": "Executive & Musical Director",
+		"phones": [{
+			"id": 7930,
+			"department": null,
+			"extension": null,
+			"number": "305-238-2729",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1884,
+		"department": null,
+		"extension": null,
+		"number": "305-238-2729",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7930,
+		"department": null,
+		"extension": null,
+		"number": "305-238-2729",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,153 @@
+{
+	"id": 4182,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides comprehensive bereavement support, education and resource center for children (kindergarten - college age) and their families who have suffered a loss due to death. CBC provides peer support groups for children, teens and young adults; and concurrent education, support and advocacy groups for their families.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE CHILDREN'S BEREAVEMENT CENTER, INC.",
+	"website": "http://www.childbereavement.org",
+	"slug": "the-children-s-bereavement-center-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-children-s-bereavement-center-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-children-s-bereavement-center-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "pswillig@childbereavement.org",
+		"id": 4182,
+		"name": "Peter Willig",
+		"title": "Chief of Operations",
+		"phones": [{
+			"id": 4182,
+			"department": null,
+			"extension": null,
+			"number": "305-668-4902",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kaokramer@childbereavement.org",
+		"id": 4183,
+		"name": "Kathy Kramer",
+		"title": "Program & Training Director",
+		"phones": [{
+			"id": 4183,
+			"department": null,
+			"extension": null,
+			"number": "305-668-4902",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kaokramer@childbereavement.org",
+		"id": 7553,
+		"name": "Kathy Kramer",
+		"title": "Program & Training Director",
+		"phones": [{
+			"id": 7553,
+			"department": null,
+			"extension": null,
+			"number": "305-668-4902",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kaokramer@childbereavement.org",
+		"id": 7554,
+		"name": "Kathy Kramer",
+		"title": "Program & Training Director",
+		"phones": [{
+			"id": 7554,
+			"department": null,
+			"extension": null,
+			"number": "305-668-4902",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kaokramer@childbereavement.org",
+		"id": 7555,
+		"name": "Kathy Kramer",
+		"title": "Program & Training Director",
+		"phones": [{
+			"id": 7555,
+			"department": null,
+			"extension": null,
+			"number": "305-668-4902",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "pswillig@childbereavement.org",
+		"id": 7556,
+		"name": "Peter Willig",
+		"title": "Chief of Operations",
+		"phones": [{
+			"id": 7556,
+			"department": null,
+			"extension": null,
+			"number": "305-668-4902",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4182,
+		"department": null,
+		"extension": null,
+		"number": "305-668-4902",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4183,
+		"department": null,
+		"extension": null,
+		"number": "305-668-4902",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7553,
+		"department": null,
+		"extension": null,
+		"number": "305-668-4902",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7554,
+		"department": null,
+		"extension": null,
+		"number": "305-668-4902",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7555,
+		"department": null,
+		"extension": null,
+		"number": "305-668-4902",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7556,
+		"department": null,
+		"extension": null,
+		"number": "305-668-4902",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

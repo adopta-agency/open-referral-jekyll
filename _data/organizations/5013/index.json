@@ -1,0 +1,38 @@
+{
+	"id": 5013,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "MedicAlert Foundation and the AlzheimerGu00c7u00d6s Association have partnered to provide protection a national emergency response service for individuals living with AlzheimerGu00c7u00d6s disease and related dementia, who wander or have a medical emergency. With 60% of persons with dementia at risk for wandering and becoming lost, the Safe Return program activates a community support network when a person with dementia is reported lost or is found in the community. The network, including local Alzheimer Association chapters and law enforcement agencies, work to help reunite the person who wandered with the caregiver or a family member.\n\nNOTE: If a person is unable to pay, then he/she may want to contact the Alzheimer's Association at 1-800-272-3900.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MEDICALERT + ALZHEIMER'S ASSOCIATION SAFE RETURN",
+	"website": "http://www.medicalert.org/safereturn",
+	"slug": "medicalert-alzheimer-s-association-safe-return",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/medicalert-alzheimer-s-association-safe-return",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/medicalert-alzheimer-s-association-safe-return/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Customerunderscore@medicalert.org",
+		"id": 5013,
+		"name": "Kathy Miranda",
+		"title": "Director",
+		"phones": [{
+			"id": 5013,
+			"department": null,
+			"extension": null,
+			"number": "888-572-8566",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5013,
+		"department": null,
+		"extension": null,
+		"number": "888-572-8566",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

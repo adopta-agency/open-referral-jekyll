@@ -1,0 +1,245 @@
+{
+	"id": 5232,
+	"accreditations": [],
+	"alternate_name": "DAVID LAWRENCE MENTAL HEALTH CENTER",
+	"date_incorporated": null,
+	"description": "The David Lawrence Center has 40 different programs and services designed to meet the mental health and substance abuse needs of South West Florida. Our programs provide prevention, intervention and treatment services for children, adults and families and include inpatient, residential, outpatient and community based care. \n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE DAVID LAWRENCE FOUNDATION FOR MENTAL HEALTH, INC.",
+	"website": "http://www.davidlawrencecenter.org/",
+	"slug": "the-david-lawrence-foundation-for-mental-health-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-david-lawrence-foundation-for-mental-health-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-david-lawrence-foundation-for-mental-health-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@dlcmhc.com",
+		"id": 5232,
+		"name": "David Schimmel",
+		"title": "CEO",
+		"phones": [{
+			"id": 5232,
+			"department": null,
+			"extension": null,
+			"number": "239-455-8500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@dlcmhc.com",
+		"id": 5233,
+		"name": "Nancy Dauphinais",
+		"title": "Chief Clinical Officer",
+		"phones": [{
+			"id": 5233,
+			"department": null,
+			"extension": null,
+			"number": "239-354-1428",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@dlcmhc.com",
+		"id": 5234,
+		"name": "Beverly Beli",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 5234,
+			"department": null,
+			"extension": null,
+			"number": "239-455-8500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@dlcmhc.com",
+		"id": 5235,
+		"name": "Mary Ann Guerra",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 5235,
+			"department": null,
+			"extension": null,
+			"number": "239-455-8500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@dlcmhc.com",
+		"id": 5236,
+		"name": "Nancy Dauphinais",
+		"title": "Chief Clinical Officer",
+		"phones": [{
+			"id": 5236,
+			"department": null,
+			"extension": null,
+			"number": "239-354-1428",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@dlcmhc.com",
+		"id": 5237,
+		"name": "Natalie Garcia",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 5237,
+			"department": null,
+			"extension": null,
+			"number": "239-455-8500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@dlcmhc.com",
+		"id": 6857,
+		"name": "Karen Buckner",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 6857,
+			"department": null,
+			"extension": null,
+			"number": "239-455-8500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@dlcmhc.com",
+		"id": 6858,
+		"name": "Karen Buckner",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 6858,
+			"department": null,
+			"extension": null,
+			"number": "239-455-8500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@dlcmhc.com",
+		"id": 7993,
+		"name": "Nancy Dauphinais",
+		"title": "Chief Clinical Officer",
+		"phones": [{
+			"id": 7993,
+			"department": null,
+			"extension": null,
+			"number": "239-354-1428",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@dlcmhc.com",
+		"id": 7994,
+		"name": "Nancy Dauphinais",
+		"title": "Chief Clinical Officer",
+		"phones": [{
+			"id": 7994,
+			"department": null,
+			"extension": null,
+			"number": "239-354-1428",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5232,
+		"department": null,
+		"extension": null,
+		"number": "239-455-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5233,
+		"department": null,
+		"extension": null,
+		"number": "239-354-1428",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5234,
+		"department": null,
+		"extension": null,
+		"number": "239-455-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5235,
+		"department": null,
+		"extension": null,
+		"number": "239-455-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5236,
+		"department": null,
+		"extension": null,
+		"number": "239-354-1428",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5237,
+		"department": null,
+		"extension": null,
+		"number": "239-455-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6857,
+		"department": null,
+		"extension": null,
+		"number": "239-455-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6858,
+		"department": null,
+		"extension": null,
+		"number": "239-455-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7993,
+		"department": null,
+		"extension": null,
+		"number": "239-354-1428",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7994,
+		"department": null,
+		"extension": null,
+		"number": "239-354-1428",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

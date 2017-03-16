@@ -1,0 +1,38 @@
+{
+	"id": 7678,
+	"accreditations": [],
+	"alternate_name": "KLC 3",
+	"date_incorporated": null,
+	"description": "Kids Learning Center of South Dade III provides the following programs:\n\n* Afterschool Program \n* Project Bassed Learning\n* Enrichment Activities\n* Home Learning \n* Snack\n* Tutoring\n* Behavior Therapy",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "KIDS LEARNING CENTER OF SOUTH DADE III, INC.",
+	"website": "http://klcschools.com",
+	"slug": "kids-learning-center-of-south-dade-iii-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/kids-learning-center-of-south-dade-iii-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/kids-learning-center-of-south-dade-iii-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "klc5@bellsouth.net",
+		"id": 7678,
+		"name": "Christina Hawkins",
+		"title": "Director",
+		"phones": [{
+			"id": 7678,
+			"department": null,
+			"extension": null,
+			"number": "305-253-3613",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7678,
+		"department": null,
+		"extension": null,
+		"number": "305-253-3613",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,84 @@
+{
+	"id": 2265,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Teen Up-Ward Bound, Inc empowers youth, teens and their families through change of attitude and education. Provides various services such as after school program, summer camp, literacy, tutoring, mentoring, computer-technology, basic-life skills, conflict resolution, recreational activities, culture-arts and an abstinence education program.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "TEEN UP-WARD BOUND, INC.",
+	"website": "http://www.teenupwardbound.com",
+	"slug": "teen-up-ward-bound-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/teen-up-ward-bound-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/teen-up-ward-bound-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "dwilliams@teenupwardbound.com",
+		"id": 2265,
+		"name": "Deshawn Williams",
+		"title": "Administrator",
+		"phones": [{
+			"id": 2265,
+			"department": null,
+			"extension": null,
+			"number": "305-953-3397",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cdrussell@teenupwardbound.com",
+		"id": 2266,
+		"name": "Chandra Russell",
+		"title": "Administrator",
+		"phones": [{
+			"id": 2266,
+			"department": null,
+			"extension": null,
+			"number": "305-953-3397",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dwilliams@teenupwardbound.com",
+		"id": 6199,
+		"name": "Deshawn Williams",
+		"title": "Administrator",
+		"phones": [{
+			"id": 6199,
+			"department": null,
+			"extension": null,
+			"number": "305-953-3398",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2265,
+		"department": null,
+		"extension": null,
+		"number": "305-953-3397",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2266,
+		"department": null,
+		"extension": null,
+		"number": "305-953-3397",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6199,
+		"department": null,
+		"extension": null,
+		"number": "305-953-3398",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

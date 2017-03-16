@@ -1,0 +1,38 @@
+{
+	"id": 7844,
+	"accreditations": [],
+	"alternate_name": "RCMA",
+	"date_incorporated": null,
+	"description": "The Redlands Christian Migrant Association provides quality child care and early education for children of migrant farm workers and rural, low-income families throughout Florida. The largest non-profit child-care provider in Florida, RCMA is a leader in high-quality early childhood services. More than half of RCMA's child-care centers are nationally accredited.\r\n\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "REDLANDS CHRISTIAN MIGRANT ASSOCIATION - COLLIER, INC.",
+	"website": "http://www.rcma.org",
+	"slug": "redlands-christian-migrant-association-collier-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/redlands-christian-migrant-association-collier-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/redlands-christian-migrant-association-collier-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "barbara@rcma.org",
+		"id": 7844,
+		"name": "Barbara Mainster",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7844,
+			"department": null,
+			"extension": null,
+			"number": "800-282-6540",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7844,
+		"department": null,
+		"extension": null,
+		"number": "800-282-6540",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

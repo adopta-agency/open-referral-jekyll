@@ -1,0 +1,38 @@
+{
+	"id": 5679,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides care and companionship for seniors who need assistance or supervision during the day. There are social activities, meals, recreation and transportation. The goal is to delay or prevent institutionalization by providing alternative care, to enhance self-esteem and to encourage socialization. \n\nServices include:\n\n* Recreational and Social Activities\n* Physical Exercises\n* Board Games (Dominoes, Bingo, etc.)\n* Musical Therapy, Singing/Karaoke & Dancing\n* Manual Arts\n* Personal Care\n* Painting\n* Excursions\n* Breakfast, Lunch and Snacks",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SAN JUDAS TADEO COMMUNITY ADULT DAY CARE CENTER CORP.",
+	"website": "http://www.firstchoiceadc.com/home.html",
+	"slug": "san-judas-tadeo-community-adult-day-care-center-corp",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/san-judas-tadeo-community-adult-day-care-center-corp",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/san-judas-tadeo-community-adult-day-care-center-corp/locations",
+	"contacts": [{
+		"department": null,
+		"email": "sanjudasadc1@yahoo.com",
+		"id": 5679,
+		"name": "Cynthia Gavalos",
+		"title": "Administrator",
+		"phones": [{
+			"id": 5679,
+			"department": null,
+			"extension": null,
+			"number": "305-408-0077",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5679,
+		"department": null,
+		"extension": null,
+		"number": "305-408-0077",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

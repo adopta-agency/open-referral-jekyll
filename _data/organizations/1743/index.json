@@ -1,0 +1,138 @@
+{
+	"id": 1743,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The American Red Cross prevents and alleviates human suffering in the face of emergencies by mobilizing the power of volunteers and the generosity of donors. The Red Cross offers hurricane preparedness, disaster relief, international services and comprehensive health and safety programs nationwide.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "AMERICAN RED CROSS",
+	"website": "http://www.redcross.org",
+	"slug": "american-red-cross",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-red-cross",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-red-cross/locations",
+	"contacts": [{
+		"department": null,
+		"email": "tidwells@usa.redcross.org",
+		"id": 1744,
+		"name": "Sam Tidwell",
+		"title": "CEO",
+		"phones": [{
+			"id": 1744,
+			"department": null,
+			"extension": null,
+			"number": "800-733-2767",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 1746,
+		"name": "Gail McGovern",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 1746,
+			"department": null,
+			"extension": null,
+			"number": "800-733-2767",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 1747,
+		"name": "Alfred Sanchez",
+		"title": "Regional CEO, South Florida Region",
+		"phones": [{
+			"id": 1747,
+			"department": null,
+			"extension": null,
+			"number": "800-287-4033",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 1748,
+		"name": "Alfred Sanchez",
+		"title": "Regional CEO, South Florida Region",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 5080,
+		"name": "Alfred Sanchez",
+		"title": "Regional CEO, South Florida Region",
+		"phones": [{
+			"id": 5080,
+			"department": null,
+			"extension": null,
+			"number": "800-287-4033",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "emily.borababy@redcross.org",
+		"id": 5168,
+		"name": "Emily Borababy",
+		"title": "Interim Executive Director",
+		"phones": [{
+			"id": 5168,
+			"department": null,
+			"extension": null,
+			"number": "239-596-6868",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1744,
+		"department": null,
+		"extension": null,
+		"number": "800-733-2767",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1746,
+		"department": null,
+		"extension": null,
+		"number": "800-733-2767",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1747,
+		"department": null,
+		"extension": null,
+		"number": "800-287-4033",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5080,
+		"department": null,
+		"extension": null,
+		"number": "800-287-4033",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5168,
+		"department": null,
+		"extension": null,
+		"number": "239-596-6868",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

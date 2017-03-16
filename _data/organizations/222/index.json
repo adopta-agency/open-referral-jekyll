@@ -1,0 +1,38 @@
+{
+	"id": 222,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Florida Lawyers Assistance, Inc. is a non-profit corporation formed in 1986 in response to the Florida Supreme CourtGu00c7u00d6s mandate that a program be created to identify and offer assistance to bar members who suffer from substance abuse, mental health, or other disorders which negatively affect their lives and careers.\r\n\r\nJudges, attorneys, law students, and support personnel who seek the assistance of FLA need not worry that FLA will report them to the Bar, the Board of Bar Examiners, or their employer. Information is shared with these entities only if the participating individual signs a waiver of confidentiality. \r\n\r\n###COL### \r\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA LAWYERS ASSISTANCE, INC.",
+	"website": "http://www.fla-lap.org",
+	"slug": "florida-lawyers-assistance-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-lawyers-assistance-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-lawyers-assistance-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Eleni@sfl-lap.org",
+		"id": 222,
+		"name": "Eleni Uher",
+		"title": "Update Contact",
+		"phones": [{
+			"id": 222,
+			"department": null,
+			"extension": null,
+			"number": "954-566-9040",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 222,
+		"department": null,
+		"extension": null,
+		"number": "954-566-9040",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

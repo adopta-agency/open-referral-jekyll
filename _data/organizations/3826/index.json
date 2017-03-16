@@ -1,0 +1,107 @@
+{
+	"id": 3826,
+	"accreditations": [],
+	"alternate_name": "M-DC TAX COLLECTOR",
+	"date_incorporated": null,
+	"description": "Collects and distributes real property taxes, tourist development taxes, auto tag issuances and renewals, vessel licenses and sports licenses for fishing and hunting. Provides recorded information regarding real estate taxes, tangible business property taxes, and delinquent and current tax payments.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI-DADE COUNTY TAX COLLECTOR",
+	"website": "http://www.miamidade.gov/taxcollector/",
+	"slug": "miami-dade-county-tax-collector",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-tax-collector",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-tax-collector/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jmp@miamidade.gov",
+		"id": 3826,
+		"name": "Marcus Saiz de la Mora",
+		"title": "Tax Collector",
+		"phones": [{
+			"id": 3826,
+			"department": null,
+			"extension": null,
+			"number": "305-270-4916",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jmp@miamidade.gov",
+		"id": 3827,
+		"name": "Marcus Saiz de la Mora",
+		"title": "Tax Collector",
+		"phones": [{
+			"id": 3827,
+			"department": null,
+			"extension": null,
+			"number": "305-270-4916",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rei@miamidade.gov",
+		"id": 5547,
+		"name": "Eulyne Wheeler",
+		"title": "Manager",
+		"phones": [{
+			"id": 5547,
+			"department": null,
+			"extension": null,
+			"number": "850-617-2000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jteintz@miamidade.gov",
+		"id": 5548,
+		"name": "Jurgen Teintze",
+		"title": "Chief - Business Taxes",
+		"phones": [{
+			"id": 5548,
+			"department": null,
+			"extension": null,
+			"number": "305-270-4949",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3826,
+		"department": null,
+		"extension": null,
+		"number": "305-270-4916",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3827,
+		"department": null,
+		"extension": null,
+		"number": "305-270-4916",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5547,
+		"department": null,
+		"extension": null,
+		"number": "850-617-2000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5548,
+		"department": null,
+		"extension": null,
+		"number": "305-270-4949",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

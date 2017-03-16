@@ -1,0 +1,176 @@
+{
+	"id": 5563,
+	"accreditations": [],
+	"alternate_name": "Alzheimer's Association, Collier-Lee Office",
+	"date_incorporated": null,
+	"description": "Provides: Support Groups, Caregiver Training Programs, Public Educational Lectures, Care Consultations, 24/7 Helpline, National Wanderers Program - Medic Alert+Safe Return, Emergency Respite Care, Service Referrals, Programs for Persons with Dementia, Lending Library, and Monthly Newsletters.\r\n\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ALZHEIMER'S ASSOCIATION - FLORIDA GULF COAST CHAPTER",
+	"website": "http://www.alz.org/FLGulfCoast",
+	"slug": "alzheimer-s-association-florida-gulf-coast-chapter",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/alzheimer-s-association-florida-gulf-coast-chapter",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/alzheimer-s-association-florida-gulf-coast-chapter/locations",
+	"contacts": [{
+		"department": null,
+		"email": "smithg@alzflgulf.org",
+		"id": 5563,
+		"name": "Gloria Smith",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 5563,
+			"department": null,
+			"extension": null,
+			"number": "239-405-7008",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cruikshankc@alzflgulf.org",
+		"id": 5564,
+		"name": "Catherine Cruikshank",
+		"title": "Collier Community Program Specialist",
+		"phones": [{
+			"id": 5564,
+			"department": null,
+			"extension": null,
+			"number": "239-405-7008",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cruikshankc@alzflgulf.org",
+		"id": 5567,
+		"name": "Catherine Cruikshank",
+		"title": "Collier County Community Program Specialist",
+		"phones": [{
+			"id": 5567,
+			"department": null,
+			"extension": null,
+			"number": "239-405-7008",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cruikshankc@alzflgulf.org",
+		"id": 5568,
+		"name": "Catherine Cruikshank",
+		"title": "Collier County Program Specialist",
+		"phones": [{
+			"id": 5568,
+			"department": null,
+			"extension": null,
+			"number": "239-405-7008",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cruikshankc@alzflgulf.org",
+		"id": 5569,
+		"name": "Catherine Cruikshank",
+		"title": "Collier County Program Specialist",
+		"phones": [{
+			"id": 5569,
+			"department": null,
+			"extension": null,
+			"number": "239-405-7008",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cruikshankc@alzflgulf.org",
+		"id": 5570,
+		"name": "Catherine Cruikshank",
+		"title": "Collier County Program Specialist",
+		"phones": [{
+			"id": 5570,
+			"department": null,
+			"extension": null,
+			"number": "239-405-7008",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cruikshankc@alzflgulf.org",
+		"id": 6914,
+		"name": "Catherine Cruikshank",
+		"title": "Director of Education",
+		"phones": [{
+			"id": 6914,
+			"department": null,
+			"extension": null,
+			"number": "800-272-3900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5563,
+		"department": null,
+		"extension": null,
+		"number": "239-405-7008",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5564,
+		"department": null,
+		"extension": null,
+		"number": "239-405-7008",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5567,
+		"department": null,
+		"extension": null,
+		"number": "239-405-7008",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5568,
+		"department": null,
+		"extension": null,
+		"number": "239-405-7008",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5569,
+		"department": null,
+		"extension": null,
+		"number": "239-405-7008",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5570,
+		"department": null,
+		"extension": null,
+		"number": "239-405-7008",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6914,
+		"department": null,
+		"extension": null,
+		"number": "800-272-3900",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

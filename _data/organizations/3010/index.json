@@ -1,0 +1,38 @@
+{
+	"id": 3010,
+	"accreditations": [],
+	"alternate_name": "COMPREHENSIVE ASSESSMENT CENTER",
+	"date_incorporated": null,
+	"description": "Our professional team is compromised of bilingual licensed clinicians specialized in the areas of clinical and child psychology, assessment, and career counseling. Services include: adoption evaluations, disability evaluations, immigration evaluations, neuropsychological evaluations, bariatric evaluations, post operative evaluations, anxiety, depression, phobias, sexual abuse, ADHD, Relationship issues, learning disabilities, child & adolescent psychology, anger management, trauma, panic disorders, and weight management post operative support.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "TANIA DIAZ, PSY.D. & ASSOCIATES",
+	"website": "http://www.drtaniadiaz.com",
+	"slug": "tania-diaz-psy-d-associates",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/tania-diaz-psy-d-associates",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/tania-diaz-psy-d-associates/locations",
+	"contacts": [{
+		"department": null,
+		"email": "drtaniadiaz@gmail.com",
+		"id": 3010,
+		"name": "Dr. Tania Diaz",
+		"title": "Director",
+		"phones": [{
+			"id": 3010,
+			"department": null,
+			"extension": null,
+			"number": "305-779-8565",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3010,
+		"department": null,
+		"extension": null,
+		"number": "305-779-8565",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

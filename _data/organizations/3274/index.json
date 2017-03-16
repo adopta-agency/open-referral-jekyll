@@ -1,0 +1,61 @@
+{
+	"id": 3274,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Early Childhood Initiative Foundation operates the Teach More, Love More program with a dedicated early childhood website and 24-hour phone lines and partnerships with 13 birthing hospitals, 5 birthing centers, 39 libraries and 38 neighborhood health clinics. All projects are in English, Spanish and Creole.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "EARLY CHILDHOOD INITIATIVE FOUNDATION, INC.",
+	"website": "http://www.teachmorelovemore.org",
+	"slug": "early-childhood-initiative-foundation-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/early-childhood-initiative-foundation-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/early-childhood-initiative-foundation-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "arivera@childreadiness.org",
+		"id": 3274,
+		"name": "Andres Rivera",
+		"title": "Executive Assistant",
+		"phones": [{
+			"id": 3274,
+			"department": null,
+			"extension": null,
+			"number": "305-646-7229",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "arivera@childreadiness.org",
+		"id": 3276,
+		"name": "Andres Rivera",
+		"title": "Executive Assistant",
+		"phones": [{
+			"id": 3276,
+			"department": null,
+			"extension": null,
+			"number": "305-646-7229",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3274,
+		"department": null,
+		"extension": null,
+		"number": "305-646-7229",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3276,
+		"department": null,
+		"extension": null,
+		"number": "305-646-7229",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

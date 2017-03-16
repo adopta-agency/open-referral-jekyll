@@ -1,0 +1,38 @@
+{
+	"id": 4110,
+	"accreditations": [],
+	"alternate_name": "LSGMI",
+	"date_incorporated": null,
+	"description": "Legal Services of Greater Miami, Inc. (LSGM) provides free legal advice, referral, and representation in the areas of public and subsidized housing, homeownership issues (including mortgage foreclosure), public benefits (food stamps, cash assistance, Medicaid and Social Security disability), reemployment assistance, federal income tax, special education issues, and community economic development. Special projects to help the homeless, children, and people with AIDS. Community Legal Education and u0022pro seu0022 clinics.\n\nDoes not provide assistance in criminal, divorce, or custody issues. Operator can refer to another South Florida Legal Provider who may be able to help.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "LEGAL SERVICES - MAIN OFFICE",
+	"website": "http://www.lsgmi.org",
+	"slug": "legal-services-main-office",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/legal-services-main-office",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/legal-services-main-office/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ISanchezBryson@LSGMI.org",
+		"id": 8114,
+		"name": "Ilenia Sanchez-Bryson",
+		"title": "Directing of Client Services",
+		"phones": [{
+			"id": 8114,
+			"department": null,
+			"extension": null,
+			"number": "305-576-0080",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8114,
+		"department": null,
+		"extension": null,
+		"number": "305-576-0080",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

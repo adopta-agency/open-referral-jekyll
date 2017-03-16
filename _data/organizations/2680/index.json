@@ -1,0 +1,84 @@
+{
+	"id": 2680,
+	"accreditations": [],
+	"alternate_name": "DANF",
+	"date_incorporated": null,
+	"description": "The DANF CDC Inc. is a community based, nonprofit, with an office and programming administrative staff that also help coordinate portions of the human service programs. A major emphasis has been in the area of youth programming. For 15 years, DANF has conducted a youth outreach program targeting minority and immigrant youth from the Allapattah and Melrose communities. Offers academic enhancement, tutoring in basic academic skills, and training in skills for the grade level that students are in, or hope to enter. DANF has a computer lab for free computer classes and academic enhancement purposes. Also serves youth that have been arrested in the last 12 months by the Delinquency Prevention Diversion Program. DANF utilizes a risk-focused prevention approach to reducing problem behaviors, with a range of group activities for youth and families.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "DOMINICAN AMERICAN NATIONAL FOUNDATION, INC.",
+	"website": "http://dominican-american.org/",
+	"slug": "dominican-american-national-foundation-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/dominican-american-national-foundation-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/dominican-american-national-foundation-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "glenny@dominican-american.org",
+		"id": 2680,
+		"name": "Glenny Reinoso",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 2680,
+			"department": null,
+			"extension": null,
+			"number": "305-637-8337",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "karen@dominican-american.org",
+		"id": 2682,
+		"name": "Karen Martinez",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 2682,
+			"department": null,
+			"extension": null,
+			"number": "305-637-8337",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "karen.martinez@dominican-american.org",
+		"id": 2684,
+		"name": "Karen Martinez",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 2684,
+			"department": null,
+			"extension": null,
+			"number": "305-637-8337",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2680,
+		"department": null,
+		"extension": null,
+		"number": "305-637-8337",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2682,
+		"department": null,
+		"extension": null,
+		"number": "305-637-8337",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2684,
+		"department": null,
+		"extension": null,
+		"number": "305-637-8337",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

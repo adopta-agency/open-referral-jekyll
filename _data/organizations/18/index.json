@@ -1,0 +1,38 @@
+{
+	"id": 18,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Xclusive Senior Day Care Center provides day care services for the elderly community. The program activities provide a mix of therapeutic programs, daily physical exercise, life enrichment programs (art, music and horticulture) and leisure activities (hobbies, crafts and outings). A hot noon meal (USDA Approved) along with morning and afternoon snacks is also provided. Transportation provided.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "XCLUSIVE SENIOR DAY CARE CENTER, INC.",
+	"website": "http://www.xclusiveseniorcenter.com",
+	"slug": "xclusive-senior-day-care-center-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/xclusive-senior-day-care-center-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/xclusive-senior-day-care-center-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@xclusiveseniorcenter.com",
+		"id": 18,
+		"name": "Yeny Lara",
+		"title": "Administrator",
+		"phones": [{
+			"id": 18,
+			"department": null,
+			"extension": null,
+			"number": "305-820-0805",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 18,
+		"department": null,
+		"extension": null,
+		"number": "305-820-0805",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

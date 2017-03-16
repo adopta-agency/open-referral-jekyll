@@ -1,0 +1,38 @@
+{
+	"id": 3967,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Women-u00c6s Fund believes that all women and girls have the right to equality, safety, opportunity and self-determination in every aspect of their lives. We recognize our role as a leader in this community by working to achieve these principles through our grant making, advocacy, and community building.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "WOMEN'S FUND OF MIAMI DADE",
+	"website": "http://www.womensfundmiami.org",
+	"slug": "women-s-fund-of-miami-dade",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/women-s-fund-of-miami-dade",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/women-s-fund-of-miami-dade/locations",
+	"contacts": [{
+		"department": null,
+		"email": "marilyn@womensfundmiami.org",
+		"id": 3967,
+		"name": "Marilyn Fizer March",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 3967,
+			"department": null,
+			"extension": null,
+			"number": "305-441-0506",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3967,
+		"department": null,
+		"extension": null,
+		"number": "305-441-0506",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,61 @@
+{
+	"id": 3927,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The United Way of Lee, Hendry, and Glades Counties is a volunteer organization dedicated to improving the quality of life for all people in our community. This is accomplished through fundraising, fund distribution, community building, volunteer advancement, and information and referral.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "UNITED WAY OF LEE COUNTY",
+	"website": "http://www.unitedwaylee.org",
+	"slug": "united-way-of-lee-county",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-way-of-lee-county",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-way-of-lee-county/locations",
+	"contacts": [{
+		"department": null,
+		"email": "cliffs@unitedwaylee.org",
+		"id": 3927,
+		"name": "Cliff Smith",
+		"title": "President",
+		"phones": [{
+			"id": 3927,
+			"department": null,
+			"extension": "222.0",
+			"number": "239-433-3900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "stephanie@unitedwaylee.org",
+		"id": 7247,
+		"name": "Stephanie Harrison",
+		"title": "VITA Program Coordinator",
+		"phones": [{
+			"id": 7247,
+			"department": null,
+			"extension": "229.0",
+			"number": "239-433-3900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3927,
+		"department": null,
+		"extension": "222.0",
+		"number": "239-433-3900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7247,
+		"department": null,
+		"extension": "229.0",
+		"number": "239-433-3900",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

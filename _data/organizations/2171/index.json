@@ -1,0 +1,61 @@
+{
+	"id": 2171,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Aleph Institute is a national, not-for-profit 501(c)(3), publicly-supported charitable institution founded by Rabbi Sholom D. Lipskar under the direction of the Lubavitcher Rebbe, Rabbi Menachem M. Schneerson O.B.M. For over thirty years, Aleph has been serving society by:\n\nProviding critical social services to families in crisis.\nAddressing the pressing religious, educational, humanitarian and advocacy needs of individuals in the military and institutional environments.\nImplementing solutions to significant issues relating to our criminal justice system, with an emphasis on families, faith-based rehabilitation and preventive ethics education.\n\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE ALEPH INSTITUTE, INC.",
+	"website": "http://www.aleph-institute.org",
+	"slug": "the-aleph-institute-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-aleph-institute-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-aleph-institute-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "al@aleph-institute.org",
+		"id": 2171,
+		"name": "Rabbi Aaron Lipskar",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 2171,
+			"department": null,
+			"extension": null,
+			"number": "305-864-5553",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mmk@aleph-institute.org",
+		"id": 2172,
+		"name": "Rabbi Menachem M. Katz",
+		"title": "Director of Prison & Military Outreach",
+		"phones": [{
+			"id": 2172,
+			"department": null,
+			"extension": "14.0",
+			"number": "305-864-5553",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2171,
+		"department": null,
+		"extension": null,
+		"number": "305-864-5553",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2172,
+		"department": null,
+		"extension": "14.0",
+		"number": "305-864-5553",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	"id": 6292,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Butterfly Project mission is to proactively raise community awareness and provide support for victims of emotional, physical and/or sexual violence. Through these efforts they aim to educate the community, and assist in combating the threatening silence on violence. \n\n*This is a mobile service, no physical address at the moment.*",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE BUTTERFLY PROJECT, INC.",
+	"website": "http://www.releasethesilence.org",
+	"slug": "the-butterfly-project-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-butterfly-project-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-butterfly-project-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "lisette@releasethesilence.org",
+		"id": 6292,
+		"name": "Lisette Rubio",
+		"title": "President",
+		"phones": []
+	}],
+	"phones": []
+}

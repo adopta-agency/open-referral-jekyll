@@ -1,0 +1,24 @@
+{
+	"id": 7207,
+	"accreditations": [],
+	"alternate_name": "CCRI",
+	"date_incorporated": null,
+	"description": "The Cyber Civil Rights Initiative Helpline provides supportive services for victims of various forms of cyber harassment, cyberbullying and non-consensual pornography (revenge-porn). Services include supportive counseling and step-by-step information on what the victim can do to protect themselves. Referrals to various websites and lawyers can be provided for further information.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CYBER CIVIL RIGHTS INITIATIVE",
+	"website": "http://www.cybercivilrights.org",
+	"slug": "cyber-civil-rights-initiative",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/cyber-civil-rights-initiative",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/cyber-civil-rights-initiative/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Annmarie@cybercivilrights.org",
+		"id": 7207,
+		"name": "Annmarie Chiarini",
+		"title": "Victim Advocate",
+		"phones": []
+	}],
+	"phones": []
+}

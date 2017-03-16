@@ -1,0 +1,521 @@
+{
+	"id": 1533,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "No description provided",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "I & R HOTLINES OUTSIDE MIAMI-DADE",
+	"website": null,
+	"slug": "i-r-hotlines-outside-miami-dade",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/i-r-hotlines-outside-miami-dade",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/i-r-hotlines-outside-miami-dade/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mgfa@myasthenia.org",
+		"id": 1534,
+		"name": "Nancy Law",
+		"title": "Chief Executive",
+		"phones": [{
+			"id": 1534,
+			"department": null,
+			"extension": null,
+			"number": "800-541-5454",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "actioncenter@asha.org",
+		"id": 1535,
+		"name": "Arlene A. Pietranton",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 1535,
+			"department": null,
+			"extension": null,
+			"number": "800-638-8255",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "nasp@shopliftingprevention.org",
+		"id": 1539,
+		"name": "Caroline Kochman",
+		"title": "CEO",
+		"phones": [{
+			"id": 1539,
+			"department": null,
+			"extension": null,
+			"number": "800-848-9595",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "james.firman@ncoa.org",
+		"id": 1540,
+		"name": "Dr. James Firman",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 1540,
+			"department": null,
+			"extension": null,
+			"number": "800-424-9046",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "douglas.lowy@nih.gov",
+		"id": 1541,
+		"name": "Dr. Douglas Lowy",
+		"title": "Acting Director",
+		"phones": [{
+			"id": 1541,
+			"department": null,
+			"extension": null,
+			"number": "800-422-6237",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kperdue@livingbank.org",
+		"id": 1542,
+		"name": "Kelly Perdue",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 1542,
+			"department": null,
+			"extension": null,
+			"number": "800-528-2971",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@rainn.org",
+		"id": 1544,
+		"name": "Scott Berkowitz",
+		"title": "President and Founder",
+		"phones": [{
+			"id": 1544,
+			"department": null,
+			"extension": null,
+			"number": "800-656-4673",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sstruwe@sbaa.org",
+		"id": 1546,
+		"name": "Sara Struwe",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 1546,
+			"department": null,
+			"extension": "12.0",
+			"number": "800-621-3141",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 1547,
+		"name": "Customer Service",
+		"title": null,
+		"phones": [{
+			"id": 1547,
+			"department": null,
+			"extension": null,
+			"number": "888-762-4001",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "phillip.kraft@nvsf.org",
+		"id": 1548,
+		"name": "Phil Kraft",
+		"title": "President, Treasurer",
+		"phones": [{
+			"id": 1548,
+			"department": null,
+			"extension": null,
+			"number": "800-521-0198",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "csmith@ccakids.com",
+		"id": 1549,
+		"name": "Charlene Smith",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 1549,
+			"department": null,
+			"extension": null,
+			"number": "800-535-3643",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@acb.org",
+		"id": 1551,
+		"name": "Kim Charlson",
+		"title": "President",
+		"phones": [{
+			"id": 1551,
+			"department": null,
+			"extension": null,
+			"number": "800-424-8666",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 1552,
+		"name": "Ronald F. Pike",
+		"title": "Medical Director",
+		"phones": [{
+			"id": 1552,
+			"department": null,
+			"extension": null,
+			"number": "800-252-6465",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rsmith@interdys.org",
+		"id": 1553,
+		"name": "Rick Smith",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 1553,
+			"department": null,
+			"extension": null,
+			"number": "800-222-3123",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 1556,
+		"name": "Pearl Cantrell",
+		"title": "Office Manager",
+		"phones": [{
+			"id": 1556,
+			"department": null,
+			"extension": null,
+			"number": "800-233-7393",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rriggs@scleroderma.org",
+		"id": 1557,
+		"name": "Robert Riggs",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 1557,
+			"department": null,
+			"extension": "251.0",
+			"number": "800-722-4673",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ContactUs@efa.org",
+		"id": 1558,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 1558,
+			"department": null,
+			"extension": null,
+			"number": "800-332-1000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 1559,
+		"name": "LaVarne A. Burton",
+		"title": "President & Chief Executive Officer",
+		"phones": [{
+			"id": 1559,
+			"department": null,
+			"extension": null,
+			"number": "866-300-2900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "hotlinedb@boystown.org",
+		"id": 1560,
+		"name": "Father Steven Boes",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 1560,
+			"department": null,
+			"extension": null,
+			"number": "800-448-3000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "wendy.toyama@acpa-cpf.org",
+		"id": 1562,
+		"name": "Wendy-Jo Toyama",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 1562,
+			"department": null,
+			"extension": null,
+			"number": "800-242-5338",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@cff.org",
+		"id": 1563,
+		"name": "Preston Campbell",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 1563,
+			"department": null,
+			"extension": null,
+			"number": "800-344-4823",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dvangorder@projectinform.org",
+		"id": 1564,
+		"name": "Dana Van Gorder",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 1564,
+			"department": null,
+			"extension": null,
+			"number": "800-822-7422",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1534,
+		"department": null,
+		"extension": null,
+		"number": "800-541-5454",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1535,
+		"department": null,
+		"extension": null,
+		"number": "800-638-8255",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1539,
+		"department": null,
+		"extension": null,
+		"number": "800-848-9595",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1540,
+		"department": null,
+		"extension": null,
+		"number": "800-424-9046",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1541,
+		"department": null,
+		"extension": null,
+		"number": "800-422-6237",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1542,
+		"department": null,
+		"extension": null,
+		"number": "800-528-2971",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1544,
+		"department": null,
+		"extension": null,
+		"number": "800-656-4673",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1546,
+		"department": null,
+		"extension": "12.0",
+		"number": "800-621-3141",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1547,
+		"department": null,
+		"extension": null,
+		"number": "888-762-4001",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1548,
+		"department": null,
+		"extension": null,
+		"number": "800-521-0198",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1549,
+		"department": null,
+		"extension": null,
+		"number": "800-535-3643",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1551,
+		"department": null,
+		"extension": null,
+		"number": "800-424-8666",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1552,
+		"department": null,
+		"extension": null,
+		"number": "800-252-6465",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1553,
+		"department": null,
+		"extension": null,
+		"number": "800-222-3123",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1556,
+		"department": null,
+		"extension": null,
+		"number": "800-233-7393",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1557,
+		"department": null,
+		"extension": "251.0",
+		"number": "800-722-4673",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1558,
+		"department": null,
+		"extension": null,
+		"number": "800-332-1000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1559,
+		"department": null,
+		"extension": null,
+		"number": "866-300-2900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1560,
+		"department": null,
+		"extension": null,
+		"number": "800-448-3000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1562,
+		"department": null,
+		"extension": null,
+		"number": "800-242-5338",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1563,
+		"department": null,
+		"extension": null,
+		"number": "800-344-4823",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1564,
+		"department": null,
+		"extension": null,
+		"number": "800-822-7422",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

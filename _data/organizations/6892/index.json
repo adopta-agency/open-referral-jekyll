@@ -1,0 +1,84 @@
+{
+	"id": 6892,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Department of Community & Economic Development assists in creating a viable urban community for the most needy persons in our City while reducing poverty, embracing diversity, assisting with economic development, and improving the overall quality of life. It utilizes the grant funds it receives from federal and state government sources to carry out various community development activities that aide in providing decent housing, suitable living environments, improved community facilities and services, and the expansion of economic opportunities for the disadvantaged so as to assist those least likely to benefit from the economic growth projected for the City.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CITY OF MIAMI DEPARTMENT OF COMMUNITY AND ECONOMIC DEVELOPMENT",
+	"website": "http://www.ci.miami.fl.us/communitydevelopment/pages/about_us/",
+	"slug": "city-of-miami-department-of-community-and-economic-development",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-miami-department-of-community-and-economic-development",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-miami-department-of-community-and-economic-development/locations",
+	"contacts": [{
+		"department": null,
+		"email": "CBermudez@miamigov.com",
+		"id": 6892,
+		"name": "Christine Bermudez Sola",
+		"title": "Public Information Officer",
+		"phones": [{
+			"id": 6892,
+			"department": null,
+			"extension": null,
+			"number": "305-416-2080",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rlouis@miamigov.com",
+		"id": 6893,
+		"name": "Natasha Bourdes",
+		"title": "HOPWA Program Manager",
+		"phones": [{
+			"id": 6893,
+			"department": null,
+			"extension": null,
+			"number": "305-416-2096",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rlouis@miamigov.com",
+		"id": 6894,
+		"name": "Natasha Bordes",
+		"title": "HOPWA Program Manager",
+		"phones": [{
+			"id": 6894,
+			"department": null,
+			"extension": null,
+			"number": "305-285-3217",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6892,
+		"department": null,
+		"extension": null,
+		"number": "305-416-2080",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6893,
+		"department": null,
+		"extension": null,
+		"number": "305-416-2096",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6894,
+		"department": null,
+		"extension": null,
+		"number": "305-285-3217",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

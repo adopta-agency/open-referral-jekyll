@@ -1,0 +1,38 @@
+{
+	"id": 2117,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Friendship Circle provides Sunday Circle, a monthly Sunday drop off program with various therapies, Mom's Night Out program, after school, winter, and a 3 day summer camp program for disabilities.\n\nSummer Camp: June 15-17, 2016",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FRIENDSHIP CIRCLE OF MIAMI BEACH AND NORTH DADE, INC.",
+	"website": "http://www.fcmiami.org/",
+	"slug": "friendship-circle-of-miami-beach-and-north-dade-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/friendship-circle-of-miami-beach-and-north-dade-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/friendship-circle-of-miami-beach-and-north-dade-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@fcmiami.org",
+		"id": 2117,
+		"name": "Mendy Dechter",
+		"title": "Director",
+		"phones": [{
+			"id": 2117,
+			"department": null,
+			"extension": null,
+			"number": "305-330-5653",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2117,
+		"department": null,
+		"extension": null,
+		"number": "305-330-5653",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

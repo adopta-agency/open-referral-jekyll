@@ -1,0 +1,38 @@
+{
+	"id": 906,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Miami Counseling Services provides Outpatient Treatment services. Additional services include counseling for substance abuse, individual or group counseling, domestic violence and sexual abuse groups, and mediation.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI COUNSELING SERVICES, INC.",
+	"website": "http://www.miamicounselingservices.com",
+	"slug": "miami-counseling-services-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-counseling-services-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-counseling-services-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "aluis39844@aol.com",
+		"id": 906,
+		"name": "Adela Luis",
+		"title": "Director",
+		"phones": [{
+			"id": 906,
+			"department": null,
+			"extension": null,
+			"number": "305-388-7774",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 906,
+		"department": null,
+		"extension": null,
+		"number": "305-388-7774",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 3157,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Shriners Hospitals for Children is a pediatric hospital system dedicated to improving the lives of children through the innovative research, education and specialized treatment of orthopaedic conditions, burns, spinal cord injuries and cleft lip and palate. The Tampa hospital solely focuses on orthopaedic care. \n\nIt is a 60-bed facility providing pediatric orthopaedic care for children regardless of the patientGu00c7u00d6s ability to pay. Care is provided in multiple settings including out-patient, in-patient, surgery and special care units. Specialty departments include orthotics and prosthetics, seating/mobility, rehabilitation including (physical, speech and occupational therapy) and a state-of-the-art motion analysis lab (gait analysis).",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SHRINERS HOSPITALS FOR CHILDREN, INC.",
+	"website": "http://www.shrinershospitalsforchildren.org/",
+	"slug": "shriners-hospitals-for-children-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/shriners-hospitals-for-children-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/shriners-hospitals-for-children-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 3157,
+		"name": "Caitlyn Hamlin",
+		"title": "Physician Liaison",
+		"phones": [{
+			"id": 3157,
+			"department": null,
+			"extension": null,
+			"number": "813-972-2250",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3157,
+		"department": null,
+		"extension": null,
+		"number": "813-972-2250",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

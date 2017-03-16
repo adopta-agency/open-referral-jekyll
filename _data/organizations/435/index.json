@@ -1,0 +1,153 @@
+{
+	"id": 435,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "CareConnect USA offers programs to assist callers in financial crisis. Those programs include mortgage payment assistance, tax relief, child support assistance, bankruptcy assistance, debt counseling and collector complaints.\n\n###COL###\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CARECONNECT USA",
+	"website": "http://www.careconnectusa.org",
+	"slug": "careconnect-usa",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/careconnect-usa",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/careconnect-usa/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@careconnectusa.org",
+		"id": 435,
+		"name": "David Mokler",
+		"title": "Director",
+		"phones": [{
+			"id": 435,
+			"department": null,
+			"extension": null,
+			"number": "800-291-1068",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@careconnectusa.org",
+		"id": 437,
+		"name": "David Moakler",
+		"title": "Director",
+		"phones": [{
+			"id": 437,
+			"department": null,
+			"extension": null,
+			"number": "888-734-2585",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 438,
+		"name": "David Mokler",
+		"title": "Director",
+		"phones": [{
+			"id": 438,
+			"department": null,
+			"extension": null,
+			"number": "866-357-3239",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@careconnectusa.org",
+		"id": 440,
+		"name": "David Mokler",
+		"title": "Director",
+		"phones": [{
+			"id": 440,
+			"department": null,
+			"extension": null,
+			"number": "888-913-7294",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@careconnectusa.org",
+		"id": 441,
+		"name": "David Mokler",
+		"title": "Director",
+		"phones": [{
+			"id": 441,
+			"department": null,
+			"extension": null,
+			"number": "888-369-0323",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@careconnectusa.org",
+		"id": 442,
+		"name": "David Moakler",
+		"title": "Director",
+		"phones": [{
+			"id": 442,
+			"department": null,
+			"extension": null,
+			"number": "800-750-8956",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 435,
+		"department": null,
+		"extension": null,
+		"number": "800-291-1068",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 437,
+		"department": null,
+		"extension": null,
+		"number": "888-734-2585",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 438,
+		"department": null,
+		"extension": null,
+		"number": "866-357-3239",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 440,
+		"department": null,
+		"extension": null,
+		"number": "888-913-7294",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 441,
+		"department": null,
+		"extension": null,
+		"number": "888-369-0323",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 442,
+		"department": null,
+		"extension": null,
+		"number": "800-750-8956",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

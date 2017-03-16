@@ -1,0 +1,406 @@
+{
+	"id": 2176,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides community service programs including counseling, probation, diversion, education and orientation for ex-offenders.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ADVOCATE PROGRAM, INC.",
+	"website": "http://advocateprogram.org",
+	"slug": "advocate-program-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/advocate-program-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/advocate-program-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mdmphd@advocateprogram.org",
+		"id": 2176,
+		"name": "David McGriff, Ph.D",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 2176,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0200",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "garyc@advocateprogram.org",
+		"id": 2177,
+		"name": "Gary Chapell",
+		"title": "Division Director",
+		"phones": [{
+			"id": 2177,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0200",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mdmphd@advocateprogram.org",
+		"id": 2178,
+		"name": "Dr. M. David McGriff, PhD",
+		"title": "CEO",
+		"phones": [{
+			"id": 2178,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0200",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "MiltonF@advocateprogram.org",
+		"id": 2179,
+		"name": "Milton Fonseca",
+		"title": "DUI & ACTT Program Manager",
+		"phones": [{
+			"id": 2179,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0200",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mdmphd@advocateprogram.org",
+		"id": 2180,
+		"name": "David McGriff, PhD",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 2180,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0131",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "garyc@advocateprogram.org",
+		"id": 2181,
+		"name": "Gary Chapell",
+		"title": "Division Director",
+		"phones": [{
+			"id": 2181,
+			"department": null,
+			"extension": null,
+			"number": "305-493-9770",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jaelm@advocateprogram.org",
+		"id": 2182,
+		"name": "Jael Curbelo",
+		"title": "Program Manager",
+		"phones": [{
+			"id": 2182,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0146",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "garyc@advocateprogram.org",
+		"id": 2183,
+		"name": "Gary Chapel",
+		"title": "DUI School Director",
+		"phones": [{
+			"id": 2183,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0200",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "garyc@advocateprogram.com",
+		"id": 2184,
+		"name": "Gary Chapell",
+		"title": "Division Director",
+		"phones": [{
+			"id": 2184,
+			"department": null,
+			"extension": null,
+			"number": "305-493-9770",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "annap@advocateprogram.org",
+		"id": 2185,
+		"name": "Anna Pineda",
+		"title": "Community Corrections Program Manager",
+		"phones": [{
+			"id": 2185,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0200",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "garyc@advocateprogram.org",
+		"id": 2186,
+		"name": "Gary Chapell",
+		"title": "DIU Director",
+		"phones": [{
+			"id": 2186,
+			"department": null,
+			"extension": null,
+			"number": "305-255-7569",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mdmphd@advocateprogram.org",
+		"id": 2187,
+		"name": "David McGriff, PhD",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 2187,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0140",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mdmphd@advocateprogram.org",
+		"id": 5489,
+		"name": "David McGriff, PhD",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 5489,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0131",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mdmphd@advocateprogram.org",
+		"id": 5490,
+		"name": "David McGriff, PhD",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 5490,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0131",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mdmphd@advocateprogram.org",
+		"id": 7324,
+		"name": "David McGriff, PhD",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 7324,
+			"department": null,
+			"extension": null,
+			"number": "305-704-0200",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mdmphd@advocateprogram.org",
+		"id": 7325,
+		"name": "David McGriff, PhD",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 7325,
+			"department": null,
+			"extension": null,
+			"number": "305-289-5605",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jennyd@advocateprogram.org",
+		"id": 8097,
+		"name": "Jennifer Pimentel",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 8097,
+			"department": null,
+			"extension": null,
+			"number": "786-227-5842",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2176,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0200",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2177,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0200",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2178,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0200",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2179,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0200",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2180,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0131",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2181,
+		"department": null,
+		"extension": null,
+		"number": "305-493-9770",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2182,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0146",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2183,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0200",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2184,
+		"department": null,
+		"extension": null,
+		"number": "305-493-9770",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2185,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0200",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2186,
+		"department": null,
+		"extension": null,
+		"number": "305-255-7569",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2187,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0140",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5489,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0131",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5490,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0131",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7324,
+		"department": null,
+		"extension": null,
+		"number": "305-704-0200",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7325,
+		"department": null,
+		"extension": null,
+		"number": "305-289-5605",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8097,
+		"department": null,
+		"extension": null,
+		"number": "786-227-5842",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

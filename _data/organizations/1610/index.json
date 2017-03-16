@@ -1,0 +1,498 @@
+{
+	"id": 1610,
+	"accreditations": [],
+	"alternate_name": "JCS",
+	"date_incorporated": null,
+	"description": "As the largest non-profit [501(c)(3)] Jewish social service agency in South Florida, JCS provides critical help in the community, such as care management for frail seniors; counseling for individual, children and families; and employment skills for developmentally disabled adults. Each year, more than 25,000 people of all ages, religions, culturally sensitive populations and ethnicities benefit from our information and referrals, diverse support initiatives and healthcare-related programs.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "JEWISH COMMUNITY SERVICES OF SOUTH FLORIDA, INC.",
+	"website": "http://www.jcsfl.org",
+	"slug": "jewish-community-services-of-south-florida-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/jewish-community-services-of-south-florida-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/jewish-community-services-of-south-florida-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 1610,
+		"name": "Fred Stock",
+		"title": "President/Chief Executive Officer",
+		"phones": [{
+			"id": 1610,
+			"department": null,
+			"extension": null,
+			"number": "305-899-1587",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dhurwitz@jcsfl.org",
+		"id": 1612,
+		"name": "Deborah Hurwitz, LCSW",
+		"title": "Divsion Director of Access Services",
+		"phones": [{
+			"id": 1612,
+			"department": null,
+			"extension": null,
+			"number": "305-576-6550",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dhurwitz@jcsfl.org",
+		"id": 1614,
+		"name": "Deborah Hurwitz, LCSW",
+		"title": "Program Director",
+		"phones": [{
+			"id": 1614,
+			"department": null,
+			"extension": null,
+			"number": "305-576-6550",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "BRockowitz@jcsfl.org",
+		"id": 1617,
+		"name": "Barbara Rockowitz",
+		"title": "Division Director Clinical Services",
+		"phones": [{
+			"id": 1617,
+			"department": null,
+			"extension": null,
+			"number": "305-672-8080",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Amalone@masadacare.org",
+		"id": 1618,
+		"name": "Althea Malone",
+		"title": "Department Director/Administrator",
+		"phones": [{
+			"id": 1618,
+			"department": null,
+			"extension": null,
+			"number": "305-672-2648",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dhurwitz@jcsfl.org",
+		"id": 1619,
+		"name": "Deborah Hurwitz, LCSW",
+		"title": null,
+		"phones": [{
+			"id": 1619,
+			"department": null,
+			"extension": null,
+			"number": "305-673-6060",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "amantano@jcsfl.org",
+		"id": 1620,
+		"name": "Aracely Montano",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 1620,
+			"department": null,
+			"extension": "142.0",
+			"number": "305-899-1587",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tfleischmann@jcsfl.org",
+		"id": 1624,
+		"name": "Tom Fleischmann",
+		"title": "VP, Rehabilitation & Employment Div",
+		"phones": [{
+			"id": 1624,
+			"department": null,
+			"extension": null,
+			"number": "305-403-6521",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "brockowitz@jcsfl.org",
+		"id": 1628,
+		"name": "Barbara Rockowitz",
+		"title": "Division Director Clinical Services",
+		"phones": [{
+			"id": 1628,
+			"department": null,
+			"extension": null,
+			"number": "305-670-1911",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@jcsfl.org",
+		"id": 1629,
+		"name": "Ellie Shapiro",
+		"title": "Project Director for Kosher Meals on Wheels",
+		"phones": [{
+			"id": 1629,
+			"department": null,
+			"extension": null,
+			"number": "305-899-8301",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "hpanitch@jcsfl.org",
+		"id": 1630,
+		"name": "Rabbi Herbert Panitch",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 1630,
+			"department": null,
+			"extension": null,
+			"number": "305-933-9820",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dhurwitz@jcsfl.org",
+		"id": 1631,
+		"name": "Deborah Hurwitz, LCSW",
+		"title": "Division Director of Access Service",
+		"phones": [{
+			"id": 1631,
+			"department": null,
+			"extension": null,
+			"number": "305-576-6550",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "apace@jcslf.org",
+		"id": 1633,
+		"name": "Allene Pace",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 1633,
+			"department": null,
+			"extension": null,
+			"number": "305-673-8658",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "brockowitz@jcsfl.org",
+		"id": 1640,
+		"name": "Barbara Rockowitz",
+		"title": "Division Director Clinical Services",
+		"phones": [{
+			"id": 1640,
+			"department": null,
+			"extension": null,
+			"number": "305-933-9820",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "tfleischmann@jcsfl.org",
+		"id": 1642,
+		"name": "Tom Fleischmann",
+		"title": "VP Rehabilitation and Employment",
+		"phones": [{
+			"id": 1642,
+			"department": null,
+			"extension": null,
+			"number": "305-899-1587",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mmendelsohn@jcsfl.org",
+		"id": 1644,
+		"name": "Marian Mendelsohn",
+		"title": "Director of Special Projects",
+		"phones": [{
+			"id": 1644,
+			"department": null,
+			"extension": null,
+			"number": "305-403-6539",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lturner@jcsfl.org",
+		"id": 1646,
+		"name": "Laurie Turner, MRC",
+		"title": "Coordinator",
+		"phones": [{
+			"id": 1646,
+			"department": null,
+			"extension": null,
+			"number": "305-576-6550",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sbird@jcsfl.org",
+		"id": 1647,
+		"name": "Sandy Bird, LMHC",
+		"title": "Division Director of Case Management",
+		"phones": [{
+			"id": 1647,
+			"department": null,
+			"extension": null,
+			"number": "305-576-6550",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mpryor@jcsfl.org",
+		"id": 1648,
+		"name": "Meaghan Pryor",
+		"title": null,
+		"phones": [{
+			"id": 1648,
+			"department": null,
+			"extension": "128.0",
+			"number": "305-899-1587",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "snierenberg@jcsfl.org",
+		"id": 1649,
+		"name": "Susan Nierenberg, LCSW",
+		"title": "Program Director for Care Connect",
+		"phones": [{
+			"id": 1649,
+			"department": null,
+			"extension": null,
+			"number": "305-576-6550",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "radler@jcsfl.org",
+		"id": 1650,
+		"name": "Randi Adler, LCSW",
+		"title": "Program Director of LGBT Services",
+		"phones": [{
+			"id": 1650,
+			"department": null,
+			"extension": null,
+			"number": "305-933-9820",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1610,
+		"department": null,
+		"extension": null,
+		"number": "305-899-1587",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1612,
+		"department": null,
+		"extension": null,
+		"number": "305-576-6550",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1614,
+		"department": null,
+		"extension": null,
+		"number": "305-576-6550",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1617,
+		"department": null,
+		"extension": null,
+		"number": "305-672-8080",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1618,
+		"department": null,
+		"extension": null,
+		"number": "305-672-2648",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1619,
+		"department": null,
+		"extension": null,
+		"number": "305-673-6060",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1620,
+		"department": null,
+		"extension": "142.0",
+		"number": "305-899-1587",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1624,
+		"department": null,
+		"extension": null,
+		"number": "305-403-6521",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1628,
+		"department": null,
+		"extension": null,
+		"number": "305-670-1911",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1629,
+		"department": null,
+		"extension": null,
+		"number": "305-899-8301",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1630,
+		"department": null,
+		"extension": null,
+		"number": "305-933-9820",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1631,
+		"department": null,
+		"extension": null,
+		"number": "305-576-6550",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1633,
+		"department": null,
+		"extension": null,
+		"number": "305-673-8658",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1640,
+		"department": null,
+		"extension": null,
+		"number": "305-933-9820",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1642,
+		"department": null,
+		"extension": null,
+		"number": "305-899-1587",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1644,
+		"department": null,
+		"extension": null,
+		"number": "305-403-6539",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1646,
+		"department": null,
+		"extension": null,
+		"number": "305-576-6550",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1647,
+		"department": null,
+		"extension": null,
+		"number": "305-576-6550",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1648,
+		"department": null,
+		"extension": "128.0",
+		"number": "305-899-1587",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1649,
+		"department": null,
+		"extension": null,
+		"number": "305-576-6550",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1650,
+		"department": null,
+		"extension": null,
+		"number": "305-933-9820",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

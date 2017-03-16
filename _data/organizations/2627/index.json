@@ -1,0 +1,107 @@
+{
+	"id": 2627,
+	"accreditations": [],
+	"alternate_name": "AMIGOS TOGETHER FOR KIDS",
+	"date_incorporated": null,
+	"description": "Amigos Together For Kids (DBA Amigos For Kids) is a 501 (c)-3 non-profit corporation founded in 1991 to respond to the diverse need of South Florida's abused, abandoned, neglected and less-fortunate children.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "AMIGOS FOR KIDS",
+	"website": "http://www.amigosforkids.org",
+	"slug": "amigos-for-kids",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/amigos-for-kids",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/amigos-for-kids/locations",
+	"contacts": [{
+		"department": null,
+		"email": "rmplasencia@amigosforkids.org",
+		"id": 2627,
+		"name": "Rosa Maria Plasencia",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 2627,
+			"department": null,
+			"extension": null,
+			"number": "305-279-1155",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rmplasencia@amigosforkids.org",
+		"id": 2628,
+		"name": "Rosa Maria Plasencia",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 2628,
+			"department": null,
+			"extension": null,
+			"number": "305-575-2103",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rmplasencia@amigosforkids.org",
+		"id": 2629,
+		"name": "Rosa Maria Plasencia",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 2629,
+			"department": null,
+			"extension": null,
+			"number": "305-279-1155",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rmplasencia@amigosforkids.org",
+		"id": 6868,
+		"name": "Rosa Maria Plasencia",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 6868,
+			"department": null,
+			"extension": null,
+			"number": "305-279-1155",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2627,
+		"department": null,
+		"extension": null,
+		"number": "305-279-1155",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2628,
+		"department": null,
+		"extension": null,
+		"number": "305-575-2103",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2629,
+		"department": null,
+		"extension": null,
+		"number": "305-279-1155",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6868,
+		"department": null,
+		"extension": null,
+		"number": "305-279-1155",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

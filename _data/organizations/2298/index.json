@@ -1,0 +1,107 @@
+{
+	"id": 2298,
+	"accreditations": [],
+	"alternate_name": "MBCS",
+	"date_incorporated": null,
+	"description": "MBCS runs a diversity of community programs with the sole purpose of serving those in need as well as providing high quality services.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI BETHANY COMMUNITY SERVICES, INC.",
+	"website": null,
+	"slug": "miami-bethany-community-services-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-bethany-community-services-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-bethany-community-services-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "obed@miamibethany.org",
+		"id": 2298,
+		"name": "Obed Jauregui",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 2298,
+			"department": null,
+			"extension": null,
+			"number": "305-638-2283",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "joe@miamibethany.org",
+		"id": 2299,
+		"name": "Joe Camilo",
+		"title": "Site Coordinator",
+		"phones": [{
+			"id": 2299,
+			"department": null,
+			"extension": null,
+			"number": "305-638-2283",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "obed@miamibethany.org",
+		"id": 5626,
+		"name": "Obed Jauregui",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 5626,
+			"department": null,
+			"extension": null,
+			"number": "305-638-2283",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "obed@miamibethany.org",
+		"id": 7227,
+		"name": "Obed Jauregui",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 7227,
+			"department": null,
+			"extension": null,
+			"number": "305-638-2283",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2298,
+		"department": null,
+		"extension": null,
+		"number": "305-638-2283",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2299,
+		"department": null,
+		"extension": null,
+		"number": "305-638-2283",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5626,
+		"department": null,
+		"extension": null,
+		"number": "305-638-2283",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7227,
+		"department": null,
+		"extension": null,
+		"number": "305-638-2283",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

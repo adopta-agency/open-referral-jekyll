@@ -1,0 +1,38 @@
+{
+	"id": 7500,
+	"accreditations": [],
+	"alternate_name": "MENTAL HEALTH RIGHTS",
+	"date_incorporated": null,
+	"description": "Mental Health Rights advocacy provides an experienced advocate, by phone, to help educate individuals on their rights in the field of mental health by providing facts and information.\n\n###COL###\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MENTAL HEALTH RIGHTS ADVOCACY, INC.",
+	"website": "http://www.mentalhealthrights.org/",
+	"slug": "mental-health-rights-advocacy-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/mental-health-rights-advocacy-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/mental-health-rights-advocacy-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Laurie@mentalhealthrights.org",
+		"id": 7500,
+		"name": "Laurie Anspach",
+		"title": "Director",
+		"phones": [{
+			"id": 7500,
+			"department": null,
+			"extension": null,
+			"number": "727-686-1852",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7500,
+		"department": null,
+		"extension": null,
+		"number": "727-686-1852",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

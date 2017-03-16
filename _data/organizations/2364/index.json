@@ -1,0 +1,84 @@
+{
+	"id": 2364,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The mission of the Mayor's Education Initiative is to unite community resources to strengthen the efforts made by Miami-Dade County Public Schools, with an emphasis on improving student achievement, family involvement, and the student's learning environment. These initiatives include: mentoring, college scholarships, internships, youth civic engagement programs, after-school programs and many more.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CITY OF MIAMI OFFICE OF GRANTS ADMINISTRATION",
+	"website": "http://www.miamigov.com",
+	"slug": "city-of-miami-office-of-grants-administration",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-miami-office-of-grants-administration",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-miami-office-of-grants-administration/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ebalsera@miamigov.com",
+		"id": 2364,
+		"name": "Esther Balsera",
+		"title": "Education Initiatives Coordinator",
+		"phones": [{
+			"id": 2364,
+			"department": null,
+			"extension": null,
+			"number": "305-416-1546",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cwestmore@miamigov.com",
+		"id": 2372,
+		"name": "Carlos Westmore",
+		"title": "Program Director",
+		"phones": [{
+			"id": 2372,
+			"department": null,
+			"extension": null,
+			"number": "305-250-5317",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ebalsera@miamigov.com",
+		"id": 4345,
+		"name": "Esther Balsera",
+		"title": "Education Initiatives Coordinator",
+		"phones": [{
+			"id": 4345,
+			"department": null,
+			"extension": null,
+			"number": "305-416-1532",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2364,
+		"department": null,
+		"extension": null,
+		"number": "305-416-1546",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2372,
+		"department": null,
+		"extension": null,
+		"number": "305-250-5317",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4345,
+		"department": null,
+		"extension": null,
+		"number": "305-416-1532",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

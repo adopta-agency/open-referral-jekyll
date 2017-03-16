@@ -1,0 +1,38 @@
+{
+	"id": 6284,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides financial education, and entrepreneur development initiatives that will create a new generation of financial responsible adults knowledgeable in monetary matters. Offers credit counseling in and out of the office and sealing and expungement of arrest records in the office.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "COMMUNITY WORKS COALITION, INC.",
+	"website": "http://www.cwc-educate.org/",
+	"slug": "community-works-coalition-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/community-works-coalition-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/community-works-coalition-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "andre@cwc-educate.org",
+		"id": 6284,
+		"name": "Andre Coakley",
+		"title": "President",
+		"phones": [{
+			"id": 6284,
+			"department": null,
+			"extension": null,
+			"number": "305-432-4424",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6284,
+		"department": null,
+		"extension": null,
+		"number": "305-432-4424",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

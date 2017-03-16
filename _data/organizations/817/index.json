@@ -1,0 +1,199 @@
+{
+	"id": 817,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The North Miami Foundation for Senior Citizens' Services is a not-for-profit social service agency which provides a wide variety of services to help seniors remain independent in their own homes.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NORTH MIAMI FOUNDATION FOR SENIOR CITIZENS SERVICES, INC.",
+	"website": "http://www.nmf620.org",
+	"slug": "north-miami-foundation-for-senior-citizens-services-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/north-miami-foundation-for-senior-citizens-services-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/north-miami-foundation-for-senior-citizens-services-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "dk@nmf620.org",
+		"id": 817,
+		"name": "Debbie Kleinberg",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 817,
+			"department": null,
+			"extension": null,
+			"number": "305-893-1450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sandinmf@aol.com",
+		"id": 818,
+		"name": "Sandi Dioli",
+		"title": "Program Administrator",
+		"phones": [{
+			"id": 818,
+			"department": null,
+			"extension": null,
+			"number": "305-893-1450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "susan@nmf620.org",
+		"id": 819,
+		"name": "Susan Katz",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 819,
+			"department": null,
+			"extension": null,
+			"number": "305-893-1450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "susan@nmf620.org",
+		"id": 820,
+		"name": "Susan Katz",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 820,
+			"department": null,
+			"extension": null,
+			"number": "305-893-1450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "susan@nmf620.org",
+		"id": 7473,
+		"name": "Susan Katz",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 7473,
+			"department": null,
+			"extension": null,
+			"number": "305-893-1450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "susan@nmf620.org",
+		"id": 7477,
+		"name": "Susan Katz",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 7477,
+			"department": null,
+			"extension": null,
+			"number": "305-893-1450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "susan@nmf620.org",
+		"id": 7478,
+		"name": "Susan Katz",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 7478,
+			"department": null,
+			"extension": null,
+			"number": "305-893-1450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "susan@nmf620.org",
+		"id": 7479,
+		"name": "Susan Katz",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 7479,
+			"department": null,
+			"extension": null,
+			"number": "305-893-1450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 817,
+		"department": null,
+		"extension": null,
+		"number": "305-893-1450",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 818,
+		"department": null,
+		"extension": null,
+		"number": "305-893-1450",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 819,
+		"department": null,
+		"extension": null,
+		"number": "305-893-1450",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 820,
+		"department": null,
+		"extension": null,
+		"number": "305-893-1450",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7473,
+		"department": null,
+		"extension": null,
+		"number": "305-893-1450",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7477,
+		"department": null,
+		"extension": null,
+		"number": "305-893-1450",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7478,
+		"department": null,
+		"extension": null,
+		"number": "305-893-1450",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7479,
+		"department": null,
+		"extension": null,
+		"number": "305-893-1450",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

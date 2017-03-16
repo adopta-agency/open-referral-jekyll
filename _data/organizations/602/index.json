@@ -1,0 +1,245 @@
+{
+	"id": 602,
+	"accreditations": [],
+	"alternate_name": "Centro Mater East and Centro Mater West",
+	"date_incorporated": null,
+	"description": "Centro Mater Childcare Services Inc. is a 45-year-old, nonprofit organization that strives to aid economically disadvantaged families by providing quality childcare and education services.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CENTRO MATER CHILDCARE CENTER, INC.",
+	"website": "http://centromater.com",
+	"slug": "centro-mater-childcare-center-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/centro-mater-childcare-center-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/centro-mater-childcare-center-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "arodriguez2@chsfla.com",
+		"id": 602,
+		"name": "Abilio Rodriguez",
+		"title": "Executive Administrator",
+		"phones": [{
+			"id": 602,
+			"department": null,
+			"extension": null,
+			"number": "305-357-4395",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Madelyn.rodriguez@chsfla.com",
+		"id": 603,
+		"name": "Madelyn R. LLanes",
+		"title": "Administrator",
+		"phones": [{
+			"id": 603,
+			"department": null,
+			"extension": null,
+			"number": "305-545-6049",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "aalvarez@chsfla.com",
+		"id": 604,
+		"name": "Angel Alvarez",
+		"title": "Administrator",
+		"phones": [{
+			"id": 604,
+			"department": null,
+			"extension": null,
+			"number": "305-362-9701",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "aalvarez@chsfla.com",
+		"id": 605,
+		"name": "Angel Alvarez",
+		"title": "Administrator",
+		"phones": [{
+			"id": 605,
+			"department": null,
+			"extension": null,
+			"number": "305-362-9701",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "aalvarez@chsfla.com",
+		"id": 606,
+		"name": "Angel Alvarez",
+		"title": "Administrator",
+		"phones": [{
+			"id": 606,
+			"department": null,
+			"extension": null,
+			"number": "305-357-4395",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "aalvarez@chsfla.com",
+		"id": 607,
+		"name": "Angel Alvarez",
+		"title": "Administrator",
+		"phones": [{
+			"id": 607,
+			"department": null,
+			"extension": null,
+			"number": "305-357-4395",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Madelyn.rodriguez@chsfla.com",
+		"id": 608,
+		"name": "Madelyn Rodriguez",
+		"title": "Administrator",
+		"phones": [{
+			"id": 608,
+			"department": null,
+			"extension": null,
+			"number": "305-545-6049",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Madelyn.rodriguez@chsfla.com",
+		"id": 8139,
+		"name": "Madelyn Rodriguez",
+		"title": "Administrator",
+		"phones": [{
+			"id": 8139,
+			"department": null,
+			"extension": null,
+			"number": "305-545-6049",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Madelyn.rodriguez@chsfla.com",
+		"id": 8140,
+		"name": "Madelyn Rodriguez",
+		"title": "Administrator",
+		"phones": [{
+			"id": 8140,
+			"department": null,
+			"extension": null,
+			"number": "305-357-4395",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Madelyn.rodriguez@chsfla.com",
+		"id": 8141,
+		"name": "Madelyn Rodriguez",
+		"title": "Administrator",
+		"phones": [{
+			"id": 8141,
+			"department": null,
+			"extension": null,
+			"number": "305-362-9701",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 602,
+		"department": null,
+		"extension": null,
+		"number": "305-357-4395",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 603,
+		"department": null,
+		"extension": null,
+		"number": "305-545-6049",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 604,
+		"department": null,
+		"extension": null,
+		"number": "305-362-9701",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 605,
+		"department": null,
+		"extension": null,
+		"number": "305-362-9701",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 606,
+		"department": null,
+		"extension": null,
+		"number": "305-357-4395",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 607,
+		"department": null,
+		"extension": null,
+		"number": "305-357-4395",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 608,
+		"department": null,
+		"extension": null,
+		"number": "305-545-6049",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8139,
+		"department": null,
+		"extension": null,
+		"number": "305-545-6049",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8140,
+		"department": null,
+		"extension": null,
+		"number": "305-357-4395",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8141,
+		"department": null,
+		"extension": null,
+		"number": "305-362-9701",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

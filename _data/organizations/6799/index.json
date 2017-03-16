@@ -1,0 +1,61 @@
+{
+	"id": 6799,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Bethel Family Enrichment Center was established in 1993, as a non-profit, community-based intervention and educational organization. It also serves as a community service ministry of the Greater New Bethel Baptist Church.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "BETHEL FAMILY ENRICHMENT CENTER, INC.",
+	"website": null,
+	"slug": "bethel-family-enrichment-center-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/bethel-family-enrichment-center-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/bethel-family-enrichment-center-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "betfamlife@yahoo.com",
+		"id": 6799,
+		"name": "Dr. Prince Smith",
+		"title": "Project Director/Evaluator/Consultants",
+		"phones": [{
+			"id": 6799,
+			"department": null,
+			"extension": null,
+			"number": "305-627-0396",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "betfamlife@yahoo.com",
+		"id": 6800,
+		"name": "Dr. Prince Smith",
+		"title": "Project Director/Evaluator/Consultants",
+		"phones": [{
+			"id": 6800,
+			"department": null,
+			"extension": null,
+			"number": "305-627-0396",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6799,
+		"department": null,
+		"extension": null,
+		"number": "305-627-0396",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6800,
+		"department": null,
+		"extension": null,
+		"number": "305-627-0396",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

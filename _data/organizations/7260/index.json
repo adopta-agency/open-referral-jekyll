@@ -1,0 +1,38 @@
+{
+	"id": 7260,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Year Up is an award-winning national 501(c)3 organization striving to close the Opportunity Divide by providing urban young adults with the skills, experience and support that will empower them to reach their potential through professional careers and higher education. Through a one-year intensive training program, Year Up provides urban young adults ages 18-24 with a unique combination of hands-on technical and professional skills, college credit, and corporate internships. \n\nWith an annual operating budget of $70 million, Year Up will serve over 2,100 students in 2014 nationwide, with sites in: Atlanta, Boston, Bay Area (San Francisco and Silicon Valley), New York, Providence, Puget Sound (Seattle), National Capital Region (Washington DC) and Chicago, with Year Up Professional Training Corps (PTC) sites located in Miami, Baltimore and Philadelphia.\n\nVoted one of the Best NonProfits to Work For in the country by the NonProfit Times, Year Up is a rewarding place to work. Our staff is passionate, supportive, mission-driven, and committed to positive change and continuous learning. We set high standards for both ourselves and our students, and live by a set of core values that reflect an unshakable belief in the talent and full potential of our young people. The work we do is life-changing, and we know that our team is the greatest asset in achieving our mission.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "YEAR UP MIAMI",
+	"website": "http://www.yearup.org",
+	"slug": "year-up-miami",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/year-up-miami",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/year-up-miami/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jyoute@yearup.org",
+		"id": 7260,
+		"name": "John-Marra Youte",
+		"title": null,
+		"phones": [{
+			"id": 7260,
+			"department": null,
+			"extension": null,
+			"number": "305-237-7240",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7260,
+		"department": null,
+		"extension": null,
+		"number": "305-237-7240",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

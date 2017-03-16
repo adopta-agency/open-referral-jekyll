@@ -1,0 +1,38 @@
+{
+	"id": 7230,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Golden Gate Senior Center provides educational seminars, support groups, arts and crafts, music, computer classes, exercise, yoga, English Classes, computer classes, gatherings, recreational and developmental opportunities for seniors and caregivers. Includes programs, socialization, information, seminars and convenient access to agency personnel such as Catholic Charities services, AARP Foundation (job training and job placement), Meals of Hope food pantry, Lion's Club vision screening, Collier County daily lunch program, SheriffGu00c7u00d6s Office and Veteran services. Also provides meeting rooms for agencies and providers to meet with seniors and caregivers.\r\n\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "GOLDEN GATE SENIOR CENTER",
+	"website": "http://www.collierseniorresources.org",
+	"slug": "golden-gate-senior-center",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/golden-gate-senior-center",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/golden-gate-senior-center/locations",
+	"contacts": [{
+		"department": null,
+		"email": "tatiana.fortune@collierseniorresources.org",
+		"id": 7230,
+		"name": "Tatiana Fortune, MSW",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7230,
+			"department": null,
+			"extension": null,
+			"number": "239-252-4541",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7230,
+		"department": null,
+		"extension": null,
+		"number": "239-252-4541",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

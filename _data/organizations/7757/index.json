@@ -1,0 +1,38 @@
+{
+	"id": 7757,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides emotional and spiritual guidance for substance abuse support. This includes support groups, STEPS program, talk and group therapy. Recovery support seminars and interventions are held four times throughout the year. Also has a comprehensive treatment center that provides counseling for substance abuse and drug testing.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NUEVO CAMINAR MINISTERIO CATOLICO",
+	"website": null,
+	"slug": "nuevo-caminar-ministerio-catolico",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/nuevo-caminar-ministerio-catolico",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/nuevo-caminar-ministerio-catolico/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 7757,
+		"name": "Ramon Cabrera",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7757,
+			"department": null,
+			"extension": null,
+			"number": "305-796-7202",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7757,
+		"department": null,
+		"extension": null,
+		"number": "305-796-7202",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

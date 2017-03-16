@@ -1,0 +1,61 @@
+{
+	"id": 5842,
+	"accreditations": [],
+	"alternate_name": "AAASWFL",
+	"date_incorporated": null,
+	"description": "The AAASWFL serves as an advocate and visible focal point in the planning and service area to foster the development of comprehensive and coordinated service systems to serve older individuals. The agencyGu00c7u00d6s programs are both publicly and privately funded and provide an array of supportive services to elder residents in southwest Florida.\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "AREA AGENCY ON AGING FOR SOUTHWEST FLORIDA, INC.",
+	"website": "http://www.aaaswfl.org",
+	"slug": "area-agency-on-aging-for-southwest-florida-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/area-agency-on-aging-for-southwest-florida-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/area-agency-on-aging-for-southwest-florida-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "theresa.davis@srchoices.org",
+		"id": 5842,
+		"name": "Theresa Davis",
+		"title": "Director of Community Outreach",
+		"phones": [{
+			"id": 5842,
+			"department": null,
+			"extension": null,
+			"number": "239-652-6900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "vanessa.santiago@srchoices.org",
+		"id": 5843,
+		"name": "Vanessa Santiago",
+		"title": "I&R Manager",
+		"phones": [{
+			"id": 5843,
+			"department": null,
+			"extension": null,
+			"number": "866-413-5337",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5842,
+		"department": null,
+		"extension": null,
+		"number": "239-652-6900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5843,
+		"department": null,
+		"extension": null,
+		"number": "866-413-5337",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

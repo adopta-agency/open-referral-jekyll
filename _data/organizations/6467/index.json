@@ -1,0 +1,84 @@
+{
+	"id": 6467,
+	"accreditations": [],
+	"alternate_name": "JDRF",
+	"date_incorporated": null,
+	"description": "JDRF specializes in diabetes research; it is the largest charitable funder of and advocates for type 1 diabetes research. The mission of JDRF is to find a cure for diabetes and its complications through the support of research. JDRF provides information and referrals for those diagnosed with type- 1 diabetes (t1d).\r\n\r\n###MON###\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "JUVENILE DIABETES RESEARCH FOUNDATION, INC.",
+	"website": "http://jdrf.org",
+	"slug": "juvenile-diabetes-research-foundation-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/juvenile-diabetes-research-foundation-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/juvenile-diabetes-research-foundation-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@jdrf.org",
+		"id": 6467,
+		"name": "John McGuire",
+		"title": "Vice President, Community Engagement, Peer-to-Peer Fundraising",
+		"phones": [{
+			"id": 6467,
+			"department": null,
+			"extension": null,
+			"number": "800-533-2873",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@jdrf.org",
+		"id": 6469,
+		"name": "John McGuire",
+		"title": "Vice President, Community Engagement, Peer-to-Peer Fundraising",
+		"phones": [{
+			"id": 6469,
+			"department": null,
+			"extension": null,
+			"number": "800-533-2873",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "gdengler@jdrf.org",
+		"id": 7137,
+		"name": "Gina Dengler",
+		"title": "Development Manager",
+		"phones": [{
+			"id": 7137,
+			"department": null,
+			"extension": null,
+			"number": "239-591-2825",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6467,
+		"department": null,
+		"extension": null,
+		"number": "800-533-2873",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6469,
+		"department": null,
+		"extension": null,
+		"number": "800-533-2873",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7137,
+		"department": null,
+		"extension": null,
+		"number": "239-591-2825",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

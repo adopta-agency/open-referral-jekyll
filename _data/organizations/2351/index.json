@@ -1,0 +1,130 @@
+{
+	"id": 2351,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Kidz City Learning Center provides after programs, spring winter and summer camps, as well as assistance with homework, and private tutoring.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "KIDZ CITY LEARNING CENTER, INC.",
+	"website": "http://www.freewebs.com/kidzcity2008",
+	"slug": "kidz-city-learning-center-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/kidz-city-learning-center-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/kidz-city-learning-center-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "kidzcitylc3@aol.com",
+		"id": 2351,
+		"name": "Barbara Ortiz",
+		"title": "Director",
+		"phones": [{
+			"id": 2351,
+			"department": null,
+			"extension": null,
+			"number": "786-255-4490",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kidzcitylc3@aol.com",
+		"id": 2352,
+		"name": "Barbara Ortiz",
+		"title": "Director",
+		"phones": [{
+			"id": 2352,
+			"department": null,
+			"extension": null,
+			"number": "786-255-4490",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kidzcitylc3@aol.com",
+		"id": 2353,
+		"name": "Barbara Ortiz",
+		"title": "Director",
+		"phones": [{
+			"id": 2353,
+			"department": null,
+			"extension": null,
+			"number": "786-255-4490",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kidzcitylc3@aol.com",
+		"id": 7453,
+		"name": "Barbara Ortiz",
+		"title": "Director",
+		"phones": [{
+			"id": 7453,
+			"department": null,
+			"extension": null,
+			"number": "786-255-4490",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kidzcitylc3@aol.com",
+		"id": 7738,
+		"name": "Barbara Ortiz",
+		"title": "Director",
+		"phones": [{
+			"id": 7738,
+			"department": null,
+			"extension": null,
+			"number": "786-255-4490",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2351,
+		"department": null,
+		"extension": null,
+		"number": "786-255-4490",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2352,
+		"department": null,
+		"extension": null,
+		"number": "786-255-4490",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2353,
+		"department": null,
+		"extension": null,
+		"number": "786-255-4490",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7453,
+		"department": null,
+		"extension": null,
+		"number": "786-255-4490",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7738,
+		"department": null,
+		"extension": null,
+		"number": "786-255-4490",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

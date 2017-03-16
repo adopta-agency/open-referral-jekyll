@@ -1,0 +1,498 @@
+{
+	"id": 7607,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Twentieth Judicial Circuit, established in 1970, consists of Charlotte, Collier, Glades, Hendry and Lee Counties in Southwest Florida.\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "TWENTIETH JUDICIAL CIRCUIT COURT OF FLORIDA",
+	"website": "http://www.ca.cjis20.org/home/main/homepage.asp",
+	"slug": "twentieth-judicial-circuit-court-of-florida",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/twentieth-judicial-circuit-court-of-florida",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/twentieth-judicial-circuit-court-of-florida/locations",
+	"contacts": [{
+		"department": null,
+		"email": "charlesr@ca.cjis20.org",
+		"id": 7607,
+		"name": "Charles Rice",
+		"title": "Administrative Services Manager",
+		"phones": [{
+			"id": 7607,
+			"department": null,
+			"extension": null,
+			"number": "239-252-8800",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "charlesr@ca.cjis20.org",
+		"id": 7622,
+		"name": "Charles Rice",
+		"title": "Administrative Services Manager",
+		"phones": [{
+			"id": 7622,
+			"department": null,
+			"extension": null,
+			"number": "239-533-2747",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "charlesr@ca.cjis20.org",
+		"id": 7623,
+		"name": "Charles Rice",
+		"title": "Administrative Services Manager",
+		"phones": [{
+			"id": 7623,
+			"department": null,
+			"extension": null,
+			"number": "239-252-2603",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "charlesr@ca.cjis20.org",
+		"id": 7624,
+		"name": "Charles Rice",
+		"title": "Administrative Services Manager",
+		"phones": [{
+			"id": 7624,
+			"department": null,
+			"extension": null,
+			"number": "239-533-3353",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "charlesr@ca.cjis20.org",
+		"id": 7625,
+		"name": "Charles Rice",
+		"title": "Administrative Services Manager",
+		"phones": [{
+			"id": 7625,
+			"department": null,
+			"extension": null,
+			"number": "239-533-2884",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "charlesr@ca.cjis20.org",
+		"id": 7626,
+		"name": "Charles Rice",
+		"title": "Administrative Services Manager",
+		"phones": [{
+			"id": 7626,
+			"department": null,
+			"extension": null,
+			"number": "239-533-3343",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "charlesr@ca.cjis20.org",
+		"id": 7627,
+		"name": "Charles Rice",
+		"title": "Administrative Services Manager",
+		"phones": [{
+			"id": 7627,
+			"department": null,
+			"extension": null,
+			"number": "239-533-3343",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "charlesr@ca.cjis20.org",
+		"id": 7628,
+		"name": "Charles Rice",
+		"title": "Administrative Services Manager",
+		"phones": [{
+			"id": 7628,
+			"department": null,
+			"extension": null,
+			"number": "239-533-7103",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7629,
+		"name": "Debbie Mravic",
+		"title": "Program Coordinator - Family/Civil Court",
+		"phones": [{
+			"id": 7629,
+			"department": null,
+			"extension": null,
+			"number": "239-533-7103",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dwilliams@ca.cjis20.org",
+		"id": 7630,
+		"name": "Diane Williams",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 7630,
+			"department": null,
+			"extension": null,
+			"number": "239-252-8800",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dwilliams@ca.cjis20.org",
+		"id": 7631,
+		"name": "Diane Williams",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 7631,
+			"department": null,
+			"extension": null,
+			"number": "239-252-8800",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dwilliams@ca.cjis20.org",
+		"id": 7632,
+		"name": "Diane Williams",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 7632,
+			"department": null,
+			"extension": null,
+			"number": "239-252-2745",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dwilliams@ca.cjis20.org",
+		"id": 7633,
+		"name": "Diane Williams",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 7633,
+			"department": null,
+			"extension": null,
+			"number": "239-252-2745",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7634,
+		"name": "Alyssa Hanmer",
+		"title": null,
+		"phones": [{
+			"id": 7634,
+			"department": null,
+			"extension": null,
+			"number": "239-252-8704",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7635,
+		"name": "Kerri Hixson",
+		"title": null,
+		"phones": [{
+			"id": 7635,
+			"department": null,
+			"extension": null,
+			"number": "239-252-2754",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dwilliams@ca.cjis20.org",
+		"id": 7636,
+		"name": "Diane Williams",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 7636,
+			"department": null,
+			"extension": null,
+			"number": "239-252-2754",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dwilliams@ca.cjis20.org",
+		"id": 7637,
+		"name": "Diane Williams",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 7637,
+			"department": null,
+			"extension": null,
+			"number": "239-252-8135",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dwilliams@ca.cjis20.org",
+		"id": 7638,
+		"name": "Diane Williams",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 7638,
+			"department": null,
+			"extension": null,
+			"number": "239-533-1719",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rlannen@ca.cjis20.org",
+		"id": 7639,
+		"name": "Ray Lannen",
+		"title": "Drug Court Manager",
+		"phones": [{
+			"id": 7639,
+			"department": null,
+			"extension": null,
+			"number": "239-533-1746",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rlannen@ca.cjis20.org",
+		"id": 7640,
+		"name": "Charles R. Crews",
+		"title": "Drug Court Manager",
+		"phones": [{
+			"id": 7640,
+			"department": null,
+			"extension": null,
+			"number": "239-252-8702",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7641,
+		"name": "Alyssa Hanmer",
+		"title": null,
+		"phones": [{
+			"id": 7641,
+			"department": null,
+			"extension": null,
+			"number": "239-252-8800",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7607,
+		"department": null,
+		"extension": null,
+		"number": "239-252-8800",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7622,
+		"department": null,
+		"extension": null,
+		"number": "239-533-2747",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7623,
+		"department": null,
+		"extension": null,
+		"number": "239-252-2603",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7624,
+		"department": null,
+		"extension": null,
+		"number": "239-533-3353",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7625,
+		"department": null,
+		"extension": null,
+		"number": "239-533-2884",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7626,
+		"department": null,
+		"extension": null,
+		"number": "239-533-3343",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7627,
+		"department": null,
+		"extension": null,
+		"number": "239-533-3343",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7628,
+		"department": null,
+		"extension": null,
+		"number": "239-533-7103",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7629,
+		"department": null,
+		"extension": null,
+		"number": "239-533-7103",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7630,
+		"department": null,
+		"extension": null,
+		"number": "239-252-8800",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7631,
+		"department": null,
+		"extension": null,
+		"number": "239-252-8800",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7632,
+		"department": null,
+		"extension": null,
+		"number": "239-252-2745",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7633,
+		"department": null,
+		"extension": null,
+		"number": "239-252-2745",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7634,
+		"department": null,
+		"extension": null,
+		"number": "239-252-8704",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7635,
+		"department": null,
+		"extension": null,
+		"number": "239-252-2754",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7636,
+		"department": null,
+		"extension": null,
+		"number": "239-252-2754",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7637,
+		"department": null,
+		"extension": null,
+		"number": "239-252-8135",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7638,
+		"department": null,
+		"extension": null,
+		"number": "239-533-1719",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7639,
+		"department": null,
+		"extension": null,
+		"number": "239-533-1746",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7640,
+		"department": null,
+		"extension": null,
+		"number": "239-252-8702",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7641,
+		"department": null,
+		"extension": null,
+		"number": "239-252-8800",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

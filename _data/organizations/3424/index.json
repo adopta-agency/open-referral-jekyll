@@ -1,0 +1,38 @@
+{
+	"id": 3424,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Hialeah Technology Center (HIATEC) is a non-profit industrial training and technology development center for economic development of the local community. HIATEC programs are targeted to upgrade the skills of local workers for new and better job opportunities. HIATEC closely works with industry in the offering and customization of training and technology programs that promote product innovation, product quality and process efficiency.\n\nServices in the following areas are offered:\n* FDA Consulting\n* Industrial Training\n* Business Incubation",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HIALEAH TECHNOLOGY CENTER, INC.",
+	"website": "http://www.hiatec.org",
+	"slug": "hialeah-technology-center-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/hialeah-technology-center-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/hialeah-technology-center-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jmillan@hiatec.org",
+		"id": 3424,
+		"name": "Jorde Millan",
+		"title": "Director",
+		"phones": [{
+			"id": 3424,
+			"department": null,
+			"extension": null,
+			"number": "305-925-1260",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3424,
+		"department": null,
+		"extension": null,
+		"number": "305-925-1260",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

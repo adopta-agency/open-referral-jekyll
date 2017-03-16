@@ -1,0 +1,84 @@
+{
+	"id": 686,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Urban League of Greater Miami provides services in our community in employment, childcare, senior citizen services, housing, economic development, training, community service, political advocacy and education. All activities are aimed at family preservation and child development.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "URBAN LEAGUE OF GREATER MIAMI, INC.",
+	"website": "http://www.miamiurbanleague.org",
+	"slug": "urban-league-of-greater-miami-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/urban-league-of-greater-miami-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/urban-league-of-greater-miami-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "twfair@miamiurbanleague.org",
+		"id": 686,
+		"name": "T. Willard Fair",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 686,
+			"department": null,
+			"extension": null,
+			"number": "305-696-4450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "shenley@miamiurbanleague.org",
+		"id": 689,
+		"name": "Sharon Henley",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 689,
+			"department": null,
+			"extension": null,
+			"number": "305-696-4450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "shenley@miamiurbanleague.org",
+		"id": 691,
+		"name": "Sharon Henley",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 691,
+			"department": null,
+			"extension": null,
+			"number": "305-696-4450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 686,
+		"department": null,
+		"extension": null,
+		"number": "305-696-4450",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 689,
+		"department": null,
+		"extension": null,
+		"number": "305-696-4450",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 691,
+		"department": null,
+		"extension": null,
+		"number": "305-696-4450",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

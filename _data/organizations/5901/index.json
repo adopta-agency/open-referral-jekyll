@@ -1,0 +1,38 @@
+{
+	"id": 5901,
+	"accreditations": [],
+	"alternate_name": "FARM SHARE",
+	"date_incorporated": null,
+	"description": "Farm Share distributes food to agencies (Non-Profit organizations e.g. Soup Kitchens, Homeless Shelters, Churches, etc.) that provide food to individuals. The IDC (Individual Distribution Center) is no longer open at Farm Share.\n\nUpon request, Farm Share can provide a copy of their agency list to Switchboard of Miami so that callers can be referred directly to Farm Share recipient agencies.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FARM SHARE, INC.",
+	"website": "http://www.farmshare.org",
+	"slug": "farm-share-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/farm-share-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/farm-share-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jinny@farmshare.org",
+		"id": 5901,
+		"name": "Virginia R. Botwin",
+		"title": "State Wide Operations & Finance Manager",
+		"phones": [{
+			"id": 5901,
+			"department": null,
+			"extension": null,
+			"number": "305-246-3276",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5901,
+		"department": null,
+		"extension": null,
+		"number": "305-246-3276",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

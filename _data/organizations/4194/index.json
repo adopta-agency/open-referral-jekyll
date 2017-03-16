@@ -1,0 +1,61 @@
+{
+	"id": 4194,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Best Care is a private, state-licensed Nurses Registry that refers high-quality, personalized home-health caregivers. Best CareGu00c7u00d6s mission is to refer caregivers who provide comprehensive, quality health care, to individuals in their own homes.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "BEST CARE NURSES REGISTRY, INC.",
+	"website": "http://www.bestcare.net",
+	"slug": "best-care-nurses-registry-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/best-care-nurses-registry-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/best-care-nurses-registry-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "marc@bestcare.net",
+		"id": 4194,
+		"name": "Marc Spector",
+		"title": "President",
+		"phones": [{
+			"id": 4194,
+			"department": null,
+			"extension": null,
+			"number": "305-652-3311",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@bestcare.net",
+		"id": 4195,
+		"name": "Jacqueline Scherfer",
+		"title": "Vice President",
+		"phones": [{
+			"id": 4195,
+			"department": null,
+			"extension": null,
+			"number": "305-652-3311",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4194,
+		"department": null,
+		"extension": null,
+		"number": "305-652-3311",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4195,
+		"department": null,
+		"extension": null,
+		"number": "305-652-3311",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

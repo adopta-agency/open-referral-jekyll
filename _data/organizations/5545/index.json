@@ -1,0 +1,38 @@
+{
+	"id": 5545,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides outpatient substance abuse treatment for adults and mental health counseling services for children and adults. We utilize individual, group, and family counseling to facilitate resolution of life problems being faces by our clients. \n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "RESOLVE COMMUNITY COUNSELING CENTER OF COLLIER COUNTY, LLC.",
+	"website": "http://www.resolvecounselingnaples.com/",
+	"slug": "resolve-community-counseling-center-of-collier-county-llc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/resolve-community-counseling-center-of-collier-county-llc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/resolve-community-counseling-center-of-collier-county-llc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "joem.resolve5c@gmail.com",
+		"id": 5545,
+		"name": "Joe Mirabella",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 5545,
+			"department": null,
+			"extension": null,
+			"number": "239-331-4774",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5545,
+		"department": null,
+		"extension": null,
+		"number": "239-331-4774",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

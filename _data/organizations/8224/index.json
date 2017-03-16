@@ -1,0 +1,38 @@
+{
+	"id": 8224,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "A high quality daycare offering free VPK, after school services and summer camp. Owned by a License Clinical Social Worker and Certified Behavior Analyst. Also, offers VPK class for special need children (Autism, etc.) Students with special needs (Autism, ADHD, ADD, etc.) are accepted.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ALL SKILLS BUILDERS",
+	"website": "http://www.allskillsbuilders.com",
+	"slug": "all-skills-builders",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/all-skills-builders",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/all-skills-builders/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@allskillsbuilders.com",
+		"id": 8224,
+		"name": "Siu Wong",
+		"title": "Owner",
+		"phones": [{
+			"id": 8224,
+			"department": null,
+			"extension": null,
+			"number": "786-803-8367",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8224,
+		"department": null,
+		"extension": null,
+		"number": "786-803-8367",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

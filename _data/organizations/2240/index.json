@@ -1,0 +1,61 @@
+{
+	"id": 2240,
+	"accreditations": [],
+	"alternate_name": "FFB",
+	"date_incorporated": null,
+	"description": "FFB offers information and referral services for affected individuals and their families as well as for doctors and eye care professionals. The Foundation also provides comprehensive information kits on retinitis pigmentosa, macular degeneration, and usher syndrome.\r\n\r\n###MON###\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE FOUNDATION FIGHTING BLINDNESS, INC.",
+	"website": "http://www.fightblindness.org",
+	"slug": "the-foundation-fighting-blindness-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-foundation-fighting-blindness-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-foundation-fighting-blindness-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "wschmidt@blindness.org",
+		"id": 2240,
+		"name": "William T. Schmidt",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 2240,
+			"department": null,
+			"extension": null,
+			"number": "410-423-0600",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "KMarlow@FightBlindness.org",
+		"id": 2241,
+		"name": "Kimberly Marlow",
+		"title": "Director, Events",
+		"phones": [{
+			"id": 2241,
+			"department": null,
+			"extension": null,
+			"number": "954-496-0776",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2240,
+		"department": null,
+		"extension": null,
+		"number": "410-423-0600",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2241,
+		"department": null,
+		"extension": null,
+		"number": "954-496-0776",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

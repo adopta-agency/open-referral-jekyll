@@ -1,0 +1,61 @@
+{
+	"id": 3436,
+	"accreditations": [],
+	"alternate_name": "RTG",
+	"date_incorporated": null,
+	"description": "The Roxy Theatre Group (RTG) is a 501(c)(3) non-profit organization geared toward children ages 3 to 17 years old, yet catering to all ages. Our programs focus on the performing arts, offering classes in dance, drama and voice. These are provided through an educational format of teacher/student classroom environments culminating in on-stage productions.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE ROXY THEATRE GROUP, INC.",
+	"website": "http://www.RoxyPAC.com",
+	"slug": "the-roxy-theatre-group-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-roxy-theatre-group-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-roxy-theatre-group-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "RoxyParty@aol.com",
+		"id": 3436,
+		"name": "Noramari Onate",
+		"title": "President",
+		"phones": [{
+			"id": 3436,
+			"department": null,
+			"extension": null,
+			"number": "305-226-0030",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "RoxyParty@aol.com",
+		"id": 3437,
+		"name": "Noramari Onate",
+		"title": "President",
+		"phones": [{
+			"id": 3437,
+			"department": null,
+			"extension": null,
+			"number": "305-226-0030",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3436,
+		"department": null,
+		"extension": null,
+		"number": "305-226-0030",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3437,
+		"department": null,
+		"extension": null,
+		"number": "305-226-0030",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

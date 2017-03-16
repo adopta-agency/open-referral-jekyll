@@ -1,0 +1,84 @@
+{
+	"id": 6002,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Assisted Living Facility for the elderly and individuals with mental illnesses. Also serves as a retirement home.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "OUR FAMILY ASSISTED LIVING FACILITY",
+	"website": "http://ourfamilyalf.com",
+	"slug": "our-family-assisted-living-facility",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/our-family-assisted-living-facility",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/our-family-assisted-living-facility/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ourfamilyalf@hotmail.com",
+		"id": 6002,
+		"name": "Meiby Milian-Amador",
+		"title": "Program Administrator",
+		"phones": [{
+			"id": 6002,
+			"department": null,
+			"extension": null,
+			"number": "786-597-4695",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ourfamilyalf@hotmail.com",
+		"id": 6003,
+		"name": "Meiby Milian-Amador",
+		"title": "Program Administrator",
+		"phones": [{
+			"id": 6003,
+			"department": null,
+			"extension": null,
+			"number": "786-597-4695",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ourfamilyalf@hotmail.com",
+		"id": 7749,
+		"name": "Meiby Milian-Amador",
+		"title": "Program Administrator",
+		"phones": [{
+			"id": 7749,
+			"department": null,
+			"extension": null,
+			"number": "786-597-4695",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6002,
+		"department": null,
+		"extension": null,
+		"number": "786-597-4695",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6003,
+		"department": null,
+		"extension": null,
+		"number": "786-597-4695",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7749,
+		"department": null,
+		"extension": null,
+		"number": "786-597-4695",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

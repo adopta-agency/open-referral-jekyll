@@ -1,0 +1,130 @@
+{
+	"id": 1474,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides vocational/rehabilitation services to persons with disabilities. Services include ergonomic and economic analyses, counseling and job placement.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "REHABILITATION SERVICES, INC.",
+	"website": "http://www.rehabserv.com",
+	"slug": "rehabilitation-services-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/rehabilitation-services-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/rehabilitation-services-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "misty@rehabserv.com",
+		"id": 1474,
+		"name": "Misty Sandborn",
+		"title": "President",
+		"phones": [{
+			"id": 1474,
+			"department": null,
+			"extension": null,
+			"number": "888-300-4548",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "misty@rehabserv.com",
+		"id": 1475,
+		"name": "Misty Sandborn",
+		"title": "President",
+		"phones": [{
+			"id": 1475,
+			"department": null,
+			"extension": null,
+			"number": "888-300-4548",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "misty@rehabserv.com",
+		"id": 1477,
+		"name": "Misty Sandborn",
+		"title": "President",
+		"phones": [{
+			"id": 1477,
+			"department": null,
+			"extension": null,
+			"number": "888-300-4548",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "misty@rehabserv.com",
+		"id": 1478,
+		"name": "Misty Sandborn",
+		"title": "President",
+		"phones": [{
+			"id": 1478,
+			"department": null,
+			"extension": null,
+			"number": "888-300-4548",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "misty@rehabserv.com",
+		"id": 1480,
+		"name": "Misty Sandborn",
+		"title": "President",
+		"phones": [{
+			"id": 1480,
+			"department": null,
+			"extension": null,
+			"number": "888-300-4548",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1474,
+		"department": null,
+		"extension": null,
+		"number": "888-300-4548",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1475,
+		"department": null,
+		"extension": null,
+		"number": "888-300-4548",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1477,
+		"department": null,
+		"extension": null,
+		"number": "888-300-4548",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1478,
+		"department": null,
+		"extension": null,
+		"number": "888-300-4548",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1480,
+		"department": null,
+		"extension": null,
+		"number": "888-300-4548",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

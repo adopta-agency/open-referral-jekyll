@@ -1,0 +1,199 @@
+{
+	"id": 2072,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "We travel to your facility or home to train and certify your staff and families in CPR, First-aid, A.E.D., HIV, Blood borne Pathogens (OSHA), and Water Safety for parents and caregivers. We offer needed products for the health care industry such as Gloves, First-Aid Kits and CPR Masks.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FIRST STEP MOBILE SERVICES",
+	"website": "http://firststepmobileservices.com",
+	"slug": "first-step-mobile-services",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/first-step-mobile-services",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/first-step-mobile-services/locations",
+	"contacts": [{
+		"department": null,
+		"email": "firststeptraining@gmail.com",
+		"id": 2072,
+		"name": "Walter Russ",
+		"title": "Training Coordinator",
+		"phones": [{
+			"id": 2072,
+			"department": null,
+			"extension": null,
+			"number": "786-201-7621",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "walterdruss@gmail.com",
+		"id": 2073,
+		"name": "Walter Russ",
+		"title": "Training Coordinator",
+		"phones": [{
+			"id": 2073,
+			"department": null,
+			"extension": null,
+			"number": "786-201-7621",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "walterdruss@gmail.com",
+		"id": 2074,
+		"name": "Walter Russ",
+		"title": "Certified Instructor/ Training Coordinator",
+		"phones": [{
+			"id": 2074,
+			"department": null,
+			"extension": null,
+			"number": "786-201-7621",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "walterdruss@gmail.com",
+		"id": 2075,
+		"name": "Walter Russ",
+		"title": "Certified Instructor/ Training Coordinator",
+		"phones": [{
+			"id": 2075,
+			"department": null,
+			"extension": null,
+			"number": "786-201-7621",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "firststeptraining@gmail.com",
+		"id": 2076,
+		"name": "Walter Russ",
+		"title": "Certified Instructor/ Training Coordinator",
+		"phones": [{
+			"id": 2076,
+			"department": null,
+			"extension": null,
+			"number": "786-201-7621",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "firststeptraining@gmail.com",
+		"id": 2077,
+		"name": "Walter Russ",
+		"title": "Training Coordinator",
+		"phones": [{
+			"id": 2077,
+			"department": null,
+			"extension": null,
+			"number": "786-201-7621",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "walterdruss@gmail.com",
+		"id": 2078,
+		"name": "Walter Russ",
+		"title": "Certified Instructor/ Training Coordinator",
+		"phones": [{
+			"id": 2078,
+			"department": null,
+			"extension": null,
+			"number": "786-201-7621",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "firststeptraining@gmail.com",
+		"id": 2079,
+		"name": "Walter Russ",
+		"title": "Training Coordinator",
+		"phones": [{
+			"id": 2079,
+			"department": null,
+			"extension": null,
+			"number": "786-201-7621",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2072,
+		"department": null,
+		"extension": null,
+		"number": "786-201-7621",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2073,
+		"department": null,
+		"extension": null,
+		"number": "786-201-7621",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2074,
+		"department": null,
+		"extension": null,
+		"number": "786-201-7621",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2075,
+		"department": null,
+		"extension": null,
+		"number": "786-201-7621",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2076,
+		"department": null,
+		"extension": null,
+		"number": "786-201-7621",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2077,
+		"department": null,
+		"extension": null,
+		"number": "786-201-7621",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2078,
+		"department": null,
+		"extension": null,
+		"number": "786-201-7621",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2079,
+		"department": null,
+		"extension": null,
+		"number": "786-201-7621",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

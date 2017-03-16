@@ -1,0 +1,176 @@
+{
+	"id": 5190,
+	"accreditations": [],
+	"alternate_name": "YOUTH HAVEN",
+	"date_incorporated": null,
+	"description": "Youth Haven is Southwest Florida's residential emergency shelter for boys and girls ages 6-16 who have been removed from their homes due to abuse, neglect or abandonment. Our mission is to protect and empower children and strengthen families in Southwest Florida through comprehensive care and community collaboration.\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "YOUTH HAVEN, INC.",
+	"website": "http://www.youthhaven.net",
+	"slug": "youth-haven-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/youth-haven-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/youth-haven-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jinx.liggett@youthhavenswfl.org",
+		"id": 5190,
+		"name": "Jinx Liggett",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5190,
+			"department": null,
+			"extension": null,
+			"number": "239-774-2904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kim.weisberg@youthhavenswfl.org",
+		"id": 5191,
+		"name": "Kim Weisberg",
+		"title": "Director of Programs",
+		"phones": [{
+			"id": 5191,
+			"department": null,
+			"extension": null,
+			"number": "239-774-2904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "libby.badillo@youthhavenswfl.org",
+		"id": 6523,
+		"name": "Libby Badillo",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 6523,
+			"department": null,
+			"extension": null,
+			"number": "239-793-8750",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kim.weisberg@youthhavenswfl.org",
+		"id": 6524,
+		"name": "Kim Weisberg",
+		"title": "Director of Programs",
+		"phones": [{
+			"id": 6524,
+			"department": null,
+			"extension": null,
+			"number": "239-774-2904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "debra.marhr@youthhavenswfl.org",
+		"id": 7480,
+		"name": "Debra Marhr",
+		"title": "Director of Homeless and Runaway Youth Program",
+		"phones": [{
+			"id": 7480,
+			"department": null,
+			"extension": null,
+			"number": "239-774-2904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "debra.marhr@youthhavenswfl.org",
+		"id": 7481,
+		"name": "Debra Marhr",
+		"title": "Director of Homeless and Runaway Youth Program",
+		"phones": [{
+			"id": 7481,
+			"department": null,
+			"extension": null,
+			"number": "239-774-2904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kim.weisberg@youthhavenswfl.org",
+		"id": 7482,
+		"name": "Kim Weisberg",
+		"title": "Director of Programs",
+		"phones": [{
+			"id": 7482,
+			"department": null,
+			"extension": null,
+			"number": "239-774-2904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5190,
+		"department": null,
+		"extension": null,
+		"number": "239-774-2904",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5191,
+		"department": null,
+		"extension": null,
+		"number": "239-774-2904",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6523,
+		"department": null,
+		"extension": null,
+		"number": "239-793-8750",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6524,
+		"department": null,
+		"extension": null,
+		"number": "239-774-2904",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7480,
+		"department": null,
+		"extension": null,
+		"number": "239-774-2904",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7481,
+		"department": null,
+		"extension": null,
+		"number": "239-774-2904",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7482,
+		"department": null,
+		"extension": null,
+		"number": "239-774-2904",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,61 @@
+{
+	"id": 3488,
+	"accreditations": [],
+	"alternate_name": "BOHCF",
+	"date_incorporated": null,
+	"description": "Bridge of Hope of Central Florida offers special needs children patients services in the following areas:\n\n* Speech Therapy and Assessments\n* Physical Therapy and Assessments\n* Physical Fitness Therapy and Assessments (available only in the center)\n* Occupational Therapy (especially for but not limited to patients with autism, cerebral palsy, down syndrome, spina bifida, and early intervention through the Early Steps Program)\n\n1821 sw 27th ave\nmiami 33145\nno physical (speech and occuparional)\nmain: 786-483-8268\nfax: 786-703-3858",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "BRIDGE OF HOPE OF CENTRAL FLORIDA, INC.",
+	"website": "http://bohcf.com/",
+	"slug": "bridge-of-hope-of-central-florida-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/bridge-of-hope-of-central-florida-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/bridge-of-hope-of-central-florida-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "grisel@bohcf.com",
+		"id": 3488,
+		"name": "Grisel Nieves",
+		"title": "Office Manager",
+		"phones": [{
+			"id": 3488,
+			"department": null,
+			"extension": null,
+			"number": "305-444-9259",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "gloria@bohcf.com",
+		"id": 8092,
+		"name": "Gloria Fortuna",
+		"title": "Regional Manager",
+		"phones": [{
+			"id": 8092,
+			"department": null,
+			"extension": null,
+			"number": "786-483-8268",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3488,
+		"department": null,
+		"extension": null,
+		"number": "305-444-9259",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8092,
+		"department": null,
+		"extension": null,
+		"number": "786-483-8268",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,84 @@
+{
+	"id": 3045,
+	"accreditations": [],
+	"alternate_name": "True Vine Christian Church",
+	"date_incorporated": null,
+	"description": "Kidz XL provides a safe, stimulating, and innovative, out-of-school program targeting children in Miami-Dade county. Kidz XL promotes academic excellence, homework assistance, literary development, physical fitness, and character development, and does all of this in a fun environment of group building, enrichment, and sports.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "KIDZ XL, INC.",
+	"website": "http://www.kidzxl.com",
+	"slug": "kidz-xl-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/kidz-xl-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/kidz-xl-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "nic@kidzxl.com",
+		"id": 3045,
+		"name": "Nicholas Schrieber",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 3045,
+			"department": null,
+			"extension": null,
+			"number": "305-221-1404",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "nic@kidzxl.com",
+		"id": 3046,
+		"name": "Nicholas Schrieber",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 3046,
+			"department": null,
+			"extension": null,
+			"number": "305-221-1404",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "nic@kidzxl.com",
+		"id": 7967,
+		"name": "Nicholas Schrieber",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7967,
+			"department": null,
+			"extension": null,
+			"number": "305-221-1404",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3045,
+		"department": null,
+		"extension": null,
+		"number": "305-221-1404",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3046,
+		"department": null,
+		"extension": null,
+		"number": "305-221-1404",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7967,
+		"department": null,
+		"extension": null,
+		"number": "305-221-1404",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

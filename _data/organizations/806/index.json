@@ -1,0 +1,130 @@
+{
+	"id": 806,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "This is a 357-bed full service hospital with a 24-hour emergency room. Special programs and services include the Miami Women's Health Center, C.Gordon Griffith Cancer Clinic, Advanced Imaging Center (MRI), Neonatal Intensive Care Unit, Pain Care Center, Wound Healing Center, Outpatient/Diagnostic Center, free patient transportation system, and community education and wellness programs.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NORTH SHORE MEDICAL CENTER, INC.",
+	"website": "http://www.northshoremedical.com",
+	"slug": "north-shore-medical-center-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/north-shore-medical-center-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/north-shore-medical-center-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@northshoremedical.com",
+		"id": 806,
+		"name": "Manny Linares",
+		"title": "CEO",
+		"phones": [{
+			"id": 806,
+			"department": null,
+			"extension": null,
+			"number": "305-835-6000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 809,
+		"name": "Donna Hagues",
+		"title": "Program Director of Behavioral Health Services",
+		"phones": [{
+			"id": 809,
+			"department": null,
+			"extension": null,
+			"number": "305-835-6000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@northshoremedical.com",
+		"id": 812,
+		"name": "Manny Linares",
+		"title": "CEO",
+		"phones": [{
+			"id": 812,
+			"department": null,
+			"extension": null,
+			"number": "305-694-3409",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 814,
+		"name": "Dr. Michael Scholl",
+		"title": "Pain Management",
+		"phones": [{
+			"id": 814,
+			"department": null,
+			"extension": null,
+			"number": "305-694-4850",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 816,
+		"name": "Kelly Houston",
+		"title": "Director of Labor and Delivery",
+		"phones": [{
+			"id": 816,
+			"department": null,
+			"extension": null,
+			"number": "800-984-3434",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 806,
+		"department": null,
+		"extension": null,
+		"number": "305-835-6000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 809,
+		"department": null,
+		"extension": null,
+		"number": "305-835-6000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 812,
+		"department": null,
+		"extension": null,
+		"number": "305-694-3409",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 814,
+		"department": null,
+		"extension": null,
+		"number": "305-694-4850",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 816,
+		"department": null,
+		"extension": null,
+		"number": "800-984-3434",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

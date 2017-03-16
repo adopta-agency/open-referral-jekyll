@@ -1,0 +1,38 @@
+{
+	"id": 5354,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "American Cancer Society is the nationwide, community-based, voluntary health organization dedicated to eliminating cancer as a major health problem by preventing cancer, saving lives from cancer, and diminishing suffering from cancer through research, education, advocacy and service. \r\n\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "AMERICAN CANCER SOCIETY - COLLIER COUNTY UNIT",
+	"website": "http://www.cancer.org",
+	"slug": "american-cancer-society-collier-county-unit",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-cancer-society-collier-county-unit",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-cancer-society-collier-county-unit/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 5354,
+		"name": "Kathy Ceeland",
+		"title": "Unit Executive Director",
+		"phones": [{
+			"id": 5354,
+			"department": null,
+			"extension": null,
+			"number": "239-261-0337",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5354,
+		"department": null,
+		"extension": null,
+		"number": "239-261-0337",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

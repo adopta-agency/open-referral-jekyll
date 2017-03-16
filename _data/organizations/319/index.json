@@ -1,0 +1,84 @@
+{
+	"id": 319,
+	"accreditations": [],
+	"alternate_name": "MDEAP",
+	"date_incorporated": null,
+	"description": "Miami-Dade Economic Advocacy TrustGu00c7u00d6s mission is to ensure the equitable participation of Blacks in Miami-Dade County's economic growth through advocacy and monitoring of economic conditions and economic development initiatives in Miami-Dade County.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI-DADE ECONOMIC ADVOCACY TRUST",
+	"website": "http://www.miamidade.gov/mdeat",
+	"slug": "miami-dade-economic-advocacy-trust",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-economic-advocacy-trust",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-economic-advocacy-trust/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jdixon@miamidade.gov",
+		"id": 319,
+		"name": "John E. Dixon, Jr.",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 319,
+			"department": null,
+			"extension": null,
+			"number": "305-375-5661",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jdixon@miamidade.gov",
+		"id": 320,
+		"name": "John E. Dixon, Jr.",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 320,
+			"department": null,
+			"extension": null,
+			"number": "305-375-5661",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jdixon@miamidade.gov",
+		"id": 321,
+		"name": "John E. Dixon, Jr.",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 321,
+			"department": null,
+			"extension": null,
+			"number": "305-375-5661",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 319,
+		"department": null,
+		"extension": null,
+		"number": "305-375-5661",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 320,
+		"department": null,
+		"extension": null,
+		"number": "305-375-5661",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 321,
+		"department": null,
+		"extension": null,
+		"number": "305-375-5661",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

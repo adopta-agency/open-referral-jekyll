@@ -1,0 +1,84 @@
+{
+	"id": 3289,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Shelter for Abused Women & Children provides emergency shelter, adult and child counseling, safety planning, outreach advocacy, healing arts, legal services (court advocacy, immigration and victim services), special population services (elder abuse, women of means, Haitian initiative), primary prevention, community education, professional training, and transitional housing.\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE SHELTER FOR ABUSED WOMEN & CHILDREN, INC.",
+	"website": "http://www.naplesshelter.org",
+	"slug": "the-shelter-for-abused-women-children-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-shelter-for-abused-women-children-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-shelter-for-abused-women-children-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@naplesshelter.org",
+		"id": 3289,
+		"name": "Linda Oberhaus",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 3289,
+			"department": null,
+			"extension": null,
+			"number": "239-775-3862",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ldescoteaux@naplesshelter.org",
+		"id": 3293,
+		"name": "Lise Descoteaux",
+		"title": "Residential Manager",
+		"phones": [{
+			"id": 3293,
+			"department": null,
+			"extension": null,
+			"number": "239-775-3862",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ngonzales@naplesshelter.org",
+		"id": 3298,
+		"name": "Natalia Gonzales",
+		"title": "Outreach Manager",
+		"phones": [{
+			"id": 3298,
+			"department": null,
+			"extension": null,
+			"number": "239-775-1101",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3289,
+		"department": null,
+		"extension": null,
+		"number": "239-775-3862",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3293,
+		"department": null,
+		"extension": null,
+		"number": "239-775-3862",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3298,
+		"department": null,
+		"extension": null,
+		"number": "239-775-1101",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

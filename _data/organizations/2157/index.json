@@ -1,0 +1,38 @@
+{
+	"id": 2157,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "With a strategy of cooperation, coordination and creativity, the American Veterans Alliance works in conjunction with other veterans service organizations, nonprofits, corporate sponsors and government agencies to provide support and advocacy at national and local levels. The AVA provides supportive services to veterans, families and dependents such as assistance with transportation to VA facilities, food and commodities assistance in emergency situations, transitional assistance, job preparedness and placement, referral services and access to technology. \n\nThe AVA is the largest alliance of Hispanic veterans and has now become a Veteran Support Embassy providing assistance nationwide.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "AMERICAN VETERANS ALLIANCE, INC.",
+	"website": "http://www.wesupportvets.org",
+	"slug": "american-veterans-alliance-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-veterans-alliance-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-veterans-alliance-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "wmcgee@hispanicveterans.org",
+		"id": 2157,
+		"name": "Waddell McGee",
+		"title": "CEO",
+		"phones": [{
+			"id": 2157,
+			"department": null,
+			"extension": null,
+			"number": "305-200-7492",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2157,
+		"department": null,
+		"extension": null,
+		"number": "305-200-7492",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

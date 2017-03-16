@@ -1,0 +1,38 @@
+{
+	"id": 4920,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides services for seniors, caring for their physical and mental condition while ensuring a lasting and rewarding relationship with their families. Program offers a wide array of recreational, social, and therapeutic activities to encourage high self esteem and to promote social and mental functions.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ACTIVE ADULT DAY CARE CENTER, INC.",
+	"website": "http://www.activeadultdaycare.com",
+	"slug": "active-adult-day-care-center-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/active-adult-day-care-center-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/active-adult-day-care-center-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "wwrepm@hotmail.com",
+		"id": 4920,
+		"name": "Anna Piloto",
+		"title": "Director",
+		"phones": [{
+			"id": 4920,
+			"department": null,
+			"extension": null,
+			"number": "305-635-9933",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4920,
+		"department": null,
+		"extension": null,
+		"number": "305-635-9933",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

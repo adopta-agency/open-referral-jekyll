@@ -1,0 +1,61 @@
+{
+	"id": 6302,
+	"accreditations": [],
+	"alternate_name": "NAPLES CAT ALLIANCE",
+	"date_incorporated": null,
+	"description": "Services offered include: trapping, neutering, returning and rescuing of homeless cats. Manages the registration and adoption of community cats and kittens, includes the feeding of over 1,000 cats. Also helps the community with pet retention by providing low cost veterinary services, when available, and operates a free roaming no kill cat shelter.\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "COLLIER COMMUNITY CAT COALITION, INC.",
+	"website": "http://www.naplescatalliance.org",
+	"slug": "collier-community-cat-coalition-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-community-cat-coalition-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-community-cat-coalition-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "megan@naplescatalliance.org",
+		"id": 6302,
+		"name": "Megan Sorbara",
+		"title": "President",
+		"phones": [{
+			"id": 6302,
+			"department": null,
+			"extension": null,
+			"number": "239-300-0829",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "megan@naplescatalliance.org",
+		"id": 6303,
+		"name": "Megan Sorbara",
+		"title": "President",
+		"phones": [{
+			"id": 6303,
+			"department": null,
+			"extension": null,
+			"number": "239-300-0829",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6302,
+		"department": null,
+		"extension": null,
+		"number": "239-300-0829",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6303,
+		"department": null,
+		"extension": null,
+		"number": "239-300-0829",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

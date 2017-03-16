@@ -1,0 +1,38 @@
+{
+	"id": 3401,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Private Duty home health company assisting with activities of daily living, companionship, errands and trips, shopping, light housekeeping, laundry, meal preparation, toileting, ambulation, transferring, transportation to doctor's appointments, medication reminders, Alzheimer's care/Dementia, respite care, recovery from illness/surgery, new moms, children and young adults with physical challenges, cancer, Parkinson's and ALS.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ELITE CARE AT HOME, INC.",
+	"website": "http://www.miamielitecare.com",
+	"slug": "elite-care-at-home-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/elite-care-at-home-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/elite-care-at-home-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "intake@miamielitecare.com",
+		"id": 3401,
+		"name": "Judy Jasinto",
+		"title": "Operation Specialist",
+		"phones": [{
+			"id": 3401,
+			"department": null,
+			"extension": null,
+			"number": "305-231-0555",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3401,
+		"department": null,
+		"extension": null,
+		"number": "305-231-0555",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

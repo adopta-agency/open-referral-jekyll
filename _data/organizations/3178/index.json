@@ -1,0 +1,38 @@
+{
+	"id": 3178,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "This is a suicide prevention information and referral hotline. Calls are connected to a certified crisis center nearest the caller's location. Services are available 24 hours a day, seven days a week via phone or online chat.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NATIONAL HOPELINE NETWORK",
+	"website": "http://www.hopeline.com",
+	"slug": "national-hopeline-network",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/national-hopeline-network",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/national-hopeline-network/locations",
+	"contacts": [{
+		"department": null,
+		"email": "reese@hopeline.com",
+		"id": 3178,
+		"name": "Reese Butler",
+		"title": "Board President & CEO",
+		"phones": [{
+			"id": 3178,
+			"department": null,
+			"extension": null,
+			"number": "800-442-4673",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3178,
+		"department": null,
+		"extension": null,
+		"number": "800-442-4673",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

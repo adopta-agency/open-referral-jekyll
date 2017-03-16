@@ -1,0 +1,38 @@
+{
+	"id": 5432,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "College Summit's program is designed to help bright, low-income students who, with the right support during the post-secondary transition, could propel their lives (and communities) in a positive direction. College Summit's mission is to increase college enrollment rates of youth from low-income communities. College Summit is partners with over 20 Miami-Dade and Broward public schools and universities to achieve the common purpose of all students experiencing high school as a launchpad for college and career success.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "COLLEGE SUMMIT, INC.",
+	"website": "http://www.collegesummit.org/",
+	"slug": "college-summit-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/college-summit-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/college-summit-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "rfigueroa@collegesummit.org",
+		"id": 5432,
+		"name": "Raquel Figueroa",
+		"title": "Program Director",
+		"phones": [{
+			"id": 5432,
+			"department": null,
+			"extension": null,
+			"number": "305-260-9220",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5432,
+		"department": null,
+		"extension": null,
+		"number": "305-260-9220",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

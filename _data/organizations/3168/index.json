@@ -1,0 +1,38 @@
+{
+	"id": 3168,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "ACCION USA's mission is to make access to credit a permanent resource to low- and moderate-income small businesses owners in the United States. By providing small or u0022microu0022 loans to men and women who have been shut out of the traditional banking sector, ACCION helps build their businesses and increase their incomes.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ACCION EAST - MIAMI",
+	"website": "http://www.accioneast.org/home/small-business-loans/about-us/where-we-lend/florida.aspx",
+	"slug": "accion-east-miami",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/accion-east-miami",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/accion-east-miami/locations",
+	"contacts": [{
+		"department": null,
+		"email": "festrada@accionusa.org",
+		"id": 3168,
+		"name": "Fabiana Estrada",
+		"title": "Director",
+		"phones": [{
+			"id": 3168,
+			"department": null,
+			"extension": "1822.0",
+			"number": "305-548-3360",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3168,
+		"department": null,
+		"extension": "1822.0",
+		"number": "305-548-3360",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

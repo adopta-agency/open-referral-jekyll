@@ -1,0 +1,38 @@
+{
+	"id": 5182,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Candlelighters provide support, education, and assistance to families who have a child diagnosed with cancer or blood disorders. We provide these services to families living in Charlotte, Collier, Glade, Hendry and Lee counties. \r\n\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CANDLELIGHTERS OF SOUTHWEST FLORIDA, INC.",
+	"website": "http://www.CandlelightersSWFL.org",
+	"slug": "candlelighters-of-southwest-florida-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/candlelighters-of-southwest-florida-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/candlelighters-of-southwest-florida-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@CandlelightersSWFL.org",
+		"id": 5182,
+		"name": "Klair M. Snellbaker",
+		"title": "Executive Director & Founder",
+		"phones": [{
+			"id": 5182,
+			"department": null,
+			"extension": null,
+			"number": "239-432-2223",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5182,
+		"department": null,
+		"extension": null,
+		"number": "239-432-2223",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

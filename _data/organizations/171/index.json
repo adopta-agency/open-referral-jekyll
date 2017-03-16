@@ -1,0 +1,176 @@
+{
+	"id": 171,
+	"accreditations": [],
+	"alternate_name": "RCMA",
+	"date_incorporated": null,
+	"description": "The Redlands Christian Migrant Association provides quality child care and early education for children of migrant farm workers and rural, low-income families throughout Florida. The largest non-profit child-care provider in Florida, RCMA is a leader in high-quality early childhood services. More than half of RCMA's child-care centers are nationally accredited.\r\n\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "REDLANDS CHRISTIAN MIGRANT ASSOCIATION - MIAMI, INC.",
+	"website": "http://www.rcma.org",
+	"slug": "redlands-christian-migrant-association-miami-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/redlands-christian-migrant-association-miami-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/redlands-christian-migrant-association-miami-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Lissettev@rcma.org",
+		"id": 171,
+		"name": "Lissette Vega",
+		"title": "Area Coordinator",
+		"phones": [{
+			"id": 171,
+			"department": null,
+			"extension": null,
+			"number": "305-242-2577",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "edelmira@rcma.org",
+		"id": 172,
+		"name": "Edelmira Valle",
+		"title": "Center Coordinator",
+		"phones": [{
+			"id": 172,
+			"department": null,
+			"extension": null,
+			"number": "305-242-2597",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "martam@rcma.org",
+		"id": 173,
+		"name": "Marta Montes",
+		"title": "Center Coordinator",
+		"phones": [{
+			"id": 173,
+			"department": null,
+			"extension": null,
+			"number": "305-242-2592",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "LorenaQ@rcma.org",
+		"id": 174,
+		"name": "Lorena Quinones",
+		"title": "Center Coordinator",
+		"phones": [{
+			"id": 174,
+			"department": null,
+			"extension": null,
+			"number": "305-242-2588",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "damarys@rcma.org",
+		"id": 175,
+		"name": "Damarys Calzada",
+		"title": "Center Coordinator",
+		"phones": [{
+			"id": 175,
+			"department": null,
+			"extension": null,
+			"number": "305-242-2575",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Evelinda@rcma.org",
+		"id": 176,
+		"name": "Evelinda Perez",
+		"title": "Center Coordinator",
+		"phones": [{
+			"id": 176,
+			"department": null,
+			"extension": null,
+			"number": "305-242-2595",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Mariana@rcma.org",
+		"id": 177,
+		"name": "Mariana Burciago",
+		"title": "Center Coordinator",
+		"phones": [{
+			"id": 177,
+			"department": null,
+			"extension": null,
+			"number": "305-242-2584",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 171,
+		"department": null,
+		"extension": null,
+		"number": "305-242-2577",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 172,
+		"department": null,
+		"extension": null,
+		"number": "305-242-2597",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 173,
+		"department": null,
+		"extension": null,
+		"number": "305-242-2592",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 174,
+		"department": null,
+		"extension": null,
+		"number": "305-242-2588",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 175,
+		"department": null,
+		"extension": null,
+		"number": "305-242-2575",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 176,
+		"department": null,
+		"extension": null,
+		"number": "305-242-2595",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 177,
+		"department": null,
+		"extension": null,
+		"number": "305-242-2584",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

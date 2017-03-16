@@ -1,0 +1,38 @@
+{
+	"id": 293,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The American Lung Association of the Southeast serves Florida, Georgia, and South Carolina with critical programs and services designed to reach everyone affected by lung disease.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "AMERICAN LUNG ASSOCIATION IN FLORIDA",
+	"website": "http://www.lungfla.org",
+	"slug": "american-lung-association-in-florida",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-lung-association-in-florida",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/american-lung-association-in-florida/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mbogdan@lungfla.org",
+		"id": 293,
+		"name": "Martha C. Bogdan",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 293,
+			"department": null,
+			"extension": null,
+			"number": "800-586-4872",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 293,
+		"department": null,
+		"extension": null,
+		"number": "800-586-4872",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

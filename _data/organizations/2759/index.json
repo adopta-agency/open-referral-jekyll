@@ -1,0 +1,406 @@
+{
+	"id": 2759,
+	"accreditations": [],
+	"alternate_name": "UM",
+	"date_incorporated": null,
+	"description": "The University of Miami Leonard M. Miller School of Medicine, an academic medical center founded in 1952, is proud to serve South Florida, South America and the Caribbean in education, research, patient care and community service. Our vision is to develop the highest quality medical care, research and education in meaningful, sustainable ways while being culturally sensitive to our communityGu00c7u00d6s needs.\n\n###COL###\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "UNIVERSITY OF MIAMI - MILLER SCHOOL OF MEDICINE",
+	"website": "http://www.med.miami.edu/",
+	"slug": "university-of-miami-miller-school-of-medicine",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/university-of-miami-miller-school-of-medicine",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/university-of-miami-miller-school-of-medicine/locations",
+	"contacts": [{
+		"department": null,
+		"email": "emansoor@med.miami.edu",
+		"id": 2759,
+		"name": "Elana Mansoor, Psyd.",
+		"title": "Director Network Services",
+		"phones": [{
+			"id": 2759,
+			"department": null,
+			"extension": null,
+			"number": "305-243-6545",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "GHotz@med.miami.edu",
+		"id": 2760,
+		"name": "Gillian Hotz",
+		"title": "Director",
+		"phones": [{
+			"id": 2760,
+			"department": null,
+			"extension": null,
+			"number": "305-243-8115",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ebandstra@med.miami.edu",
+		"id": 2761,
+		"name": "Dr. Emmalee Bandstra",
+		"title": "Director",
+		"phones": [{
+			"id": 2761,
+			"department": null,
+			"extension": null,
+			"number": "305-243-4078",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lrodriguez@med.miami.edu",
+		"id": 5955,
+		"name": "Laurie Rodriguez",
+		"title": "Program Contact",
+		"phones": [{
+			"id": 5955,
+			"department": null,
+			"extension": null,
+			"number": "305-243-3696",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 6061,
+		"name": "Michael Gittelman",
+		"title": "Executive Administrator",
+		"phones": [{
+			"id": 6061,
+			"department": null,
+			"extension": null,
+			"number": "305-243-2020",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 6064,
+		"name": "Anthony Garand",
+		"title": "Administrator",
+		"phones": [{
+			"id": 6064,
+			"department": null,
+			"extension": null,
+			"number": "239-659-3937",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Ggonzal4@med.miami.edu",
+		"id": 6955,
+		"name": "Ginna Gonzalez, DNP, ARNP, FNP-C",
+		"title": "Nursing Director",
+		"phones": [{
+			"id": 6955,
+			"department": null,
+			"extension": null,
+			"number": "305-243-7400",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mfischl@med.miami.edu",
+		"id": 6956,
+		"name": "Dr. Margaret Fischl, MD",
+		"title": "Director",
+		"phones": [{
+			"id": 6956,
+			"department": null,
+			"extension": null,
+			"number": "305-243-8125",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 6957,
+		"name": "Susan Dandes",
+		"title": "Clinical Director, Child Protection Team",
+		"phones": [{
+			"id": 6957,
+			"department": null,
+			"extension": null,
+			"number": "305-243-7550",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "laorainfo@med.miami.edu",
+		"id": 6958,
+		"name": "Cynthia Smith",
+		"title": "Communications Manager",
+		"phones": [{
+			"id": 6958,
+			"department": null,
+			"extension": null,
+			"number": "800-232-2892",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 6959,
+		"name": "Dr. Gwendolyn Scott",
+		"title": "Director, Division of Pediatric Infectious Disease and Immunology",
+		"phones": [{
+			"id": 6959,
+			"department": null,
+			"extension": null,
+			"number": "305-243-6676",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "pgoldschmidt@miami.edu",
+		"id": 6960,
+		"name": "Dr. Pascal J. Goldschmidt, MD",
+		"title": "Senior Vice President for Medical Affairs and Dean",
+		"phones": [{
+			"id": 6960,
+			"department": null,
+			"extension": null,
+			"number": "305-243-6545",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 6967,
+		"name": "Dr. Lisa Gwynn",
+		"title": "Medical Director",
+		"phones": [{
+			"id": 6967,
+			"department": null,
+			"extension": null,
+			"number": "305-243-6407",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jpotter2@med.miami.edu",
+		"id": 7720,
+		"name": "Dr. JoNell Potter",
+		"title": "Associate Professor and Division Director",
+		"phones": [{
+			"id": 7720,
+			"department": null,
+			"extension": null,
+			"number": "305-243-5832",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kxa158@miami.edu",
+		"id": 7739,
+		"name": "Katrina Acosta",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 7739,
+			"department": null,
+			"extension": null,
+			"number": "305-243-1110",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "c.lee7@med.miami.edu",
+		"id": 7973,
+		"name": "Chin Chin Lee",
+		"title": "Sr. Project Manager",
+		"phones": [{
+			"id": 7973,
+			"department": null,
+			"extension": null,
+			"number": "305-355-9200",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mstevenson@miami.edu",
+		"id": 8200,
+		"name": "Dr. Mario Stevenson",
+		"title": "Chief, Division of Infectious Diseases",
+		"phones": [{
+			"id": 8200,
+			"department": null,
+			"extension": null,
+			"number": "305-585-6000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2759,
+		"department": null,
+		"extension": null,
+		"number": "305-243-6545",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2760,
+		"department": null,
+		"extension": null,
+		"number": "305-243-8115",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2761,
+		"department": null,
+		"extension": null,
+		"number": "305-243-4078",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5955,
+		"department": null,
+		"extension": null,
+		"number": "305-243-3696",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6061,
+		"department": null,
+		"extension": null,
+		"number": "305-243-2020",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6064,
+		"department": null,
+		"extension": null,
+		"number": "239-659-3937",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6955,
+		"department": null,
+		"extension": null,
+		"number": "305-243-7400",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6956,
+		"department": null,
+		"extension": null,
+		"number": "305-243-8125",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6957,
+		"department": null,
+		"extension": null,
+		"number": "305-243-7550",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6958,
+		"department": null,
+		"extension": null,
+		"number": "800-232-2892",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6959,
+		"department": null,
+		"extension": null,
+		"number": "305-243-6676",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6960,
+		"department": null,
+		"extension": null,
+		"number": "305-243-6545",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6967,
+		"department": null,
+		"extension": null,
+		"number": "305-243-6407",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7720,
+		"department": null,
+		"extension": null,
+		"number": "305-243-5832",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7739,
+		"department": null,
+		"extension": null,
+		"number": "305-243-1110",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7973,
+		"department": null,
+		"extension": null,
+		"number": "305-355-9200",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8200,
+		"department": null,
+		"extension": null,
+		"number": "305-585-6000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

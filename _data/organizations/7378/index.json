@@ -1,0 +1,38 @@
+{
+	"id": 7378,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Y G Institute is dedicated to re-establishing the parent-child-bond after incarceration. The goal is to help former incarcerated parents deal with the rejection of their children and assisting in the formation of the bond once again.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "Y G INSTITUTE, INC.",
+	"website": "http://yginstitute.org",
+	"slug": "y-g-institute-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/y-g-institute-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/y-g-institute-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ylguanipa@yahoo.com",
+		"id": 7378,
+		"name": "Yraida Guanipa",
+		"title": "President",
+		"phones": [{
+			"id": 7378,
+			"department": null,
+			"extension": null,
+			"number": "786-499-6600",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7378,
+		"department": null,
+		"extension": null,
+		"number": "786-499-6600",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	"id": 7811,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Care Resource provides specialized assistance and support for clients interested in Pre-Exposure Prophylaxis (PrEP). We may also assist with non-occupational post-exposure prophylaxis (nPEP).",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CARE RESOURCE - PrEP AND nPEP SERVICES",
+	"website": "http://www.careresource.org/what-is-prep/",
+	"slug": "care-resource-prep-and-npep-services",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/care-resource-prep-and-npep-services",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/care-resource-prep-and-npep-services/locations",
+	"contacts": [{
+		"department": null,
+		"email": "pseligmann@careresource.org",
+		"id": 8117,
+		"name": "Paul Seligmann",
+		"title": "Health Promotion Peer Navigator",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "pseligmann@careresource.org",
+		"id": 8118,
+		"name": "Paul Seligmann",
+		"title": "Health Promotion Peer Navigator",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "pseligmann@careresource.org",
+		"id": 8119,
+		"name": "Paul Seligmann",
+		"title": "Health Promotion Peer Navigator",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "pseligmann@careresource.org",
+		"id": 8120,
+		"name": "Tashia Ameneiro",
+		"title": "Health Promotion Peer Navigator",
+		"phones": []
+	}],
+	"phones": []
+}

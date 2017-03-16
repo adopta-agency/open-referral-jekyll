@@ -1,0 +1,38 @@
+{
+	"id": 4384,
+	"accreditations": [],
+	"alternate_name": "LFCA",
+	"date_incorporated": null,
+	"description": "Lawyers for Children America is a lead child advocacy organization protecting the rights of children who are victims of abuse, abandonment and/or neglect by providing quality pro bono legal representation and collaborating for systematic change to improve the lives of children.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "LAWYERS FOR CHILDREN AMERICA, INC.",
+	"website": "http://www.lawyersforchildrenamerica.org",
+	"slug": "lawyers-for-children-america-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/lawyers-for-children-america-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/lawyers-for-children-america-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "csalisbury@lawyersforchildrenamerica.org",
+		"id": 4384,
+		"name": "Carolyn Salisbury, Esq.",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 4384,
+			"department": null,
+			"extension": null,
+			"number": "305-577-4771",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4384,
+		"department": null,
+		"extension": null,
+		"number": "305-577-4771",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

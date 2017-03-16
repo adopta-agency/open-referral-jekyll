@@ -1,0 +1,61 @@
+{
+	"id": 3385,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "South Florida Regional Transportation Authority (SFRTA.) was created with a vision to provide greater mobility in South Florida, thereby improving the economic viability and quality of life of the community, region and state. The Authority's mission is to coordinate, develop and implement a viable regional transportation system in South Florida that endeavors to meet the desires and needs for the movement of people, goods and services.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SOUTH FLORIDA REGIONAL TRANSPORTATION AUTHORITY",
+	"website": "http://www.sfrta.fl.gov",
+	"slug": "south-florida-regional-transportation-authority",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/south-florida-regional-transportation-authority",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/south-florida-regional-transportation-authority/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 3385,
+		"name": "Jack L. Stephens",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 3385,
+			"department": null,
+			"extension": null,
+			"number": "888-467-3782",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 3386,
+		"name": "C. Mikel Oglesby",
+		"title": "Deputy Executive Director",
+		"phones": [{
+			"id": 3386,
+			"department": null,
+			"extension": null,
+			"number": "800-874-7245",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3385,
+		"department": null,
+		"extension": null,
+		"number": "888-467-3782",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3386,
+		"department": null,
+		"extension": null,
+		"number": "800-874-7245",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

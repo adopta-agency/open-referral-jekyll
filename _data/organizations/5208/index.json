@@ -1,0 +1,38 @@
+{
+	"id": 5208,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Laces of Love Charitable Foundation, Inc. is a 501-c-3 not-for-profit organization provides new shoes to low-income and disadvantaged children in Collier & Lee Counties through the public and private schools and/or through non-profit organizations serving those children. No shoes are given directly to families.\r\n\r\nWe ask that the child write a thank you note or draw a picture of their new shoes and send their thank you to Laces of Love. \r\n\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "LACES OF LOVE CHARITABLE FOUNDATION, INC.",
+	"website": "http://www.lacesoflove.org",
+	"slug": "laces-of-love-charitable-foundation-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/laces-of-love-charitable-foundation-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/laces-of-love-charitable-foundation-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jnealon@lacesoflove.org",
+		"id": 5208,
+		"name": "Jeanne Nealon",
+		"title": "Co-founder and President",
+		"phones": [{
+			"id": 5208,
+			"department": null,
+			"extension": null,
+			"number": "239-591-1172",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5208,
+		"department": null,
+		"extension": null,
+		"number": "239-591-1172",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

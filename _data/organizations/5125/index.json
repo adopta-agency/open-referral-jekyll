@@ -1,0 +1,38 @@
+{
+	"id": 5125,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "To provide comprehensive information, services, and resources that affect the quality of life of older adults and their caregivers in Collier County, empowering them to maintain independent and meaningful lives. Information and services provided or referred to include:\n\n* Case Management\n* Fraud & Abuse Prevention\n* Emergency Services\n* Healthcare and Medical Services\n* Housing and In-home Assistance\n* Recreational Activities\n* Transportation\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "COLLIER SENIOR RESOURCES, INC.",
+	"website": "http://www.collierseniorresources.org",
+	"slug": "collier-senior-resources-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-senior-resources-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-senior-resources-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "sallie.williams@comcast.net",
+		"id": 5125,
+		"name": "Sallie Williams",
+		"title": "Consultant",
+		"phones": [{
+			"id": 5125,
+			"department": null,
+			"extension": null,
+			"number": "239-252-4541",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5125,
+		"department": null,
+		"extension": null,
+		"number": "239-252-4541",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

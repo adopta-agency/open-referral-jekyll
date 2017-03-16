@@ -1,0 +1,61 @@
+{
+	"id": 4089,
+	"accreditations": [],
+	"alternate_name": "MOCA",
+	"date_incorporated": null,
+	"description": "The Museum of Contemporary Art (MOCA) is dedicated to making contemporary art accessible to diverse audiences Gu00c7u00f4 especially underserved populations Gu00c7u00f4 through the collection, preservation and exhibition of the best of contemporary art and its art historical influences.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MUSEUM OF CONTEMPORARY ART, INC.",
+	"website": "http://www.mocanomi.org",
+	"slug": "museum-of-contemporary-art-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/museum-of-contemporary-art-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/museum-of-contemporary-art-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "avonlates@northmiamifl.gov",
+		"id": 4089,
+		"name": "Adrienne Von Lates",
+		"title": "Education and Program Director",
+		"phones": [{
+			"id": 4089,
+			"department": null,
+			"extension": null,
+			"number": "305-893-6211",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "avonlates@northmiamifl.gov",
+		"id": 4090,
+		"name": "Adrienne Von Lates",
+		"title": "Education and Program Director",
+		"phones": [{
+			"id": 4090,
+			"department": null,
+			"extension": null,
+			"number": "305-893-6211",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4089,
+		"department": null,
+		"extension": null,
+		"number": "305-893-6211",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4090,
+		"department": null,
+		"extension": null,
+		"number": "305-893-6211",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

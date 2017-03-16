@@ -1,0 +1,54 @@
+{
+	"id": 7043,
+	"accreditations": [],
+	"alternate_name": "Amyotrophic Lateral Sclerosis, Lou Gehrig's Disease",
+	"date_incorporated": null,
+	"description": "The ALS Association Florida Chapter was co-founded by patient Ann Smith in-u00e1August of 1987-u00e1as the Tampa Bay Chapter to serve the needs of those living with Amyotrophic Lateral Sclerosis (also known as Lou Gehrig's disease) and their caregivers.-u00e1In 2001, the-u00e1Tampa Bay Chapter-u00e1expanded its services to all areas in the state of Florida and became known as the Florida Chapter. \n\nThe ALS Association is the only national not-for-profit health organization dedicated solely to-u00e1the fight against ALS. The ALS Association covers all the bases: to help people living with Amyotrophic Lateral Sclerosis and to leave no stone unturned in search for the cure. Works together to accomplish our mission to find a cure for ALS while empowering the lives of those living with ALS through Care, Advocacy, Research, Education and Support.-u00e1Programs include support groups, case management, respite care, medical equipment loan, educational services, and national and state advocacy.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ALS ASSOCIATION FLORIDA CHAPTER",
+	"website": "http://webfl.alsa.org",
+	"slug": "als-association-florida-chapter",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/als-association-florida-chapter",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/als-association-florida-chapter/locations",
+	"contacts": [{
+		"department": null,
+		"email": "khanna@alsafl.org",
+		"id": 7043,
+		"name": "Kim Hanna",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 7043,
+			"department": null,
+			"extension": null,
+			"number": "888-257-1717",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "eperez@alsafl.org",
+		"id": 7044,
+		"name": "Elke Perez",
+		"title": "Regional Care Manager",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "pstanco@alsafl.org",
+		"id": 7047,
+		"name": "Patricia Stanco",
+		"title": "Regional Care Manager",
+		"phones": []
+	}],
+	"phones": [{
+		"id": 7043,
+		"department": null,
+		"extension": null,
+		"number": "888-257-1717",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,153 @@
+{
+	"id": 1340,
+	"accreditations": [],
+	"alternate_name": "CFCE",
+	"date_incorporated": null,
+	"description": "The Center for Family and Child Enrichment is a private, nonprofit, community-based organization that serves children in foster care who have been abused, neglected and/or abandoned; children with severe emotional disturbances and in need of mental health care; children in the custody of parents or relatives who are chronic runaways and/or are ungovernable; and children who come to this country without parents or guardians (unaccompanied minors). Our mission is to enrich, strengthen, preserve, restore, and empower children and families in a culturally diverse community",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CENTER FOR FAMILY AND CHILD ENRICHMENT, INC.",
+	"website": "http://www.cfceinc.org",
+	"slug": "center-for-family-and-child-enrichment-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/center-for-family-and-child-enrichment-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/center-for-family-and-child-enrichment-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jsimmons@cfceinc.org",
+		"id": 1340,
+		"name": "Jazmine Simmons",
+		"title": "Assistant Secretary",
+		"phones": [{
+			"id": 1340,
+			"department": null,
+			"extension": null,
+			"number": "305-624-7450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sbellamy@cfceinc.org",
+		"id": 1341,
+		"name": "Susie Bellamy",
+		"title": "Clinical Supervisor",
+		"phones": [{
+			"id": 1341,
+			"department": null,
+			"extension": null,
+			"number": "305-624-7450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lpace@cfceinc.org",
+		"id": 1343,
+		"name": "Lamora Pace",
+		"title": "Program Director",
+		"phones": [{
+			"id": 1343,
+			"department": null,
+			"extension": null,
+			"number": "305-624-7450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ehughes@cfceinc.org",
+		"id": 1344,
+		"name": "Earkie Hughes",
+		"title": "Program Director",
+		"phones": [{
+			"id": 1344,
+			"department": null,
+			"extension": null,
+			"number": "305-624-7450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cfel@Bellsouth.net",
+		"id": 1345,
+		"name": "Victor Minikwu",
+		"title": "Coordinator",
+		"phones": [{
+			"id": 1345,
+			"department": null,
+			"extension": null,
+			"number": "305-624-7450",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ddunn@cfceinc.org",
+		"id": 8196,
+		"name": "T. Delores Dunn",
+		"title": "President/CEO",
+		"phones": [{
+			"id": 8196,
+			"department": null,
+			"extension": null,
+			"number": "305-474-1803",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1340,
+		"department": null,
+		"extension": null,
+		"number": "305-624-7450",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1341,
+		"department": null,
+		"extension": null,
+		"number": "305-624-7450",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1343,
+		"department": null,
+		"extension": null,
+		"number": "305-624-7450",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1344,
+		"department": null,
+		"extension": null,
+		"number": "305-624-7450",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1345,
+		"department": null,
+		"extension": null,
+		"number": "305-624-7450",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8196,
+		"department": null,
+		"extension": null,
+		"number": "305-474-1803",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

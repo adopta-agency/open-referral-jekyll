@@ -1,0 +1,38 @@
+{
+	"id": 7329,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "MesotheliomaPrognosis.com is dedicated to providing free information and resources to those affected by mesothelioma cancer. We have qualified Patient Advocates who can guide patients and families to treatment centers and the best specialists in their area. A licensed mental health counselor hosts monthly online support groups where patients and their loved ones can share their experiences. We have an in-house U.S. Navy veteran who knows how this deadly disease affects veterans who worked in shipyards or other U.S. military facilities. He also has helped more than a thousand veterans get VA Disability Compensation for asbestos-related illnesses.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MESOTHELIOMA PROGNOSIS NETWORK",
+	"website": "http://www.mesotheliomaprognosis.com",
+	"slug": "mesothelioma-prognosis-network",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/mesothelioma-prognosis-network",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/mesothelioma-prognosis-network/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jmccarthy@mesotheliomaprognosis.com",
+		"id": 7329,
+		"name": "Jasmine McCarthy",
+		"title": "Public Outreach Coordinator",
+		"phones": [{
+			"id": 7329,
+			"department": null,
+			"extension": null,
+			"number": "888-797-2649",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7329,
+		"department": null,
+		"extension": null,
+		"number": "888-797-2649",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

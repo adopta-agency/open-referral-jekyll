@@ -1,0 +1,46 @@
+{
+	"id": 6228,
+	"accreditations": [],
+	"alternate_name": "ALPI",
+	"date_incorporated": null,
+	"description": "ALPI administers a number of community services programs for migrant and seasonal farm workers and low-income families. The programs and services offered are diverse, in that services are provided to farm workers, low income individuals and their families, handicapped workers and youth. Some of the services provided are Emergency Services, Housing, Transportation, Vocational Training, GED, ESOL, Literacy and other support services. The department also serves as a clearinghouse for natural disasters that may affect farm workers.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE AGRICULTURAL AND LABOR PROGRAM, INC.",
+	"website": "http://alpi.org",
+	"slug": "the-agricultural-and-labor-program-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-agricultural-and-labor-program-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-agricultural-and-labor-program-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "djohnson@alpi.org",
+		"id": 6228,
+		"name": "Deloris Johnson",
+		"title": "CEO",
+		"phones": [{
+			"id": 6228,
+			"department": null,
+			"extension": "206.0",
+			"number": "863-956-3491",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cburnham@alpi.org",
+		"id": 6229,
+		"name": "Cheryl Burnham",
+		"title": "LIHEAP/Community Services Director",
+		"phones": []
+	}],
+	"phones": [{
+		"id": 6228,
+		"department": null,
+		"extension": "206.0",
+		"number": "863-956-3491",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

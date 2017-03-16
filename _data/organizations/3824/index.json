@@ -1,0 +1,61 @@
+{
+	"id": 3824,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "AT&T offers phone service for landlines, mobile phones, and internet. In addition it sponsors the Lifeline Program (Low-income phone service).\n\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "AT&T",
+	"website": "http://www.att.com/",
+	"slug": "at-t",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/at-t",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/at-t/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 3824,
+		"name": "Customer Service",
+		"title": null,
+		"phones": [{
+			"id": 3824,
+			"department": null,
+			"extension": null,
+			"number": "888-757-6500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 3825,
+		"name": "Customer Service",
+		"title": "South Florida Director",
+		"phones": [{
+			"id": 3825,
+			"department": null,
+			"extension": null,
+			"number": "888-757-6500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3824,
+		"department": null,
+		"extension": null,
+		"number": "888-757-6500",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3825,
+		"department": null,
+		"extension": null,
+		"number": "888-757-6500",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

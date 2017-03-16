@@ -1,0 +1,38 @@
+{
+	"id": 56,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Children's Tumor Foundation is dedicated to improving the health and well-being of individuals and families affected by neurofibromatosis (NF), the term for three distinct disorders: NF1, NF2 and schwannomatosis.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CHILDREN'S TUMOR FOUNDATION, INC.",
+	"website": "http://www.ctf.org",
+	"slug": "children-s-tumor-foundation-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/children-s-tumor-foundation-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/children-s-tumor-foundation-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "abakker@ctf.org",
+		"id": 56,
+		"name": "Annette Bakker",
+		"title": "President and Chief Scientific Officer",
+		"phones": [{
+			"id": 56,
+			"department": null,
+			"extension": null,
+			"number": "212-344-6633",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 56,
+		"department": null,
+		"extension": null,
+		"number": "212-344-6633",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

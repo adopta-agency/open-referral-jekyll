@@ -1,0 +1,38 @@
+{
+	"id": 2870,
+	"accreditations": [],
+	"alternate_name": "WOMEN OF TOMORROW",
+	"date_incorporated": null,
+	"description": "The Women of Tomorrow Mentor and Scholarship Program (WOT) is designed to inspire, motivate and empower at-risk young women through mentoring by highly accomplished professional women and scholarship opportunities. WOT conducts monthly mentoring sessions, career-focused field trips, specialized college campus visits and offers scholarship opportunities.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "WOMEN OF TOMORROW MENTOR AND SCHOLARSHIP PROGRAM",
+	"website": "http://www.womenoftomorrow.org",
+	"slug": "women-of-tomorrow-mentor-and-scholarship-program",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/women-of-tomorrow-mentor-and-scholarship-program",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/women-of-tomorrow-mentor-and-scholarship-program/locations",
+	"contacts": [{
+		"department": null,
+		"email": "b.gonzalez@womenoftomorrow.org",
+		"id": 2870,
+		"name": "Beatrice Gonzalez",
+		"title": "Director of Special Events and Grants",
+		"phones": [{
+			"id": 2870,
+			"department": null,
+			"extension": null,
+			"number": "305-371-3330",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2870,
+		"department": null,
+		"extension": null,
+		"number": "305-371-3330",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

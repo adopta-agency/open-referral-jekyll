@@ -1,0 +1,38 @@
+{
+	"id": 5365,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Boys and Girls Club serves 3,000 children and teens, ages 6 to 18, in various clubs and afterschool programs. Club programs such as Character & Leadership, Education & Career Development, Health & Life Skills, The Arts, Sports & Fitness, Technology, and Specialized Initiatives services promote and enhance the development of boys and girls by instilling a sense of competence, usefulness, belonging and influence. \r\n\r\nThe mission is to enable all young people, especially those who need us most, to reach their full potential as productive, caring, responsible citizens\r\n\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "BOYS AND GIRLS CLUB OF COLLIER COUNTY, INC.",
+	"website": "http://www.bgccc.com/",
+	"slug": "boys-and-girls-club-of-collier-county-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/boys-and-girls-club-of-collier-county-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/boys-and-girls-club-of-collier-county-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "tshaw@bgccc.com",
+		"id": 5365,
+		"name": "Theresa J. Shaw",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 5365,
+			"department": null,
+			"extension": null,
+			"number": "239-325-1700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5365,
+		"department": null,
+		"extension": null,
+		"number": "239-325-1700",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

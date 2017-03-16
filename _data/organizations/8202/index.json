@@ -1,0 +1,38 @@
+{
+	"id": 8202,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides day care starting at 2 children 2 months of age, free VPK, before school and after school care, tutoring, and summer camp.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "KIDS DREAM LEARNING CENTER",
+	"website": "http://www.kidsdreamlearningcenter.net",
+	"slug": "kids-dream-learning-center",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/kids-dream-learning-center",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/kids-dream-learning-center/locations",
+	"contacts": [{
+		"department": null,
+		"email": "kidsdreamlearningcenter@gmail.com",
+		"id": 8202,
+		"name": "Carlos Alberto Garcia Arteaga",
+		"title": "Owner",
+		"phones": [{
+			"id": 8202,
+			"department": null,
+			"extension": null,
+			"number": "305-557-3232",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8202,
+		"department": null,
+		"extension": null,
+		"number": "305-557-3232",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

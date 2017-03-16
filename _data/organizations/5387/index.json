@@ -1,0 +1,107 @@
+{
+	"id": 5387,
+	"accreditations": [],
+	"alternate_name": "Center for Blindness & Vision Loss",
+	"date_incorporated": null,
+	"description": "The mission of the Lighthouse of Collier is to promote the development, implementation and on going evaluation of programs and services which foster independence and enhance the quality of life for the blind, visually impaired and their caregivers.\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "LIGHTHOUSE OF COLLIER, INC",
+	"website": "http://www.lighthouseofcollier.org",
+	"slug": "lighthouse-of-collier-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/lighthouse-of-collier-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/lighthouse-of-collier-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@lighthouseofcollier.org",
+		"id": 5387,
+		"name": "Robin Goldstone Garcia",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5387,
+			"department": null,
+			"extension": null,
+			"number": "239-430-3934",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "richard@lighthouseofcollier.org",
+		"id": 5388,
+		"name": "Richard Mancini",
+		"title": "Children's Program Director",
+		"phones": [{
+			"id": 5388,
+			"department": null,
+			"extension": null,
+			"number": "239-430-3934",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "richard@lighthouseofcollier.org",
+		"id": 5389,
+		"name": "Richard Mancini",
+		"title": "Children's Program Director",
+		"phones": [{
+			"id": 5389,
+			"department": null,
+			"extension": null,
+			"number": "239-430-3934",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "richard@lighthouseofcollier.org",
+		"id": 7885,
+		"name": "Richard Mancini",
+		"title": "Children's Program Director",
+		"phones": [{
+			"id": 7885,
+			"department": null,
+			"extension": null,
+			"number": "239-430-3934",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5387,
+		"department": null,
+		"extension": null,
+		"number": "239-430-3934",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5388,
+		"department": null,
+		"extension": null,
+		"number": "239-430-3934",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5389,
+		"department": null,
+		"extension": null,
+		"number": "239-430-3934",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7885,
+		"department": null,
+		"extension": null,
+		"number": "239-430-3934",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

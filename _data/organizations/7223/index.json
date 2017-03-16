@@ -1,0 +1,61 @@
+{
+	"id": 7223,
+	"accreditations": [],
+	"alternate_name": "ST. PATRICK CATHOLIC CHURCH",
+	"date_incorporated": null,
+	"description": "Serving the visitors and residents of Miami Beach since 1926.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SAINT PATRICK CATHOLIC CHURCH",
+	"website": "http://www.stpatrickmiamibeach.com",
+	"slug": "saint-patrick-catholic-church",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/saint-patrick-catholic-church",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/saint-patrick-catholic-church/locations",
+	"contacts": [{
+		"department": null,
+		"email": "parish@stpatrickmiamibeach.com",
+		"id": 7223,
+		"name": "Father Roberto Cid",
+		"title": "Administrator Chaplain Port of Miami",
+		"phones": [{
+			"id": 7223,
+			"department": null,
+			"extension": null,
+			"number": "305-531-1124",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "parish@stpatrickmiamibeach.com",
+		"id": 7224,
+		"name": "Father Roberto Cid",
+		"title": "Administrator Chaplain Port of Miami",
+		"phones": [{
+			"id": 7224,
+			"department": null,
+			"extension": null,
+			"number": "305-531-1124",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7223,
+		"department": null,
+		"extension": null,
+		"number": "305-531-1124",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7224,
+		"department": null,
+		"extension": null,
+		"number": "305-531-1124",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 3965,
+	"accreditations": [],
+	"alternate_name": "Deaf & Hard of Hearing Center (DHHC)",
+	"date_incorporated": null,
+	"description": "Deaf Service Center (DSC) of Southwest Florida provides a wide range of services to deaf and hard of hearing children and adults. Services include information and referral services, outreach presentations, sign language classes, baby sign classes, family education, telephone equipment loan, interpreting services, workshops, advocacy, lending library, adaptive equipment sales and support groups. Also provides support for families, friends, neighbors, employers and co-workers.\r\n\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "DEAF SERVICE CENTER OF SOUTHWEST FLORIDA, INC.",
+	"website": "http://www.dsc.us",
+	"slug": "deaf-service-center-of-southwest-florida-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/deaf-service-center-of-southwest-florida-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/deaf-service-center-of-southwest-florida-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@dsc.us",
+		"id": 3965,
+		"name": "Dianna Druding",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 3965,
+			"department": null,
+			"extension": null,
+			"number": "239-461-0334",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3965,
+		"department": null,
+		"extension": null,
+		"number": "239-461-0334",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

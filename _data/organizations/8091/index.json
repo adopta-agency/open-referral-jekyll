@@ -1,0 +1,17 @@
+{
+	"id": 8091,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "This office makes the provision for alcohol and drug treatment and rehabilitation for anyone 18 years or older. Services are delivered by contracted providers throughout Miami-Dade and Monroe Counties. The services provided include: detoxification, residential treatment, outpatient, day and night treatment, medication treatment, methadone maintenance, Treatment Accountability for Safer Communities (TASC), prevention and intervention. Some residential providers allow mothers to bring their babies.\n\nThe contracted treatment agencies in our network provide services for adults, adolescents and families who need care for behavioral health problems relating to co-occurring disorders, HIV+, homelessness, intravenous users, legal involvement, pregnancy, and women or men with dependent children.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SOUTH FLORIDA BEHAVIORAL HEALTH NETWORK",
+	"website": null,
+	"slug": "south-florida-behavioral-health-network",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/south-florida-behavioral-health-network",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/south-florida-behavioral-health-network/locations",
+	"contacts": [],
+	"phones": []
+}

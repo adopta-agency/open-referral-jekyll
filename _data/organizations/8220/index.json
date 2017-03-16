@@ -1,0 +1,61 @@
+{
+	"id": 8220,
+	"accreditations": [],
+	"alternate_name": "GMSC",
+	"date_incorporated": null,
+	"description": "The mission of the Greater Miami Service Corps is to transform the lives of young people through education and service activities that improve our communities and strengthen our local workforce.\n\nProvides the following services:\n\n* High School and GED Prep Classes\n* Community Service \n* Vocational Training\n* College and Career Readiness Training\n* Educational Scholarships\n* A Bi-weekly Stipend \n* Part-time County Employee Status\n* Paid and Unpaid Internships\n* Employment Assistance",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "GREATER MIAMI SERVICE CORPS",
+	"website": "http://www.gmscmiami.org",
+	"slug": "greater-miami-service-corps",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/greater-miami-service-corps",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/greater-miami-service-corps/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ddorsett@gmscmiami.com",
+		"id": 8220,
+		"name": "Deborah Dorsett",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 8220,
+			"department": null,
+			"extension": "237.0",
+			"number": "305-638-4672",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ddorsett@gmscmiami.com",
+		"id": 8221,
+		"name": "Deborah Dorsett",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 8221,
+			"department": null,
+			"extension": "237.0",
+			"number": "305-242-7938",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8220,
+		"department": null,
+		"extension": "237.0",
+		"number": "305-638-4672",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8221,
+		"department": null,
+		"extension": "237.0",
+		"number": "305-242-7938",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

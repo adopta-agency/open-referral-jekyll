@@ -1,0 +1,38 @@
+{
+	"id": 7726,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "This program allows the less fortunate to receive food; clothing and shoes free of charge. Clothing for children is also available.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CROWNS OF THORNS IMPACT MINISTRIES, INC.",
+	"website": null,
+	"slug": "crowns-of-thorns-impact-ministries-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/crowns-of-thorns-impact-ministries-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/crowns-of-thorns-impact-ministries-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "308576@dadeschools.net",
+		"id": 7726,
+		"name": "Jermaine Plez",
+		"title": "Chairman of Outreach Department",
+		"phones": [{
+			"id": 7726,
+			"department": null,
+			"extension": null,
+			"number": "786-320-0339",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7726,
+		"department": null,
+		"extension": null,
+		"number": "786-320-0339",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

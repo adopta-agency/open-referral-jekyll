@@ -1,0 +1,38 @@
+{
+	"id": 7295,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Safe Family For Children is a resource for families in crisis when parents are temporarily unable to care for their children. A network of volunteer host families take in and care for the children temporarily in order to keep them out of the state system and returned to their parents. While children are with the host family, parents retain custody and are afforded the opportunity to address the issues leading to their situation.\r\n\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SAFE FAMILIES FOR CHILDREN",
+	"website": "http://www.safe-families.org/",
+	"slug": "safe-families-for-children",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/safe-families-for-children",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/safe-families-for-children/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mrose@safefamilies.net",
+		"id": 7295,
+		"name": "Megan Rose",
+		"title": "Director",
+		"phones": [{
+			"id": 7295,
+			"department": null,
+			"extension": null,
+			"number": "239-470-2733",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7295,
+		"department": null,
+		"extension": null,
+		"number": "239-470-2733",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

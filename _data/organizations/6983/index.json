@@ -1,0 +1,61 @@
+{
+	"id": 6983,
+	"accreditations": [],
+	"alternate_name": "CHAP",
+	"date_incorporated": null,
+	"description": "CHAP is an exciting and innovative after school program that combines key components including literacy and fitness with a desire to learn the Hebrew culture and language.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CHABAD CHAYIL, INC.",
+	"website": "http://www.hebrewschool.info",
+	"slug": "chabad-chayil-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/chabad-chayil-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/chabad-chayil-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "rabbi@chabadchayil.org",
+		"id": 6983,
+		"name": "Morris Kievman",
+		"title": "Executive Program Director",
+		"phones": [{
+			"id": 6983,
+			"department": null,
+			"extension": null,
+			"number": "305-770-1919",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "francis07n@gmail.com",
+		"id": 6984,
+		"name": "Jennifer Francis",
+		"title": "Program Manager/Administrator",
+		"phones": [{
+			"id": 6984,
+			"department": null,
+			"extension": null,
+			"number": "305-770-1919",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6983,
+		"department": null,
+		"extension": null,
+		"number": "305-770-1919",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6984,
+		"department": null,
+		"extension": null,
+		"number": "305-770-1919",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

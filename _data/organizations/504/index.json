@@ -1,0 +1,153 @@
+{
+	"id": 504,
+	"accreditations": [],
+	"alternate_name": "OCAd, M-DC OFFICE OF COMMUNITY ADVOCACY",
+	"date_incorporated": null,
+	"description": "The Office of Community Advocacy (OCAd) is charged with making Miami-Dade County u0022One Communityu0022 that embraces our diverse enriched and unique population.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI-DADE COUNTY OFFICE OF COMMUNITY ADVOCACY",
+	"website": "http://www.miamidade.gov/advocacy/",
+	"slug": "miami-dade-county-office-of-community-advocacy",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-office-of-community-advocacy",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-office-of-community-advocacy/locations",
+	"contacts": [{
+		"department": null,
+		"email": "amy2@miamidade.gov",
+		"id": 504,
+		"name": "Amy K. Carswell",
+		"title": "Community Relations Board",
+		"phones": [{
+			"id": 504,
+			"department": null,
+			"extension": null,
+			"number": "305-375-5730",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "amy2@miamidade.gov",
+		"id": 505,
+		"name": "Amy Carswell",
+		"title": "Community Relations Board",
+		"phones": [{
+			"id": 505,
+			"department": null,
+			"extension": null,
+			"number": "305-375-5730",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "nmilian@miamidade.gov",
+		"id": 506,
+		"name": "Natalie Milian",
+		"title": "Program Officer/Director",
+		"phones": [{
+			"id": 506,
+			"department": null,
+			"extension": null,
+			"number": "305-375-5730",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rboone@miamidade.gov",
+		"id": 507,
+		"name": "Retha Boone-Fye",
+		"title": "Program Officer/Director",
+		"phones": [{
+			"id": 507,
+			"department": null,
+			"extension": null,
+			"number": "305-375-5730",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cfw@miamidade.gov",
+		"id": 508,
+		"name": "Laura Morilla",
+		"title": "Program Officer and Director",
+		"phones": [{
+			"id": 508,
+			"department": null,
+			"extension": null,
+			"number": "305-375-5730",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mshakir@miamidade.gov",
+		"id": 509,
+		"name": "Mohammad Shakir",
+		"title": "Program Officer and Director",
+		"phones": [{
+			"id": 509,
+			"department": null,
+			"extension": null,
+			"number": "305-375-5730",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 504,
+		"department": null,
+		"extension": null,
+		"number": "305-375-5730",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 505,
+		"department": null,
+		"extension": null,
+		"number": "305-375-5730",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 506,
+		"department": null,
+		"extension": null,
+		"number": "305-375-5730",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 507,
+		"department": null,
+		"extension": null,
+		"number": "305-375-5730",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 508,
+		"department": null,
+		"extension": null,
+		"number": "305-375-5730",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 509,
+		"department": null,
+		"extension": null,
+		"number": "305-375-5730",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

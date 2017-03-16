@@ -1,0 +1,38 @@
+{
+	"id": 7699,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Building Blocks, Inc. is a private integrated practice specializing in speech, language, behavioral and occupational therapy services for children.\n\nThe Building Blocks Team provides assessment and treatment for children with a wide range of deficits in the areas of: \n\n* Communication\n* Speech\n* Behavior\n* Sensory and fine-motor\n* Activities of daily living\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "BUILDING BLOCKS, INC.",
+	"website": "http://bbinaples.com/",
+	"slug": "building-blocks-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/building-blocks-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/building-blocks-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "buildingblocksoffice@gmail.com",
+		"id": 7699,
+		"name": "Ashley Henriquez",
+		"title": "Office Manager",
+		"phones": [{
+			"id": 7699,
+			"department": null,
+			"extension": null,
+			"number": "239-434-9512",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7699,
+		"department": null,
+		"extension": null,
+		"number": "239-434-9512",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

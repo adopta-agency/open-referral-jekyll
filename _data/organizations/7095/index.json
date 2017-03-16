@@ -1,0 +1,46 @@
+{
+	"id": 7095,
+	"accreditations": [],
+	"alternate_name": "FCASV",
+	"date_incorporated": null,
+	"description": "The Florida Council Against Sexual Violence is a statewide nonprofit organization committed to victims and survivors of sexual violence and the sexual assault crisis programs who serve them.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA COUNCIL AGAINST SEXUAL VIOLENCE, INC.",
+	"website": "http://fcasv.org",
+	"slug": "florida-council-against-sexual-violence-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-council-against-sexual-violence-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-council-against-sexual-violence-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jdritt@fcasv.org",
+		"id": 7095,
+		"name": "Jennifer Dritt",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7095,
+			"department": null,
+			"extension": null,
+			"number": "850-297-2000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cfuquay@fcasv.org",
+		"id": 7096,
+		"name": "Carla Fuquay, MS IMHC",
+		"title": null,
+		"phones": []
+	}],
+	"phones": [{
+		"id": 7095,
+		"department": null,
+		"extension": null,
+		"number": "850-297-2000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

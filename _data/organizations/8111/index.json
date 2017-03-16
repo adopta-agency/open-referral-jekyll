@@ -1,0 +1,38 @@
+{
+	"id": 8111,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Theatre Arts Summer Camp at South Miami-Dade Cultural Arts Center Offers:\n\n* Immersive Courses\n* Professional Performances\n* Camper's Showcase at SMDCAC's Black Box Theatre\n\nSummer Camp 2016:\nAugust 1st - 12th",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FANTASY THEATRE FACTORY - SUMMER CAMP",
+	"website": "http://www.ftfshows.com",
+	"slug": "fantasy-theatre-factory-summer-camp",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/fantasy-theatre-factory-summer-camp",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/fantasy-theatre-factory-summer-camp/locations",
+	"contacts": [{
+		"department": null,
+		"email": "schedulingdirector@ftfshows.com",
+		"id": 8111,
+		"name": "Evelyn Sullivan",
+		"title": "Scheduling Director",
+		"phones": [{
+			"id": 8111,
+			"department": null,
+			"extension": null,
+			"number": "305-284-8800",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8111,
+		"department": null,
+		"extension": null,
+		"number": "305-284-8800",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

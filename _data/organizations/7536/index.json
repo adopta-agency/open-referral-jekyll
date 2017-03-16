@@ -1,0 +1,69 @@
+{
+	"id": 7536,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Nonprofit organization providing emergency food relief through our two food pantry sites.\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MEALS OF HOPE, INC.",
+	"website": "http://www.mealsofhope.org",
+	"slug": "meals-of-hope-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/meals-of-hope-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/meals-of-hope-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "katie@mealsofhope.org",
+		"id": 7536,
+		"name": "Katie Schweikhardt",
+		"title": "Director of Development",
+		"phones": [{
+			"id": 7536,
+			"department": null,
+			"extension": "102.0",
+			"number": "239-537-7775",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sverhulst@mealsofhope.org",
+		"id": 7537,
+		"name": "Sheryl Verhulst",
+		"title": "Food Pantry Manager",
+		"phones": [{
+			"id": 7537,
+			"department": null,
+			"extension": "102.0",
+			"number": "800-985-7698",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "katie@mealsofhope.org",
+		"id": 7538,
+		"name": "Katie Schweikhardt",
+		"title": "Director of Development",
+		"phones": []
+	}],
+	"phones": [{
+		"id": 7536,
+		"department": null,
+		"extension": "102.0",
+		"number": "239-537-7775",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7537,
+		"department": null,
+		"extension": "102.0",
+		"number": "800-985-7698",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

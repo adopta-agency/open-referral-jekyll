@@ -1,0 +1,130 @@
+{
+	"id": 3145,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "An innovative learning, teaching, research, and training facility dedicated to elevating the quality of early care and education nationally. The United Way Center for Excellence works with the Children's Trust to administer the MAESTRO Program, an initiative to improve early literacy in a pre-selected group of pre-kindergarten classrooms as well as the Early Childhood Program Administrators Institute-ECPAI to improve centers administrative practices. The center also works with business leaders and lawmakers to raise the standards of early learning.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "UNITED WAY CENTER FOR EXCELLENCE",
+	"website": "http://www.unitedwaycfe.org",
+	"slug": "united-way-center-for-excellence",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-way-center-for-excellence",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-way-center-for-excellence/locations",
+	"contacts": [{
+		"department": null,
+		"email": "montesg@unitedwaymiami.org",
+		"id": 3145,
+		"name": "Gladys R. Montes",
+		"title": "Center for Excellence - Vice President",
+		"phones": [{
+			"id": 3145,
+			"department": null,
+			"extension": "7632.0",
+			"number": "305-631-7600",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "montesg@unitedwaymiami.org",
+		"id": 3146,
+		"name": "Gladys R. Montes",
+		"title": "Vice President",
+		"phones": [{
+			"id": 3146,
+			"department": null,
+			"extension": null,
+			"number": "305-631-7600",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "montesg@unitedwaymiami.org",
+		"id": 6890,
+		"name": "Gladys Montes",
+		"title": "Vice President, United Way Center for Excellence in Early Education",
+		"phones": [{
+			"id": 6890,
+			"department": null,
+			"extension": "7632.0",
+			"number": "305-631-7600",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "romeroa@unitedwaymiami.org",
+		"id": 7219,
+		"name": "Alejandra Romero",
+		"title": "ECPAI Coordinator",
+		"phones": [{
+			"id": 7219,
+			"department": null,
+			"extension": null,
+			"number": "305-631-7614",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "febresc@unitedwaymiami.org",
+		"id": 7790,
+		"name": "Corina Febres-Cordero",
+		"title": "Senior Manager - Quality Counts Neighborhood Learning Network",
+		"phones": [{
+			"id": 7790,
+			"department": null,
+			"extension": null,
+			"number": "786-356-9647",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3145,
+		"department": null,
+		"extension": "7632.0",
+		"number": "305-631-7600",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3146,
+		"department": null,
+		"extension": null,
+		"number": "305-631-7600",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6890,
+		"department": null,
+		"extension": "7632.0",
+		"number": "305-631-7600",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7219,
+		"department": null,
+		"extension": null,
+		"number": "305-631-7614",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7790,
+		"department": null,
+		"extension": null,
+		"number": "786-356-9647",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,84 @@
+{
+	"id": 3057,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Read..Lead...Succeed! Out-of-School Academy incorporates high-quality, researched-based educational programs and strategies that address literacy skill development and increases academic achievement. Activities are implemented in partnership with local organizations that include: home learning assistance, social skills development, cultural awareness, fine arts, themed-based field trips, and parental involvement. The Summer Reading Explorers program is offered to assist in early literacy development for children in grades kindergarten through first grade.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MAGIC CITY KIDS, INC.",
+	"website": null,
+	"slug": "magic-city-kids-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/magic-city-kids-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/magic-city-kids-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mcitykids@gmail.com",
+		"id": 3057,
+		"name": "Tamika Robinson",
+		"title": "Program Director",
+		"phones": [{
+			"id": 3057,
+			"department": null,
+			"extension": null,
+			"number": "786-402-3685",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mcitykids@gmail.com",
+		"id": 3058,
+		"name": "Tamika Robinson",
+		"title": "Program Director",
+		"phones": [{
+			"id": 3058,
+			"department": null,
+			"extension": null,
+			"number": "786-402-3685",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mcitykids@gmail.com",
+		"id": 6170,
+		"name": "Tamika Robinson",
+		"title": "Program Director",
+		"phones": [{
+			"id": 6170,
+			"department": null,
+			"extension": null,
+			"number": "786-402-3685",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3057,
+		"department": null,
+		"extension": null,
+		"number": "786-402-3685",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3058,
+		"department": null,
+		"extension": null,
+		"number": "786-402-3685",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6170,
+		"department": null,
+		"extension": null,
+		"number": "786-402-3685",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

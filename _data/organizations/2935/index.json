@@ -1,0 +1,61 @@
+{
+	"id": 2935,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides services to the elderly residents of the Opa Locka/North Dade Community; services offered are: u0022KITu0022-u0022Keep In Touchu0022 Program, field trips, Grandparents Raising Grandchildren, counseling & coordination for respite care, social services, health referrals, health prevention & education seminars, and recreational activities.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HOLY TEMPLE HUMAN SERVICES CORPORATION, INC.",
+	"website": null,
+	"slug": "holy-temple-human-services-corporation-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/holy-temple-human-services-corporation-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/holy-temple-human-services-corporation-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "holyservices@bellsouth.net",
+		"id": 2935,
+		"name": "Joseph L. Kelley",
+		"title": "Senior Pastor/Teacher",
+		"phones": [{
+			"id": 2935,
+			"department": null,
+			"extension": null,
+			"number": "305-681-6048",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "holyservices@bellsouth.net",
+		"id": 2936,
+		"name": "Alice Brown",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 2936,
+			"department": null,
+			"extension": null,
+			"number": "305-681-6048",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2935,
+		"department": null,
+		"extension": null,
+		"number": "305-681-6048",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2936,
+		"department": null,
+		"extension": null,
+		"number": "305-681-6048",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

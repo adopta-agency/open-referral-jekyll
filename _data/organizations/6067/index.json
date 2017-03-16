@@ -1,0 +1,38 @@
+{
+	"id": 6067,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Fatherhood Task Force offers programs for Fathers of all ages in all different circumstances. Programs include: Fatherhood Reading Squad Program, Resources and Referrals, Workshops/Conferences, Birth to Family Classes for Expecting Fathers, Fatherhood Facilitation Training for Group Leaders, Speakers Bureau on Fatherhood Issues, and meetings related to fatherhood issues pertaining to raising girls and raising boys. Legal advocacy services are available for fathers interested in working on legislative issues regarding health and education services for children.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FATHERHOOD TASK FORCE OF SOUTH FLORIDA, INC.",
+	"website": "http://www.ftfsf.org",
+	"slug": "fatherhood-task-force-of-south-florida-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/fatherhood-task-force-of-south-florida-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/fatherhood-task-force-of-south-florida-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "holly@fatherhoodtfsf.org",
+		"id": 6067,
+		"name": "Holly Zwerling, LCSW, LMFT",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 6067,
+			"department": null,
+			"extension": null,
+			"number": "305-812-4000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6067,
+		"department": null,
+		"extension": null,
+		"number": "305-812-4000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

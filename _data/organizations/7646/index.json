@@ -1,0 +1,337 @@
+{
+	"id": 7646,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Miami-Dade Board of County Commissioners is the governing body of unincorporated Miami-Dade County and has broad, regional powers to establish policies for Miami-Dade County services. The government provides major metropolitan services countywide and city-type services for residents of unincorporated areas.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI-DADE COUNTY BOARD OF COMMISSIONERS",
+	"website": "http://www.miamidade.gov/commission/home.asp",
+	"slug": "miami-dade-county-board-of-commissioners",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-board-of-commissioners",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-board-of-commissioners/locations",
+	"contacts": [{
+		"department": null,
+		"email": "district2@miamidade.gov",
+		"id": 7646,
+		"name": "Commissioner Jean Monestime",
+		"title": "Chairman of the Board of County Commissioners",
+		"phones": [{
+			"id": 7646,
+			"department": null,
+			"extension": null,
+			"number": "305-375-5833",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "district1@miamidade.gov",
+		"id": 7647,
+		"name": "Commissioner Barbara J. Jordan",
+		"title": "District 1 Commissioner",
+		"phones": [{
+			"id": 7647,
+			"department": null,
+			"extension": null,
+			"number": "305-474-3011",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "district2@miamidade.gov",
+		"id": 7648,
+		"name": "Commissioner Jean Monestime",
+		"title": "District 2 Commissioner",
+		"phones": [{
+			"id": 7648,
+			"department": null,
+			"extension": null,
+			"number": "305-694-2779",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "district3@miamidade.gov",
+		"id": 7649,
+		"name": "Commissioner Audrey M. Edmonson",
+		"title": "District 3 Commissioner",
+		"phones": [{
+			"id": 7649,
+			"department": null,
+			"extension": null,
+			"number": "305-636-2331",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "district4@miamidade.gov",
+		"id": 7650,
+		"name": "Commissioner Sally A. Heyman",
+		"title": "District 4 Commissioner",
+		"phones": [{
+			"id": 7650,
+			"department": null,
+			"extension": null,
+			"number": "305-787-5999",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "district5@miamidade.gov",
+		"id": 7651,
+		"name": "Commissioner Bruno A. Barreiro",
+		"title": "District 5 Commissioner",
+		"phones": [{
+			"id": 7651,
+			"department": null,
+			"extension": null,
+			"number": "305-673-7743",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "district6@miamidade.gov",
+		"id": 7652,
+		"name": "Commissioner Rebeca Sosa",
+		"title": "District 6 Commissioner",
+		"phones": [{
+			"id": 7652,
+			"department": null,
+			"extension": null,
+			"number": "305-267-6377",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "district7@miamidade.gov",
+		"id": 7653,
+		"name": "Commissioner Xavier L. Suarez",
+		"title": "District 7 Commissioner",
+		"phones": [{
+			"id": 7653,
+			"department": null,
+			"extension": null,
+			"number": "305-669-4003",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "district8@miamidade.gov",
+		"id": 7654,
+		"name": "Commissioner Daniella Levine Cava",
+		"title": "District 8 Commissioner",
+		"phones": [{
+			"id": 7654,
+			"department": null,
+			"extension": null,
+			"number": "305-378-6677",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "district9@miamidade.gov",
+		"id": 7655,
+		"name": "Commissioner Dennis C. Moss",
+		"title": "District 9 Commissioner",
+		"phones": [{
+			"id": 7655,
+			"department": null,
+			"extension": null,
+			"number": "305-234-4938",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "district10@miamidade.gov",
+		"id": 7656,
+		"name": "Commissioner Javier D. Souto",
+		"title": "District 10 Commissioner",
+		"phones": [{
+			"id": 7656,
+			"department": null,
+			"extension": null,
+			"number": "305-222-2116",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "district11@miamidade.gov",
+		"id": 7657,
+		"name": "Commissioner Juan C. Zapata",
+		"title": "District 11 Commissioner",
+		"phones": [{
+			"id": 7657,
+			"department": null,
+			"extension": null,
+			"number": "305-375-5511",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "district12@miamidade.gov",
+		"id": 7658,
+		"name": "Commissioner Jose u0022Pepeu0022 Diaz",
+		"title": "District 12 Commissioner",
+		"phones": [{
+			"id": 7658,
+			"department": null,
+			"extension": null,
+			"number": "305-599-1200",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "district13@miamidade.gov",
+		"id": 7659,
+		"name": "Commissioner Esteban Bovo, Jr",
+		"title": "District 13 Commissioner and Board of County Commissioners Vice Chair",
+		"phones": [{
+			"id": 7659,
+			"department": null,
+			"extension": null,
+			"number": "305-820-8424",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7646,
+		"department": null,
+		"extension": null,
+		"number": "305-375-5833",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7647,
+		"department": null,
+		"extension": null,
+		"number": "305-474-3011",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7648,
+		"department": null,
+		"extension": null,
+		"number": "305-694-2779",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7649,
+		"department": null,
+		"extension": null,
+		"number": "305-636-2331",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7650,
+		"department": null,
+		"extension": null,
+		"number": "305-787-5999",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7651,
+		"department": null,
+		"extension": null,
+		"number": "305-673-7743",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7652,
+		"department": null,
+		"extension": null,
+		"number": "305-267-6377",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7653,
+		"department": null,
+		"extension": null,
+		"number": "305-669-4003",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7654,
+		"department": null,
+		"extension": null,
+		"number": "305-378-6677",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7655,
+		"department": null,
+		"extension": null,
+		"number": "305-234-4938",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7656,
+		"department": null,
+		"extension": null,
+		"number": "305-222-2116",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7657,
+		"department": null,
+		"extension": null,
+		"number": "305-375-5511",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7658,
+		"department": null,
+		"extension": null,
+		"number": "305-599-1200",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7659,
+		"department": null,
+		"extension": null,
+		"number": "305-820-8424",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

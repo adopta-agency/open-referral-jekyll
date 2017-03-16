@@ -1,0 +1,61 @@
+{
+	"id": 4427,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "United Financial Counselors strives to assist individuals in breaking their dependency on debt and in enriching their lives through financial independence. Our goal is to provide people with the necessary financial education and tools, regardless of their background or ability to pay.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "UNITED FINANCIAL COUNSELORS, INC.",
+	"website": "http://www.unitedcounselors.org",
+	"slug": "united-financial-counselors-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-financial-counselors-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/united-financial-counselors-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Jason@unitedcounselors.org",
+		"id": 4427,
+		"name": "Jason Walowitz",
+		"title": "President",
+		"phones": [{
+			"id": 4427,
+			"department": null,
+			"extension": null,
+			"number": "786-288-5320",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Jason@unitedcounselors.org",
+		"id": 4428,
+		"name": "Jason Walowitz",
+		"title": "President",
+		"phones": [{
+			"id": 4428,
+			"department": null,
+			"extension": null,
+			"number": "786-288-5320",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4427,
+		"department": null,
+		"extension": null,
+		"number": "786-288-5320",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4428,
+		"department": null,
+		"extension": null,
+		"number": "786-288-5320",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

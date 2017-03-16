@@ -1,0 +1,38 @@
+{
+	"id": 3208,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The mission of the National Council on Problem Gambling is to increase public awareness of pathological gambling, ensure the widespread availability of treatment for problem gamblers and their families, and to encourage research and programs for prevention and education.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE NATIONAL COUNCIL ON PROBLEM GAMBLING, INC.",
+	"website": "http://www.ncpgambling.org",
+	"slug": "the-national-council-on-problem-gambling-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-national-council-on-problem-gambling-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-national-council-on-problem-gambling-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "KeithW@ncpgambling.org",
+		"id": 3208,
+		"name": "Keith Whyte",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 3208,
+			"department": null,
+			"extension": null,
+			"number": "800-522-4700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3208,
+		"department": null,
+		"extension": null,
+		"number": "800-522-4700",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,61 @@
+{
+	"id": 58,
+	"accreditations": [],
+	"alternate_name": "Caribbean Center for Advanced Studies - Miami Institute of Psychology",
+	"date_incorporated": null,
+	"description": "Private (non-profit) specialized university level institution offering a four-year Bachelor of Science Degree in Psychology; Bachelor of Arts in Elementary Education; Bachelor in business administration; Master of Science Degree in Psychology with concentration in Mental Health Counseling, School Counseling, Marriage and Family Therapy; Specialized in new role and child care psychology; Master of Science Degree in Industrial/Organizational Psychology; Master of Science in Exceptional Student Education; Doctor of Psychology Degree in Clinical Psychology with concentration in general practice, neuropsychology and forensic psychology.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CARLOS ALBIZU UNIVERSITY (MIAMI CAMPUS)",
+	"website": "http://www.mia.albizu.edu",
+	"slug": "carlos-albizu-university-miami-campus",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/carlos-albizu-university-miami-campus",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/carlos-albizu-university-miami-campus/locations",
+	"contacts": [{
+		"department": null,
+		"email": "prubio@albizu.edu",
+		"id": 58,
+		"name": "Peter Rubio",
+		"title": "Interim Chancellor",
+		"phones": [{
+			"id": 58,
+			"department": null,
+			"extension": null,
+			"number": "305-593-1223",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ealonso@albizu.edu",
+		"id": 59,
+		"name": "Evagelina Alonso, Psy.D.",
+		"title": "Director",
+		"phones": [{
+			"id": 59,
+			"department": null,
+			"extension": "243.0",
+			"number": "305-592-7860",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 58,
+		"department": null,
+		"extension": null,
+		"number": "305-593-1223",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 59,
+		"department": null,
+		"extension": "243.0",
+		"number": "305-592-7860",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

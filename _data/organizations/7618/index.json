@@ -1,0 +1,38 @@
+{
+	"id": 7618,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "EveGu00c7u00d6s Hope is a place where a woman in an unplanned pregnancy can find free pregnancy testing, limited ultrasound, options counseling on parenting, adoption counseling, parenting classes, and an abortion recovery program (Forgiven and Set Free) for women who have experienced loss of life through abortion.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "EVE'S HOPE, INC.",
+	"website": "http://www.EvesHope.Info",
+	"slug": "eve-s-hope-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/eve-s-hope-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/eve-s-hope-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "lrump@EvesHope.Info",
+		"id": 7618,
+		"name": "Linda Rump",
+		"title": "Founder",
+		"phones": [{
+			"id": 7618,
+			"department": null,
+			"extension": null,
+			"number": "786-732-7911",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7618,
+		"department": null,
+		"extension": null,
+		"number": "786-732-7911",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

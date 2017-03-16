@@ -1,0 +1,61 @@
+{
+	"id": 3336,
+	"accreditations": [],
+	"alternate_name": "St. Agnes C.D.C.",
+	"date_incorporated": null,
+	"description": "The Rainbow Community Development Corporation is part of the Miami-Dade Housing Agency Public Housing Division and located in Rainbow Village.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "RAINBOW COMMUNITY DEVELOPMENT CORPORATION",
+	"website": null,
+	"slug": "rainbow-community-development-corporation",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/rainbow-community-development-corporation",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/rainbow-community-development-corporation/locations",
+	"contacts": [{
+		"department": null,
+		"email": "stagrainbowcdc@bellsouth.net",
+		"id": 3336,
+		"name": "Lucille Rich",
+		"title": "Director",
+		"phones": [{
+			"id": 3336,
+			"department": null,
+			"extension": null,
+			"number": "305-573-6885",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "stagrainbowcdc@bellsouth.net",
+		"id": 3337,
+		"name": "Lucille Rich",
+		"title": "Director",
+		"phones": [{
+			"id": 3337,
+			"department": null,
+			"extension": null,
+			"number": "305-573-6885",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3336,
+		"department": null,
+		"extension": null,
+		"number": "305-573-6885",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3337,
+		"department": null,
+		"extension": null,
+		"number": "305-573-6885",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

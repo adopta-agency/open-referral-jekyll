@@ -1,0 +1,84 @@
+{
+	"id": 3043,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "2-1-1 Broward provides 24-hour comprehensive Helpline and support services for individuals in our community seeking crisis intervention assistance and/or information and referrals to health and human services in Broward County.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "2-1-1 BROWARD",
+	"website": "http://www.211-broward.org",
+	"slug": "2-1-1-broward",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/2-1-1-broward",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/2-1-1-broward/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ssmith@211-broward.org",
+		"id": 3043,
+		"name": "Sheila J. Smith",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 3043,
+			"department": null,
+			"extension": null,
+			"number": "954-390-0493",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "fisaza@211-broward.org",
+		"id": 3044,
+		"name": "Francisco Isaza",
+		"title": "Program Director",
+		"phones": [{
+			"id": 3044,
+			"department": null,
+			"extension": "210.0",
+			"number": "954-537-0211",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sjsmith@211-broward.org",
+		"id": 7174,
+		"name": "Sheila J. Smith",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 7174,
+			"department": null,
+			"extension": null,
+			"number": "954-390-0493",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3043,
+		"department": null,
+		"extension": null,
+		"number": "954-390-0493",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3044,
+		"department": null,
+		"extension": "210.0",
+		"number": "954-537-0211",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7174,
+		"department": null,
+		"extension": null,
+		"number": "954-390-0493",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

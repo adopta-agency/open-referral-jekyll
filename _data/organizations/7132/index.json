@@ -1,0 +1,38 @@
+{
+	"id": 7132,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Larkin Home Health Services, Inc., believes in the healing benefits a patient receives while being treated in the comfort of their own home. Most patients who meet the criteria for home care can be treated cost-effectively while achieving psychological and sociological benefits of in-home treatments.\r\n\r\nServices include: \r\n\r\n* Registered Licensed Nurses Hi-Tech\r\n* IV Therapy\r\n* Infusion Wound Care Management Post-Operative Care\r\n* Safety Measures Teaching and Instructions on Medication\r\n* Physical, Occupational, & Speech Therapy\r\n* Registered Clinical Social Worker\r\n* Home Health Aide for Personal Care",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "LARKIN HOME HEALTH SERVICES, INC.",
+	"website": "http://larkinhomehealth.com",
+	"slug": "larkin-home-health-services-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/larkin-home-health-services-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/larkin-home-health-services-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jcurbelo@larkinhospital.com",
+		"id": 7132,
+		"name": "Janet Curbelo",
+		"title": "Community Outreach Coordinator",
+		"phones": [{
+			"id": 7132,
+			"department": null,
+			"extension": null,
+			"number": "305-284-7734",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7132,
+		"department": null,
+		"extension": null,
+		"number": "305-284-7734",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

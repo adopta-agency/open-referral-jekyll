@@ -1,0 +1,38 @@
+{
+	"id": 7645,
+	"accreditations": [],
+	"alternate_name": "SUNFLOWERS ACADEMY",
+	"date_incorporated": null,
+	"description": "Arcadia School, managed by Sunflowers Academy, is a program that provides quality after school care for children in K-2nd grade. We offer a variety of extracurricular activities, homework assistance, literacy classes, fitness and social skills building. Our goal is to provide children with a safe, caring environment that is influential to both learning and developing as well as provide recreational activities that are fun, stimulating and challenging.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ARCADIA ACADEMY, INC.",
+	"website": null,
+	"slug": "arcadia-academy-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/arcadia-academy-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/arcadia-academy-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ap@sunflowersacademyprep.com",
+		"id": 7645,
+		"name": "Yanelsy Adan",
+		"title": "Afterschool Director/Academy Assistant Principal",
+		"phones": [{
+			"id": 7645,
+			"department": null,
+			"extension": null,
+			"number": "305-631-1284",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7645,
+		"department": null,
+		"extension": null,
+		"number": "305-631-1284",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

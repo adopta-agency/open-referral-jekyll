@@ -1,0 +1,17 @@
+{
+	"id": 4,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "test234",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "Test123",
+	"website": null,
+	"slug": "test123",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/test123",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/test123/locations",
+	"contacts": [],
+	"phones": []
+}

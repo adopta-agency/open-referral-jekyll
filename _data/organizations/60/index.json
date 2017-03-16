@@ -1,0 +1,322 @@
+{
+	"id": 60,
+	"accreditations": [],
+	"alternate_name": "NET",
+	"date_incorporated": null,
+	"description": "This program of the City of Miami Community Development Department provides information & referral and access to City of Miami services and operations. Operates the NET offices located at 11 sites around the city.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CITY OF MIAMI - NEIGHBORHOOD ENHANCEMENT TEAMS",
+	"website": "http://www.miamigov.com/nets/",
+	"slug": "city-of-miami-neighborhood-enhancement-teams",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-miami-neighborhood-enhancement-teams",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-miami-neighborhood-enhancement-teams/locations",
+	"contacts": [{
+		"department": null,
+		"email": "vacosta@miamigov.com",
+		"id": 60,
+		"name": "Vanessa Acosta",
+		"title": "NET Director",
+		"phones": [{
+			"id": 60,
+			"department": null,
+			"extension": null,
+			"number": "305-960-5110",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "awagner@miamigov.com",
+		"id": 63,
+		"name": "Antonio Wagner",
+		"title": "Administrator",
+		"phones": [{
+			"id": 63,
+			"department": null,
+			"extension": null,
+			"number": "305-960-4650",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "VKinchens@miamigov.com",
+		"id": 64,
+		"name": "VonCarol Kinchens",
+		"title": "Assistant Net Director",
+		"phones": [{
+			"id": 64,
+			"department": null,
+			"extension": null,
+			"number": "305-960-5110",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "bdavis@miamigov.com",
+		"id": 65,
+		"name": "Berta A. Davis",
+		"title": "Senior Administrator",
+		"phones": [{
+			"id": 65,
+			"department": null,
+			"extension": null,
+			"number": "305-960-2904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "glafaille@miamigov.com",
+		"id": 66,
+		"name": "Gary Lafaille",
+		"title": "Administrator",
+		"phones": [{
+			"id": 66,
+			"department": null,
+			"extension": null,
+			"number": "305-960-4660",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "SBlanton@miamigov.com",
+		"id": 67,
+		"name": "Sharie Blanton",
+		"title": "Administrator",
+		"phones": [{
+			"id": 67,
+			"department": null,
+			"extension": null,
+			"number": "305-960-5118",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mrivers@miamigov.com",
+		"id": 68,
+		"name": "Michael Rivers",
+		"title": "Administrator",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "CAhumada@miamigov.com",
+		"id": 69,
+		"name": "Celso Ahumada",
+		"title": "Administrator",
+		"phones": [{
+			"id": 69,
+			"department": null,
+			"extension": null,
+			"number": "305-960-5127",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "bhoward@miamigov.com",
+		"id": 70,
+		"name": "Brandyss Howard",
+		"title": "Administrator",
+		"phones": [{
+			"id": 70,
+			"department": null,
+			"extension": null,
+			"number": "305-960-5133",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "wplasencia@miamigov.com",
+		"id": 71,
+		"name": "William Plasencia",
+		"title": "Administrator",
+		"phones": [{
+			"id": 71,
+			"department": null,
+			"extension": null,
+			"number": "305-960-5135",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "arodriguez@miamigov.com",
+		"id": 73,
+		"name": "Ana M. Rodriguez",
+		"title": "Administrator",
+		"phones": [{
+			"id": 73,
+			"department": null,
+			"extension": null,
+			"number": "305-960-2890",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lquintero@miamigov.com",
+		"id": 74,
+		"name": "Lazaro Quintero",
+		"title": "Administrator",
+		"phones": [{
+			"id": 74,
+			"department": null,
+			"extension": null,
+			"number": "305-960-5131",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mpacheco@miamigov.com",
+		"id": 75,
+		"name": "Madelin Pacheco",
+		"title": "Administrator",
+		"phones": [{
+			"id": 75,
+			"department": null,
+			"extension": null,
+			"number": "305-960-4670",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "storres@ci.miami.fl.us",
+		"id": 4094,
+		"name": "Sergio Torres",
+		"title": "Homeless Program Administrator",
+		"phones": [{
+			"id": 4094,
+			"department": null,
+			"extension": null,
+			"number": "305-960-4980",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 60,
+		"department": null,
+		"extension": null,
+		"number": "305-960-5110",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 63,
+		"department": null,
+		"extension": null,
+		"number": "305-960-4650",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 64,
+		"department": null,
+		"extension": null,
+		"number": "305-960-5110",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 65,
+		"department": null,
+		"extension": null,
+		"number": "305-960-2904",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 66,
+		"department": null,
+		"extension": null,
+		"number": "305-960-4660",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 67,
+		"department": null,
+		"extension": null,
+		"number": "305-960-5118",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 69,
+		"department": null,
+		"extension": null,
+		"number": "305-960-5127",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 70,
+		"department": null,
+		"extension": null,
+		"number": "305-960-5133",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 71,
+		"department": null,
+		"extension": null,
+		"number": "305-960-5135",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 73,
+		"department": null,
+		"extension": null,
+		"number": "305-960-2890",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 74,
+		"department": null,
+		"extension": null,
+		"number": "305-960-5131",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 75,
+		"department": null,
+		"extension": null,
+		"number": "305-960-4670",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4094,
+		"department": null,
+		"extension": null,
+		"number": "305-960-4980",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

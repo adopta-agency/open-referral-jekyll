@@ -1,0 +1,130 @@
+{
+	"id": 4326,
+	"accreditations": [],
+	"alternate_name": "THE CHILDREN'S VILLAGE",
+	"date_incorporated": null,
+	"description": "The Resource Room offers: afterschool and summer programs for K-8th graders, vocational classes, parenting classes, and homeschooling options.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE RESOURCE ROOM",
+	"website": "http://www.theresourceroom.org",
+	"slug": "the-resource-room",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-resource-room",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-resource-room/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ebony@theresourceroom.org",
+		"id": 4326,
+		"name": "Ebony J. Jackson",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 4326,
+			"department": null,
+			"extension": null,
+			"number": "305-621-1929",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@theresourceroom.org",
+		"id": 4327,
+		"name": "Ebony J. Jackson",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 4327,
+			"department": null,
+			"extension": null,
+			"number": "305-621-1929",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@theresourceroom.org",
+		"id": 8017,
+		"name": "Ebony J. Jackson",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 8017,
+			"department": null,
+			"extension": null,
+			"number": "305-621-1929",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@theresourceroom.org",
+		"id": 8137,
+		"name": "Ebony J. Jackson",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 8137,
+			"department": null,
+			"extension": null,
+			"number": "305-621-1929",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@theresourceroom.org",
+		"id": 8138,
+		"name": "Ebony J. Jackson",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 8138,
+			"department": null,
+			"extension": null,
+			"number": "305-621-1929",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4326,
+		"department": null,
+		"extension": null,
+		"number": "305-621-1929",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4327,
+		"department": null,
+		"extension": null,
+		"number": "305-621-1929",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8017,
+		"department": null,
+		"extension": null,
+		"number": "305-621-1929",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8137,
+		"department": null,
+		"extension": null,
+		"number": "305-621-1929",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8138,
+		"department": null,
+		"extension": null,
+		"number": "305-621-1929",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

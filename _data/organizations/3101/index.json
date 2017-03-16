@@ -1,0 +1,199 @@
+{
+	"id": 3101,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "To ensure that all children between birth and age 5 in Miami-Dade and Monroe Counties have the communities attention, commitment and resources - and, hence, the chance to develop intellectually, emotionally, socially and physically so that they are ready and eager to learn by the time they reach first grade.\n\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "EARLY LEARNING COALITION OF MIAMI-DADE/MONROE, INC.",
+	"website": "http://www.elcmdm.org",
+	"slug": "early-learning-coalition-of-miami-dade-monroe-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/early-learning-coalition-of-miami-dade-monroe-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/early-learning-coalition-of-miami-dade-monroe-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "etorres@elcmdm.org",
+		"id": 3101,
+		"name": "Evelio Torres",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 3101,
+			"department": null,
+			"extension": null,
+			"number": "305-646-7220",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jrussell@elcmdm.org",
+		"id": 7107,
+		"name": "Jackye Russell",
+		"title": "Senior Vice President of Programs",
+		"phones": [{
+			"id": 7107,
+			"department": null,
+			"extension": "2324.0",
+			"number": "305-646-7220",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jrussel@elcmdm.org",
+		"id": 7108,
+		"name": "Jackye Russell",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7108,
+			"department": null,
+			"extension": "2324.0",
+			"number": "305-646-7220",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jrussell@elcmdm.org",
+		"id": 7109,
+		"name": "Jackye Russell",
+		"title": "Senior Vice President of Programs",
+		"phones": [{
+			"id": 7109,
+			"department": null,
+			"extension": "2324.0",
+			"number": "305-646-7220",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mwilliams@elcmdm.org",
+		"id": 7110,
+		"name": "Mary Williams",
+		"title": "Managing Director",
+		"phones": [{
+			"id": 7110,
+			"department": null,
+			"extension": "2298.0",
+			"number": "305-296-5557",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mwilliams@elcmdm.org",
+		"id": 7111,
+		"name": "Mary Williams",
+		"title": "Managing Director",
+		"phones": [{
+			"id": 7111,
+			"department": null,
+			"extension": "2298.0",
+			"number": "305-296-5557",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mwilliams@elcmdm.org",
+		"id": 7112,
+		"name": "Mary Williams",
+		"title": "Managing Director",
+		"phones": [{
+			"id": 7112,
+			"department": null,
+			"extension": "2298.0",
+			"number": "305-296-5557",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "qualitycounts@elcmdm.org",
+		"id": 7510,
+		"name": "Fiorella Altare Christie",
+		"title": "Director of Quality Counts",
+		"phones": [{
+			"id": 7510,
+			"department": null,
+			"extension": null,
+			"number": "305-646-7242",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3101,
+		"department": null,
+		"extension": null,
+		"number": "305-646-7220",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7107,
+		"department": null,
+		"extension": "2324.0",
+		"number": "305-646-7220",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7108,
+		"department": null,
+		"extension": "2324.0",
+		"number": "305-646-7220",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7109,
+		"department": null,
+		"extension": "2324.0",
+		"number": "305-646-7220",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7110,
+		"department": null,
+		"extension": "2298.0",
+		"number": "305-296-5557",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7111,
+		"department": null,
+		"extension": "2298.0",
+		"number": "305-296-5557",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7112,
+		"department": null,
+		"extension": "2298.0",
+		"number": "305-296-5557",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7510,
+		"department": null,
+		"extension": null,
+		"number": "305-646-7242",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

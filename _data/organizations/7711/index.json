@@ -1,0 +1,92 @@
+{
+	"id": 7711,
+	"accreditations": [],
+	"alternate_name": "Substance Abuse Coalition of Collier County",
+	"date_incorporated": null,
+	"description": "Drug Free Collier is a coalition of concerned citizens working to protect children from substance abuse. Established in 2005 with the help of key figures in our community, the organization was born out of genuine concern for our local children. Today, Drug Free Collier is a growing coalition of parents, teachers, law enforcement, businesses, religious leaders, health care providers and other community leaders who are finding solutions to reduce the tragic impact of adolescent substance abuse. By collaborating with multiple sectors of our community, Drug Free Collier tracks data, identifies trends & develops strategies to reduce teen substance abuse in Collier County. Operation Medicine Cabinet, Alcohol Vendor Training, and student-led movements like the CORE Society are just a few of our initiatives.\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "DRUG FREE COLLIER",
+	"website": "http://www.DrugFreeCollier.org",
+	"slug": "drug-free-collier",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/drug-free-collier",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/drug-free-collier/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@drugfreecollier.org",
+		"id": 7711,
+		"name": "Ana DiMercurio",
+		"title": "Assistant Director",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "carlyG@drugfreecollier.org",
+		"id": 7730,
+		"name": "Carly Gibb",
+		"title": "Development Assistant",
+		"phones": [{
+			"id": 7730,
+			"department": null,
+			"extension": null,
+			"number": "239-302-6717",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ADimercurio@drugfreecollier.org",
+		"id": 7731,
+		"name": "Ana DiMercurio",
+		"title": "Assistant Director",
+		"phones": [{
+			"id": 7731,
+			"department": null,
+			"extension": null,
+			"number": "239-337-0535",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@drugfreecollier.org",
+		"id": 7735,
+		"name": "Ana DiMercurio",
+		"title": "Assistant Director",
+		"phones": [{
+			"id": 7735,
+			"department": null,
+			"extension": null,
+			"number": "239-377-0535",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7730,
+		"department": null,
+		"extension": null,
+		"number": "239-302-6717",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7731,
+		"department": null,
+		"extension": null,
+		"number": "239-337-0535",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7735,
+		"department": null,
+		"extension": null,
+		"number": "239-377-0535",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

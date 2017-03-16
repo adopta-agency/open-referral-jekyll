@@ -1,0 +1,153 @@
+{
+	"id": 4423,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Thomas Armour Youth Ballet delivers classes in ballet, tap and modern, for youth ages 5-11, depending on the site. Outreach sites are located in Morningside/Little Haiti, West Coconut Grove, Homestead, and Miami Gardens.\n\nClasses run for the school year from August into June. The summer program will run for 8 weeks. (Summer Programs are not day-long camps).\n\nThe after school portion provides dance, literacy, homework assistance, and snacks.\n\nThe foundation of the program is ballet based. Ballet clothing, ballet and tap shoes will be provided free of charge to each student if they qualify for a scholarship. A commitment fee is charged at the beginning of each session.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THOMAS ARMOUR YOUTH BALLET",
+	"website": "http://www.thomasarmouryouthballet.org",
+	"slug": "thomas-armour-youth-ballet",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/thomas-armour-youth-ballet",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/thomas-armour-youth-ballet/locations",
+	"contacts": [{
+		"department": null,
+		"email": "camila@taballet.org",
+		"id": 4423,
+		"name": "Camila Escobar",
+		"title": "Chief of Arts & Outreach",
+		"phones": [{
+			"id": 4423,
+			"department": null,
+			"extension": null,
+			"number": "305-667-5543",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "camila@taballet.org",
+		"id": 5037,
+		"name": "Camila Escobar",
+		"title": "Director of Arts Education and Outreach",
+		"phones": [{
+			"id": 5037,
+			"department": null,
+			"extension": null,
+			"number": "305-667-5543",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "camila@taballet.org",
+		"id": 5039,
+		"name": "Camila Escobar",
+		"title": "Director of Arts Education and Outreach",
+		"phones": [{
+			"id": 5039,
+			"department": null,
+			"extension": null,
+			"number": "305-667-5543",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "camila@taballet.org",
+		"id": 5041,
+		"name": "Camila Escobar",
+		"title": "Director of Arts Education & Outreach",
+		"phones": [{
+			"id": 5041,
+			"department": null,
+			"extension": null,
+			"number": "305-667-5543",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "camila@thomasarmouryouthballet.org",
+		"id": 5042,
+		"name": "Camila Escobar",
+		"title": "Director of Arts Education and Outreach",
+		"phones": [{
+			"id": 5042,
+			"department": null,
+			"extension": null,
+			"number": "305-667-5543",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "camila@taballet.org",
+		"id": 8028,
+		"name": "Camila Escobar",
+		"title": "Director of Arts Education and Outreach",
+		"phones": [{
+			"id": 8028,
+			"department": null,
+			"extension": null,
+			"number": "305-667-5543",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4423,
+		"department": null,
+		"extension": null,
+		"number": "305-667-5543",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5037,
+		"department": null,
+		"extension": null,
+		"number": "305-667-5543",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5039,
+		"department": null,
+		"extension": null,
+		"number": "305-667-5543",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5041,
+		"department": null,
+		"extension": null,
+		"number": "305-667-5543",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5042,
+		"department": null,
+		"extension": null,
+		"number": "305-667-5543",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8028,
+		"department": null,
+		"extension": null,
+		"number": "305-667-5543",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

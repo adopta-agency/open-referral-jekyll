@@ -1,0 +1,245 @@
+{
+	"id": 481,
+	"accreditations": [],
+	"alternate_name": "EFOF",
+	"date_incorporated": null,
+	"description": "The mission of the Epilepsy Foundation of Florida is to advocate for, and to provide education and assistance to, people with Epilepsy and their families. Direct services include: case management, medical services to clients, individual and family counseling, neuropsychological testing and evaluations, support groups and network educational sessions.\r\n\r\n###MON###\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "EPILEPSY FOUNDATION OF FLORIDA",
+	"website": "http://epilepsyfla.org",
+	"slug": "epilepsy-foundation-of-florida",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/epilepsy-foundation-of-florida",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/epilepsy-foundation-of-florida/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Kegozi@efof.org",
+		"id": 481,
+		"name": "Karen Egozi",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 481,
+			"department": null,
+			"extension": "211.0",
+			"number": "877-553-7453",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "gbusse@efof.org",
+		"id": 482,
+		"name": "Gema Busse",
+		"title": "Prevention & Education Coordinator",
+		"phones": [{
+			"id": 482,
+			"department": null,
+			"extension": "223.0",
+			"number": "305-670-4949",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jgonzalez@efof.org",
+		"id": 483,
+		"name": "Dr. Jose Gonzalez",
+		"title": "Medical Services Director",
+		"phones": [{
+			"id": 483,
+			"department": null,
+			"extension": "203.0",
+			"number": "877-553-7453",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Jsiskind@efof.org",
+		"id": 484,
+		"name": "Judy Siskind, Ph.D",
+		"title": "Staff Psychologist",
+		"phones": [{
+			"id": 484,
+			"department": null,
+			"extension": "208.0",
+			"number": "305-670-4949",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rgalera@efof.org",
+		"id": 485,
+		"name": "Roxana Galera",
+		"title": "Social Services Director Manager",
+		"phones": [{
+			"id": 485,
+			"department": null,
+			"extension": "204.0",
+			"number": "305-670-4949",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rgalera@efof.org",
+		"id": 6100,
+		"name": "Roxana Galera",
+		"title": "Director of Social Services",
+		"phones": [{
+			"id": 6100,
+			"department": null,
+			"extension": null,
+			"number": "305-670-4949",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "gbusse@efof.org",
+		"id": 6373,
+		"name": "Gema Busse",
+		"title": "Prevention & Education Coordinator",
+		"phones": [{
+			"id": 6373,
+			"department": null,
+			"extension": "223.0",
+			"number": "877-553-7453",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7422,
+		"name": "Tambra Wolfe",
+		"title": "Advisor",
+		"phones": [{
+			"id": 7422,
+			"department": null,
+			"extension": null,
+			"number": "954-214-0970",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "DBRosenfeld08@gmail.com",
+		"id": 7423,
+		"name": "Dan Rosenfeld",
+		"title": "Facilitator",
+		"phones": [{
+			"id": 7423,
+			"department": null,
+			"extension": null,
+			"number": "954-214-0970",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "gbusse@efof.org",
+		"id": 7424,
+		"name": "Gema Busse",
+		"title": "Prevention & Education Coordinator",
+		"phones": [{
+			"id": 7424,
+			"department": null,
+			"extension": "223.0",
+			"number": "305-670-4949",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 481,
+		"department": null,
+		"extension": "211.0",
+		"number": "877-553-7453",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 482,
+		"department": null,
+		"extension": "223.0",
+		"number": "305-670-4949",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 483,
+		"department": null,
+		"extension": "203.0",
+		"number": "877-553-7453",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 484,
+		"department": null,
+		"extension": "208.0",
+		"number": "305-670-4949",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 485,
+		"department": null,
+		"extension": "204.0",
+		"number": "305-670-4949",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6100,
+		"department": null,
+		"extension": null,
+		"number": "305-670-4949",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6373,
+		"department": null,
+		"extension": "223.0",
+		"number": "877-553-7453",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7422,
+		"department": null,
+		"extension": null,
+		"number": "954-214-0970",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7423,
+		"department": null,
+		"extension": null,
+		"number": "954-214-0970",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7424,
+		"department": null,
+		"extension": "223.0",
+		"number": "305-670-4949",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

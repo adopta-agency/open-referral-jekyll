@@ -1,0 +1,268 @@
+{
+	"id": 588,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Borinquen Medical Centers of Miami-Dade provide a comprehensive range of health and social services to our culturally diverse community in Miami-Dade County. \n\nServices include internal Medicine, HIV, Pediatrics, Adolescent, OB/GYN Including Delivery, Family Planning, Healthy Start, Nutritionist, Dental Health, Child Immunizations, Behavioral Health, Psychiatry, Substance Abuse, Case Management, Prevention Education, Podiatry, Optometry / Opticals, Speech Language and Communication Disorders Treatments, Laboratory, X-Ray, Pharmacy, Medicaid Eligibility.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "BORINQUEN MEDICAL CENTERS OF MIAMI-DADE",
+	"website": "http://www.borinquenhealth.org",
+	"slug": "borinquen-medical-centers-of-miami-dade",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/borinquen-medical-centers-of-miami-dade",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/borinquen-medical-centers-of-miami-dade/locations",
+	"contacts": [{
+		"department": null,
+		"email": "bkubilus@borinquenhealth.org",
+		"id": 588,
+		"name": "Barbara Kubilis",
+		"title": "Chief Special Programs Officer",
+		"phones": [{
+			"id": 588,
+			"department": null,
+			"extension": null,
+			"number": "305-576-6611",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "bkubilus@borinquenhealth.org",
+		"id": 594,
+		"name": "Barbara Kubilis",
+		"title": "Chief Special Programs Officer",
+		"phones": [{
+			"id": 594,
+			"department": null,
+			"extension": null,
+			"number": "305-552-1201",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "bkubilus@borinquenhealth.org",
+		"id": 4232,
+		"name": "Barbara Kubilis",
+		"title": "Chief Special Programs Officer",
+		"phones": [{
+			"id": 4232,
+			"department": null,
+			"extension": null,
+			"number": "305-576-6611",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ganderson@borinquenhealth.org",
+		"id": 5681,
+		"name": "Guerline Anderson, BHSA",
+		"title": "School Health Program Coordinator",
+		"phones": [{
+			"id": 5681,
+			"department": null,
+			"extension": null,
+			"number": "305-576-6611",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "bkubilus@borinquenhealth.org",
+		"id": 6358,
+		"name": "Barbara Kubilis",
+		"title": "Chief of Special Programs",
+		"phones": [{
+			"id": 6358,
+			"department": null,
+			"extension": null,
+			"number": "305-576-6611",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "bkubilus@borinquenhealth.org",
+		"id": 7064,
+		"name": "Barbara Kubilis",
+		"title": "Chief Special Programs Officer",
+		"phones": [{
+			"id": 7064,
+			"department": null,
+			"extension": null,
+			"number": "305-576-6611",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "bkubilus@borinquenhealth.org",
+		"id": 7065,
+		"name": "Barbara Kubilis",
+		"title": "Chief Special Programs Officer",
+		"phones": [{
+			"id": 7065,
+			"department": null,
+			"extension": null,
+			"number": "786-433-8815",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7066,
+		"name": "Dr. Joe Piperato",
+		"title": "pREP Specialist",
+		"phones": [{
+			"id": 7066,
+			"department": null,
+			"extension": null,
+			"number": "305-576-1675",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "bkubilus@borinquenhealth.org",
+		"id": 7067,
+		"name": "Barbara Kubilis",
+		"title": "Chief Special Programs Officer",
+		"phones": [{
+			"id": 7067,
+			"department": null,
+			"extension": null,
+			"number": "305-576-1599",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "bkubilus@borinquenhealth.org",
+		"id": 7068,
+		"name": "Barbara Kubilis",
+		"title": "Chief Special Programs Officer",
+		"phones": [{
+			"id": 7068,
+			"department": null,
+			"extension": null,
+			"number": "786-235-7020",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "bkubilus@borinquenhealth.org",
+		"id": 7683,
+		"name": "Barbara Kubilis",
+		"title": "Chief Special Programs Officer",
+		"phones": [{
+			"id": 7683,
+			"department": null,
+			"extension": null,
+			"number": "305-576-6611",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 588,
+		"department": null,
+		"extension": null,
+		"number": "305-576-6611",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 594,
+		"department": null,
+		"extension": null,
+		"number": "305-552-1201",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4232,
+		"department": null,
+		"extension": null,
+		"number": "305-576-6611",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5681,
+		"department": null,
+		"extension": null,
+		"number": "305-576-6611",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6358,
+		"department": null,
+		"extension": null,
+		"number": "305-576-6611",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7064,
+		"department": null,
+		"extension": null,
+		"number": "305-576-6611",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7065,
+		"department": null,
+		"extension": null,
+		"number": "786-433-8815",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7066,
+		"department": null,
+		"extension": null,
+		"number": "305-576-1675",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7067,
+		"department": null,
+		"extension": null,
+		"number": "305-576-1599",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7068,
+		"department": null,
+		"extension": null,
+		"number": "786-235-7020",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7683,
+		"department": null,
+		"extension": null,
+		"number": "305-576-6611",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,84 @@
+{
+	"id": 2291,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Local Offices throughout Dade and Broward that provides DNA identification testing for paternity, maternity confirmation and also for immigration purposes. Also provides sibling ship, grand paternity, family reconstruction, and infidelity testing. Assists with all issues pertaining to DNA paternity establishment information and provides information to clients on where to find support within our local community to assist them. All services are confidential.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ALL ABOUT TRUTH DNA SERVICES, INC.",
+	"website": "http://www.dna-testingsouthflorida.com",
+	"slug": "all-about-truth-dna-services-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/all-about-truth-dna-services-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/all-about-truth-dna-services-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "raquel@allabouttruthdna.com",
+		"id": 2291,
+		"name": "Raquel Mandel",
+		"title": "Regional Manager",
+		"phones": [{
+			"id": 2291,
+			"department": null,
+			"extension": null,
+			"number": "954-633-2717",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "raquel@allabouttruthdna.com",
+		"id": 2292,
+		"name": "Raquel Mandel",
+		"title": "Regional Manager",
+		"phones": [{
+			"id": 2292,
+			"department": null,
+			"extension": null,
+			"number": "786-401-4442",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "raquel@allabouttruthdna.com",
+		"id": 7310,
+		"name": "Raquel Mandel",
+		"title": "Regional Manager",
+		"phones": [{
+			"id": 7310,
+			"department": null,
+			"extension": null,
+			"number": "786-401-4442",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2291,
+		"department": null,
+		"extension": null,
+		"number": "954-633-2717",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2292,
+		"department": null,
+		"extension": null,
+		"number": "786-401-4442",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7310,
+		"department": null,
+		"extension": null,
+		"number": "786-401-4442",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

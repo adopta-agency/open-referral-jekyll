@@ -1,0 +1,38 @@
+{
+	"id": 7768,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Xena Fund supports pets and their owners in two ways: \n\nFirst, the Xena Fund reimburses Veterinarians for their emergency care for your pet. We rely on the vet's recommendation to help in the care of the pet.\nThe Xena Fund makes one-time grants payable directly to the vet for your pet's care.\n\nSecondly, the Xena Fund will help those pet owners who are on a fixed income. The Xena Fund will pay for annual visits to the vet and any preventative medications and annual vaccinations.\nIf you fall into this category, let your veterinarian know of your situation. The vet will know of our policy to reimburse them for their annual visit care.\n\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE XENA FUND",
+	"website": "http://www.xenafund.com/",
+	"slug": "the-xena-fund",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-xena-fund",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-xena-fund/locations",
+	"contacts": [{
+		"department": null,
+		"email": "aliceinkeywest@gmail.com",
+		"id": 7768,
+		"name": "Alice Senturia",
+		"title": null,
+		"phones": [{
+			"id": 7768,
+			"department": null,
+			"extension": null,
+			"number": "305-432-0494",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7768,
+		"department": null,
+		"extension": null,
+		"number": "305-432-0494",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

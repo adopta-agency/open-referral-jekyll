@@ -1,0 +1,64 @@
+{
+	"id": 2295,
+	"accreditations": [],
+	"alternate_name": "NJCDC",
+	"date_incorporated": null,
+	"description": "New Jerusalem Community Development Corporation provides a summer camp program that provides academic support, social skill development, literacy skills through the arts and recreational activities. \n\nDates: June 20 - August 5\nRegistration begins: April 18",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NEW JERUSALEM COMMUNITY DEVELOPMENT CORPORATION - SUMMER CAMP PROGRAM",
+	"website": "http://www.newjerusalemcdc.org",
+	"slug": "new-jerusalem-community-development-corporation-summer-camp-program",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/new-jerusalem-community-development-corporation-summer-camp-program",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/new-jerusalem-community-development-corporation-summer-camp-program/locations",
+	"contacts": [{
+		"department": null,
+		"email": "woods_octavia@hotmail.com",
+		"id": 8142,
+		"name": "Octavia Woods",
+		"title": "Program Coordinator",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "woods_octavia@hotmail.com",
+		"id": 8143,
+		"name": "Octavia Woods",
+		"title": "Program Coordinator",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "woods_octavia@hotmail.com",
+		"id": 8144,
+		"name": "Octavia Woods",
+		"title": "Program Coordinator",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "woods_octavia@hotmail.com",
+		"id": 8145,
+		"name": "Octavia Woods",
+		"title": "Program Coordinator",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "woods_octavia@hotmail.com",
+		"id": 8146,
+		"name": "Octavia Woods",
+		"title": "Program Coordinator",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "woods_octavia@hotmail.com",
+		"id": 8147,
+		"name": "Octavia Woods",
+		"title": "Program Coordinator",
+		"phones": []
+	}],
+	"phones": []
+}

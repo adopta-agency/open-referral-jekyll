@@ -1,0 +1,84 @@
+{
+	"id": 3809,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Florida International Academy will utilize a holistic educational program in a small-school setting to address areas of need for each student. Areas of critical need tend to include basic reading, mathematics, science, and writing skills. Small class sized setting along with Classworks (Computerized Program) and READ 180 (Computerized Program) will assist students to learn at their own pace. All Instructional staff are certified in the particular subject area being taught. There are also Counselors on staff to assist students and their families in group and individual therapy sessions.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA INTERNATIONAL ACADEMY, INC.",
+	"website": "http://www.fiacs.org/",
+	"slug": "florida-international-academy-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-international-academy-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-international-academy-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "smitchell@dadeschools.net",
+		"id": 3809,
+		"name": "Sonia Mitchell",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 3809,
+			"department": null,
+			"extension": null,
+			"number": "305-685-8190",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "smitchell@dadeschools.net",
+		"id": 3810,
+		"name": "Sonia Mitchell",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 3810,
+			"department": null,
+			"extension": null,
+			"number": "305-685-8190",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "morrisyp@gmail.com",
+		"id": 3811,
+		"name": "Yvonne Morris",
+		"title": "After School Programs Director",
+		"phones": [{
+			"id": 3811,
+			"department": null,
+			"extension": null,
+			"number": "305-685-8190",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3809,
+		"department": null,
+		"extension": null,
+		"number": "305-685-8190",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3810,
+		"department": null,
+		"extension": null,
+		"number": "305-685-8190",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3811,
+		"department": null,
+		"extension": null,
+		"number": "305-685-8190",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

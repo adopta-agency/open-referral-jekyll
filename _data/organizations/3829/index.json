@@ -1,0 +1,130 @@
+{
+	"id": 3829,
+	"accreditations": [],
+	"alternate_name": "MD-C ED",
+	"date_incorporated": null,
+	"description": "The Elections Department, under the direction of the Supervisor of Elections, administers, prepares, conducts and tabulates in a correct, uniform and impartial manner all Federal, State, County and Municipal elections in accordance with Florida Statutes. The Department also provides election services and assistance to municipalities, School Districts, and Special Taxing Districts of Miami-Dade County.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI-DADE COUNTY ELECTIONS DEPARTMENT",
+	"website": "http://www.miamidade.gov/elections",
+	"slug": "miami-dade-county-elections-department",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-elections-department",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-elections-department/locations",
+	"contacts": [{
+		"department": null,
+		"email": "tasmith@miamidade.gov",
+		"id": 3829,
+		"name": "Penelope u0022Pennyu0022 Townsley",
+		"title": "Supervisor of Elections",
+		"phones": [{
+			"id": 3829,
+			"department": null,
+			"extension": null,
+			"number": "305-499-8683",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "RPastra@MiamiDade.gov",
+		"id": 3830,
+		"name": "Rosy Pastrana",
+		"title": "Deputy Supervisor",
+		"phones": [{
+			"id": 3830,
+			"department": null,
+			"extension": null,
+			"number": "305-499-8670",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "PHD@miamidade.gov",
+		"id": 3831,
+		"name": "Phares Poliard",
+		"title": "Poll Worker Recruitment and Assignment",
+		"phones": [{
+			"id": 3831,
+			"department": null,
+			"extension": null,
+			"number": "305-499-8683",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "MGILES@MiamiDade.gov",
+		"id": 7330,
+		"name": "Michelle McClain",
+		"title": "Deputy Supervisor",
+		"phones": [{
+			"id": 7330,
+			"department": null,
+			"extension": null,
+			"number": "305-499-8683",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "RPastra@MiamiDade.gov",
+		"id": 7331,
+		"name": "Rosy Pastrana",
+		"title": "Deputy Supervisor",
+		"phones": [{
+			"id": 7331,
+			"department": null,
+			"extension": null,
+			"number": "305-499-8683",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3829,
+		"department": null,
+		"extension": null,
+		"number": "305-499-8683",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3830,
+		"department": null,
+		"extension": null,
+		"number": "305-499-8670",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3831,
+		"department": null,
+		"extension": null,
+		"number": "305-499-8683",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7330,
+		"department": null,
+		"extension": null,
+		"number": "305-499-8683",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7331,
+		"department": null,
+		"extension": null,
+		"number": "305-499-8683",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

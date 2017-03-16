@@ -1,0 +1,84 @@
+{
+	"id": 1379,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides vocational rehabilitation, medical and social service programs for blind and visually impaired.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA DEPARTMENT OF EDUCATION - FLORIDA DIVISION OF BLIND SERVICES",
+	"website": "http://dbs.myflorida.com/",
+	"slug": "florida-department-of-education-florida-division-of-blind-services",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-department-of-education-florida-division-of-blind-services",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-department-of-education-florida-division-of-blind-services/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Michelle.Levy@dbs.fldoe.org",
+		"id": 1379,
+		"name": "Michelle Levy",
+		"title": "Interim District Admimistrator",
+		"phones": [{
+			"id": 1379,
+			"department": null,
+			"extension": null,
+			"number": "305-377-5339",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Juan.Diaz@dbs.fldoe.org",
+		"id": 1380,
+		"name": "Juan Diaz",
+		"title": "District Administrator",
+		"phones": [{
+			"id": 1380,
+			"department": null,
+			"extension": null,
+			"number": "305-377-5339",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Joey.Smith@fldoe.org",
+		"id": 8211,
+		"name": "Joey Smith",
+		"title": "Operations and Program Manager",
+		"phones": [{
+			"id": 8211,
+			"department": null,
+			"extension": null,
+			"number": "888-224-6684",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1379,
+		"department": null,
+		"extension": null,
+		"number": "305-377-5339",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1380,
+		"department": null,
+		"extension": null,
+		"number": "305-377-5339",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8211,
+		"department": null,
+		"extension": null,
+		"number": "888-224-6684",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

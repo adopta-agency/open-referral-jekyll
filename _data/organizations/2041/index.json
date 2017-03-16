@@ -1,0 +1,61 @@
+{
+	"id": 2041,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Organizes volunteers to visit people who are confined to institutions, letting residents and patients know they are not forgotten. Visits take place on weekends and on most any day throughout the year, not just the major holidays. All ages are welcomed to become volunteers. Animals are also welcomed on some visits, but must be certified and approved first.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE HOLIDAY PROJECT, INC.",
+	"website": "http://www.holiday-project.org",
+	"slug": "the-holiday-project-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-holiday-project-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-holiday-project-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "sorresse@comcast.net",
+		"id": 2041,
+		"name": "Joanne Sorresse",
+		"title": "Program Manager",
+		"phones": [{
+			"id": 2041,
+			"department": null,
+			"extension": null,
+			"number": "925-957-6223",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "holidaypro@live.com",
+		"id": 2042,
+		"name": "Patricia Connelly",
+		"title": "South Florida Director",
+		"phones": [{
+			"id": 2042,
+			"department": null,
+			"extension": null,
+			"number": "954-560-0326",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2041,
+		"department": null,
+		"extension": null,
+		"number": "925-957-6223",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2042,
+		"department": null,
+		"extension": null,
+		"number": "954-560-0326",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,61 @@
+{
+	"id": 6965,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "First Baptist Church of Islamorada is a Christ centered, Southern Baptist Church located in the Florida Keys. It provides religious and social services for the community. \n\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FIRST BAPTIST CHURCH OF ISLAMORADA, INC.",
+	"website": "http://www.fbcislamorada.org",
+	"slug": "first-baptist-church-of-islamorada-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/first-baptist-church-of-islamorada-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/first-baptist-church-of-islamorada-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@fbcislamorada.org",
+		"id": 6965,
+		"name": "Pastor Jonathan Elwing",
+		"title": "Pastor",
+		"phones": [{
+			"id": 6965,
+			"department": null,
+			"extension": null,
+			"number": "305-664-4910",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@fbcislamorada.org",
+		"id": 6966,
+		"name": "Jonathan Elwing",
+		"title": "Pastor",
+		"phones": [{
+			"id": 6966,
+			"department": null,
+			"extension": null,
+			"number": "305-664-4910",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6965,
+		"department": null,
+		"extension": null,
+		"number": "305-664-4910",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6966,
+		"department": null,
+		"extension": null,
+		"number": "305-664-4910",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

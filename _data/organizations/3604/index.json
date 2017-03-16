@@ -1,0 +1,84 @@
+{
+	"id": 3604,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Domestic Abuse Shelter is the only certified emergency shelter in Monroe County that provides refuge for victims of domestic and sexual violence and their children. Residents may stay at the shelter for up to six weeks. All agency services are available to shelter residents. Residents obtain the following services:\n\n* Crisis Intervention\n* Supportive Counseling\n* ChildrenGu00c7u00d6s Services\n* Food and Clothing\n* Support Group Counseling and Advocacy\n* 24-Hour Hotline\n* Case Management\n* Information and Referral\n* Professional Training and Community Education\n* Sexual Assault Response Assistance (SARA)\n* Gay and Lesbian Assistance (GALA)\n* Transportation Services\n\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "DOMESTIC ABUSE SHELTER OF THE FLORIDA KEYS, INC.",
+	"website": "http://www.domesticabuseshelter.org",
+	"slug": "domestic-abuse-shelter-of-the-florida-keys-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/domestic-abuse-shelter-of-the-florida-keys-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/domestic-abuse-shelter-of-the-florida-keys-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "vrgarvin@aol.com",
+		"id": 3604,
+		"name": "Venita Garvin",
+		"title": "CEO",
+		"phones": [{
+			"id": 3604,
+			"department": null,
+			"extension": null,
+			"number": "305-743-4440",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "vrgarvin@aol.com",
+		"id": 3606,
+		"name": "Venita Garvin",
+		"title": "CEO",
+		"phones": [{
+			"id": 3606,
+			"department": null,
+			"extension": null,
+			"number": "305-292-6647",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "vrgarvin@aol.com",
+		"id": 3608,
+		"name": "Venita Garvin",
+		"title": "CEO",
+		"phones": [{
+			"id": 3608,
+			"department": null,
+			"extension": null,
+			"number": "305-292-6647",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3604,
+		"department": null,
+		"extension": null,
+		"number": "305-743-4440",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3606,
+		"department": null,
+		"extension": null,
+		"number": "305-292-6647",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3608,
+		"department": null,
+		"extension": null,
+		"number": "305-292-6647",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

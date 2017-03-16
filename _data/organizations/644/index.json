@@ -1,0 +1,38 @@
+{
+	"id": 644,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "This 245 bed licensed facility has a 24 hour emergency room, medical/surgery, full diagnostic center across the street and five outreach Personal Care+ Clinics. The full range of services includes AIDS care, hospice, occupational and physical therapy, pain center, sleep disorder program, volunteer services and Women's Center.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CORAL GABLES HOSPITAL",
+	"website": "http://www.coralgableshospital.com",
+	"slug": "coral-gables-hospital",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/coral-gables-hospital",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/coral-gables-hospital/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 644,
+		"name": "Patrick Downes",
+		"title": "CEO",
+		"phones": [{
+			"id": 644,
+			"department": null,
+			"extension": null,
+			"number": "305-445-8461",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 644,
+		"department": null,
+		"extension": null,
+		"number": "305-445-8461",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

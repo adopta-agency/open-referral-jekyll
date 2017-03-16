@@ -1,0 +1,61 @@
+{
+	"id": 6742,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Hodges University is accredited by the Southern Association of Colleges and Schools Commission on Colleges to award Associate, Bachelor's, and Master's degrees. The mission is to offer Associate, Baccalaureate and Graduate degrees as well as other programs that enhance the ability of students to achieve personal or professional objectives. \r\n\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HODGES UNIVERSITY, INC.",
+	"website": "http://www.hodges.edu",
+	"slug": "hodges-university-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/hodges-university-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/hodges-university-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "dborofsky@hodges.edu",
+		"id": 6742,
+		"name": "David Borofsky",
+		"title": "President",
+		"phones": [{
+			"id": 6742,
+			"department": null,
+			"extension": "6122.0",
+			"number": "800-466-8017",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mklink1@hodges.edu",
+		"id": 6743,
+		"name": "Marian Klink",
+		"title": "Assistant to the Dean",
+		"phones": [{
+			"id": 6743,
+			"department": null,
+			"extension": "6214.0",
+			"number": "239-598-6284",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6742,
+		"department": null,
+		"extension": "6122.0",
+		"number": "800-466-8017",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6743,
+		"department": null,
+		"extension": "6214.0",
+		"number": "239-598-6284",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

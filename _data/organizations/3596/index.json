@@ -1,0 +1,38 @@
+{
+	"id": 3596,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "This institution provides 2-year degrees leading to Associates in Science/Arts, as well as certificate programs and non-credit courses. Also offers academic counseling, career planning, and student financial aid.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA KEYS COMMUNITY COLLEGE",
+	"website": "http://www.fkcc.edu",
+	"slug": "florida-keys-community-college",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-keys-community-college",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-keys-community-college/locations",
+	"contacts": [{
+		"department": null,
+		"email": "carrie.groomes@fkcc.edu",
+		"id": 3596,
+		"name": "Carrie Groomes",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 3596,
+			"department": null,
+			"extension": null,
+			"number": "305-296-9081",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3596,
+		"department": null,
+		"extension": null,
+		"number": "305-296-9081",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

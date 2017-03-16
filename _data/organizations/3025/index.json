@@ -1,0 +1,38 @@
+{
+	"id": 3025,
+	"accreditations": [],
+	"alternate_name": "MUJER",
+	"date_incorporated": null,
+	"description": "MUJER provides direct services to victims (adults and children) of domestic, sexual, and/or child abuse. Agency provides comprehensive services from its One Stop Domestic Violence and Sexual Assault Center including intake and assessment, individual and family counseling, crisis intervention and victim advocacy. Aid is also provided for food vouchers, referrals to emergency shelter, rental and utility assistance (pending funding availability). Assistance is provided to low-income families and children.\n\nMUJER also provides prevention and community education services in rape, sexual assault, and HIV/AIDS as well as family violence prevention.\n\n**Not a shelter.**",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "M.U.J.E.R., INC.",
+	"website": "http://www.mujerfla.org",
+	"slug": "m-u-j-e-r-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/m-u-j-e-r-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/m-u-j-e-r-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 3025,
+		"name": "Camila Martinez",
+		"title": "Case Manager",
+		"phones": [{
+			"id": 3025,
+			"department": null,
+			"extension": null,
+			"number": "305-247-1388",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3025,
+		"department": null,
+		"extension": null,
+		"number": "305-247-1388",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

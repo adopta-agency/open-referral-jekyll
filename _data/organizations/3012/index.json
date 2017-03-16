@@ -1,0 +1,38 @@
+{
+	"id": 3012,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Secure the Call is a charity that collects and converts as many old cell phones as possible into 911 emergency access phones. This is done on a national basis, with collections and distributions going on in most states.\n\nDistributions are made through community partners who work directly with clients. For information about how you can become a community partner, visit securethecall.org/get-involved/.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SECURE THE CALL, INC.",
+	"website": "http://securethecall.org",
+	"slug": "secure-the-call-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/secure-the-call-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/secure-the-call-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@securethecall.org",
+		"id": 3012,
+		"name": "Thomas Morgan",
+		"title": "Director",
+		"phones": [{
+			"id": 3012,
+			"department": null,
+			"extension": null,
+			"number": "301-891-2900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3012,
+		"department": null,
+		"extension": null,
+		"number": "301-891-2900",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

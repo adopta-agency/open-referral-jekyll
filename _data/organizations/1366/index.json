@@ -1,0 +1,139 @@
+{
+	"id": 1366,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Camillus House has provided humanitarian services to the poor and homeless populations of Miami-Dade County, Florida for more than 55 years. Established in 1960, Camillus House has grown steadily over the years from a small soup kitchen into a full service center offering a comprehensive -u00c7u0022system of careu0022-u00c7-u00a5 for persons who are poor and homeless. Fully integrated programs and services are provided through multiple core competency areas that include emergency services, housing, health care, substance abuse treatment and job training and placement. \n\nThese initiatives include:\n\n* Emergency assistance with food, clothing and shelter\n* Job training and placement\n* Residential substance abuse treatment and aftercare\n* Behavioral health and maintenance\n* Health care access and disease prevention\n* Transitional and permanent housing\n* Crisis intervention\n* Legal services",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CAMILLUS HOUSE, INC.",
+	"website": "http://www.camillus.org",
+	"slug": "camillus-house-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/camillus-house-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/camillus-house-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "shed@camillus.org",
+		"id": 1366,
+		"name": "Dr. Shed Boren",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 1366,
+			"department": null,
+			"extension": null,
+			"number": "305-374-1065",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "fredm@camillus.org",
+		"id": 1368,
+		"name": "Fred Mims",
+		"title": "Direct Care Ministry Director",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "kennethk@camillus.org",
+		"id": 1369,
+		"name": "Kenneth King",
+		"title": "Program Manager",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "fredm@camillus.org",
+		"id": 1371,
+		"name": "Fred Mims",
+		"title": "Director of Direct Care Ministry",
+		"phones": [{
+			"id": 1371,
+			"department": null,
+			"extension": "429.0",
+			"number": "305-634-2294",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "theresas@camillus.org",
+		"id": 1372,
+		"name": "Theresa Saunders",
+		"title": "Lead Services Manager",
+		"phones": [{
+			"id": 1372,
+			"department": null,
+			"extension": null,
+			"number": "305-299-0820",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 1373,
+		"name": "Theresa Saunders",
+		"title": "Vice President of Housing",
+		"phones": [{
+			"id": 1373,
+			"department": null,
+			"extension": null,
+			"number": "305-299-0820",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "austinj@camillus.org",
+		"id": 1374,
+		"name": "Dr. Austin Jerani",
+		"title": "Director of Psychological Services",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "jenniferp@camillus.org",
+		"id": 1376,
+		"name": "Jennifer Delva",
+		"title": "Program Manager",
+		"phones": []
+	}],
+	"phones": [{
+		"id": 1366,
+		"department": null,
+		"extension": null,
+		"number": "305-374-1065",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1371,
+		"department": null,
+		"extension": "429.0",
+		"number": "305-634-2294",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1372,
+		"department": null,
+		"extension": null,
+		"number": "305-299-0820",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1373,
+		"department": null,
+		"extension": null,
+		"number": "305-299-0820",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,452 @@
+{
+	"id": 101,
+	"accreditations": [],
+	"alternate_name": "JTCHC",
+	"date_incorporated": null,
+	"description": "The Jessie Trice Community Health Center, Inc. (JTCHC), is a Florida 501 (c) 3, not-for-profit, Federally Qualified Health Center, which has been serving Miami-Dade County since 1967. The target population is the uninsured,underinsured, 95% of which live at or below the Federal Poverty Level of 200%.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "JESSIE TRICE COMMUNITY HEALTH CENTER, INC.",
+	"website": "http://www.jtchc.org",
+	"slug": "jessie-trice-community-health-center-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/jessie-trice-community-health-center-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/jessie-trice-community-health-center-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jtchc@hcnetwork.org",
+		"id": 101,
+		"name": "Annie Neasman",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 101,
+			"department": null,
+			"extension": null,
+			"number": "305-805-1700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jtchc@hcnetwork.org",
+		"id": 103,
+		"name": "Annie Neasman",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 103,
+			"department": null,
+			"extension": null,
+			"number": "305-835-1614",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "eofhc@hcnetwork.org",
+		"id": 104,
+		"name": "Annie Neasman",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 104,
+			"department": null,
+			"extension": null,
+			"number": "305-637-6498",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 105,
+		"name": "Annie Neasman",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 105,
+			"department": null,
+			"extension": null,
+			"number": "305-694-6900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 106,
+		"name": "Wilma Thompson",
+		"title": "Site Operations Mananger",
+		"phones": [{
+			"id": 106,
+			"department": null,
+			"extension": null,
+			"number": "305-694-6270",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jtchc@hcnetwork.org",
+		"id": 108,
+		"name": "Annie Neasman",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 108,
+			"department": null,
+			"extension": null,
+			"number": "305-887-0004",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "pjames@jtchc.org",
+		"id": 4049,
+		"name": "Pearl James-Isler",
+		"title": "Manager, Community Health Promotions; Director, HCiOC",
+		"phones": [{
+			"id": 4049,
+			"department": null,
+			"extension": null,
+			"number": "305-754-7044",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "PJames@HCNetwork.org",
+		"id": 4351,
+		"name": "Pearl James-Isler",
+		"title": "Manager, Community Health Promotions; Director, HCiOC",
+		"phones": [{
+			"id": 4351,
+			"department": null,
+			"extension": null,
+			"number": "305-835-1565",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "asosa@hcnetwork.org",
+		"id": 4352,
+		"name": "Ailemys Sosa",
+		"title": "HCiOC Navigator",
+		"phones": [{
+			"id": 4352,
+			"department": null,
+			"extension": null,
+			"number": "305-418-2768",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jtchc@hcnetwork.org",
+		"id": 5813,
+		"name": "Annie Neasman",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 5813,
+			"department": null,
+			"extension": null,
+			"number": "305-694-6277",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 6353,
+		"name": "Linda Lott",
+		"title": "Enrollment Specialist",
+		"phones": [{
+			"id": 6353,
+			"department": null,
+			"extension": "15188.0",
+			"number": "305-805-1700",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7051,
+		"name": "Annie Neasman",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 7051,
+			"department": null,
+			"extension": null,
+			"number": "305-694-6270",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "PJames@HCNetwork.org",
+		"id": 7190,
+		"name": "Pearl James-Isler",
+		"title": "Manager, Community Health Promotions; Director, HCiOC",
+		"phones": [{
+			"id": 7190,
+			"department": null,
+			"extension": null,
+			"number": "786-488-2487",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "PJames@HCNetwork.org",
+		"id": 7191,
+		"name": "Pearl James-Isler",
+		"title": "Manager, Community Health Promotions; Director, HCiOC",
+		"phones": [{
+			"id": 7191,
+			"department": null,
+			"extension": null,
+			"number": "786-488-2487",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jtchc@hcnetwork.org",
+		"id": 8006,
+		"name": "Annie Neasman",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 8006,
+			"department": null,
+			"extension": null,
+			"number": "305-691-0470",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jtchc@hcnetwork.org",
+		"id": 8007,
+		"name": "Annie Neasman",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 8007,
+			"department": null,
+			"extension": null,
+			"number": "305-691-1182",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 8008,
+		"name": "Annie Neasman",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 8008,
+			"department": null,
+			"extension": null,
+			"number": "305-636-3336",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jtchc@hcnetwork.org",
+		"id": 8009,
+		"name": "Annie Neasman",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 8009,
+			"department": null,
+			"extension": null,
+			"number": "305-637-6400",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jtchc@hcnetwork.org",
+		"id": 8010,
+		"name": "Annie Neasman",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 8010,
+			"department": null,
+			"extension": null,
+			"number": "305-835-6980",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 101,
+		"department": null,
+		"extension": null,
+		"number": "305-805-1700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 103,
+		"department": null,
+		"extension": null,
+		"number": "305-835-1614",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 104,
+		"department": null,
+		"extension": null,
+		"number": "305-637-6498",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 105,
+		"department": null,
+		"extension": null,
+		"number": "305-694-6900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 106,
+		"department": null,
+		"extension": null,
+		"number": "305-694-6270",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 108,
+		"department": null,
+		"extension": null,
+		"number": "305-887-0004",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4049,
+		"department": null,
+		"extension": null,
+		"number": "305-754-7044",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4351,
+		"department": null,
+		"extension": null,
+		"number": "305-835-1565",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4352,
+		"department": null,
+		"extension": null,
+		"number": "305-418-2768",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5813,
+		"department": null,
+		"extension": null,
+		"number": "305-694-6277",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6353,
+		"department": null,
+		"extension": "15188.0",
+		"number": "305-805-1700",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7051,
+		"department": null,
+		"extension": null,
+		"number": "305-694-6270",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7190,
+		"department": null,
+		"extension": null,
+		"number": "786-488-2487",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7191,
+		"department": null,
+		"extension": null,
+		"number": "786-488-2487",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8006,
+		"department": null,
+		"extension": null,
+		"number": "305-691-0470",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8007,
+		"department": null,
+		"extension": null,
+		"number": "305-691-1182",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8008,
+		"department": null,
+		"extension": null,
+		"number": "305-636-3336",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8009,
+		"department": null,
+		"extension": null,
+		"number": "305-637-6400",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8010,
+		"department": null,
+		"extension": null,
+		"number": "305-835-6980",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

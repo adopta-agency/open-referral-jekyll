@@ -1,0 +1,38 @@
+{
+	"id": 2058,
+	"accreditations": [],
+	"alternate_name": "BBA",
+	"date_incorporated": null,
+	"description": "An advocacy group whose primary function is to positively impact the disparity of wealth and resources available to black businesses. The Association is comprised of business owners, aspiring entrepreneurs and professionals dedicated to enhancing their businesses as well as the economic future of the Black community. Membership benefits include group medical insurance plans, quarterly newsletters, legislative representation, job opportunities, an information clearinghouse, workshops and seminars.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "BLACK BUSINESS ASSOCIATION",
+	"website": "http://www.bbala.org/",
+	"slug": "black-business-association",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/black-business-association",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/black-business-association/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mail@bbala.org",
+		"id": 2058,
+		"name": "Earl Cooper, II",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 2058,
+			"department": null,
+			"extension": null,
+			"number": "323-291-9334",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2058,
+		"department": null,
+		"extension": null,
+		"number": "323-291-9334",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 7823,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Willough at Naples provides treatment for adults suffering from addictive disorders and co-occurring mental health & substance abuse issues (Dual Diagnosis). Our 87-bed facility is run by a team of nurses, counselors, doctors, and administrative staff, and serves Naples, Miami, Fort Myers, and all other communities of southern Florida.\n\nBy offering both residential services with 24-hour care and partial hospitalization programs, The Willough can assist individuals at any stage of the recovery process. \n\nLicensed & Accredited. Insurance Welcome.\nThe Joint Commission National Quality Approval Seal\nThe Willough at Naples is a state-licensed, Medicare-approved, and Joint Commission Accredited facility. \n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE WILLOUGH AT NAPLES",
+	"website": "http://www.thewilloughatnaples.com/",
+	"slug": "the-willough-at-naples",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-willough-at-naples",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-willough-at-naples/locations",
+	"contacts": [{
+		"department": null,
+		"email": "kameron.hudson@gmail.com",
+		"id": 7823,
+		"name": "Kameron Hudson",
+		"title": "Community Outreach Specialist",
+		"phones": [{
+			"id": 7823,
+			"department": null,
+			"extension": null,
+			"number": "239-775-4500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7823,
+		"department": null,
+		"extension": null,
+		"number": "239-775-4500",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

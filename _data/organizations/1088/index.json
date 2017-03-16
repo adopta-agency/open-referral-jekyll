@@ -1,0 +1,61 @@
+{
+	"id": 1088,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Residential Program:\nProvides residential substance abuse treatment for males ages 13-23. Services include counseling, job placement assistance and educational programs. \n\nOutpatient Program:\nOutpatient services available for all ages. Drug screening and internet access are available. Programs run for 3 to 4 months.\n\nDrug Testing:\n* THC (marijuana)\n* Cocaine\n* Benzodiazepines (Xanax, etc.)\n* Amphetamines (Ecstasy, methamphetamines)\n* Opiates (Heroin, Oxycodone, Vicodin, Codeine, Percocets, etc.)\n* Barbiturates\n* Alcohol & Creatinine levels (dilution)",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HERE'S HELP, INC.",
+	"website": "http://www.hereshelpinc.com",
+	"slug": "here-s-help-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/here-s-help-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/here-s-help-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jhernandez@hereshelpinc.com",
+		"id": 1088,
+		"name": "Joshua Hernandez",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 1088,
+			"department": null,
+			"extension": "200.0",
+			"number": "305-685-8201",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "frontdesksouth@hereshelpinc.com",
+		"id": 1089,
+		"name": "Genesis Rodriguez",
+		"title": "Administrative Assistant",
+		"phones": [{
+			"id": 1089,
+			"department": null,
+			"extension": "321.0",
+			"number": "305-238-8500",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1088,
+		"department": null,
+		"extension": "200.0",
+		"number": "305-685-8201",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1089,
+		"department": null,
+		"extension": "321.0",
+		"number": "305-238-8500",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

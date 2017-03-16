@@ -1,0 +1,61 @@
+{
+	"id": 3973,
+	"accreditations": [],
+	"alternate_name": "FSU",
+	"date_incorporated": null,
+	"description": "The FSU Center focuses on infants, toddlers, and their families in the areas of infant mental health, quality child care and home visiting. The FSU Center provides direct services through various grants and State or Federally funded projects to vulnerable families with young children. In Miami-Dade County, this includes training opportunities for child care providers and services to teen mothers and their children in the Juvenile Court.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA STATE UNIVERSITY CENTER FOR PREVENTION AND EARLY INTERVENTION POLICY",
+	"website": "http://www.cpeip.fsu.edu",
+	"slug": "florida-state-university-center-for-prevention-and-early-intervention-policy",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-state-university-center-for-prevention-and-early-intervention-policy",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-state-university-center-for-prevention-and-early-intervention-policy/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mgraham@fsu.edu",
+		"id": 3973,
+		"name": "Dr. Mimi Graham",
+		"title": "Director",
+		"phones": [{
+			"id": 3973,
+			"department": null,
+			"extension": null,
+			"number": "850-922-1300",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jarmbrister@fsu.edu",
+		"id": 3974,
+		"name": "Juanita Armbrister",
+		"title": "Team Leader",
+		"phones": [{
+			"id": 3974,
+			"department": null,
+			"extension": null,
+			"number": "305-479-3233",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3973,
+		"department": null,
+		"extension": null,
+		"number": "850-922-1300",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3974,
+		"department": null,
+		"extension": null,
+		"number": "305-479-3233",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

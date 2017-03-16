@@ -1,0 +1,61 @@
+{
+	"id": 4051,
+	"accreditations": [],
+	"alternate_name": "FOCAL",
+	"date_incorporated": null,
+	"description": "Provides classes and activities designed to enhance students academic achievements, improve social sills, promote healthy lifestyles and expose students to a wide variety of technology and creative art options. The collaboration with the City of Miami Park Department allows FOCAL to provide tutoring, mentors, educational and recreational activities, cultural awareness, and knowledge of and access to computers and social services in a park setting that is fun for participants.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FOUNDATION OF COMMUNITY ASSISTANCE AND LEADERSHIP, INC.",
+	"website": "http://miamifocal.com",
+	"slug": "foundation-of-community-assistance-and-leadership-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/foundation-of-community-assistance-and-leadership-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/foundation-of-community-assistance-and-leadership-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "BHardemon@aol.com",
+		"id": 4051,
+		"name": "Barbara Hardemon",
+		"title": "Program Director",
+		"phones": [{
+			"id": 4051,
+			"department": null,
+			"extension": null,
+			"number": "305-960-5166",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "BHardemon@aol.com",
+		"id": 4052,
+		"name": "Barbara Hardemon",
+		"title": "Program Director",
+		"phones": [{
+			"id": 4052,
+			"department": null,
+			"extension": null,
+			"number": "305-960-5166",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4051,
+		"department": null,
+		"extension": null,
+		"number": "305-960-5166",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4052,
+		"department": null,
+		"extension": null,
+		"number": "305-960-5166",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

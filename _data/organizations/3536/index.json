@@ -1,0 +1,130 @@
+{
+	"id": 3536,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Monroe County Social Services are mostly for elderly, disabled, and indigent clients, with information and referrals given to other agencies. Some emergency assistance is available on a very limited basis to those who meet the requirements. \n\nThis department also:\n* Coordinates all meetings of the Florida Keys Council for People with Disabilities. \n* Was instrumental in extending the Lower Keys Shuttle bus route from Key West to Marathon.\n* Was instrumental in extending the Dade-Monroe Express bus route from Florida City to Marathon \n\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MONROE COUNTY SOCIAL SERVICES",
+	"website": "http://www.monroecounty-fl.gov/index.aspx?NID=140",
+	"slug": "monroe-county-social-services",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/monroe-county-social-services",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/monroe-county-social-services/locations",
+	"contacts": [{
+		"department": null,
+		"email": "graham-sheryl@monroecounty-fl.gov",
+		"id": 3536,
+		"name": "Sheryl Graham",
+		"title": "Director",
+		"phones": [{
+			"id": 3536,
+			"department": null,
+			"extension": null,
+			"number": "305-292-4511",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Barker-Trish@monroecounty-fl.gov",
+		"id": 3537,
+		"name": "Trish Barker",
+		"title": "Senior Administrator",
+		"phones": [{
+			"id": 3537,
+			"department": null,
+			"extension": null,
+			"number": "305-292-4533",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Graham-Sheryl@monroecounty-fl.gov",
+		"id": 3538,
+		"name": "Sheryl Graham",
+		"title": "Director",
+		"phones": [{
+			"id": 3538,
+			"department": null,
+			"extension": null,
+			"number": "305-292-4408",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lamberson-maritza@monroecounty-fl.gov",
+		"id": 7493,
+		"name": "Maritza Lamberson",
+		"title": "Coordinator",
+		"phones": [{
+			"id": 7493,
+			"department": null,
+			"extension": null,
+			"number": "305-292-4422",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "haskins-anna@monroecounty-fl.gov",
+		"id": 7494,
+		"name": "Anna Haskins",
+		"title": "Special Needs Coordinator",
+		"phones": [{
+			"id": 7494,
+			"department": null,
+			"extension": null,
+			"number": "305-292-4591",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3536,
+		"department": null,
+		"extension": null,
+		"number": "305-292-4511",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3537,
+		"department": null,
+		"extension": null,
+		"number": "305-292-4533",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3538,
+		"department": null,
+		"extension": null,
+		"number": "305-292-4408",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7493,
+		"department": null,
+		"extension": null,
+		"number": "305-292-4422",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7494,
+		"department": null,
+		"extension": null,
+		"number": "305-292-4591",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,61 @@
+{
+	"id": 3990,
+	"accreditations": [],
+	"alternate_name": "INSTITUTE FOR SPECIAL MINDS INTERACTING IN A LEARNING ENVIRONMENT",
+	"date_incorporated": null,
+	"description": "I SMILE is an Institute for Special Minds Interacting in a Learning Environment. The goal is to help children with disabilities discover their true abilities and is given the opportunity to reach their greatest potential. The institute began to help parents with young children with Autism. Since early intervention plays an important role, we enroll children as young as 2 years old to receive Applied Behavior Analysis services. Specifically verbal behavior services. There is a low teacher to student ratio of 2-1. Children follow their individualized program which addressed their particular needs.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "I SMILE, INC.",
+	"website": "http://www.ismileflorida.org",
+	"slug": "i-smile-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/i-smile-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/i-smile-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jmschaffer@ismileflorida.org",
+		"id": 3990,
+		"name": "Juliana Hunt",
+		"title": "Director",
+		"phones": [{
+			"id": 3990,
+			"department": null,
+			"extension": null,
+			"number": "305-883-5007",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jmschaffer@ismileflorida.org",
+		"id": 3991,
+		"name": "Juliana Schaffer",
+		"title": "Director",
+		"phones": [{
+			"id": 3991,
+			"department": null,
+			"extension": null,
+			"number": "305-883-5007",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3990,
+		"department": null,
+		"extension": null,
+		"number": "305-883-5007",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3991,
+		"department": null,
+		"extension": null,
+		"number": "305-883-5007",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

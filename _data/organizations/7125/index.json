@@ -1,0 +1,24 @@
+{
+	"id": 7125,
+	"accreditations": [],
+	"alternate_name": "IASP",
+	"date_incorporated": null,
+	"description": "The IASP maintains a list of international suicide crisis centers.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "INTERNATIONAL ASSOCIATION FOR SUICIDE PREVENTION",
+	"website": "http://www.iasp.info/resources/Crisis_Centres/",
+	"slug": "international-association-for-suicide-prevention",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/international-association-for-suicide-prevention",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/international-association-for-suicide-prevention/locations",
+	"contacts": [{
+		"department": null,
+		"email": "earensman@ucc.ie",
+		"id": 7125,
+		"name": "Ella Arensman",
+		"title": "President",
+		"phones": []
+	}],
+	"phones": []
+}

@@ -1,0 +1,61 @@
+{
+	"id": 2131,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides early childhood education to children 2-5 years old and tutoring to children 3-12 years old in the South Miami area. Provides early childhood readiness for children entering K5 in public schools. Services include free tutoring, free music education and behavior modification strategies.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NEW TESTAMENT CHURCH OF GOD - LITTLE ANGELS ACADEMY",
+	"website": "http://www.littleangelsacd.com",
+	"slug": "new-testament-church-of-god-little-angels-academy",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/new-testament-church-of-god-little-angels-academy",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/new-testament-church-of-god-little-angels-academy/locations",
+	"contacts": [{
+		"department": null,
+		"email": "littleangelsacd@earthlink.net",
+		"id": 2131,
+		"name": "Lola Taylor-Jones",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 2131,
+			"department": null,
+			"extension": null,
+			"number": "786-573-0061",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "littleangelsacd@earthlink.net",
+		"id": 2132,
+		"name": "Lola Taylor-Jones",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 2132,
+			"department": null,
+			"extension": null,
+			"number": "786-573-0061",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2131,
+		"department": null,
+		"extension": null,
+		"number": "786-573-0061",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2132,
+		"department": null,
+		"extension": null,
+		"number": "786-573-0061",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

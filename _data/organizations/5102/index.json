@@ -1,0 +1,107 @@
+{
+	"id": 5102,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Guadalupe Center has been offering the children of Immokalee a pipeline to prosperity through educational and special support programs strategically designed to start from six weeks of age and continue through college graduation.\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "GUADALUPE CENTER, INC.",
+	"website": "http://www.guadalupecenter.org",
+	"slug": "guadalupe-center-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/guadalupe-center-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/guadalupe-center-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@guadalupecenter.org",
+		"id": 5102,
+		"name": "Barbara Oppenheim",
+		"title": "President",
+		"phones": [{
+			"id": 5102,
+			"department": null,
+			"extension": null,
+			"number": "239-657-7711",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@guadalupecenter.org",
+		"id": 5104,
+		"name": "Megan McCarthy",
+		"title": "Director of Program Operations",
+		"phones": [{
+			"id": 5104,
+			"department": null,
+			"extension": null,
+			"number": "239-657-7711",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@guadalupecenter.org",
+		"id": 5105,
+		"name": "Megan McCarthy",
+		"title": "Director of Program Operations",
+		"phones": [{
+			"id": 5105,
+			"department": null,
+			"extension": null,
+			"number": "239-657-7711",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@guadalupecenter.org",
+		"id": 5106,
+		"name": "Megan McCarthy",
+		"title": "Director of Program Operations",
+		"phones": [{
+			"id": 5106,
+			"department": null,
+			"extension": null,
+			"number": "239-657-7711",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5102,
+		"department": null,
+		"extension": null,
+		"number": "239-657-7711",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5104,
+		"department": null,
+		"extension": null,
+		"number": "239-657-7711",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5105,
+		"department": null,
+		"extension": null,
+		"number": "239-657-7711",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5106,
+		"department": null,
+		"extension": null,
+		"number": "239-657-7711",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

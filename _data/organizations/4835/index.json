@@ -1,0 +1,61 @@
+{
+	"id": 4835,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Temple Beth Sholom is a Reform Jewish Congregation which seeks to fulfill its religious and ethical goals by being a center for spiritual fulfillment, life-long learning, cultural enrichment, community leadership, social responsibility, and by lovingly entrusting our Reform Jewish tradition from generation to generation.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "TEMPLE BETH SHOLOM, INC.",
+	"website": "http://www.tbsmb.org",
+	"slug": "temple-beth-sholom-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/temple-beth-sholom-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/temple-beth-sholom-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ragbab@aol.com",
+		"id": 4835,
+		"name": "Gary A. Glickstein",
+		"title": "Rabbi",
+		"phones": [{
+			"id": 4835,
+			"department": null,
+			"extension": null,
+			"number": "305-538-7231",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ragbab@aol.com",
+		"id": 4897,
+		"name": "Gary A. Glickstein",
+		"title": "Rabbi",
+		"phones": [{
+			"id": 4897,
+			"department": null,
+			"extension": null,
+			"number": "305-538-7231",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4835,
+		"department": null,
+		"extension": null,
+		"number": "305-538-7231",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4897,
+		"department": null,
+		"extension": null,
+		"number": "305-538-7231",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

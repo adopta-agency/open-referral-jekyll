@@ -1,0 +1,84 @@
+{
+	"id": 6234,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides housing to low and low-to-moderate income residents through Section 8 and public housing programs.\r\n\r\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HOUSING AUTHORITY OF THE CITY OF KEY WEST",
+	"website": "http://www.kwha.org/wordpress0/",
+	"slug": "housing-authority-of-the-city-of-key-west",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/housing-authority-of-the-city-of-key-west",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/housing-authority-of-the-city-of-key-west/locations",
+	"contacts": [{
+		"department": null,
+		"email": "castillom@kwha.org",
+		"id": 6234,
+		"name": "Manuel Castillo",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 6234,
+			"department": null,
+			"extension": "222.0",
+			"number": "305-296-5621",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "castillom@kwha.org",
+		"id": 6236,
+		"name": "Manuel Castillo",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 6236,
+			"department": null,
+			"extension": null,
+			"number": "305-296-5621",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "castillom@kwha.org",
+		"id": 7445,
+		"name": "Manuel Castillo",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7445,
+			"department": null,
+			"extension": null,
+			"number": "305-296-5621",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6234,
+		"department": null,
+		"extension": "222.0",
+		"number": "305-296-5621",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6236,
+		"department": null,
+		"extension": null,
+		"number": "305-296-5621",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7445,
+		"department": null,
+		"extension": null,
+		"number": "305-296-5621",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

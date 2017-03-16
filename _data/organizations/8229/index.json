@@ -1,0 +1,38 @@
+{
+	"id": 8229,
+	"accreditations": [],
+	"alternate_name": "ALOTOA",
+	"date_incorporated": null,
+	"description": "Childcare Center providing:\n\n* Before and Afterschool\n* Tutoring\n* Food Program - Breakfast, Lunch, Snack included\n* Licensed and Insured\n\n\nMiami Dade Transit accessible: \nEarlington Heights Metrorail Station and Bus route 17 & 22",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "A LEAGUE OF THEIR OWN ACADEMY, LLC.",
+	"website": "http://www.alotoacademy.com",
+	"slug": "a-league-of-their-own-academy-llc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/a-league-of-their-own-academy-llc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/a-league-of-their-own-academy-llc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Alotoacademy@aol.com",
+		"id": 8229,
+		"name": "Vanessa",
+		"title": "Director",
+		"phones": [{
+			"id": 8229,
+			"department": null,
+			"extension": null,
+			"number": "305-634-3673",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8229,
+		"department": null,
+		"extension": null,
+		"number": "305-634-3673",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 5252,
+	"accreditations": [],
+	"alternate_name": "IMM-CAA",
+	"date_incorporated": null,
+	"description": "Immokalee Multicultural Multipurpose Community Action Agency provides emergency direct assistance to low income, residents of Collier County. Services include food, clothing, water bill assistance, rental assistance for past due notices , financial assistance for tuition, school text books, uniforms and tool kits. \n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "IMMOKALEE MULTICULTURAL MULTIPURPOSE COMMUNITY ACTION AGENCY, INC.",
+	"website": null,
+	"slug": "immokalee-multicultural-multipurpose-community-action-agency-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/immokalee-multicultural-multipurpose-community-action-agency-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/immokalee-multicultural-multipurpose-community-action-agency-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mija0117@yahoo.com",
+		"id": 5252,
+		"name": "Lillian Dimas",
+		"title": "Case Manager",
+		"phones": [{
+			"id": 5252,
+			"department": null,
+			"extension": null,
+			"number": "239-657-2213",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5252,
+		"department": null,
+		"extension": null,
+		"number": "239-657-2213",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

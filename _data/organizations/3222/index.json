@@ -1,0 +1,38 @@
+{
+	"id": 3222,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Lodge provides emergency shelter for survivors of domestic violence and/or sexual assault and their dependents. Clients that do not wish to remain in the shelter may also receive assistance. In addition, The Lodge provides emergency assistance to men (regardless of sexual orientation) survivors of domestic violence. Services include:\r\n\r\n* Information and Referral\r\n* Counseling\r\n* Case Management\r\n* Child Assessment\r\n* Food\r\n* Financial Assistance\r\n* Legal Assistance\r\n* Housing and Shelter\r\n* Support groups for women and children\r\n* Therapist from Douglas Gardens on-site\r\n\r\nAlso provides a 24 hour hotline and community education to the public on domestic violence issues, works with other community agencies like Legal Aid and Americans for Immigrant Justice for immigrants who need assistance in filing for residency. Certified applicants of the shelter can be assisted with filing for victim compensation as long as they have the police report and can be eligible for up to $1,500 to relocate.\r\n\r\nLength of stay at the shelter is 45 days, facility has 46 beds and 10 cribs available.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE LODGE",
+	"website": "http://www.thelodgemiami.org",
+	"slug": "the-lodge",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-lodge",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-lodge/locations",
+	"contacts": [{
+		"department": null,
+		"email": "gladyst@thelodgemiami.org",
+		"id": 3222,
+		"name": "Gladys Trias",
+		"title": "Program Director",
+		"phones": [{
+			"id": 3222,
+			"department": null,
+			"extension": "242.0",
+			"number": "305-693-0232",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3222,
+		"department": null,
+		"extension": "242.0",
+		"number": "305-693-0232",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

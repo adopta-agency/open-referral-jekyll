@@ -1,0 +1,61 @@
+{
+	"id": 7403,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Unity on the Bay is an inclusive community serving as a catalyst for spiritual awakening, evolution, and action.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "UNITY ON THE BAY, INC.",
+	"website": "http://www.unityonthebay.org/",
+	"slug": "unity-on-the-bay-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/unity-on-the-bay-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/unity-on-the-bay-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "juan@unityonthebay.org",
+		"id": 7403,
+		"name": "Rev. Juan del Hierro",
+		"title": "Director of Ministry Empowerment",
+		"phones": [{
+			"id": 7403,
+			"department": null,
+			"extension": "218.0",
+			"number": "305-573-9191",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "juan@unityonthebay.org",
+		"id": 7404,
+		"name": "Rev. Juan del Hierro",
+		"title": "Director of Ministry Empowerment",
+		"phones": [{
+			"id": 7404,
+			"department": null,
+			"extension": "218.0",
+			"number": "305-573-9191",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7403,
+		"department": null,
+		"extension": "218.0",
+		"number": "305-573-9191",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7404,
+		"department": null,
+		"extension": "218.0",
+		"number": "305-573-9191",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

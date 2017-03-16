@@ -1,0 +1,84 @@
+{
+	"id": 2806,
+	"accreditations": [],
+	"alternate_name": "Juvenile Assessment Center",
+	"date_incorporated": null,
+	"description": "JSD allows representatives from law enforcement and social services to work together under one roof to provide a complete range of services for both at-risk youth and youth involved with the Juvenile Justice System.\n\nThe Juvenile Assessment CenterGu00c7u00d6s portion of the JSD is open to accept arrested juveniles. The JAC is charged with managing the entire process for arrested juveniles for Miami-Dade County. This includes providing the infrastructure for all juvenile justice stakeholders to comply with their respective mandates/requirements and to perform their respective duties; providing daily coordination for juvenile justice system compliance between stakeholders; processing 100% of the arrested juvenile population brought to the JAC according to law; utilizing JAC data systems to organize the arrest population, and applying u0022best practicesu0022 to strategically reduce the number of children processed at the JAC. The JAC must process arrested juveniles in strict compliance with requirements mandated by Florida State Statutes.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI-DADE COUNTY JUVENILE SERVICES",
+	"website": "http://www.miamidade.gov/juvenileservices/",
+	"slug": "miami-dade-county-juvenile-services",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-juvenile-services",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-juvenile-services/locations",
+	"contacts": [{
+		"department": null,
+		"email": "MorrisC@miamidade.gov",
+		"id": 2806,
+		"name": "Morris Copelnad",
+		"title": "Director",
+		"phones": [{
+			"id": 2806,
+			"department": null,
+			"extension": null,
+			"number": "305-755-6200",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "MorrisC@miamidade.gov",
+		"id": 2807,
+		"name": "Morris Copelnad",
+		"title": "Director",
+		"phones": [{
+			"id": 2807,
+			"department": null,
+			"extension": null,
+			"number": "305-755-6200",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "JAC0175@miamidade.gov",
+		"id": 2809,
+		"name": "Elena Angulo",
+		"title": "Program Supervisor",
+		"phones": [{
+			"id": 2809,
+			"department": null,
+			"extension": null,
+			"number": "305-755-6248",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2806,
+		"department": null,
+		"extension": null,
+		"number": "305-755-6200",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2807,
+		"department": null,
+		"extension": null,
+		"number": "305-755-6200",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2809,
+		"department": null,
+		"extension": null,
+		"number": "305-755-6248",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

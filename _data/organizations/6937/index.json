@@ -1,0 +1,61 @@
+{
+	"id": 6937,
+	"accreditations": [],
+	"alternate_name": "KAIR",
+	"date_incorporated": null,
+	"description": "KAIR is a non-profit organization seeking to serve those Middle Keys individuals and families in crisis. Services provided by KAIR include: \n\n* Food - Pre-made meals for the homeless and transients and bags of groceries are distributed for those are able to cook. Thanksgiving and Christmas Feast Baskets available. \n* Medical and Dental - Assistance with prescriptions, co-pays to the clinic, and for medical appointments\n* Optical - Assistance with prescription glasses\n* Rent - Assistance to make a security deposit or a grant towards rent\n* Utilities - Water, electric, basic phone line \n* Transportation - Gas voucher, greyhound, local bus fare\n* ID Documents - Birth certificates, ID, work documents\n* School Supplies - Provides back-to-school backpacks, school supplies\n* Wish List Program - In-Kind donations of household goods, furniture, cars, clothing, baby items, etc., are delivered to KAIR on a daily basis. Items are distributed to Keys residents for free.\n* u0022Live Aboardsu0022 Assistance - Provides sanitation devices and toilet hosing kits to maintain live aboard boats in Boot Key Harbor\n\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "KEYS AREA INTERDENOMINATIONAL RESOURCES, INC.",
+	"website": "http://www.kaironline.net/index.html",
+	"slug": "keys-area-interdenominational-resources-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/keys-area-interdenominational-resources-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/keys-area-interdenominational-resources-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "kaironline@bellsouth.net",
+		"id": 6937,
+		"name": "Marge Roberts",
+		"title": "Director",
+		"phones": [{
+			"id": 6937,
+			"department": null,
+			"extension": null,
+			"number": "305-743-4582",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kaironline@bellsouth.net",
+		"id": 6968,
+		"name": "Marge Roberts",
+		"title": "Director",
+		"phones": [{
+			"id": 6968,
+			"department": null,
+			"extension": null,
+			"number": "305-743-4582",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6937,
+		"department": null,
+		"extension": null,
+		"number": "305-743-4582",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6968,
+		"department": null,
+		"extension": null,
+		"number": "305-743-4582",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,61 @@
+{
+	"id": 3196,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The FTC protects consumers by stopping unfair, deceptive or fraudulent practices in the marketplace. We conduct investigations, sue companies and people that violate the law, develop rules to ensure a vibrant marketplace, and educate consumers and businesses about their rights and responsibilities. We collect complaints about hundreds of issues from data security and deceptive advertising to identity theft and Do Not Call violations, and make them available to law enforcement agencies worldwide for follow-up.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FEDERAL TRADE COMMISSION",
+	"website": "http://www.ftc.gov",
+	"slug": "federal-trade-commission",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/federal-trade-commission",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/federal-trade-commission/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 3196,
+		"name": "Kathy French",
+		"title": "Manager of Consumer Response",
+		"phones": [{
+			"id": 3196,
+			"department": null,
+			"extension": null,
+			"number": "877-438-4338",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 3197,
+		"name": "Kathy French",
+		"title": "Manager of Consumer Services",
+		"phones": [{
+			"id": 3197,
+			"department": null,
+			"extension": null,
+			"number": "877-438-4338",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3196,
+		"department": null,
+		"extension": null,
+		"number": "877-438-4338",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3197,
+		"department": null,
+		"extension": null,
+		"number": "877-438-4338",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

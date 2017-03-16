@@ -1,0 +1,84 @@
+{
+	"id": 2486,
+	"accreditations": [],
+	"alternate_name": "VVHSC",
+	"date_incorporated": null,
+	"description": "The purpose of Vision to Victory Human Services Corporation (VVHSC) is to provide activities, which are aimed at enhancing, preserving and restoring the family. Services include child care, summer program, homebuyer education, money/debt management, post and pre home purchase counseling and foreclosure prevention counseling.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "VISION TO VICTORY HUMAN SERVICES CORPORATION",
+	"website": "http://www.vvhsc.com/index-2.html",
+	"slug": "vision-to-victory-human-services-corporation",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/vision-to-victory-human-services-corporation",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/vision-to-victory-human-services-corporation/locations",
+	"contacts": [{
+		"department": null,
+		"email": "mbryant@vvhsc.com",
+		"id": 2486,
+		"name": "Mae D. Bryant",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 2486,
+			"department": null,
+			"extension": null,
+			"number": "305-691-3464",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dmiller@vvhsc.com",
+		"id": 2487,
+		"name": "Chrissy Miller",
+		"title": "Chief Operating Officer",
+		"phones": [{
+			"id": 2487,
+			"department": null,
+			"extension": null,
+			"number": "305-691-3464",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "bforde@vvhsc.com",
+		"id": 7467,
+		"name": "Barbara Forde",
+		"title": "Center Director",
+		"phones": [{
+			"id": 7467,
+			"department": null,
+			"extension": null,
+			"number": "305-691-3464",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2486,
+		"department": null,
+		"extension": null,
+		"number": "305-691-3464",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2487,
+		"department": null,
+		"extension": null,
+		"number": "305-691-3464",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7467,
+		"department": null,
+		"extension": null,
+		"number": "305-691-3464",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

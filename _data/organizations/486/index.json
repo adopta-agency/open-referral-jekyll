@@ -1,0 +1,107 @@
+{
+	"id": 486,
+	"accreditations": [],
+	"alternate_name": "DOUGLAS GARDENS CMHC",
+	"date_incorporated": null,
+	"description": "The Douglas Gardens Community Mental Health Center provides comprehensive mental health services to people living in the Greater Miami Beach area.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "DOUGLAS GARDENS COMMUNITY MENTAL HEALTH CENTER, INC.",
+	"website": "http://www.dgcmhc.org/",
+	"slug": "douglas-gardens-community-mental-health-center-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/douglas-gardens-community-mental-health-center-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/douglas-gardens-community-mental-health-center-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@dgcmhc.org",
+		"id": 486,
+		"name": "Dr. Daniel Brady",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 486,
+			"department": null,
+			"extension": null,
+			"number": "305-531-5341",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@dgcmhc.org",
+		"id": 490,
+		"name": "Dr. Daniel Brady",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 490,
+			"department": null,
+			"extension": null,
+			"number": "305-531-5341",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@dgcmhc.org",
+		"id": 491,
+		"name": "Dr. Daniel Brady",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 491,
+			"department": null,
+			"extension": null,
+			"number": "305-531-5341",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "info@dgcmhc.org",
+		"id": 493,
+		"name": "Dr. Daniel Brady",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 493,
+			"department": null,
+			"extension": null,
+			"number": "305-531-5341",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 486,
+		"department": null,
+		"extension": null,
+		"number": "305-531-5341",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 490,
+		"department": null,
+		"extension": null,
+		"number": "305-531-5341",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 491,
+		"department": null,
+		"extension": null,
+		"number": "305-531-5341",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 493,
+		"department": null,
+		"extension": null,
+		"number": "305-531-5341",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

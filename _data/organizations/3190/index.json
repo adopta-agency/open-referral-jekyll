@@ -1,0 +1,61 @@
+{
+	"id": 3190,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Cancer Care has been dedicated to providing emotional support, information, and practical help to people with cancer and their loved ones. Services include telephone, online and face-to-face counseling, support groups, education, publications and financial and co-payment assistance. Professional oncology social workers offer personalized care.\r\n\r\n###MON###\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CANCERCARE, INC.",
+	"website": "http://www.cancercare.org",
+	"slug": "cancercare-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/cancercare-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/cancercare-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@cancercare.org",
+		"id": 3190,
+		"name": "Patricia J. Goldsmith",
+		"title": "Chief Executive Officer",
+		"phones": [{
+			"id": 3190,
+			"department": null,
+			"extension": null,
+			"number": "800-813-4673",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "btomlinson@cancercare.org",
+		"id": 3191,
+		"name": "Brian Tomlinson",
+		"title": "Chief Program and Communications Officer",
+		"phones": [{
+			"id": 3191,
+			"department": null,
+			"extension": null,
+			"number": "800-813-4673",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3190,
+		"department": null,
+		"extension": null,
+		"number": "800-813-4673",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3191,
+		"department": null,
+		"extension": null,
+		"number": "800-813-4673",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

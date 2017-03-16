@@ -1,0 +1,38 @@
+{
+	"id": 7391,
+	"accreditations": [],
+	"alternate_name": "HADC",
+	"date_incorporated": null,
+	"description": "Purchases blood glucose testing supplies and insulin for children and college students who are financially distressed.\r\n\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HELP A DIABETIC CHILD, INC.",
+	"website": "http://www.helpadiabeticchild.org",
+	"slug": "help-a-diabetic-child-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/help-a-diabetic-child-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/help-a-diabetic-child-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "hlpdiabeticchild@aol.com",
+		"id": 7391,
+		"name": "Tami Balavage",
+		"title": "Founder",
+		"phones": [{
+			"id": 7391,
+			"department": null,
+			"extension": null,
+			"number": "239-821-5051",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7391,
+		"department": null,
+		"extension": null,
+		"number": "239-821-5051",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

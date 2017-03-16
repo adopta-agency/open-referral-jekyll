@@ -1,0 +1,38 @@
+{
+	"id": 5809,
+	"accreditations": [],
+	"alternate_name": "CLEARPOINT",
+	"date_incorporated": null,
+	"description": "Clearpoint is a national nonprofit, mission-driven organization with over 50 years of experience providing personalized financial counseling and education to consumers by phone or online, and in person. Our counselors help people gain a full perspective of their financial situation, identify their goals and make a plan to achieve them. \n\nClearpoint is a member agency of the National Foundation for Credit Counseling (NFCC) and a system-wide accredited business with the Better Business Bureau. All counselors are NFCC certified and approved by the U.S. Department of Housing and Urban Development. \n\nOur Services: \n* Budget and Credit Counseling\n* Debt Management Program\n* Pre-purchase Housing Counseling\n* Foreclosure Prevention\n* Reverse Mortgage Help\n* Bankruptcy Education\n* Student Loan Counseling",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CLEARPOINT CREDIT COUNSELING SOLUTIONS",
+	"website": "http://www.clearpoint.org/office-locations/florida/miami/",
+	"slug": "clearpoint-credit-counseling-solutions",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/clearpoint-credit-counseling-solutions",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/clearpoint-credit-counseling-solutions/locations",
+	"contacts": [{
+		"department": null,
+		"email": "giovanna.gilliotti@clearpointccs.org",
+		"id": 5809,
+		"name": "Giovanna Gilliotti",
+		"title": "Community Outreach Specialist",
+		"phones": [{
+			"id": 5809,
+			"department": null,
+			"extension": "1019.0",
+			"number": "305-592-9298",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5809,
+		"department": null,
+		"extension": "1019.0",
+		"number": "305-592-9298",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

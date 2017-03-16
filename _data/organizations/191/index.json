@@ -1,0 +1,38 @@
+{
+	"id": 191,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Recreation Department strives to provide the residents of Miami Shores Village with the best in leisure programs and recreational facilities. The Department is comprised of several divisions: Administration, Aquatic Center, Athletics, Community Center, Tennis Center and Special Events. Programs are designed to provide an uplifting experience for the participants and/or spectators.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI SHORES RECREATION DEPARTMENT",
+	"website": "http://www.miamishoresvillage.com/village-department/recreation",
+	"slug": "miami-shores-recreation-department",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-shores-recreation-department",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-shores-recreation-department/locations",
+	"contacts": [{
+		"department": null,
+		"email": "BentonT@miamishoresvillage.com",
+		"id": 191,
+		"name": "Tom Benton",
+		"title": "Village Manager",
+		"phones": [{
+			"id": 191,
+			"department": null,
+			"extension": null,
+			"number": "305-758-8103",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 191,
+		"department": null,
+		"extension": null,
+		"number": "305-758-8103",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

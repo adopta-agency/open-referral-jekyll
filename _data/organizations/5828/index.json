@@ -1,0 +1,130 @@
+{
+	"id": 5828,
+	"accreditations": [],
+	"alternate_name": "FTTF",
+	"date_incorporated": null,
+	"description": "Footsteps to the Future provides programs such as evidence-based mentoring, transitional living coaching, academic achievement, life skills training, mental/emotional well-being, tutoring, leadership and advocacy for young women in and aging out of foster care. \n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FOOTSTEPS TO THE FUTURE, INC.",
+	"website": "http://www.footstepstothefuture.org",
+	"slug": "footsteps-to-the-future-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/footsteps-to-the-future-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/footsteps-to-the-future-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "j.woods@footstepstothefuture.org",
+		"id": 5828,
+		"name": "Judi L. Woods",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5828,
+			"department": null,
+			"extension": null,
+			"number": "239-275-5834",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "d.vanderveer@footstepstothefuture.org",
+		"id": 5829,
+		"name": "Deb Vanderveer",
+		"title": "Administrator",
+		"phones": [{
+			"id": 5829,
+			"department": null,
+			"extension": null,
+			"number": "239-275-5834",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "d.vanderveer@footstepstothefuture.org",
+		"id": 5830,
+		"name": "Deb Vanderveer",
+		"title": "Administrator",
+		"phones": [{
+			"id": 5830,
+			"department": null,
+			"extension": null,
+			"number": "239-275-5834",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "d.vanderveer@footstepstothefuture.org",
+		"id": 5831,
+		"name": "Deb Vanderveer",
+		"title": "Administrator",
+		"phones": [{
+			"id": 5831,
+			"department": null,
+			"extension": null,
+			"number": "239-275-5834",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "d.vanderveer@footstepstothefuture.org",
+		"id": 5832,
+		"name": "Deb Vanderveer",
+		"title": "Administrator",
+		"phones": [{
+			"id": 5832,
+			"department": null,
+			"extension": null,
+			"number": "239-275-5834",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5828,
+		"department": null,
+		"extension": null,
+		"number": "239-275-5834",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5829,
+		"department": null,
+		"extension": null,
+		"number": "239-275-5834",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5830,
+		"department": null,
+		"extension": null,
+		"number": "239-275-5834",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5831,
+		"department": null,
+		"extension": null,
+		"number": "239-275-5834",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5832,
+		"department": null,
+		"extension": null,
+		"number": "239-275-5834",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

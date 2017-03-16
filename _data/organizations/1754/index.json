@@ -1,0 +1,84 @@
+{
+	"id": 1754,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "This program provides self help materials and information to fathers during pre-divorce, divorce and post-divorce times. Also assists unwed fathers in Family Court, and provides assistance with custody and time-sharing.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FATHERS FOR EQUAL RIGHTS, THE NATIONAL ORGANIZATION, INC.",
+	"website": "http://www.fathersforequalrights-miami.org",
+	"slug": "fathers-for-equal-rights-the-national-organization-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/fathers-for-equal-rights-the-national-organization-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/fathers-for-equal-rights-the-national-organization-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "dadds773@gmail.com",
+		"id": 1754,
+		"name": "Sam Ross",
+		"title": "President",
+		"phones": [{
+			"id": 1754,
+			"department": null,
+			"extension": null,
+			"number": "305-335-9077",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "store1730@theupsstore.com",
+		"id": 7341,
+		"name": "Sam Ross",
+		"title": "President",
+		"phones": [{
+			"id": 7341,
+			"department": null,
+			"extension": null,
+			"number": "305-335-9077",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dadds773@gmail.com",
+		"id": 7342,
+		"name": "Sam Ross",
+		"title": "President",
+		"phones": [{
+			"id": 7342,
+			"department": null,
+			"extension": null,
+			"number": "305-335-9077",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1754,
+		"department": null,
+		"extension": null,
+		"number": "305-335-9077",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7341,
+		"department": null,
+		"extension": null,
+		"number": "305-335-9077",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7342,
+		"department": null,
+		"extension": null,
+		"number": "305-335-9077",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

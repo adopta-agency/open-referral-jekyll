@@ -1,0 +1,107 @@
+{
+	"id": 1119,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The council for the rights of people over 60 years old who live in long-term care settings such as nursing homes, assisted living facilities, and adult family care homes. The ombudsmen investigate complaints made by or on behalf of residents and inspect the homes.\n\n###COL###\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "LONG TERM CARE OMBUDSMAN COUNCIL",
+	"website": "http://ombudsman.myflorida.com",
+	"slug": "long-term-care-ombudsman-council",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/long-term-care-ombudsman-council",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/long-term-care-ombudsman-council/locations",
+	"contacts": [{
+		"department": null,
+		"email": "LTCOPInformer@elderaffairs.org",
+		"id": 1119,
+		"name": "Leigh Davis",
+		"title": "State Ombudsman",
+		"phones": [{
+			"id": 1119,
+			"department": null,
+			"extension": null,
+			"number": "888-831-0404",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "keppisr@elderaffairs.org",
+		"id": 1120,
+		"name": "Ramon Keppis",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 1120,
+			"department": null,
+			"extension": null,
+			"number": "305-671-7245",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "keppisr@elderaffairs.org",
+		"id": 1122,
+		"name": "Ramon Keppis",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 1122,
+			"department": null,
+			"extension": null,
+			"number": "786-336-1418",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "keppisr@elderaffairs.org",
+		"id": 7743,
+		"name": "Ramon Keppis",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 7743,
+			"department": null,
+			"extension": null,
+			"number": "239-338-2563",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1119,
+		"department": null,
+		"extension": null,
+		"number": "888-831-0404",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1120,
+		"department": null,
+		"extension": null,
+		"number": "305-671-7245",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1122,
+		"department": null,
+		"extension": null,
+		"number": "786-336-1418",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7743,
+		"department": null,
+		"extension": null,
+		"number": "239-338-2563",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

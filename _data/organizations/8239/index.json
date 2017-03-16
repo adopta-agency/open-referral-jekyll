@@ -1,0 +1,38 @@
+{
+	"id": 8239,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides free special needs fitness sports karate classes for kids 5 to 12 years old and private fitness sessions for special needs individuals of all ages at a reduced rate, first session is free.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FITNESS SPORTS KARATE, INC.",
+	"website": "http://www.facebook.com/FitnessSportsKarateInc",
+	"slug": "fitness-sports-karate-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/fitness-sports-karate-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/fitness-sports-karate-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "carlosfitness@yahoo.com",
+		"id": 8239,
+		"name": "Carlos Uz",
+		"title": "Head Coach",
+		"phones": [{
+			"id": 8239,
+			"department": null,
+			"extension": null,
+			"number": "786-210-0274",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8239,
+		"department": null,
+		"extension": null,
+		"number": "786-210-0274",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

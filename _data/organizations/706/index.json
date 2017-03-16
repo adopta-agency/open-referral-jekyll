@@ -1,0 +1,38 @@
+{
+	"id": 706,
+	"accreditations": [],
+	"alternate_name": "Up With Down Syndrome Foundation, Inc.",
+	"date_incorporated": null,
+	"description": "The Possible Dream Foundation is a group home that provides a variety of services to individuals of all ages with Down Syndrome and other disabling conditions.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "POSSIBLE DREAM FOUNDATION, INC.",
+	"website": "http://www.possibledream.org",
+	"slug": "possible-dream-foundation-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/possible-dream-foundation-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/possible-dream-foundation-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "possdream@aol.com",
+		"id": 706,
+		"name": "Camille Geraldi",
+		"title": "Founder & Director",
+		"phones": [{
+			"id": 706,
+			"department": null,
+			"extension": null,
+			"number": "305-252-2552",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 706,
+		"department": null,
+		"extension": null,
+		"number": "305-252-2552",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

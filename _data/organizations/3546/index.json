@@ -1,0 +1,107 @@
+{
+	"id": 3546,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The U.S. Fish & Wildlife Services works with others to conserve, protect and enhance fish, wildlife and plants and their habitats for the continuing benefit of the American people.\n\n###COL###\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "U.S. FISH AND WILDLIFE SERVICES",
+	"website": "http://www.fws.gov",
+	"slug": "u-s-fish-and-wildlife-services",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-fish-and-wildlife-services",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-fish-and-wildlife-services/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 3546,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 3546,
+			"department": null,
+			"extension": null,
+			"number": "800-344-9453",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 3547,
+		"name": "Information",
+		"title": "Refuge Manager",
+		"phones": [{
+			"id": 3547,
+			"department": null,
+			"extension": null,
+			"number": "305-872-2239",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 4118,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 4118,
+			"department": null,
+			"extension": null,
+			"number": "800-344-9453",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 4119,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 4119,
+			"department": null,
+			"extension": null,
+			"number": "800-344-9453",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3546,
+		"department": null,
+		"extension": null,
+		"number": "800-344-9453",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3547,
+		"department": null,
+		"extension": null,
+		"number": "305-872-2239",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4118,
+		"department": null,
+		"extension": null,
+		"number": "800-344-9453",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4119,
+		"department": null,
+		"extension": null,
+		"number": "800-344-9453",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

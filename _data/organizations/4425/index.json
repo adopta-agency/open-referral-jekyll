@@ -1,0 +1,61 @@
+{
+	"id": 4425,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Offering an array of clinical services; such as individual, family, couples, and group counseling services.\nln addition to parenting groups, mental health evaluations, court supervised visitation, therapeutic visitation, monitored exchange and home studying for court ordered cases and adoption, we also provide victim services, substance abuse treatment, life coaching, anger management, stress management, self mutilation, auto destructive behaviors and grief and bereavement counseling.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "PINECREST COUNSELING INC.",
+	"website": "http://www.pinecrestcounseling.com",
+	"slug": "pinecrest-counseling-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/pinecrest-counseling-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/pinecrest-counseling-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "morecounseling@gmail.com",
+		"id": 4425,
+		"name": "Iris More",
+		"title": "Director",
+		"phones": [{
+			"id": 4425,
+			"department": null,
+			"extension": null,
+			"number": "305-667-5595",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "morecounseling@gmail.com",
+		"id": 4426,
+		"name": "Iris More",
+		"title": "Director",
+		"phones": [{
+			"id": 4426,
+			"department": null,
+			"extension": null,
+			"number": "305-667-5595",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4425,
+		"department": null,
+		"extension": null,
+		"number": "305-667-5595",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4426,
+		"department": null,
+		"extension": null,
+		"number": "305-667-5595",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

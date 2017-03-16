@@ -1,0 +1,61 @@
+{
+	"id": 6735,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Court Care provides a safe and supervised drop-in childcare facility for children who must be in court in connection with matters involving the children or their parents or guardian. Court Care is staffed with trained and certified personnel who provide for a secure, supportive, and nurturing environment where the children can learn and play while parties attend to court business.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ELEVENTH JUDICIAL CIRCUIT OF FLORIDA - COURT CARE",
+	"website": "http://www.jud11.flcourts.org/Court-Care",
+	"slug": "eleventh-judicial-circuit-of-florida-court-care",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/eleventh-judicial-circuit-of-florida-court-care",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/eleventh-judicial-circuit-of-florida-court-care/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 6736,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 6736,
+			"department": null,
+			"extension": null,
+			"number": "305-349-6020",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 6737,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 6737,
+			"department": null,
+			"extension": null,
+			"number": "305-548-5128",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6736,
+		"department": null,
+		"extension": null,
+		"number": "305-349-6020",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6737,
+		"department": null,
+		"extension": null,
+		"number": "305-548-5128",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

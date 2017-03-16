@@ -1,0 +1,38 @@
+{
+	"id": 4293,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Educate Tomorrow is dedicated to serving any student in need. However, there is a great opportunity for students that qualify for the Florida tuition waiver and Educate Tomorrow is determined to make sure the tuition waiver is being used successfully by supporting High School and College students reach their education related goals.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "EDUCATE TOMORROW, INC.",
+	"website": "http://educatetomorrow.org",
+	"slug": "educate-tomorrow-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/educate-tomorrow-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/educate-tomorrow-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Devin@educatetomorrow.org",
+		"id": 4293,
+		"name": "Devin Floyd",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 4293,
+			"department": null,
+			"extension": null,
+			"number": "305-374-3751",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4293,
+		"department": null,
+		"extension": null,
+		"number": "305-374-3751",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

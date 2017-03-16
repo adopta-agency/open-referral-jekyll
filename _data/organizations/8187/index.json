@@ -1,0 +1,38 @@
+{
+	"id": 8187,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Offers day care services that includes school reading and a food program.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ORAIMA GANDARA FAMILY DAY CARE",
+	"website": null,
+	"slug": "oraima-gandara-family-day-care",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/oraima-gandara-family-day-care",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/oraima-gandara-family-day-care/locations",
+	"contacts": [{
+		"department": null,
+		"email": "cubanlady2015@yahoo.com",
+		"id": 8187,
+		"name": "Oraima Gandara",
+		"title": "Owner",
+		"phones": [{
+			"id": 8187,
+			"department": null,
+			"extension": null,
+			"number": "305-696-9149",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8187,
+		"department": null,
+		"extension": null,
+		"number": "305-696-9149",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

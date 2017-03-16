@@ -1,0 +1,199 @@
+{
+	"id": 45,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Under state law, most organizations which solicit contributions in Florida must register with the Florida Department of Agriculture and Consumer Services. Oversees the Division of Consumer Services and the Division of Agricultural Environmental Services and Division of Food Safety.\n\n###COL###\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA DEPARTMENT OF AGRICULTURE AND CONSUMER SERVICES",
+	"website": "http://www.freshfromflorida.com",
+	"slug": "florida-department-of-agriculture-and-consumer-services",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-department-of-agriculture-and-consumer-services",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-department-of-agriculture-and-consumer-services/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Adam.Putnam@freshfromflorida.com",
+		"id": 45,
+		"name": "Adam H. Putnam",
+		"title": "Commissioner",
+		"phones": [{
+			"id": 45,
+			"department": null,
+			"extension": null,
+			"number": "850-245-5520",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Dale.Dubberly@FreshFromFlorida.com",
+		"id": 46,
+		"name": "Dale Dubberly",
+		"title": "Bureau Chief",
+		"phones": [{
+			"id": 46,
+			"department": null,
+			"extension": null,
+			"number": "850-617-7996",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "foodsafe@doacs.state.fl.us",
+		"id": 47,
+		"name": "Lee Cornman",
+		"title": "Division Director",
+		"phones": [{
+			"id": 47,
+			"department": null,
+			"extension": null,
+			"number": "305-639-3560",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Adam.Putnam@freshfromflorida.com",
+		"id": 48,
+		"name": "Adam H. Putnam",
+		"title": "Commissioner",
+		"phones": [{
+			"id": 48,
+			"department": null,
+			"extension": null,
+			"number": "800-435-7352",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "cswebmaster@doacs.state.fl.us",
+		"id": 49,
+		"name": "Tom A. Steckler",
+		"title": "Division Director",
+		"phones": [{
+			"id": 49,
+			"department": null,
+			"extension": null,
+			"number": "800-435-7352",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Adam.Putnam@freshfromflorida.com",
+		"id": 51,
+		"name": "Adam H. Putnam",
+		"title": "Commissioner",
+		"phones": [{
+			"id": 51,
+			"department": null,
+			"extension": null,
+			"number": "800-435-7352",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Rachel.Mohler@freshfromflorida.com",
+		"id": 5642,
+		"name": "Rachel Mohler",
+		"title": "Program Director",
+		"phones": [{
+			"id": 5642,
+			"department": null,
+			"extension": null,
+			"number": "850-617-7400",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Rachel.Mohler@freshfromflorida.com",
+		"id": 7760,
+		"name": "Rachel Mohler",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7760,
+			"department": null,
+			"extension": null,
+			"number": "850-617-7400",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 45,
+		"department": null,
+		"extension": null,
+		"number": "850-245-5520",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 46,
+		"department": null,
+		"extension": null,
+		"number": "850-617-7996",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 47,
+		"department": null,
+		"extension": null,
+		"number": "305-639-3560",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 48,
+		"department": null,
+		"extension": null,
+		"number": "800-435-7352",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 49,
+		"department": null,
+		"extension": null,
+		"number": "800-435-7352",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 51,
+		"department": null,
+		"extension": null,
+		"number": "800-435-7352",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5642,
+		"department": null,
+		"extension": null,
+		"number": "850-617-7400",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7760,
+		"department": null,
+		"extension": null,
+		"number": "850-617-7400",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

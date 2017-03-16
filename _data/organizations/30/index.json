@@ -1,0 +1,199 @@
+{
+	"id": 30,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Responsible for initiating charges and prosecuting individuals who have been accused of felony and misdemeanor offenses. Enforces child support orders and investigates allegations of major fraud, organized criminal activity, corruption and unlawful conduct by public officials.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI-DADE OFFICE OF THE STATE ATTORNEY",
+	"website": "http://www.miamisao.com",
+	"slug": "miami-dade-office-of-the-state-attorney",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-office-of-the-state-attorney",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-office-of-the-state-attorney/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 30,
+		"name": "Katherine Fernandez Rundle",
+		"title": "State Attorney",
+		"phones": [{
+			"id": 30,
+			"department": null,
+			"extension": null,
+			"number": "305-547-0100",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sandralawrence@miamisao.com",
+		"id": 31,
+		"name": "Sandra Lawrence",
+		"title": "Chief Admin. for Victims/Witness Service Unit",
+		"phones": [{
+			"id": 31,
+			"department": null,
+			"extension": null,
+			"number": "305-547-0512",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 32,
+		"name": "Leah Klein",
+		"title": "Division Chief for Domestic Crimes",
+		"phones": [{
+			"id": 32,
+			"department": null,
+			"extension": null,
+			"number": "305-349-5830",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 33,
+		"name": "Laura Adams",
+		"title": "Division Chief - Sexual Battery Unit",
+		"phones": [{
+			"id": 33,
+			"department": null,
+			"extension": null,
+			"number": "305-547-0115",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 35,
+		"name": "Laura Adams",
+		"title": "Division Chief",
+		"phones": [{
+			"id": 35,
+			"department": null,
+			"extension": null,
+			"number": "305-547-0160",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 36,
+		"name": "Hilene S. Bilchik",
+		"title": "Director",
+		"phones": [{
+			"id": 36,
+			"department": null,
+			"extension": null,
+			"number": "305-530-2600",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sandralawrence@miamisao.com",
+		"id": 6008,
+		"name": "Sandra Lawrence",
+		"title": "Chief Admin. for Victims/Witness Service Unit",
+		"phones": [{
+			"id": 6008,
+			"department": null,
+			"extension": null,
+			"number": "305-350-5567",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sandralawrence@miamisao.com",
+		"id": 8203,
+		"name": "Sandra Lawrence",
+		"title": "Chief Admin. for Victims/Witness Service Unit",
+		"phones": [{
+			"id": 8203,
+			"department": null,
+			"extension": null,
+			"number": "305-547-0100",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 30,
+		"department": null,
+		"extension": null,
+		"number": "305-547-0100",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 31,
+		"department": null,
+		"extension": null,
+		"number": "305-547-0512",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 32,
+		"department": null,
+		"extension": null,
+		"number": "305-349-5830",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 33,
+		"department": null,
+		"extension": null,
+		"number": "305-547-0115",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 35,
+		"department": null,
+		"extension": null,
+		"number": "305-547-0160",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 36,
+		"department": null,
+		"extension": null,
+		"number": "305-530-2600",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6008,
+		"department": null,
+		"extension": null,
+		"number": "305-350-5567",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8203,
+		"department": null,
+		"extension": null,
+		"number": "305-547-0100",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

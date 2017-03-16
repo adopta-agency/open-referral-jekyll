@@ -1,0 +1,38 @@
+{
+	"id": 7772,
+	"accreditations": [],
+	"alternate_name": "ST. PETER CATHOLIC CHURCH",
+	"date_incorporated": null,
+	"description": "St. Peter Catholic Church provides a food pantry for those in the community who are hungry and in need of food assistance.\n\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SAINT PETER CATHOLIC CHURCH",
+	"website": "http://www.stpeterbpk.org/home.html",
+	"slug": "saint-peter-catholic-church",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/saint-peter-catholic-church",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/saint-peter-catholic-church/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Jennifer@stpeterbpk.org",
+		"id": 7772,
+		"name": "Jennifer",
+		"title": "Office Manager",
+		"phones": [{
+			"id": 7772,
+			"department": null,
+			"extension": null,
+			"number": "305-872-2537",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7772,
+		"department": null,
+		"extension": null,
+		"number": "305-872-2537",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

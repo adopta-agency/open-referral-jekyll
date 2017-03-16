@@ -1,0 +1,130 @@
+{
+	"id": 2717,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Trinity Church's Peacemakers Family Service Center is a non-profit faith-based organization.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "TRINITY CHURCH, INC.",
+	"website": "http://www.peacemakers.com",
+	"slug": "trinity-church-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/trinity-church-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/trinity-church-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "lfreeman@peacemakers.com",
+		"id": 2717,
+		"name": "Rev. Linda Freeman",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 2717,
+			"department": null,
+			"extension": null,
+			"number": "305-893-0851",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "lfreeman@peacemakers.com",
+		"id": 2718,
+		"name": "Rev. Linda Freeman",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 2718,
+			"department": null,
+			"extension": null,
+			"number": "786-888-4673",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "khardcastle@peacemakers.com",
+		"id": 2720,
+		"name": "Kathleen Hardcastle",
+		"title": "Director of Education",
+		"phones": [{
+			"id": 2720,
+			"department": null,
+			"extension": null,
+			"number": "786-888-5433",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "strujillo@holycrossministries.com",
+		"id": 5383,
+		"name": "Soraya Trujillo",
+		"title": "Site Coordinator",
+		"phones": [{
+			"id": 5383,
+			"department": null,
+			"extension": null,
+			"number": "305-893-0851",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "khardcastle@peacemakers.com",
+		"id": 7248,
+		"name": "Kathleen Hardcastle",
+		"title": "Director of Education",
+		"phones": [{
+			"id": 7248,
+			"department": null,
+			"extension": null,
+			"number": "786-888-5433",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2717,
+		"department": null,
+		"extension": null,
+		"number": "305-893-0851",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2718,
+		"department": null,
+		"extension": null,
+		"number": "786-888-4673",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2720,
+		"department": null,
+		"extension": null,
+		"number": "786-888-5433",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5383,
+		"department": null,
+		"extension": null,
+		"number": "305-893-0851",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7248,
+		"department": null,
+		"extension": null,
+		"number": "786-888-5433",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

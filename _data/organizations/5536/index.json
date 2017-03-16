@@ -1,0 +1,222 @@
+{
+	"id": 5536,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides information and referral, support groups, divorce education, children's mental wellness program, senior peer counseling program, continuing education for professionals, workplace wellness program \n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MENTAL HEALTH ASSOCIATION OF SOUTHWEST FLORIDA, INC.",
+	"website": "http://www.mhaswfl.org",
+	"slug": "mental-health-association-of-southwest-florida-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/mental-health-association-of-southwest-florida-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/mental-health-association-of-southwest-florida-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "pjones@mhaswfl.org",
+		"id": 5536,
+		"name": "Petra Jones",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5536,
+			"department": null,
+			"extension": null,
+			"number": "239-261-5405",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "pjones@mhaswfl.org",
+		"id": 5537,
+		"name": "Petra Jones",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5537,
+			"department": null,
+			"extension": null,
+			"number": "239-261-5405",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "pjones@mhaswfl.org",
+		"id": 5538,
+		"name": "Petra Jones",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5538,
+			"department": null,
+			"extension": null,
+			"number": "239-261-5405",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "pjones@mhaswfl.org",
+		"id": 5539,
+		"name": "Petra Jones",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5539,
+			"department": null,
+			"extension": null,
+			"number": "239-261-5405",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "pjones@mhaswfl.org",
+		"id": 5540,
+		"name": "Petra Jones",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5540,
+			"department": null,
+			"extension": null,
+			"number": "239-261-5405",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "pjones@mhaswfl.org",
+		"id": 5541,
+		"name": "Petra Jones",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5541,
+			"department": null,
+			"extension": null,
+			"number": "239-261-5405",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "pjones@mhaswfl.org",
+		"id": 5549,
+		"name": "Petra Jones",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5549,
+			"department": null,
+			"extension": null,
+			"number": "239-261-5405",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "pjones@mhaswfl.org",
+		"id": 5551,
+		"name": "Petra Jones",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5551,
+			"department": null,
+			"extension": null,
+			"number": "239-261-5405",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "pjones@mhaswfl.org",
+		"id": 5552,
+		"name": "Petra Jones",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5552,
+			"department": null,
+			"extension": null,
+			"number": "239-261-5405",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5536,
+		"department": null,
+		"extension": null,
+		"number": "239-261-5405",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5537,
+		"department": null,
+		"extension": null,
+		"number": "239-261-5405",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5538,
+		"department": null,
+		"extension": null,
+		"number": "239-261-5405",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5539,
+		"department": null,
+		"extension": null,
+		"number": "239-261-5405",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5540,
+		"department": null,
+		"extension": null,
+		"number": "239-261-5405",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5541,
+		"department": null,
+		"extension": null,
+		"number": "239-261-5405",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5549,
+		"department": null,
+		"extension": null,
+		"number": "239-261-5405",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5551,
+		"department": null,
+		"extension": null,
+		"number": "239-261-5405",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5552,
+		"department": null,
+		"extension": null,
+		"number": "239-261-5405",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	"id": 5361,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Greater Marco Family YMCA is not only a place where the whole family can have fun and get fit itGu00c7u00d6s a place to become connected and build friendships. As the hub of the Greater Marco community, the Greater Marco Family YMCA offers family-friendly health and wellness programs for all ages.\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE GREATER MARCO FAMILY YMCA, INC.",
+	"website": "http://www.marcoislandymca.org",
+	"slug": "the-greater-marco-family-ymca-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-greater-marco-family-ymca-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-greater-marco-family-ymca-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ceo@marcoy.org",
+		"id": 5361,
+		"name": "Cindy Love",
+		"title": "Chief Executive Officer",
+		"phones": []
+	}],
+	"phones": []
+}

@@ -1,0 +1,268 @@
+{
+	"id": 2194,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Our mission is to foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "U.S. DEPARTMENT OF LABOR",
+	"website": "http://www.dol.gov",
+	"slug": "u-s-department-of-labor",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-department-of-labor",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-department-of-labor/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 2194,
+		"name": "Thomas Perez",
+		"title": "Secretary of Labor",
+		"phones": [{
+			"id": 2194,
+			"department": null,
+			"extension": null,
+			"number": "866-487-2345",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 2195,
+		"name": "Thomas E. Perez",
+		"title": "Secretary of Labor",
+		"phones": [{
+			"id": 2195,
+			"department": null,
+			"extension": null,
+			"number": "866-487-2365",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 2197,
+		"name": "Daniel Ford III",
+		"title": "Assistant District Director",
+		"phones": [{
+			"id": 2197,
+			"department": null,
+			"extension": null,
+			"number": "800-204-2418",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 2198,
+		"name": "Norman Rivera",
+		"title": "District Supervisor",
+		"phones": [{
+			"id": 2198,
+			"department": null,
+			"extension": null,
+			"number": "954-424-4022",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 4438,
+		"name": "Will Garnitz",
+		"title": "District Director",
+		"phones": [{
+			"id": 4438,
+			"department": null,
+			"extension": null,
+			"number": "305-598-6607",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "national_office@jobcorps.gov",
+		"id": 4441,
+		"name": "Lenita Jacobs-Simmons",
+		"title": "National Director",
+		"phones": [{
+			"id": 4441,
+			"department": null,
+			"extension": null,
+			"number": "800-733-5627",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "talktodol@dol.gov",
+		"id": 4442,
+		"name": "Thomas Perez",
+		"title": "Secretary of Labor",
+		"phones": [{
+			"id": 4442,
+			"department": null,
+			"extension": null,
+			"number": "877-872-5627",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 4443,
+		"name": "Darlene Fossum",
+		"title": "Area Director",
+		"phones": [{
+			"id": 4443,
+			"department": null,
+			"extension": null,
+			"number": "954-424-0242",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Geoghegan.Mary@jobcorps.gov",
+		"id": 4444,
+		"name": "Mary Geoghegan",
+		"title": "Director",
+		"phones": [{
+			"id": 4444,
+			"department": null,
+			"extension": null,
+			"number": "305-620-3100",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Diaz.Lesly@jobcorps.org",
+		"id": 4445,
+		"name": "Lesly Diaz",
+		"title": "Business & Community Liason",
+		"phones": [{
+			"id": 4445,
+			"department": null,
+			"extension": null,
+			"number": "305-257-4800",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ortiz-baerga.jacqueline@dol.gov",
+		"id": 6805,
+		"name": "Jacqueline Ortiz-Baerga",
+		"title": "Assistant District Director",
+		"phones": [{
+			"id": 6805,
+			"department": null,
+			"extension": null,
+			"number": "305-536-5670",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2194,
+		"department": null,
+		"extension": null,
+		"number": "866-487-2345",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2195,
+		"department": null,
+		"extension": null,
+		"number": "866-487-2365",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2197,
+		"department": null,
+		"extension": null,
+		"number": "800-204-2418",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2198,
+		"department": null,
+		"extension": null,
+		"number": "954-424-4022",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4438,
+		"department": null,
+		"extension": null,
+		"number": "305-598-6607",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4441,
+		"department": null,
+		"extension": null,
+		"number": "800-733-5627",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4442,
+		"department": null,
+		"extension": null,
+		"number": "877-872-5627",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4443,
+		"department": null,
+		"extension": null,
+		"number": "954-424-0242",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4444,
+		"department": null,
+		"extension": null,
+		"number": "305-620-3100",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4445,
+		"department": null,
+		"extension": null,
+		"number": "305-257-4800",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6805,
+		"department": null,
+		"extension": null,
+		"number": "305-536-5670",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

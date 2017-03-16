@@ -1,0 +1,38 @@
+{
+	"id": 530,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Arthritis Foundation's mission is to improve lives through leadership in the prevention, control and cure of arthritis and related diseases.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "ARTHRITIS FOUNDATION - FLORIDA CHAPTER",
+	"website": "http://www.arthritis.org/florida/",
+	"slug": "arthritis-foundation-florida-chapter",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/arthritis-foundation-florida-chapter",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/arthritis-foundation-florida-chapter/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Jdorn@arthritis.org",
+		"id": 7687,
+		"name": "Judy Dorn",
+		"title": "Regional Vice President",
+		"phones": [{
+			"id": 7687,
+			"department": null,
+			"extension": null,
+			"number": "954-616-1233",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7687,
+		"department": null,
+		"extension": null,
+		"number": "954-616-1233",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

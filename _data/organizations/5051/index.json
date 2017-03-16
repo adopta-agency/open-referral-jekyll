@@ -1,0 +1,38 @@
+{
+	"id": 5051,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Freedom Waters works to enhance lives by providing boating opportunities and marine related activities for people with disabilities, life threatening illnesses, youth at risk, others with special needs, and veterans.\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FREEDOM WATERS FOUNDATION, INC.",
+	"website": "http://www.freedomwatersfoundation.org",
+	"slug": "freedom-waters-foundation-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/freedom-waters-foundation-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/freedom-waters-foundation-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "info@freedomwatersfoundation.org",
+		"id": 5051,
+		"name": "Debra Frenkel, LCSW",
+		"title": "Founder/Executive Director",
+		"phones": [{
+			"id": 5051,
+			"department": null,
+			"extension": null,
+			"number": "239-248-1120",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5051,
+		"department": null,
+		"extension": null,
+		"number": "239-248-1120",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

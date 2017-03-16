@@ -1,0 +1,61 @@
+{
+	"id": 3357,
+	"accreditations": [],
+	"alternate_name": "IRS",
+	"date_incorporated": null,
+	"description": "Provides tax information over the phone. The local IRS Taxpayer Assistance Center provides personal tax help when you believe your tax issue cannot be handled online or by phone, and you want face-to-face tax assistance.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "INTERNAL REVENUE SERVICE",
+	"website": "http://www.irs.gov",
+	"slug": "internal-revenue-service",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/internal-revenue-service",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/internal-revenue-service/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 3357,
+		"name": "John Koskinen",
+		"title": "Commissioner",
+		"phones": [{
+			"id": 3357,
+			"department": null,
+			"extension": null,
+			"number": "305-982-5077",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 6541,
+		"name": "John Koskinen",
+		"title": "Commissioner",
+		"phones": [{
+			"id": 6541,
+			"department": null,
+			"extension": null,
+			"number": "305-982-5077",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3357,
+		"department": null,
+		"extension": null,
+		"number": "305-982-5077",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6541,
+		"department": null,
+		"extension": null,
+		"number": "305-982-5077",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

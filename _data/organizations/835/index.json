@@ -1,0 +1,322 @@
+{
+	"id": 835,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides accessible and culturally appropriate services to individuals and families who are encountering emotional difficulties. Serves the homeless and residents of Miami Dade County with intake and assessment, individual, group and family counseling, psychiatric and psychological counseling.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "NEW HORIZONS COMMUNITY MENTAL HEALTH CENTER, INC.",
+	"website": "http://www.NewHorizonsCMHC.org",
+	"slug": "new-horizons-community-mental-health-center-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/new-horizons-community-mental-health-center-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/new-horizons-community-mental-health-center-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "pchase@nhcmhc.org",
+		"id": 835,
+		"name": "Patricia Chase",
+		"title": "Executive Assistant",
+		"phones": [{
+			"id": 835,
+			"department": null,
+			"extension": null,
+			"number": "305-635-0366",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "abrinson@nhcmhc.org",
+		"id": 836,
+		"name": "Angel Brinson, PH. D.",
+		"title": "Clinical Director",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "ngonzalez@nhcmhc.org",
+		"id": 838,
+		"name": "Nidia Gonzalez",
+		"title": "Clinical Director",
+		"phones": [{
+			"id": 838,
+			"department": null,
+			"extension": "8486.0",
+			"number": "305-635-0366",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Charden@nhcmhc.org",
+		"id": 841,
+		"name": "Cherie Harden",
+		"title": "Program Director",
+		"phones": [{
+			"id": 841,
+			"department": null,
+			"extension": null,
+			"number": "305-635-0366",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "khunter@nhcmhc.org",
+		"id": 842,
+		"name": "Keisha Hunter",
+		"title": "Program Director",
+		"phones": [{
+			"id": 842,
+			"department": null,
+			"extension": null,
+			"number": "305-635-7444",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "abrinson@nhcmhc.org",
+		"id": 845,
+		"name": "Dr. Angela Brinson",
+		"title": "Program Director",
+		"phones": [{
+			"id": 845,
+			"department": null,
+			"extension": null,
+			"number": "305-635-7444",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jeveillard@nhcmhc.org",
+		"id": 846,
+		"name": "Jean Eveillard, MSW",
+		"title": "Program Director",
+		"phones": [{
+			"id": 846,
+			"department": null,
+			"extension": null,
+			"number": "305-635-0366",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jeveillard@nhcmhc.org",
+		"id": 847,
+		"name": "Jean Eveillard, MSW",
+		"title": "Director of Homeless Department",
+		"phones": [{
+			"id": 847,
+			"department": null,
+			"extension": "8592.0",
+			"number": "305-635-0366",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "msweeting@nhcmhc.org",
+		"id": 4487,
+		"name": "Michele Wyatt-Sweeting",
+		"title": "Program Director",
+		"phones": [{
+			"id": 4487,
+			"department": null,
+			"extension": null,
+			"number": "786-433-8626",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "wmiller@nhcmhc.org",
+		"id": 5467,
+		"name": "Willard Miller",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 5467,
+			"department": null,
+			"extension": null,
+			"number": "305-635-0366",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jeveillard@nhcmhc.org",
+		"id": 7017,
+		"name": "Jean Eveillard, MSW",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7017,
+			"department": null,
+			"extension": "8592.0",
+			"number": "305-635-7444",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Ngonzalez@nhcmhc.org",
+		"id": 7018,
+		"name": "Nidia Gonzalez",
+		"title": "Adult Outpatient Administrator",
+		"phones": [{
+			"id": 7018,
+			"department": null,
+			"extension": null,
+			"number": "305-635-7444",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "slopez@nhcmhc.org",
+		"id": 7019,
+		"name": "Suzane Lopez",
+		"title": "Adult Outpatient Administrator",
+		"phones": [{
+			"id": 7019,
+			"department": null,
+			"extension": null,
+			"number": "305-635-7444",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "jeveillard@nhcmhc.org",
+		"id": 7020,
+		"name": "Jean Eveillard",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7020,
+			"department": null,
+			"extension": "8592.0",
+			"number": "305-635-0366",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 835,
+		"department": null,
+		"extension": null,
+		"number": "305-635-0366",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 838,
+		"department": null,
+		"extension": "8486.0",
+		"number": "305-635-0366",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 841,
+		"department": null,
+		"extension": null,
+		"number": "305-635-0366",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 842,
+		"department": null,
+		"extension": null,
+		"number": "305-635-7444",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 845,
+		"department": null,
+		"extension": null,
+		"number": "305-635-7444",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 846,
+		"department": null,
+		"extension": null,
+		"number": "305-635-0366",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 847,
+		"department": null,
+		"extension": "8592.0",
+		"number": "305-635-0366",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4487,
+		"department": null,
+		"extension": null,
+		"number": "786-433-8626",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5467,
+		"department": null,
+		"extension": null,
+		"number": "305-635-0366",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7017,
+		"department": null,
+		"extension": "8592.0",
+		"number": "305-635-7444",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7018,
+		"department": null,
+		"extension": null,
+		"number": "305-635-7444",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7019,
+		"department": null,
+		"extension": null,
+		"number": "305-635-7444",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7020,
+		"department": null,
+		"extension": "8592.0",
+		"number": "305-635-0366",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

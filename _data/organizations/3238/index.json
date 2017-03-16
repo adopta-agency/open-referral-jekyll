@@ -1,0 +1,84 @@
+{
+	"id": 3238,
+	"accreditations": [],
+	"alternate_name": "GCJFS",
+	"date_incorporated": null,
+	"description": "Gulf Coast Jewish Family and Community Services, Inc. is a 501(c)(3) community-based, nonsectarian agency, providing critical help to Floridians 1960. The agency's mission is to provide essential human services to individuals and families in times of need. Gulf Coast provides services in 37 Florida counties. We serve over 30,000 individuals annually, with a point-in-time open caseload of about 4,500 individuals. Employing more than 450 case managers, we interact with virtually every arena of social services to provide a wide range of family support and counseling services. \n\nOffices are maintained in Pinellas, Pasco, Hillsborough, Polk, Osceola, Broward, Miami-Dade, Sarasota, Lee, and Alachua Counties. Our vast array of programs serves diverse populations including all ages, faiths, cultures and lifestyles.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "GULF COAST JEWISH FAMILY AND COMMUNITY SERVICES, INC.",
+	"website": "http://www.gcjfCs.org",
+	"slug": "gulf-coast-jewish-family-and-community-services-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/gulf-coast-jewish-family-and-community-services-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/gulf-coast-jewish-family-and-community-services-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "eshaw@gcjfcs.org",
+		"id": 3238,
+		"name": "Elizabeth Shaw",
+		"title": "Senior Grants Coordinator",
+		"phones": [{
+			"id": 3238,
+			"department": null,
+			"extension": "3066.0",
+			"number": "727-479-1800",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "aesparra@gcjfs.org",
+		"id": 3239,
+		"name": "Aileen Esparra",
+		"title": "Program Manager",
+		"phones": [{
+			"id": 3239,
+			"department": null,
+			"extension": null,
+			"number": "305-275-1930",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sderenoncourt@gcjfs.org",
+		"id": 3240,
+		"name": "Sabine Balmir-Derenoncourt",
+		"title": "Program Coordinator",
+		"phones": [{
+			"id": 3240,
+			"department": null,
+			"extension": "107.0",
+			"number": "305-275-1930",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3238,
+		"department": null,
+		"extension": "3066.0",
+		"number": "727-479-1800",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3239,
+		"department": null,
+		"extension": null,
+		"number": "305-275-1930",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 3240,
+		"department": null,
+		"extension": "107.0",
+		"number": "305-275-1930",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

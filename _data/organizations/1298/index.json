@@ -1,0 +1,61 @@
+{
+	"id": 1298,
+	"accreditations": [],
+	"alternate_name": "GMCVB",
+	"date_incorporated": null,
+	"description": "Promotes tourism, books hotels and convention facilities, and provides information about activities and facilities in and around Miami.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "GREATER MIAMI CONVENTION & VISITOR BUREAU",
+	"website": "http://www.miamiandbeaches.com/",
+	"slug": "greater-miami-convention-visitor-bureau",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/greater-miami-convention-visitor-bureau",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/greater-miami-convention-visitor-bureau/locations",
+	"contacts": [{
+		"department": null,
+		"email": "visitor@miamiandbeaches.com",
+		"id": 1298,
+		"name": "William D. Galbert, III",
+		"title": "President/CEO",
+		"phones": [{
+			"id": 1298,
+			"department": null,
+			"extension": null,
+			"number": "305-539-3000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "visitor@miamiandbeaches.com",
+		"id": 1299,
+		"name": "William D. Galbert, III",
+		"title": "President/CEO",
+		"phones": [{
+			"id": 1299,
+			"department": null,
+			"extension": null,
+			"number": "305-539-3000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1298,
+		"department": null,
+		"extension": null,
+		"number": "305-539-3000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1299,
+		"department": null,
+		"extension": null,
+		"number": "305-539-3000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,185 @@
+{
+	"id": 6368,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Switchboard of Miami's Family Counseling Services Division provides an array of specialized mental health services in areas including Infant Mental Health, Sexual Violence Intervention, Violence Prevention Education, Care Coordination, and Family Therapy. Family Counseling Services also offers individual, group and/or family therapy, children's case management services, outreach education, as well as psychological testing and evaluation.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SWITCHBOARD OF MIAMI - FAMILY COUNSELING SERVICES DIVISION",
+	"website": "http://www.familycounseling.org",
+	"slug": "switchboard-of-miami-family-counseling-services-division",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/switchboard-of-miami-family-counseling-services-division",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/switchboard-of-miami-family-counseling-services-division/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Clalama@switchboardmiami.org",
+		"id": 7148,
+		"name": "Christina Lalama",
+		"title": "Clinical Supervisor",
+		"phones": [{
+			"id": 7148,
+			"department": null,
+			"extension": "1207.0",
+			"number": "305-740-8998",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "loperez@switchboardmiami.org",
+		"id": 7149,
+		"name": "Lourdes Perez",
+		"title": "Program Manager",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "vtoral@switchboardmiami.org",
+		"id": 7150,
+		"name": "Vivianne Toral",
+		"title": "Program Coordinator, NEP & EIP",
+		"phones": [{
+			"id": 7150,
+			"department": null,
+			"extension": "1225.0",
+			"number": "305-740-8998",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mperez@switchboardmiami.org",
+		"id": 7151,
+		"name": "Marlen Perez",
+		"title": "FAST Program Manager",
+		"phones": [{
+			"id": 7151,
+			"department": null,
+			"extension": "1221.0",
+			"number": "305-740-8998",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "esuna@switchboardmiami.org",
+		"id": 7152,
+		"name": "Elise Suna",
+		"title": "IECS Program Manager",
+		"phones": [{
+			"id": 7152,
+			"department": null,
+			"extension": "1225.0",
+			"number": "305-740-8998",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Clalama@switchboardmiami.org",
+		"id": 7153,
+		"name": "Christina Lalama",
+		"title": "Program Manager",
+		"phones": [{
+			"id": 7153,
+			"department": null,
+			"extension": "1207.0",
+			"number": "305-740-8998",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "esuna@switchboardmiami.org",
+		"id": 7154,
+		"name": "Elise Suna",
+		"title": "Program Coordinator, NEP & EIP",
+		"phones": [{
+			"id": 7154,
+			"department": null,
+			"extension": "1228.0",
+			"number": "305-740-8998",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "gaviles@switchboardmiami.org",
+		"id": 7377,
+		"name": "Grisel Aviles",
+		"title": "Program Manager",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "margumosa@switchboardmiami.org",
+		"id": 7846,
+		"name": "Melissa Argumosa",
+		"title": "Program Manager",
+		"phones": []
+	},
+	{
+		"department": null,
+		"email": "margumosa@switchboardmiami.org",
+		"id": 7847,
+		"name": "Melissa Argumosa",
+		"title": "Senior Manager - Family Counseling Services Division",
+		"phones": []
+	}],
+	"phones": [{
+		"id": 7148,
+		"department": null,
+		"extension": "1207.0",
+		"number": "305-740-8998",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7150,
+		"department": null,
+		"extension": "1225.0",
+		"number": "305-740-8998",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7151,
+		"department": null,
+		"extension": "1221.0",
+		"number": "305-740-8998",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7152,
+		"department": null,
+		"extension": "1225.0",
+		"number": "305-740-8998",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7153,
+		"department": null,
+		"extension": "1207.0",
+		"number": "305-740-8998",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7154,
+		"department": null,
+		"extension": "1228.0",
+		"number": "305-740-8998",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

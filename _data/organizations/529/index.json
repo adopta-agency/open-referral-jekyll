@@ -1,0 +1,61 @@
+{
+	"id": 529,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Arthritis Foundation's mission is to improve lives through leadership in the prevention, control and cure of arthritis and related diseases.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THE ARTHRITIS FOUNDATION, INC.",
+	"website": "http://www.arthritis.org",
+	"slug": "the-arthritis-foundation-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-arthritis-foundation-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/the-arthritis-foundation-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 529,
+		"name": "Ann M. Palmer",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 529,
+			"department": null,
+			"extension": null,
+			"number": "404-872-7100",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Jdorn@arthritis.org",
+		"id": 530,
+		"name": "Judy Dorn",
+		"title": "Regional Vice President",
+		"phones": [{
+			"id": 530,
+			"department": null,
+			"extension": null,
+			"number": "813-968-7000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 529,
+		"department": null,
+		"extension": null,
+		"number": "404-872-7100",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 530,
+		"department": null,
+		"extension": null,
+		"number": "813-968-7000",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

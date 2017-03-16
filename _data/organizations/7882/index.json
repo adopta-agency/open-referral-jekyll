@@ -1,0 +1,61 @@
+{
+	"id": 7882,
+	"accreditations": [],
+	"alternate_name": "PRESCRIBED PEDIATRIC EXTENDED CARE or CRN",
+	"date_incorporated": null,
+	"description": "Children's Rehab Network is a PPEC Gu00c7u00f6 Prescribed Pediatric Extended Care Program.\n\nSince 1991, Children's Rehab Network has been caring for children ages newborn to 21 whose conditions require continuous nursing, education, and therapeutic care. We work to help stabilize and improve a medically fragile child's condition and to assist the family as much as possible. Parents get help so they can return to work, go back to school, or care for their other children. \n\nOur nurses, therapists, and teachers provide a wide variety of services in a cheerful and inviting atmosphere. Children learn in a stimulating environment. Many go on to regular daycare, public or private schools, as their medical conditions improve. \n\nServices offered: \n\n* Nursing care\n* Physical therapy\n* Occupational therapy\n* Speech/language therapy\n* Respiratory therapy\n* Education\n* Medical transportation Gu00c7u00f6 emergency medical technicians in every van\n* We focus on the child's psychological, developmental, educational, physical, nutritional, and social need\n\nThere are two Children's Rehab Networks in Miami-Dade County - one North and one South. \n\nDoor-to-door transportation is provided to those who qualify. Children's Rehab Network provides emergency medical technicians in every van. This means increased safety for your child and peace of mind for you.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CHILDREN'S REHAB NETWORK",
+	"website": "http://www.crnppec.com",
+	"slug": "children-s-rehab-network",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/children-s-rehab-network",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/children-s-rehab-network/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 7882,
+		"name": "Michelle Anderson",
+		"title": "Director of Nursing",
+		"phones": [{
+			"id": 7882,
+			"department": null,
+			"extension": null,
+			"number": "305-622-7575",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7883,
+		"name": "Omar Chacon",
+		"title": "Director of Nursing",
+		"phones": [{
+			"id": 7883,
+			"department": null,
+			"extension": null,
+			"number": "305-665-0886",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7882,
+		"department": null,
+		"extension": null,
+		"number": "305-622-7575",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7883,
+		"department": null,
+		"extension": null,
+		"number": "305-665-0886",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

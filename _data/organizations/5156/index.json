@@ -1,0 +1,61 @@
+{
+	"id": 5156,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The mission of the Florida judicial branch is to protect rights and liberties, uphold and interpret the law, and provide for the peaceful resolution of disputes.\n\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SIXTEENTH JUDICIAL CIRCUIT OF FLORIDA",
+	"website": "http://www.keyscourts.net/",
+	"slug": "sixteenth-judicial-circuit-of-florida",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/sixteenth-judicial-circuit-of-florida",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/sixteenth-judicial-circuit-of-florida/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 5156,
+		"name": "Mark H. Jones",
+		"title": "Chief Circuit Judge",
+		"phones": [{
+			"id": 5156,
+			"department": null,
+			"extension": null,
+			"number": "305-292-3423",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7767,
+		"name": "Mark H. Jones",
+		"title": "Chief Circuit Judge",
+		"phones": [{
+			"id": 7767,
+			"department": null,
+			"extension": null,
+			"number": "305-292-3423",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5156,
+		"department": null,
+		"extension": null,
+		"number": "305-292-3423",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7767,
+		"department": null,
+		"extension": null,
+		"number": "305-292-3423",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

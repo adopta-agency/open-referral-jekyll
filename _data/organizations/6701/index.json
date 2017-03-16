@@ -1,0 +1,38 @@
+{
+	"id": 6701,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "This program is a free resource for immediate savings on prescription medications. Present your card with each prescription to the pharmacy at the time of purchase to receive your discount. Savings average 40% but can be as high as 75% on some generics. The card is really just like a reusable prescription coupon on all FDA approved medicines.\r\n\r\nNo eligibility or registration is required.\r\n\r\n###MON###\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FAMILYWIZE COMMUNITY SERVICE PARTNERSHIP, INC.",
+	"website": "http://www.familywize.org",
+	"slug": "familywize-community-service-partnership-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/familywize-community-service-partnership-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/familywize-community-service-partnership-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "cbrian@familywize.org",
+		"id": 6701,
+		"name": "Carol Brian",
+		"title": "VP of Partner Support",
+		"phones": [{
+			"id": 6701,
+			"department": null,
+			"extension": "127.0",
+			"number": "800-222-2818",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6701,
+		"department": null,
+		"extension": "127.0",
+		"number": "800-222-2818",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

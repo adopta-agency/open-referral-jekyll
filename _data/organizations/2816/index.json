@@ -1,0 +1,84 @@
+{
+	"id": 2816,
+	"accreditations": [],
+	"alternate_name": "GIRL POWER",
+	"date_incorporated": null,
+	"description": "World Literacy Crusade of Florida, Inc. is a 501-u00ac3 non-profit founded in 1997 as a result of the growing rate of crime, poverty, illiteracy and hopelessness that is prevalent in inner-city and underserved communities.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "GIRL POWER/WORLD LITERACY CRUSADE OF FLORIDA INC.",
+	"website": "http://www.girlpowerrocks.org",
+	"slug": "girl-power-world-literacy-crusade-of-florida-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/girl-power-world-literacy-crusade-of-florida-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/girl-power-world-literacy-crusade-of-florida-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "thema@girlpowerrocks.org",
+		"id": 2816,
+		"name": "Thema Campbell",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 2816,
+			"department": null,
+			"extension": null,
+			"number": "305-756-5502",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "programdirector@girlpowerrocks.org",
+		"id": 2817,
+		"name": "Shameka Jenkins",
+		"title": "Program Director",
+		"phones": [{
+			"id": 2817,
+			"department": null,
+			"extension": null,
+			"number": "305-756-5502",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "programdirector@girlpowerrocks.org",
+		"id": 7817,
+		"name": "Shameka Jenkins",
+		"title": "Program Director",
+		"phones": [{
+			"id": 7817,
+			"department": null,
+			"extension": null,
+			"number": "305-756-5502",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2816,
+		"department": null,
+		"extension": null,
+		"number": "305-756-5502",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2817,
+		"department": null,
+		"extension": null,
+		"number": "305-756-5502",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7817,
+		"department": null,
+		"extension": null,
+		"number": "305-756-5502",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,84 @@
+{
+	"id": 4981,
+	"accreditations": [],
+	"alternate_name": "FBOP FDC",
+	"date_incorporated": null,
+	"description": "The Federal Detention Center (FDC), is an administrative facility housing male and female inmates.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FEDERAL BEREAU OF PRISIONS - FEDERAL DETENTION CENTER - ADMINISTRATION",
+	"website": "https://www.bop.gov/locations/institutions/mim/",
+	"slug": "federal-bereau-of-prisions-federal-detention-center-administration",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/federal-bereau-of-prisions-federal-detention-center-administration",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/federal-bereau-of-prisions-federal-detention-center-administration/locations",
+	"contacts": [{
+		"department": null,
+		"email": "miaexecassistant@bop.gov",
+		"id": 4981,
+		"name": "Kenny Atkinson",
+		"title": "Warden",
+		"phones": [{
+			"id": 4981,
+			"department": null,
+			"extension": null,
+			"number": "305-577-0010",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mimexecassistant@bop.gov",
+		"id": 4982,
+		"name": "Kenny Atkinson",
+		"title": "Warden",
+		"phones": [{
+			"id": 4982,
+			"department": null,
+			"extension": null,
+			"number": "305-577-0010",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mimexecassistant@bop.gov",
+		"id": 6398,
+		"name": "Kenny Atkinson",
+		"title": "Warden",
+		"phones": [{
+			"id": 6398,
+			"department": null,
+			"extension": null,
+			"number": "305-259-2100",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4981,
+		"department": null,
+		"extension": null,
+		"number": "305-577-0010",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4982,
+		"department": null,
+		"extension": null,
+		"number": "305-577-0010",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6398,
+		"department": null,
+		"extension": null,
+		"number": "305-259-2100",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

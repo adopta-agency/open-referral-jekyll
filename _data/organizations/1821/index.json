@@ -1,0 +1,61 @@
+{
+	"id": 1821,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "BIAF provides a variety of services for TBI survivors, their families and professionals throughout the state. Offers assistance via a toll free family helpline. The programs sponsored by this organization promote education, prevention and awareness. Their resource center sends out valuable information packets that are tailored to the specific needs of each family. The Family/Community Support program allows individuals one on one assistance from experienced Family Support Specialists. The prevention team presents educational programs and materials geared toward all age groups for both personal and professional use. The materials, course and program information along with order forms can be found online at www.biaf.org.\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "BRAIN INJURY ASSOCIATION OF FLORIDA, INC",
+	"website": "http://www.biaf.org",
+	"slug": "brain-injury-association-of-florida-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/brain-injury-association-of-florida-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/brain-injury-association-of-florida-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "biafhelp@biaf.org",
+		"id": 1821,
+		"name": "Valerie Breen",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 1821,
+			"department": null,
+			"extension": null,
+			"number": "800-992-3442",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 1822,
+		"name": "Susan Ireland",
+		"title": "Coordinator",
+		"phones": [{
+			"id": 1822,
+			"department": null,
+			"extension": null,
+			"number": "800-992-3442",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1821,
+		"department": null,
+		"extension": null,
+		"number": "800-992-3442",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1822,
+		"department": null,
+		"extension": null,
+		"number": "800-992-3442",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

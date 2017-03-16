@@ -1,0 +1,38 @@
+{
+	"id": 5006,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Florida Supreme Court is the highest court in Florida, its Chief Justice oversees the entire State Courts System. This includes many management functions centralized in Tallahassee in the Office of the State Courts Administrator, and regulation of The Florida Bar.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA SUPREME COURT",
+	"website": "http://www.floridasupremecourt.org",
+	"slug": "florida-supreme-court",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-supreme-court",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-supreme-court/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 5006,
+		"name": "John Tomasino",
+		"title": "Clerk of the Court",
+		"phones": [{
+			"id": 5006,
+			"department": null,
+			"extension": null,
+			"number": "850-488-0125",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5006,
+		"department": null,
+		"extension": null,
+		"number": "850-488-0125",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

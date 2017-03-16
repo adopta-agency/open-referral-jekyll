@@ -1,0 +1,84 @@
+{
+	"id": 1816,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The FDA welcomes reports from the public alerting it to problems with products that it regulates. The reports help FDA ensure that products on the market are safe, effective, and properly manufactured, stored and labeled. FDA will accept reports concerning seafood and dairy products, while reports concerning meat or poultry should be made to the U.S. Department of Agriculture. FDA also accepts reports concerning drugs, cosmetics, medical devices and radiation-emitting electronic products, such as microwave ovens or video display terminals.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "U.S. FOOD AND DRUG ADMINISTRATION",
+	"website": "http://www.fda.gov",
+	"slug": "u-s-food-and-drug-administration",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-food-and-drug-administration",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-food-and-drug-administration/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ana.barido@fda.hhs.gov",
+		"id": 1816,
+		"name": "Ana Barido",
+		"title": "Supervisor of Consumer Safety (Miami)",
+		"phones": [{
+			"id": 1816,
+			"department": null,
+			"extension": null,
+			"number": "888-463-6332",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "edwin.gorney@fda.hhs.gov",
+		"id": 1817,
+		"name": "Edwin Gorney",
+		"title": "Supervisor of Consumer Safety",
+		"phones": [{
+			"id": 1817,
+			"department": null,
+			"extension": null,
+			"number": "305-994-3103",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "stephanie.milan@fda.hhs.gov",
+		"id": 1818,
+		"name": "Stephanie Milan",
+		"title": "Complaint Coordinator for Florida",
+		"phones": [{
+			"id": 1818,
+			"department": null,
+			"extension": null,
+			"number": "407-475-4762",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1816,
+		"department": null,
+		"extension": null,
+		"number": "888-463-6332",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1817,
+		"department": null,
+		"extension": null,
+		"number": "305-994-3103",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1818,
+		"department": null,
+		"extension": null,
+		"number": "407-475-4762",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

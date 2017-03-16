@@ -1,0 +1,24 @@
+{
+	"id": 2133,
+	"accreditations": [],
+	"alternate_name": "LATIN CHAMBER OF COMMERCE",
+	"date_incorporated": null,
+	"description": "The Latin Chamber of Commerce of the United States, CAMACOL is the largest Hispanic business organization in the State of Florida and one of the most influential minority business groups in the United States.\n\nPrograms and services provided are:\n* Networking events, seminars, workshops, business luncheons.\n* Commercial Fa+u00baade Rehabilitation Program.\n* Incubator Center.\n* Business Development Missions.\n* CAMACOL/Film and Entertainment Development Program.\n* Technical and business assistance, licenses, permits, and documentation requirements.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CAMACOL, LLC.",
+	"website": "http://camacol.org/",
+	"slug": "camacol-llc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/camacol-llc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/camacol-llc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "lgarcia@camacol.org",
+		"id": 2133,
+		"name": "Luciano Garcia",
+		"title": "Executive Director",
+		"phones": []
+	}],
+	"phones": []
+}

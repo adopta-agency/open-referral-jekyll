@@ -1,0 +1,61 @@
+{
+	"id": 5863,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Services and provides resources to the families of Homestead, Florida City, and Naranja. Our primary focus is to provide prevention and intervention services to the youth within our community, through Out of School Programs that will enhance their educational skills, while providing a nurturing safe haven in which they can grow, play, and receive assistance with dealing with real life experiences.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SOUTH DADE WEED AND SEED, INC.",
+	"website": null,
+	"slug": "south-dade-weed-and-seed-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/south-dade-weed-and-seed-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/south-dade-weed-and-seed-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "robin@sdwsinc.org",
+		"id": 5863,
+		"name": "Robin Wright",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5863,
+			"department": null,
+			"extension": null,
+			"number": "305-316-5541",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "robin@sdwsinc.org",
+		"id": 5864,
+		"name": "Robin Wright",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 5864,
+			"department": null,
+			"extension": null,
+			"number": "305-316-5541",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5863,
+		"department": null,
+		"extension": null,
+		"number": "305-316-5541",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5864,
+		"department": null,
+		"extension": null,
+		"number": "305-316-5541",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

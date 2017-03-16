@@ -1,0 +1,38 @@
+{
+	"id": 7240,
+	"accreditations": [],
+	"alternate_name": "LWTG",
+	"date_incorporated": null,
+	"description": "Live Well Therapy Group (LWTG) is a counseling practice with extensive experience working with children, adolescents, adults, families and couples. Some of the issues we work with are: depression, anxiety, ADD/ADHD, grief and loss, women's issues, substance abuse, domestic violence, victims of abuse (all types), adolescent issues, eating disorders, communication skills, social skills, bipolar, and adoption issues.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "LIVE WELL THERAPY GROUP, LLC.",
+	"website": "http://www.livewelltherapygroup.com",
+	"slug": "live-well-therapy-group-llc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/live-well-therapy-group-llc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/live-well-therapy-group-llc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "gaby@livewelltherapygroup.com",
+		"id": 7240,
+		"name": "Gabriela Garcia",
+		"title": "Office Manager",
+		"phones": [{
+			"id": 7240,
+			"department": null,
+			"extension": null,
+			"number": "786-332-4478",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7240,
+		"department": null,
+		"extension": null,
+		"number": "786-332-4478",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

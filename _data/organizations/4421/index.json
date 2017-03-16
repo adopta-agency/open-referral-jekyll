@@ -1,0 +1,61 @@
+{
+	"id": 4421,
+	"accreditations": [],
+	"alternate_name": "THUMBELINA ACADEMY, MASTERS PREPARATORY",
+	"date_incorporated": null,
+	"description": "An after school program that guides children to continued positive self-image while building social skills in a school setting. Sensory, motor, perceptual and language skills are introduced through materials and activities, which are both child-centered and teacher directed. Work is planned which emphasizes the process rather than the outcome, fostering a sense of accomplishment and pride.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "THUMBELINA LEARNING CENTER, INC.",
+	"website": "http://www.thumbelinaacademy.com/index.html",
+	"slug": "thumbelina-learning-center-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/thumbelina-learning-center-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/thumbelina-learning-center-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "lross@mastersprepatory.com",
+		"id": 4421,
+		"name": "Lilah Ross",
+		"title": "Director",
+		"phones": [{
+			"id": 4421,
+			"department": null,
+			"extension": null,
+			"number": "305-887-4233",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "mechevarria@masterpreparatory.com",
+		"id": 4422,
+		"name": "Magdalia Echevarria",
+		"title": "Assistant Program Director",
+		"phones": [{
+			"id": 4422,
+			"department": null,
+			"extension": "125.0",
+			"number": "305-887-4233",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 4421,
+		"department": null,
+		"extension": null,
+		"number": "305-887-4233",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 4422,
+		"department": null,
+		"extension": "125.0",
+		"number": "305-887-4233",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

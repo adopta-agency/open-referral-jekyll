@@ -1,0 +1,61 @@
+{
+	"id": 1756,
+	"accreditations": [],
+	"alternate_name": "SCDAA",
+	"date_incorporated": null,
+	"description": "SCDAA provides information an referral, publications, and various other services depending on chapter location regarding sickle cell disease.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SICKLE CELL DISEASE ASSOCIATION OF AMERICA, INC.",
+	"website": "http://www.sicklecelldisease.org",
+	"slug": "sickle-cell-disease-association-of-america-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/sickle-cell-disease-association-of-america-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/sickle-cell-disease-association-of-america-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "sbanks@sicklecelldisease.org",
+		"id": 1756,
+		"name": "Sonja L. Banks",
+		"title": "President/Chief Operating Officer",
+		"phones": [{
+			"id": 1756,
+			"department": null,
+			"extension": null,
+			"number": "800-421-8453",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "amack@med.miami.edu",
+		"id": 1757,
+		"name": "Dr. Astrid K. Mack",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 1757,
+			"department": null,
+			"extension": null,
+			"number": "305-324-6219",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1756,
+		"department": null,
+		"extension": null,
+		"number": "800-421-8453",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1757,
+		"department": null,
+		"extension": null,
+		"number": "305-324-6219",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

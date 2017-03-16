@@ -1,0 +1,84 @@
+{
+	"id": 3019,
+	"accreditations": [],
+	"alternate_name": "PFLAG",
+	"date_incorporated": null,
+	"description": "PFLAG promotes the health and well-being of gay, lesbian, bisexual and transgendered persons, their families and friends through: support, to cope with an adverse society; education, to enlighten an ill-informed public; and advocacy, to end discrimination and to secure equal civil rights. Parents, Families and Friends of Lesbians and Gays provides opportunity for dialogue about sexual orientation and gender identity, and acts to create a society that is healthy and respectful of human diversity.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "PARENTS, FAMILIES & FRIENDS OF LESBIANS & GAYS, INC.",
+	"website": "http://www.pflag.org",
+	"slug": "parents-families-friends-of-lesbians-gays-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/parents-families-friends-of-lesbians-gays-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/parents-families-friends-of-lesbians-gays-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "jhuckaby@pflag.org",
+		"id": 3019,
+		"name": "Jody Huckaby",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 3019,
+			"department": null,
+			"extension": null,
+			"number": "202-467-8180",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "pflagftlaud@gmail.com",
+		"id": 7697,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 7697,
+			"department": null,
+			"extension": null,
+			"number": "954-665-7002",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "dhudson_flakeysPFLAG@yahoo.com",
+		"id": 7698,
+		"name": "Information",
+		"title": null,
+		"phones": [{
+			"id": 7698,
+			"department": null,
+			"extension": null,
+			"number": "305-393-6610",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 3019,
+		"department": null,
+		"extension": null,
+		"number": "202-467-8180",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7697,
+		"department": null,
+		"extension": null,
+		"number": "954-665-7002",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7698,
+		"department": null,
+		"extension": null,
+		"number": "305-393-6610",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

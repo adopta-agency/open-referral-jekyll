@@ -1,0 +1,38 @@
+{
+	"id": 8218,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides emergency food for those in the community who are in need.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "APOSTOLIQUE FAITH CHURCH, INC.",
+	"website": null,
+	"slug": "apostolique-faith-church-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/apostolique-faith-church-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/apostolique-faith-church-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "luckenciepierre@gmail.com",
+		"id": 8218,
+		"name": "Luckencie Pierre",
+		"title": "Office Manager",
+		"phones": [{
+			"id": 8218,
+			"department": null,
+			"extension": null,
+			"number": "786-487-1062",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8218,
+		"department": null,
+		"extension": null,
+		"number": "786-487-1062",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

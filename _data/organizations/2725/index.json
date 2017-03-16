@@ -1,0 +1,406 @@
+{
+	"id": 2725,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "FIU-South Florida After-School All-Stars is a partnership program that comprises Miami-Dade County Public Schools/Middle School Enrichment, 21st Century Community Learning Centers, the Children's Trust and others to provide comprehensive after school and summer programs in selected middle schools throughout Miami-Dade County. A list of program locations can be obtained by calling 305-348-7904.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FIU AFTER SCHOOL ALL STARS",
+	"website": "http://sfasas.org",
+	"slug": "fiu-after-school-all-stars",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/fiu-after-school-all-stars",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/fiu-after-school-all-stars/locations",
+	"contacts": [{
+		"department": null,
+		"email": "sean@sfasas.org",
+		"id": 2725,
+		"name": "Sean Prospect",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 2725,
+			"department": null,
+			"extension": null,
+			"number": "305-348-7904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 2728,
+		"name": "Tanya Young",
+		"title": "Program Manager",
+		"phones": [{
+			"id": 2728,
+			"department": null,
+			"extension": null,
+			"number": "305-348-7904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 2734,
+		"name": "Richard McKinley",
+		"title": "Program Director",
+		"phones": [{
+			"id": 2734,
+			"department": null,
+			"extension": null,
+			"number": "305-348-7904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 2745,
+		"name": "Harriett Williams",
+		"title": "Program Manager",
+		"phones": [{
+			"id": 2745,
+			"department": null,
+			"extension": null,
+			"number": "305-348-7904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rohan@sfasas.org",
+		"id": 2753,
+		"name": "Rohan Thompson",
+		"title": null,
+		"phones": [{
+			"id": 2753,
+			"department": null,
+			"extension": null,
+			"number": "305-348-7904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rohan@sfasas.org",
+		"id": 6471,
+		"name": "Rohan Thompson",
+		"title": "Update Contact",
+		"phones": [{
+			"id": 6471,
+			"department": null,
+			"extension": null,
+			"number": "305-348-7904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rohan@sfasas.org",
+		"id": 6472,
+		"name": "Rohan Thompson",
+		"title": "Update Contact",
+		"phones": [{
+			"id": 6472,
+			"department": null,
+			"extension": null,
+			"number": "305-348-7904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rohan@sfasas.org",
+		"id": 6473,
+		"name": "Rohan Thompson",
+		"title": "Update Contact",
+		"phones": [{
+			"id": 6473,
+			"department": null,
+			"extension": null,
+			"number": "305-348-7904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "rohan@sfasas.org",
+		"id": 6474,
+		"name": "Rohan Thompson",
+		"title": "Update Contact",
+		"phones": [{
+			"id": 6474,
+			"department": null,
+			"extension": null,
+			"number": "305-348-7904",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sean@sfasas.org",
+		"id": 7255,
+		"name": "Sean Prospect",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7255,
+			"department": null,
+			"extension": null,
+			"number": "305-247-6112",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sean@sfasas.org",
+		"id": 7257,
+		"name": "Sean Prospect",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7257,
+			"department": null,
+			"extension": null,
+			"number": "305-252-5900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sean@sfasas.org",
+		"id": 7258,
+		"name": "Sean Prospect",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7258,
+			"department": null,
+			"extension": null,
+			"number": "305-247-4221",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sean@sfasas.org",
+		"id": 7267,
+		"name": "Sean Prospect",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7267,
+			"department": null,
+			"extension": null,
+			"number": "305-681-7481",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sean@sfasas.org",
+		"id": 7268,
+		"name": "Sean Prospect",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7268,
+			"department": null,
+			"extension": null,
+			"number": "305-624-2652",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sean@sfasas.org",
+		"id": 7269,
+		"name": "Sean Prospect",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7269,
+			"department": null,
+			"extension": null,
+			"number": "305-757-9537",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sean@sfasas.org",
+		"id": 7270,
+		"name": "Sean Prospect",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7270,
+			"department": null,
+			"extension": null,
+			"number": "305-836-2610",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "sean@sfasas.org",
+		"id": 7271,
+		"name": "Sean Prospect",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 7271,
+			"department": null,
+			"extension": null,
+			"number": "305-822-0301",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2725,
+		"department": null,
+		"extension": null,
+		"number": "305-348-7904",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2728,
+		"department": null,
+		"extension": null,
+		"number": "305-348-7904",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2734,
+		"department": null,
+		"extension": null,
+		"number": "305-348-7904",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2745,
+		"department": null,
+		"extension": null,
+		"number": "305-348-7904",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2753,
+		"department": null,
+		"extension": null,
+		"number": "305-348-7904",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6471,
+		"department": null,
+		"extension": null,
+		"number": "305-348-7904",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6472,
+		"department": null,
+		"extension": null,
+		"number": "305-348-7904",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6473,
+		"department": null,
+		"extension": null,
+		"number": "305-348-7904",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6474,
+		"department": null,
+		"extension": null,
+		"number": "305-348-7904",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7255,
+		"department": null,
+		"extension": null,
+		"number": "305-247-6112",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7257,
+		"department": null,
+		"extension": null,
+		"number": "305-252-5900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7258,
+		"department": null,
+		"extension": null,
+		"number": "305-247-4221",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7267,
+		"department": null,
+		"extension": null,
+		"number": "305-681-7481",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7268,
+		"department": null,
+		"extension": null,
+		"number": "305-624-2652",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7269,
+		"department": null,
+		"extension": null,
+		"number": "305-757-9537",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7270,
+		"department": null,
+		"extension": null,
+		"number": "305-836-2610",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7271,
+		"department": null,
+		"extension": null,
+		"number": "305-822-0301",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

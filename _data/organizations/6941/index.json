@@ -1,0 +1,84 @@
+{
+	"id": 6941,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "FishermenGu00c7u00d6s Hospital is a non-profit community healthcare facility. We strive to continually improve the health status of our community, by providing high quality, cost effective health care, education and wellness services. Community well-being is our overriding goal and we strive to find new ways to keep the residents of our community healthy. We recognize the value of every person and are guided by our commitment to excellence.\n\nServices provided include:\n* Emergency Services\n* Diagnostic Imaging \n* Surgical Services\n* Laboratory\n* Respiratory/Cardiology \n* Physical Therapy\n* Pharmacy\n* Infection Control\n* Dietary Services\n\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FISHERMEN'S COMMUNITY HOSPITAL, INC.",
+	"website": "http://www.fishermenshospital.org",
+	"slug": "fishermen-s-community-hospital-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/fishermen-s-community-hospital-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/fishermen-s-community-hospital-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 6941,
+		"name": "Hal Leftwich",
+		"title": "CEO",
+		"phones": [{
+			"id": 6941,
+			"department": null,
+			"extension": null,
+			"number": "305-743-5533",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7505,
+		"name": "Hal Leftwich",
+		"title": "CEO",
+		"phones": [{
+			"id": 7505,
+			"department": null,
+			"extension": null,
+			"number": "305-735-4107",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 7506,
+		"name": "Hal Leftwich",
+		"title": "CEO",
+		"phones": [{
+			"id": 7506,
+			"department": null,
+			"extension": null,
+			"number": "305-396-7622",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6941,
+		"department": null,
+		"extension": null,
+		"number": "305-743-5533",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7505,
+		"department": null,
+		"extension": null,
+		"number": "305-735-4107",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7506,
+		"department": null,
+		"extension": null,
+		"number": "305-396-7622",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

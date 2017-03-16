@@ -1,0 +1,61 @@
+{
+	"id": 2929,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The Department of Health and Human Services is the United States government's principal agency for protecting the health of all Americans and providing essential human services, especially for those who are least able to help themselves.\n\n###MON###\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "U.S. DEPARTMENT OF HEALTH & HUMAN SERVICES",
+	"website": "http://www.hhs.gov",
+	"slug": "u-s-department-of-health-human-services",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-department-of-health-human-services",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/u-s-department-of-health-human-services/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Sylvia.Burwell@hhs.gov",
+		"id": 2929,
+		"name": "Sylvia M. Burwell",
+		"title": "Secretary of HHS",
+		"phones": [{
+			"id": 2929,
+			"department": null,
+			"extension": null,
+			"number": "877-696-6775",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "Sylvia.Burwell@hhs.gov",
+		"id": 2930,
+		"name": "Sylvia M. Burwell",
+		"title": "Secretary of HHS",
+		"phones": [{
+			"id": 2930,
+			"department": null,
+			"extension": null,
+			"number": "800-633-4227",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 2929,
+		"department": null,
+		"extension": null,
+		"number": "877-696-6775",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 2930,
+		"department": null,
+		"extension": null,
+		"number": "800-633-4227",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

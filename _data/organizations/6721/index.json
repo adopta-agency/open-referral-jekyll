@@ -1,0 +1,130 @@
+{
+	"id": 6721,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Community Action and Human Services delivers an integrated, holistic approach to meet the unique needs of victims through the provision of comprehensive services to victims of domestic violence and human trafficking in Miami-Dade County. \n\nProvides non-residential programs such as the Coordinated Victims Assistance Center and residential programs such as Safespace and the Inn Transition.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "M-DC CAHS - VIOLENCE PREVENTION AND INTERVENTION DIVISION",
+	"website": "http://www.miamidade.gov/socialservices/counseling-rehabilitation.asp",
+	"slug": "m-dc-cahs-violence-prevention-and-intervention-division",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/m-dc-cahs-violence-prevention-and-intervention-division",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/m-dc-cahs-violence-prevention-and-intervention-division/locations",
+	"contacts": [{
+		"department": null,
+		"email": null,
+		"id": 6722,
+		"name": "Yvonne Mesa",
+		"title": "Division Director",
+		"phones": [{
+			"id": 6722,
+			"department": null,
+			"extension": null,
+			"number": "305-285-5900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 6727,
+		"name": "Yvonne Mesa",
+		"title": "Division Director",
+		"phones": [{
+			"id": 6727,
+			"department": null,
+			"extension": null,
+			"number": "305-758-2546",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 6728,
+		"name": "Yvonne Mesa",
+		"title": "Division Director",
+		"phones": [{
+			"id": 6728,
+			"department": null,
+			"extension": null,
+			"number": "305-247-4249",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 6732,
+		"name": "Yvonne Mesa",
+		"title": "Division Director",
+		"phones": [{
+			"id": 6732,
+			"department": null,
+			"extension": null,
+			"number": "305-899-4600",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 8152,
+		"name": "Yvonne Mesa",
+		"title": "Division Director",
+		"phones": [{
+			"id": 8152,
+			"department": null,
+			"extension": null,
+			"number": "786-293-3394",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6722,
+		"department": null,
+		"extension": null,
+		"number": "305-285-5900",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6727,
+		"department": null,
+		"extension": null,
+		"number": "305-758-2546",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6728,
+		"department": null,
+		"extension": null,
+		"number": "305-247-4249",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6732,
+		"department": null,
+		"extension": null,
+		"number": "305-899-4600",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8152,
+		"department": null,
+		"extension": null,
+		"number": "786-293-3394",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

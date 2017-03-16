@@ -1,0 +1,38 @@
+{
+	"id": 54,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Handles complaints regarding restaurants, hotels and food vendors including sanitation, food handling practices and fires. Licenses and regulates hundreds of professions including accountants, acupuncturists, a/c technicians, architects, asbestos removers, barbers, contractors, chiropractors, clinical social workers, cosmetologists, dentists, hygienists, engineers, funeral directors and embalmers, geologists, harbor pilots, hearing aid specialists, land surveyors, marriage & family therapists, opticians, optometrists, osteopaths, pharmacists, physical therapists, physicians, podiatrists, property appraisers, psychologists, real estate agents, respiratory therapists, talent agents, veterinarians, etc. Handles complaints on sewage overflow in duplexes and apartment buildings. \n\n###COL###\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "FLORIDA DEPARTMENT OF BUSINESS AND PROFESSIONAL REGULATION",
+	"website": "http://www.myfloridalicense.com",
+	"slug": "florida-department-of-business-and-professional-regulation",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-department-of-business-and-professional-regulation",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/florida-department-of-business-and-professional-regulation/locations",
+	"contacts": [{
+		"department": null,
+		"email": "call.center@dbpr.state.fl.us",
+		"id": 54,
+		"name": "Terry Burns",
+		"title": "Director of Administration",
+		"phones": [{
+			"id": 54,
+			"department": null,
+			"extension": null,
+			"number": "850-487-1395",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 54,
+		"department": null,
+		"extension": null,
+		"number": "850-487-1395",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

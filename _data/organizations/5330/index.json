@@ -1,0 +1,38 @@
+{
+	"id": 5330,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Provides adorable, healthy dogs, cats, puppies and kittens for adoption, low-cost dog training, pet loss support, low-cost preventive health care for pets including vaccinations, deworming, spaying/neutering, microchiping and flea, tick and heartworm prevention.\n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "HUMANE SOCIETY OF NAPLES",
+	"website": "http://www.hsnaples.org",
+	"slug": "humane-society-of-naples",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/humane-society-of-naples",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/humane-society-of-naples/locations",
+	"contacts": [{
+		"department": null,
+		"email": "adoption@hsnaples.org",
+		"id": 5330,
+		"name": "Suzanne Moschella",
+		"title": "Adoption Center Manager",
+		"phones": [{
+			"id": 5330,
+			"department": null,
+			"extension": null,
+			"number": "239-643-1555",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5330,
+		"department": null,
+		"extension": null,
+		"number": "239-643-1555",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

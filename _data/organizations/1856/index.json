@@ -1,0 +1,61 @@
+{
+	"id": 1856,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The City of West Miami is committed to providing the highest quality of life and municipal services for our community and our residents, merchants, businesses, visitors and employees.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "CITY OF WEST MIAMI",
+	"website": "http://www.cityofwestmiamifl.com",
+	"slug": "city-of-west-miami",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-west-miami",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/city-of-west-miami/locations",
+	"contacts": [{
+		"department": null,
+		"email": "yolandaaguilar@cityofwestmiami.org",
+		"id": 1856,
+		"name": "Yolanda Aguilar",
+		"title": "City Manager",
+		"phones": [{
+			"id": 1856,
+			"department": null,
+			"extension": null,
+			"number": "305-266-1122",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "miraya@cityofwestmiami.org",
+		"id": 1857,
+		"name": "Marilyn Miraya",
+		"title": "Community Center Director",
+		"phones": [{
+			"id": 1857,
+			"department": null,
+			"extension": null,
+			"number": "305-263-8900",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1856,
+		"department": null,
+		"extension": null,
+		"number": "305-266-1122",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1857,
+		"department": null,
+		"extension": null,
+		"number": "305-263-8900",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,153 @@
+{
+	"id": 7393,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "To assist adults and children in acquiring the literacy skills necessary to improve their quality of life. We offer classes throughout Lee, Hendry, and Glades. \r\n\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "LITERACY COUNCIL GULF COAST, INC.",
+	"website": "http://www.literacygulfcoast.com",
+	"slug": "literacy-council-gulf-coast-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/literacy-council-gulf-coast-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/literacy-council-gulf-coast-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "susan.acuna@literacygulfcoast.com",
+		"id": 7393,
+		"name": "Susan Acuna, MSW",
+		"title": "President and CEO",
+		"phones": [{
+			"id": 7393,
+			"department": null,
+			"extension": null,
+			"number": "239-676-5202",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kristin.pitt@literacygulfcoast.com",
+		"id": 7394,
+		"name": "Kristin Pitt",
+		"title": "Executive Assistant",
+		"phones": [{
+			"id": 7394,
+			"department": null,
+			"extension": null,
+			"number": "239-676-5202",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kristin.pitt@literacygulfcoast.com",
+		"id": 7395,
+		"name": "Kristin Pitt",
+		"title": "Executive Assistant",
+		"phones": [{
+			"id": 7395,
+			"department": null,
+			"extension": null,
+			"number": "239-676-5202",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kristin.pitt@literacygulfcoast.com",
+		"id": 7396,
+		"name": "Kristin Pitt",
+		"title": "Executive Assistant",
+		"phones": [{
+			"id": 7396,
+			"department": null,
+			"extension": null,
+			"number": "239-676-5202",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kristin.pitt@literacygulfcoast.com",
+		"id": 7397,
+		"name": "Kristin Pitt",
+		"title": "Executive Assistant",
+		"phones": [{
+			"id": 7397,
+			"department": null,
+			"extension": null,
+			"number": "239-676-5202",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kristin.pritt@literacygulfcoast.com",
+		"id": 7398,
+		"name": "Kristin Pritt",
+		"title": "Executive Assistanct",
+		"phones": [{
+			"id": 7398,
+			"department": null,
+			"extension": null,
+			"number": "239-676-5202",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 7393,
+		"department": null,
+		"extension": null,
+		"number": "239-676-5202",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7394,
+		"department": null,
+		"extension": null,
+		"number": "239-676-5202",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7395,
+		"department": null,
+		"extension": null,
+		"number": "239-676-5202",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7396,
+		"department": null,
+		"extension": null,
+		"number": "239-676-5202",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7397,
+		"department": null,
+		"extension": null,
+		"number": "239-676-5202",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 7398,
+		"department": null,
+		"extension": null,
+		"number": "239-676-5202",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

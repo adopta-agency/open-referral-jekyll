@@ -1,0 +1,153 @@
+{
+	"id": 1493,
+	"accreditations": [],
+	"alternate_name": "M-DC CORRECTIONS AND REHABILITATION DEPARTMENT",
+	"date_incorporated": null,
+	"description": "The Miami-Dade County Corrections and Rehabilitation Department is comprised of five correctional facilities. These facilities hold on average 5,000 inmates, who are awaiting trial or are serving sentences of 364 days or less. Programs such as Boot Camp Program and Community Corrections Programs (Monitored Release, Day Reporting Centers, Weekend Sentence Program and Work Release) are provided as alternatives to incarceration.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MIAMI-DADE COUNTY CORRECTIONS AND REHABILITATION",
+	"website": "http://www.miamidade.gov/corrections",
+	"slug": "miami-dade-county-corrections-and-rehabilitation",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-corrections-and-rehabilitation",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/miami-dade-county-corrections-and-rehabilitation/locations",
+	"contacts": [{
+		"department": null,
+		"email": "D4891JJ@miamidade.gov",
+		"id": 1493,
+		"name": "Daniel Junior",
+		"title": "Director",
+		"phones": [{
+			"id": 1493,
+			"department": null,
+			"extension": null,
+			"number": "786-263-7000",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 1494,
+		"name": "Captain E. Denson",
+		"title": "Facility Supervisor",
+		"phones": [{
+			"id": 1494,
+			"department": null,
+			"extension": null,
+			"number": "786-263-4110",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "ma58@miamidade.gov",
+		"id": 1495,
+		"name": "Captain C. Young",
+		"title": "Facility Supervisor",
+		"phones": [{
+			"id": 1495,
+			"department": null,
+			"extension": null,
+			"number": "786-263-5713",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "k2659@miamidade.gov",
+		"id": 1496,
+		"name": "Captain Yvette Richardson",
+		"title": "Facility Supervisor",
+		"phones": [{
+			"id": 1496,
+			"department": null,
+			"extension": null,
+			"number": "786-263-5600",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 1497,
+		"name": "Captain E. Rodriguez",
+		"title": "Facility Supervisor",
+		"phones": [{
+			"id": 1497,
+			"department": null,
+			"extension": null,
+			"number": "786-263-5101",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 1501,
+		"name": "Lieutenant Rose Green",
+		"title": "Facility Supervisor",
+		"phones": [{
+			"id": 1501,
+			"department": null,
+			"extension": null,
+			"number": "786-263-5809",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1493,
+		"department": null,
+		"extension": null,
+		"number": "786-263-7000",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1494,
+		"department": null,
+		"extension": null,
+		"number": "786-263-4110",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1495,
+		"department": null,
+		"extension": null,
+		"number": "786-263-5713",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1496,
+		"department": null,
+		"extension": null,
+		"number": "786-263-5600",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1497,
+		"department": null,
+		"extension": null,
+		"number": "786-263-5101",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1501,
+		"department": null,
+		"extension": null,
+		"number": "786-263-5809",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,107 @@
+{
+	"id": 5619,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Collier Area Transit (CAT) is committed to providing safe, accessible and courteous public transportation services to our customers through regular bus routes as well as a paratransit program.\r\n\r\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "COLLIER AREA TRANSIT",
+	"website": "http://www.Colliergov.net/cat",
+	"slug": "collier-area-transit",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-area-transit",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/collier-area-transit/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Michellearnold@colliergov.net",
+		"id": 5619,
+		"name": "Michelle Edwards-Arnold",
+		"title": "Director",
+		"phones": [{
+			"id": 5619,
+			"department": null,
+			"extension": null,
+			"number": "239-252-7777",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": null,
+		"id": 5620,
+		"name": "Corine Williams",
+		"title": "Public Transit Manager",
+		"phones": [{
+			"id": 5620,
+			"department": null,
+			"extension": null,
+			"number": "239-252-7777",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "alttransmode@colliergov.net",
+		"id": 6816,
+		"name": "Nathan Reid",
+		"title": "Fixed Route Manager",
+		"phones": [{
+			"id": 6816,
+			"department": null,
+			"extension": null,
+			"number": "239-252-7777",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "alttransmode@colliergov.net",
+		"id": 6817,
+		"name": "Omar Lopez",
+		"title": "Paratransit Manager",
+		"phones": [{
+			"id": 6817,
+			"department": null,
+			"extension": null,
+			"number": "239-252-7272",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 5619,
+		"department": null,
+		"extension": null,
+		"number": "239-252-7777",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5620,
+		"department": null,
+		"extension": null,
+		"number": "239-252-7777",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6816,
+		"department": null,
+		"extension": null,
+		"number": "239-252-7777",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 6817,
+		"department": null,
+		"extension": null,
+		"number": "239-252-7272",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,84 @@
+{
+	"id": 1002,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Make-A-Wish grants the wish of a child diagnosed with a life-threatening medical condition in the United States and its territories.",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "MAKE A WISH FOUNDATION, INC.",
+	"website": "http://www.wish.org",
+	"slug": "make-a-wish-foundation-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/make-a-wish-foundation-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/make-a-wish-foundation-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Dwilliams@wish.org",
+		"id": 1002,
+		"name": "David Williams",
+		"title": "President & CEO",
+		"phones": [{
+			"id": 1002,
+			"department": null,
+			"extension": null,
+			"number": "602-279-9474",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "nwedderburn@sflawish.org",
+		"id": 1003,
+		"name": "Norman Wedderburn",
+		"title": "President/CEO",
+		"phones": [{
+			"id": 1003,
+			"department": null,
+			"extension": null,
+			"number": "239-922-9474",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "arosa@sflawish.org",
+		"id": 5060,
+		"name": "Andrea Rosa",
+		"title": "Wish Coordinator",
+		"phones": [{
+			"id": 5060,
+			"department": null,
+			"extension": null,
+			"number": "954-967-9474",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 1002,
+		"department": null,
+		"extension": null,
+		"number": "602-279-9474",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 1003,
+		"department": null,
+		"extension": null,
+		"number": "239-922-9474",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 5060,
+		"department": null,
+		"extension": null,
+		"number": "954-967-9474",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

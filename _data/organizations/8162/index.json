@@ -1,0 +1,84 @@
+{
+	"id": 8162,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "The mission of SHAL is to provide shelter, case management and associated services for homeless people in support of their efforts to become self-sufficient. SHAL operates emergency adult homeless services programs for the City of Key West. SHAL provides community education where staff and board members work with local groups and leaders to better understand homeless issues in our community.\n\n###MON###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "SOUTHERNMOST HOMELESS ASSISTANCE LEAGUE, INC.",
+	"website": null,
+	"slug": "southernmost-homeless-assistance-league-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/southernmost-homeless-assistance-league-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/southernmost-homeless-assistance-league-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "ExDir.SHAL@gmail.com",
+		"id": 8162,
+		"name": "John Miller",
+		"title": "Executive Director",
+		"phones": [{
+			"id": 8162,
+			"department": null,
+			"extension": null,
+			"number": "502-876-5092",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kdawg68@gmail.com",
+		"id": 8163,
+		"name": "Mike Tolbert",
+		"title": "Shelter Director",
+		"phones": [{
+			"id": 8163,
+			"department": null,
+			"extension": null,
+			"number": "305-292-2744",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	},
+	{
+		"department": null,
+		"email": "kotsoutreach@yahoo.com",
+		"id": 8164,
+		"name": "Elicia Pintabona",
+		"title": "Outreach Director",
+		"phones": [{
+			"id": 8164,
+			"department": null,
+			"extension": null,
+			"number": "502-876-5092",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 8162,
+		"department": null,
+		"extension": null,
+		"number": "502-876-5092",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8163,
+		"department": null,
+		"extension": null,
+		"number": "305-292-2744",
+		"number_type": "voice",
+		"vanity_number": null
+	},
+	{
+		"id": 8164,
+		"department": null,
+		"extension": null,
+		"number": "502-876-5092",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 6456,
+	"accreditations": [],
+	"alternate_name": null,
+	"date_incorporated": null,
+	"description": "Blind Sailing Unlimited provides sailing opportunities for people who are blind and visually impaired. Introduction to sailing provides participants the opportunity to learn how to sail. \n\n###COL###",
+	"email": null,
+	"funding_sources": [],
+	"licenses": [],
+	"name": "BLIND SAILING UNLIMITED, INC.",
+	"website": "http://www.blindsailingunlimited.org",
+	"slug": "blind-sailing-unlimited-inc",
+	"url": "https://miamiopen211-api.herokuapp.com/api/organizations/blind-sailing-unlimited-inc",
+	"locations_url": "https://miamiopen211-api.herokuapp.com/api/organizations/blind-sailing-unlimited-inc/locations",
+	"contacts": [{
+		"department": null,
+		"email": "Kris@blindsailingunlimited.org",
+		"id": 6456,
+		"name": "Kris Scheppe",
+		"title": "Chairman",
+		"phones": [{
+			"id": 6456,
+			"department": null,
+			"extension": null,
+			"number": "239-206-3451",
+			"number_type": "voice",
+			"vanity_number": null
+		}]
+	}],
+	"phones": [{
+		"id": 6456,
+		"department": null,
+		"extension": null,
+		"number": "239-206-3451",
+		"number_type": "voice",
+		"vanity_number": null
+	}]
+}
