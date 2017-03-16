@@ -10,8 +10,30 @@ td {
 {% assign show = 0 %}
 {% for organization in site.data.organizations %}
   {% if organization.id == id and show == 0 %}
+
     <h1>{{ organization.name | capitalize }}</h1>
     <p>{{ organization.description | replace: '\n', '<br />' }}</p>
+    <p><strong>Website:</strong> {{ organization.website }}</p>
+
+    <div class="row">
+      <div class="col-lg-4">
+        <h4>Contacts</h4>
+        <ul>
+        {% for contact in organization.contacts %}
+          <li>{{ contact.name }} ({{ contact.title }}) - {{ contact.email }}</li>
+        {% endfor %}
+        </ul>
+      </div>
+      <div class="col-lg-4">
+        <h4>Phones</h4>
+        <ul>
+        {% for phone in organization.phones %}
+          <li>{{ phone.number }} ({{ phone.number_type }})</li>
+        {% endfor %}
+        </ul>
+     </div>
+    </div>
+
     {% assign show = 1 %}
   {% endif %}
 {% endfor %}
