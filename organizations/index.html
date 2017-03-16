@@ -10,7 +10,7 @@ td
 <h1>Organizations</h1>
 <p>This is a listing of organizations in <a href="https://github.com/adopta-agency/open-referral-jekyll/tree/master/_data">the JSON file stored in the _data/organizations folder for this Github repository</a>.</p>
 <table width="100%" style="margin-bottom:5px;" border="1" cellpadding="3" cellspacing="2">
-{% for organization in site.data.organizations.index limit:250 %}
+{% for organization in site.data.organizations %}
   <tr>
     <td>{{ organization.name }}</td>
     <td>{{ organization.description }}</td>
