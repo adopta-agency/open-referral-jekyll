@@ -1,6 +1,3 @@
----
-layout: page
----
 <style>
 td
   {
@@ -11,6 +8,7 @@ td {
 }
 </style>
 {% for organization in site.data.organizations %}
+  {{ organization.id }} == {{ id }}<br />
   {% if organization.id == id %}
     <h1>{{ organization.name | capitalize }}</h1>
     <p>{{ organization.description | replace: '\n', '<br />' }}</p>
