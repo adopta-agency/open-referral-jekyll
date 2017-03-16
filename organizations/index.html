@@ -6,14 +6,17 @@ td
   {
   padding:2px;
   }
+td {
+  font-size: 11px;
+}
 </style>
 <h1>Organizations</h1>
 <p>This is a listing of organizations in <a href="https://github.com/adopta-agency/open-referral-jekyll/tree/master/_data">the JSON file stored in the _data/organizations folder for this Github repository</a>.</p>
 <table width="100%" style="margin-bottom:5px;" border="0" cellpadding="3" cellspacing="2">
 {% for organization in site.data.organizations %}
   <tr>
-    <td>{{ organization.name | capitalize }}</td>
-    <td>{{ organization.description }}</td>
+    <td valign="top"><strong>{{ organization.name | capitalize }}</strong></td>
+    <td>{{ organization.description | replace: '\n', '<br />' }}</td>
     <td>{{ organization.website }}</td>
   </tr>
 {% endfor %}
