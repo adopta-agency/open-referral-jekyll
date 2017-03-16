@@ -11,8 +11,8 @@ layout: page
     <table width="100%" style="margin-bottom:10px;" border="0" cellpadding="3" cellspacing="2">
     {% for organization in site.data.organizations limit:5 %}
       <tr>
-        <td>{{ organization.name }}</td>
-        <td>{{ organization.url }}</td>
+        <td>{{ organization.name | capitalize }}</td>
+        <td width="10%" align="center"><a href="{{ organization.website }}" target="_blank">Website</a></td>
       </tr>
     {% endfor %}
     </table>
