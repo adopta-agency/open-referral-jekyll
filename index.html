@@ -5,30 +5,5 @@ layout: page
 <h1>Jekyll Open Referral</h1>
 <p>This is my working prototype for a human services website and API that runs on Github. My goal is to create a data store, website, and API that can be forked and operated by anyone looking to deploy a website.</p>
 <p>These organizations and locations are pulled from <a href="https://github.com/adopta-agency/open-referral-jekyll/tree/master/_data" target="_blank">the JSON files stored in the _data folder for this Github Pages driven, Jekyll website</a>.
-<div class="row">
-  <div class="col-md-6">
-    <h3>Organizations - (<a href="/api/organizations/">API</a>)</h3>
-    <table width="100%" style="margin-bottom:10px;" border="0" cellpadding="3" cellspacing="2">
-    {% for organization in site.data.organizations limit:5 %}
-      <tr>
-        <td>{{ organization.name | capitalize }}</td>
-        <td width="10%" align="center"><a href="{{ organization.website }}" target="_blank">Website</a></td>
-      </tr>
-    {% endfor %}
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3>Locations - (<a href="/api/locations/">API</a>)</h3>
-    <table width="100%" style="margin-bottom:10px;" border="0" cellpadding="3" cellspacing="2">
-    {% for location in site.data.locations limit:5 %}
-      <tr>
-        <td>{{ location.name }}</td>
-        <td>{{ location.url }}</td>
-      </tr>
-    {% endfor %}
-    </table>
-  </div>
-</div>
-<br />
 <p>The goal is to create a website that is free to launch, meeting the human needs of the human services data, while also providing in a machine readable way that anyone can use in other web, mobile, and system to system integrations.</p>
 <p>I am just getting going with this project and will be publishing the story, and all the data here in the Github repository -- <a href="https://github.com/adopta-agency/open-referral-jekyll/issues" target="_blank">you can also use the Github issues for any comments or feedback</a>.</a>
