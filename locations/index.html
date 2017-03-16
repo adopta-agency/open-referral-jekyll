@@ -12,7 +12,7 @@ td {
 </style>
 <h1>Locations</h1>
 <p>This is a listing of locations stored in <a href="https://github.com/adopta-agency/open-referral-jekyll/tree/master/_data">the JSON file stored in the _data/locations folder for this Github repository</a>.</p>
-<table width="100%" style="margin-bottom:5px;" border="1" cellpadding="3" cellspacing="2">
+<table width="100%" style="margin-bottom:5px;" border="0" cellpadding="3" cellspacing="2">
 {% for location in site.data.locations %}
   <tr>
     <td>{{ location.organization.name | capitalize }}</td>

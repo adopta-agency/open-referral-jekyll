@@ -1,0 +1,18 @@
+---
+layout: page
+---
+<style>
+td
+  {
+  padding:2px;
+  }
+td {
+  font-size: 12px;
+}
+</style>
+{% for organization in site.data.organizations %}
+  {% if organization.id == id %}
+    <h1>{{ organization.name | capitalize }}</h1>
+    <p>{{ organization.description | replace: '\n', '<br />' }}</p>
+  {% endif %}
+{% endfor %}
