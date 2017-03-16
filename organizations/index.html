@@ -15,9 +15,9 @@ td {
 <table width="100%" style="margin-bottom:5px;" border="1" cellpadding="3" cellspacing="2">
 {% for organization in site.data.organizations %}
   <tr>
-    <td valign="top" width="35%"><strong>{{ organization.name | capitalize }}</strong></td>
+    <td valign="top" width="30%"><strong>{{ organization.name | capitalize }}</strong></td>
     <td>{{ organization.description | replace: '\n', '<br />' }}</td>
-    <td width="25%"><a href="{{ organization.website }}" target="_blank">{{ organization.website }}</a></td>
+    <td width="10%"><a href="{{ organization.website }}" target="_blank">Website</a></td>
   </tr>
 {% endfor %}
 </table>
