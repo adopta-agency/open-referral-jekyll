@@ -12,9 +12,11 @@ td
 <table width="100%" style="margin-bottom:5px;" border="1" cellpadding="3" cellspacing="2">
 {% for location in site.data.locations %}
   <tr>
-    <td>{{ location.name }}</td>
-    <td>{{ location.description }}</td>
-    <td>{{ location.url }}</td>
+    <td>{{ location.organization.name | capitalize }}</td>
+    <td>{{ location.address.address_1 }}</td>
+    <td>{{ location.address.city }}</td>
+    <td>{{ location.address.state_province }}</td>
+    <td>{{ location.address.postal_code }}</td>
   </tr>
 {% endfor %}
 </table>
